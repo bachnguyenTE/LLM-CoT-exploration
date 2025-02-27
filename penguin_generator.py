@@ -7,7 +7,12 @@ import sys
 
 from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig
 import numpy as np
+import gc
 import os
+import warnings
+warnings.filterwarnings('ignore')  # Suppress all other warnings
+os.environ['TRANSFORMERS_VERBOSITY'] = 'error'  # Suppress transformer warnings
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Generate penguin responses with specified index range')
@@ -39,7 +44,10 @@ if __name__ == "__main__":
             add_generation_prompt=True,
             return_tensors="pt",
         ).to("mps")
-        outputs = model.generate(input_ids=inputs, max_new_tokens=1200, temperature=args.temperature)
+
+        outputs = None
+        with torch.no_grad():
+            outputs = model.generate(input_ids=inputs, max_new_tokens=1200, temperature=args.temperature)
         decoded_text = tokenizer.decode(outputs[0])
         
         # Save raw outputs
@@ -48,3 +56,10 @@ if __name__ == "__main__":
         # Save decoded text
         with open(f'outputs/penguin/decoded_text/text_{i}_temp{temp_str}.txt', 'w') as f:
             f.write(decoded_text)
+
+        # Clear memory
+        del outputs
+        del inputs
+        del decoded_text
+        torch.mps.empty_cache()
+        gc.collect()
