@@ -43,7 +43,14 @@ for ((i=0; i<num_subdivisions; i++)); do
         continue
     fi
     
+    echo "Starting process $((i+1)) of $num_subdivisions (range: $subdivision_start to $subdivision_end)"
     python penguin_generator.py --start $subdivision_start --end $subdivision_end --temperature $temperature &
+    
+    # Wait for 60 seconds before launching the next process, except for the last one
+    if [ $((i + 1)) -lt $num_subdivisions ]; then
+        echo "Waiting 60 seconds before launching next process..."
+        sleep 60
+    fi
 done
 
 wait
