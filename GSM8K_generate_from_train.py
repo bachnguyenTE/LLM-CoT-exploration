@@ -21,6 +21,15 @@ def find_numbers(x: str) -> list[str]:
 
 def find_number(x: str, answer_delimiter: str = 'The answer is') -> str:
     """Finds the most relevant number in a string."""
+    # If model uses boxed format, extract the number from \boxed{ANSWER}
+    boxed_match = re.search(r'\\boxed\{([^}]+)\}', x)
+    if boxed_match:
+        boxed_content = boxed_match.group(1)
+        numbers = find_numbers(boxed_content)
+        if numbers:
+            return numbers[0]
+        return boxed_content  # Return the content even if it's not a number
+        
     # If model uses the answer delimiter, then select the first number following
     # that format.
     if answer_delimiter in x:
@@ -34,6 +43,7 @@ def find_number(x: str, answer_delimiter: str = 'The answer is') -> str:
     if numbers:
         return numbers[-1]
     return ''
+
 
 def maybe_remove_comma(x: str) -> str:
     # Example: 5,600 -> 5600
