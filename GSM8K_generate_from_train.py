@@ -56,9 +56,12 @@ if __name__ == "__main__":
     
     args = parser.parse_args()
     
+    # Create a process identifier for logging purposes
+    process_id = f"Process[{args.start}-{args.end}]"
+    
     # Set device to MPS (Metal Performance Shaders) for Mac with Apple Silicon, or CUDA/CPU as fallback
     device = torch.device("mps" if torch.backends.mps.is_available() else "cuda" if torch.cuda.is_available() else "cpu")
-    print(f"Using device: {device}")
+    print(f"{process_id} Using device: {device}")
     
     # Load model
     model_name = "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
@@ -85,7 +88,7 @@ A:"""
     
     # Process the specified range of examples
     for task_id in range(args.start, min(args.end, len(gsm8k_train))):
-        print(f"Processing task_id {task_id} ({processed+1}/{args.end-args.start})")
+        print(f"{process_id} Processing task_id {task_id} ({processed+1}/{args.end-args.start})")
         
         problem = gsm8k_train[task_id]
         
@@ -108,7 +111,7 @@ A:"""
                 inputs["input_ids"],
                 attention_mask=inputs["attention_mask"],
                 pad_token_id=tokenizer.eos_token_id,
-                max_new_tokens=1024,
+                max_new_tokens=2048,
                 do_sample=False,
                 temperature=None,
                 top_p=None
@@ -129,15 +132,15 @@ A:"""
         
         # Save decoded text
         with open(f'outputs/gsm8k_train/decoded_text/text_{task_id}.txt', 'w') as f:
-            f.write(response_text)
+            f.write(full_response)
         
         # Extract short answer and check if correct
         short_response = maybe_remove_comma(find_number(response_text))
-        print(f"Short answer: {short_response}")
+        print(f"{process_id} Short answer: {short_response}")
         
         # Get ground truth
         ground_truth = maybe_remove_comma(find_number(problem['answer']))
-        print(f"Ground truth: {ground_truth}")
+        print(f"{process_id} Ground truth: {ground_truth}")
         
         # Check correctness
         try:
@@ -148,8 +151,8 @@ A:"""
         if is_correct:
             correct += 1
         
-        print(f"Correct: {is_correct}")
-        print(f"Running accuracy: {correct}/{processed+1} ({(correct/(processed+1))*100:.2f}%)")
+        print(f"{process_id} Correct: {is_correct}")
+        print(f"{process_id} Running accuracy: {correct}/{processed+1} ({(correct/(processed+1))*100:.2f}%)")
         print("-" * 40)
         
         processed += 1
@@ -163,4 +166,4 @@ A:"""
         gc.collect()
     
     # Final report
-    print(f"Final accuracy: {correct}/{processed} ({(correct/processed)*100:.2f}%)") 
+    print(f"{process_id} Final accuracy: {correct}/{processed} ({(correct/processed)*100:.2f}%)") 
