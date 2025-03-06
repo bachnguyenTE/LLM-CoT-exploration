@@ -1,38 +1,31 @@
 #!/bin/bash
 
 # Check if correct number of arguments provided
-if [ "$#" -lt 4 ] || [ "$#" -gt 6 ]; then
-    echo "Usage: $0 <start> <end> <num_subdivisions> <temperature> [model_name] [output_folder]"
-    echo "Example: $0 0 40 10 0.6 \"deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B\" \"outputs_small\""
+if [ "$#" -lt 3 ] || [ "$#" -gt 5 ]; then
+    echo "Usage: $0 <start> <end> <num_subdivisions> [model_name] [output_folder]"
+    echo "Example: $0 0 1000 10 \"deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B\" \"outputs_small\""
     exit 1
 fi
 
 start=$1
 end=$2
 num_subdivisions=$3
-temperature=$4
 
 # Set default values for optional arguments
 model_name="deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
 output_folder="outputs"
 
 # Override with provided arguments if they exist
-if [ "$#" -ge 5 ]; then
-    model_name=$5
+if [ "$#" -ge 4 ]; then
+    model_name=$4
 fi
 
-if [ "$#" -ge 6 ]; then
-    output_folder=$6
+if [ "$#" -ge 5 ]; then
+    output_folder=$5
 fi
 
 echo "Using model: $model_name"
 echo "Output folder: $output_folder"
-
-# Validate temperature is a number between 0.1 and 1.0
-if ! [[ $temperature =~ ^[0-9]*\.?[0-9]+$ ]] || (( $(echo "$temperature < 0.1" | bc -l) )) || (( $(echo "$temperature > 1.0" | bc -l) )); then
-    echo "Error: temperature must be a number between 0.1 and 1.0"
-    exit 1
-fi
 
 # Validate num_subdivisions is a positive integer
 if ! [[ "$num_subdivisions" =~ ^[1-9][0-9]*$ ]]; then
@@ -60,7 +53,9 @@ for ((i=0; i<num_subdivisions; i++)); do
     fi
     
     echo "Starting process $((i+1)) of $num_subdivisions (range: $subdivision_start to $subdivision_end)"
-    python penguin_generator.py --start $subdivision_start --end $subdivision_end --temperature $temperature --model_name "$model_name" --output_folder "$output_folder" &
+    
+    # Run the command in background
+    python intervention_GSM8K_generate_from_test.py --start $subdivision_start --end $subdivision_end --model_name "$model_name" --output_folder "$output_folder" &
     
     # Wait for 60 seconds before launching the next process, except for the last one
     if [ $((i + 1)) -lt $num_subdivisions ]; then
@@ -69,4 +64,7 @@ for ((i=0; i<num_subdivisions; i++)); do
     fi
 done
 
+# Wait for all processes to complete
+echo "Waiting for all processes to complete..."
 wait
+echo "All processes completed!" 

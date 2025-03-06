@@ -640,6 +640,7 @@ def main():
     parser.add_argument('--features_only', action='store_true', help='Only run feature analysis without token analysis')
     parser.add_argument('--input_folder', type=str, default="outputs/penguin/raw_outputs", help='Input folder containing penguin .pt files')
     parser.add_argument('--output_folder', type=str, default="outputs/analysis", help='Output folder for analysis results')
+    parser.add_argument('--model_name', type=str, default="deepseek-ai/DeepSeek-R1-Distill-Llama-8B", help='Model name or path to use')
     args = parser.parse_args()
     
     print("Loading model and SAE...")
@@ -652,7 +653,8 @@ def main():
         repo_type="model"
     )
 
-    model_name = "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
+    model_name = args.model_name
+    print(f"Loading model: {model_name}")
     model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype="bfloat16", device_map="auto")
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 

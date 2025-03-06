@@ -53,6 +53,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Generate GSM8K responses from the testing set')
     parser.add_argument('--start', type=int, required=True, help='Starting index for generation')
     parser.add_argument('--end', type=int, required=True, help='Ending index for generation')
+    parser.add_argument('--model_name', type=str, default="deepseek-ai/DeepSeek-R1-Distill-Llama-8B", 
+                        help='Model name or path to use for generation')
+    parser.add_argument('--output_folder', type=str, default="outputs", 
+                        help='Output folder for storing results')
     
     args = parser.parse_args()
     
@@ -64,7 +68,8 @@ if __name__ == "__main__":
     print(f"{process_id} Using device: {device}")
     
     # Load model
-    model_name = "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
+    model_name = args.model_name
+    print(f"{process_id} Loading model: {model_name}")
     model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype="bfloat16", device_map="auto")
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     
@@ -73,9 +78,11 @@ if __name__ == "__main__":
     gsm8k_test = gsm8k['test']
     
     # Create output directories if they don't exist
-    os.makedirs('outputs/gsm8k_test', exist_ok=True)
-    os.makedirs('outputs/gsm8k_test/raw_outputs', exist_ok=True)
-    os.makedirs('outputs/gsm8k_test/decoded_text', exist_ok=True)
+    output_base_dir = args.output_folder
+    output_dir = f'{output_base_dir}/gsm8k_test'
+    os.makedirs(output_dir, exist_ok=True)
+    os.makedirs(f'{output_dir}/raw_outputs', exist_ok=True)
+    os.makedirs(f'{output_dir}/decoded_text', exist_ok=True)
     
     # Template for prompts
     TEMPLATE = """
@@ -128,10 +135,10 @@ A:"""
             response_text = full_response
         
         # Save raw outputs
-        torch.save(outputs, f'outputs/gsm8k_test/raw_outputs/output_{task_id}.pt')
+        torch.save(outputs, f'{output_dir}/raw_outputs/output_{task_id}.pt')
         
         # Save decoded text
-        with open(f'outputs/gsm8k_test/decoded_text/text_{task_id}.txt', 'w') as f:
+        with open(f'{output_dir}/decoded_text/text_{task_id}.txt', 'w') as f:
             f.write(full_response)
         
         # Extract short answer and check if correct

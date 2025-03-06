@@ -1,3 +1,71 @@
+# LLM Chain-of-Thought Exploration
+
+This repository contains tools and experiments for exploring Large Language Model chain-of-thought reasoning.
+
+## Repository Structure
+
+- **activation_extraction/**: Package for extracting and analyzing model activations
+- **outputs_small/**: Raw model outputs for various datasets and tasks
+- **activations/**: Extracted model activations organized by model and dataset
+- **viz_output/**: Visualizations of model activations
+
+## Activation Extraction Tools
+
+The `activation_extraction` package provides a comprehensive set of tools for extracting, analyzing, and visualizing model activations. This is useful for research into model interpretability, understanding attention patterns, and analyzing hidden state representations.
+
+### Key Features
+
+- Extract attention activations, hidden states, and logits from transformer models
+- Process single files or batch directories
+- Verify activation file integrity
+- Visualize attention patterns, hidden state PCA projections, and token predictions
+
+### How to Use
+
+```bash
+# Run activation extraction
+./run_activations.py --model "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B" \
+                    --input_dir "outputs_small/gsm8k_test/raw_outputs" \
+                    --dataset "gsm8k_test" \
+                    --num_files 5
+
+# Analyze activations programmatically
+./use_activations.py
+```
+
+For more details, see the [Activation Extraction README](activation_extraction/README.md).
+
+## Penguin Classification Analysis
+
+This repository also contains tools to analyze the responses from a language model answering the question "Can penguins fly?". The correct answer is "NO."
+
+### Penguin Analysis Scripts
+
+- **penguin_generator.py**: Generates model responses to the question
+- **parse_penguin_results.py**: Analyzes outputs and counts correct answers
+- **visualize_results.py**: Creates visualizations of the classification results
+- **run_analysis.py**: Combines parsing and visualization steps
+- **reindex_files.py**: Reindexes files to have sequential indices
+
+## Requirements
+
+The main dependencies are:
+
+```
+torch
+transformers
+matplotlib
+seaborn
+scikit-learn
+tqdm
+```
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+
 # LLM-CoT-exploration
  
 # Penguin Classification Analysis
@@ -125,14 +193,6 @@ python reindex_files.py --no-group-by-temp
 │   └── visualizations/           # Generated visualizations
 └── README.md                     # This file
 ```
-
-## Requirements
-
-- Python 3.6+
-- PyTorch
-- transformers
-- matplotlib
-- numpy
 
 ## How It Works
 

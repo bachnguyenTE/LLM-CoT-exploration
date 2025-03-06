@@ -161,3 +161,6 @@ cython_debug/
 
 # Model tensor and text outputs
 outputs/
+outputs_small/
+activations/
+viz_output/

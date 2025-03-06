@@ -38,9 +38,9 @@ if __name__ == "__main__":
 
     # Create output directories if they don't exist
     output_base_dir = args.output_folder
-    os.makedirs(f'{output_base_dir}/penguin', exist_ok=True)
-    os.makedirs(f'{output_base_dir}/penguin/raw_outputs', exist_ok=True)
-    os.makedirs(f'{output_base_dir}/penguin/decoded_text', exist_ok=True)
+    os.makedirs(f'{output_base_dir}/unthink_penguin', exist_ok=True)
+    os.makedirs(f'{output_base_dir}/unthink_penguin/raw_outputs', exist_ok=True)
+    os.makedirs(f'{output_base_dir}/unthink_penguin/decoded_text', exist_ok=True)
 
     # Convert temperature to string with underscore instead of decimal
     temp_str = str(args.temperature).replace('.', '_')
@@ -54,16 +54,20 @@ if __name__ == "__main__":
             return_tensors="pt",
         ).to("mps")
 
+        # End CoT prematurely
+        think_end = torch.tensor(tokenizer.convert_tokens_to_ids('</think>')).reshape(1,1).to("mps")
+        inputs = torch.cat((inputs, think_end), dim=-1)
+
         outputs = None
         with torch.no_grad():
             outputs = model.generate(input_ids=inputs, max_new_tokens=1200, temperature=args.temperature)
         decoded_text = tokenizer.decode(outputs[0])
         
         # Save raw outputs
-        torch.save(outputs, f'{output_base_dir}/penguin/raw_outputs/output_{i}_temp{temp_str}.pt')
+        torch.save(outputs, f'{output_base_dir}/unthink_penguin/raw_outputs/output_{i}_temp{temp_str}.pt')
         
         # Save decoded text
-        with open(f'{output_base_dir}/penguin/decoded_text/text_{i}_temp{temp_str}.txt', 'w') as f:
+        with open(f'{output_base_dir}/unthink_penguin/decoded_text/text_{i}_temp{temp_str}.txt', 'w') as f:
             f.write(decoded_text)
 
         # Clear memory
