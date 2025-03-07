@@ -106,13 +106,14 @@ if __name__ == "__main__":
     temp_str = str(args.temperature).replace('.', '_')
 
     for i in range(args.start, args.end):
-        prompt = "Can penguins fly? Segment the thinking process into clear steps and indicate \"YES\" or \"NO\" once at the end."
+        prompt = "Can penguins fly? Segment the thinking process into clear steps and indicate \"YES\" or \"NO\" once at the end ."
         
         print(f"{process_id} Processing example {i}")
         inputs = tokenizer.apply_chat_template(
             [
                 {"role": "user", "content": prompt},
             ],
+            add_generation_prompt=True,
             return_tensors="pt"
         ).to(model.device)
 
@@ -130,15 +131,13 @@ if __name__ == "__main__":
             )
         
         # Process the output
-        raw_output = tokenizer.decode(outputs[0], skip_special_tokens=False)
-        decoded_text = tokenizer.decode(outputs[0][inputs.shape[1]:], skip_special_tokens=True)
+        decoded_text = tokenizer.decode(outputs[0])
         
         # Save the outputs
-        raw_output_file = f"{output_base_dir}/penguin_intervention/raw_outputs/example_{i}_temp_{temp_str}.txt"
-        decoded_file = f"{output_base_dir}/penguin_intervention/decoded_text/example_{i}_temp_{temp_str}.txt"
+        raw_output_file = f"{output_base_dir}/penguin_intervention/raw_outputs/output_{i}_temp{temp_str}.pt"
+        decoded_file = f"{output_base_dir}/penguin_intervention/decoded_text/text_{i}_temp{temp_str}.txt"
         
-        with open(raw_output_file, "w") as f:
-            f.write(raw_output)
+        torch.save(outputs, raw_output_file)
         
         with open(decoded_file, "w") as f:
             f.write(decoded_text)
