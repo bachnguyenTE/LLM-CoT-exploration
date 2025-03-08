@@ -1,217 +1,232 @@
 import os
 import re
 import numpy as np
+import json
 from datasets import load_dataset
 import argparse
 
 def find_numbers(x: str) -> list[str]:
-    """Finds all numbers in a string."""
-    numbers = re.compile(r'-?[\d,]*\.?\d+').findall(x)
-    return numbers
+    return re.compile(r'-?[\d,]*\.?\d+').findall(x)
 
 def find_number(x: str, answer_delimiter: str = 'The answer is') -> str:
-    """
-    Extracts number using the same method as GSM8K_generate_from_test.py.
-    First looks for text after "The answer is" if present,
-    otherwise uses the last number in the text.
-    """
-    # If model uses the answer delimiter, then select the first number following
-    # that format.
     if answer_delimiter in x:
-        answer = x.split(answer_delimiter)[-1]
-        numbers = find_numbers(answer)
-        if numbers:
-            return numbers[0]
-
-    # In general, select the last number in the string.
-    numbers = find_numbers(x)
-    if numbers:
-        return numbers[-1]
+        after = x.split(answer_delimiter, 1)[-1]
+        nums = find_numbers(after)
+        if nums:
+            return nums[0]
+    nums = find_numbers(x)
+    if nums:
+        return nums[-1]
     return ''
-
-def find_number_outside_think(x: str) -> str:
-    """
-    Finds the most relevant number in a string outside of <think> tags.
-    Uses boxed format if available, otherwise uses find_number approach.
-    """
-    # Remove text within <think>...</think>
-    outside_think = re.sub(r'<think>.*?</think>', '', x, flags=re.DOTALL)
-    
-    # Check for \boxed{} outside of <think> tags
-    boxed_match = re.search(r'\\boxed\{([^}]+)\}', outside_think)
-    if boxed_match:
-        boxed_content = boxed_match.group(1)
-        numbers = find_numbers(boxed_content)
-        if numbers:
-            return numbers[0]
-        return boxed_content
-
-    # If no boxed answer, use the standard find_number approach
-    return find_number(outside_think)
 
 def maybe_remove_comma(x: str) -> str:
     return x.replace(',', '')
 
 def extract_question(text: str) -> str:
-    """Extract the question from a model response."""
-    # Look for the format: 
-    match = re.search(r'Q:\s*(.*?)(?=\n\n|$)', text, re.DOTALL)
+    match = re.search(r'Q:\s*(.*?)(?=<|$)', text, flags=re.DOTALL)
     if match:
         return match.group(1).strip()
-    
+    match = re.search(r'Q:\s*(.*?)(?=\n\n|$)', text, flags=re.DOTALL)
+    if match:
+        return match.group(1).strip()
     return ""
 
-def load_responses(directory):
+def load_responses(directory: str) -> dict[int, str]:
     responses = {}
-    for filename in os.listdir(directory):
-        if filename.endswith('.txt'):
-            task_id = int(filename.split('_')[-1].split('.')[0])
-            with open(os.path.join(directory, filename), 'r') as f:
-                responses[task_id] = f.read()
+    if not os.path.isdir(directory):
+        return responses
+    for fname in os.listdir(directory):
+        if fname.endswith('.txt'):
+            try:
+                tid_str = fname.split('_')[-1].split('.')[0]
+                tid = int(tid_str)
+            except ValueError:
+                continue
+            fullpath = os.path.join(directory, fname)
+            with open(fullpath, 'r', encoding='utf-8') as f:
+                responses[tid] = f.read()
     return responses
 
 def count_think_words(response: str) -> int:
     """
-    Counts the number of words between the first <think> and the last </think> in the response.
-    If either tag is missing or malformed, returns 0.
+    Count how many whitespace-delimited words appear between <think> and </think>.
+    If no properly formed block, returns 0.
     """
     start = response.find('<think>')
     end = response.rfind('</think>')
     if start == -1 or end == -1 or end < start:
         return 0
-    # Extract text between the first <think> and the last </think>
-    content = response[start + len('<think>'):end]
+    content = response[start+len('<think>'): end]
     return len(content.split())
 
-def create_question_mapping(gsm8k_data, response_dir):
-    """Create a mapping between response file IDs and GSM8K dataset indices."""
+def create_question_mapping(gsm8k_data, response_dir: str) -> tuple[dict[int,int], list[int]]:
     responses = load_responses(response_dir)
     
-    # Build a simple question-to-index mapping from GSM8K data
-    gsm8k_question_to_idx = {}
+    question_to_idx = {}
     for i, item in enumerate(gsm8k_data):
-        # Get first 100 chars of question for matching
-        question_start = item['question'][:100].lower().strip()
-        gsm8k_question_to_idx[question_start] = i
-        
-    # Create mapping from response IDs to GSM8K indices
+        shortq = item['question'][:100].lower().strip()
+        question_to_idx[shortq] = i
+    
     id_mapping = {}
     not_found = []
     
-    for resp_id, response_text in responses.items():
-        question = extract_question(response_text)
-        if not question:
+    for resp_id, resp_text in responses.items():
+        q = extract_question(resp_text)
+        if not q:
             continue
-            
-        # Get first 100 chars for matching
-        question_start = question[:100].lower().strip()
+        shortq = q[:100].lower().strip()
         
-        # Look for a match in the GSM8K dataset
         found = False
-        for gsm_question_start, gsm_idx in gsm8k_question_to_idx.items():
-            if question_start in gsm_question_start or gsm_question_start in question_start:
+        for gsm_short, gsm_idx in question_to_idx.items():
+            if shortq in gsm_short or gsm_short in shortq:
                 id_mapping[resp_id] = gsm_idx
                 found = True
                 break
-                
         if not found:
             not_found.append(resp_id)
-            
+    
     return id_mapping, not_found
 
-def compare_responses(normal_dir, unthink_dir, gsm8k_data, id_mapping, max_questions=None):
-    normal_responses = load_responses(normal_dir)
-    unthink_responses = load_responses(unthink_dir)
+def save_mapping_to_file(id_mapping: dict[int,int], filename: str) -> None:
+    as_strings = {str(k): v for k, v in id_mapping.items()}
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(as_strings, f)
 
+def load_mapping_from_file(filename: str) -> dict[int,int]:
+    with open(filename, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    return {int(k): v for k, v in data.items()}
+
+def compare_responses(
+    normal_dir: str,
+    unthink_dir: str,
+    gsm8k_data,
+    id_mapping: dict[int,int],
+    max_questions: int = None
+):
+    """
+    Compare normal vs unthink. 
+    We skip unthink responses whose <think> block has >5 words.
+    Returns:
+      ( normal_wrong_unthink_right,
+        unthink_wrong_normal_right,
+        normal_undefined_unthink_right,
+        unthink_undefined_normal_right,
+        both_undefined,
+        both_wrong_count,
+        both_right_count,
+        total_questions,
+        normal_boxed_wrong_findnum_right,
+        unthink_boxed_wrong_findnum_right,
+        normal_right_total,
+        unthink_right_total,
+        normal_undefined_ids,
+        unthink_undefined_ids,
+        normal_correct_ids,
+        unthink_correct_ids,
+        skipped_count
+      )
+    """
+    normal_resps = load_responses(normal_dir)
+    unthink_resps = load_responses(unthink_dir)
+    
     normal_wrong_unthink_right = []
     unthink_wrong_normal_right = []
     normal_undefined_unthink_right = []
     unthink_undefined_normal_right = []
     both_undefined = []
+    
     both_wrong_count = 0
     both_right_count = 0
     total_questions = 0
-    filtered_ids = []  # To keep track of questions excluded due to unthink's chain-of-thought length
+    skipped_count = 0
     
-    # For tracking standard vs. relaxed matching
-    normal_boxed_wrong_but_find_number_right = []
-    unthink_boxed_wrong_but_find_number_right = []
+    normal_boxed_wrong_findnum_right = []
+    unthink_boxed_wrong_findnum_right = []
     
-    # Use the same set of question IDs for which we have a mapping
-    question_ids = list(id_mapping.keys())
+    normal_right_total = 0
+    unthink_right_total = 0
     
-    # Limit the number of questions if specified
-    if max_questions and max_questions < len(question_ids):
-        question_ids = question_ids[:max_questions]
-
-    for resp_id in question_ids:
-        # Get the corresponding GSM8K index
-        gsm_idx = id_mapping[resp_id]
+    normal_undefined_ids = []
+    unthink_undefined_ids = []
+    normal_correct_ids = []
+    unthink_correct_ids = []
+    
+    qids = list(id_mapping.keys())
+    qids.sort()
+    if max_questions and max_questions < len(qids):
+        qids = qids[:max_questions]
+    
+    for resp_id in qids:
+        idx = id_mapping[resp_id]
+        ground_truth_text = gsm8k_data[idx]['answer']
         
-        # Get ground truth answer
-        ground_truth = gsm8k_data[gsm_idx]['answer']
-        
-        normal_response = normal_responses.get(resp_id, '')
-        unthink_response = unthink_responses.get(resp_id, '')
-        
-        # Skip if either response is missing
-        if not normal_response or not unthink_response:
+        normal_text = normal_resps.get(resp_id, '')
+        unthink_text = unthink_resps.get(resp_id, '')
+        if not normal_text or not unthink_text:
             continue
         
-        # Exclude question if there are more than 5 words in the chain-of-thought block of the unthink response.
-        if count_think_words(unthink_response) > 5:
-            filtered_ids.append(resp_id)
+        # Skip if unthink has >5 words in <think>
+        if count_think_words(unthink_text) > 5:
+            skipped_count += 1
             continue
-
+        
         total_questions += 1
-
-        # Check if the answer is undefined (no \boxed{} found outside <think> tags)
-        normal_undefined = '\\boxed{' not in re.sub(r'<think>.*?</think>', '', normal_response, flags=re.DOTALL)
-        unthink_undefined = '\\boxed{' not in re.sub(r'<think>.*?</think>', '', unthink_response, flags=re.DOTALL)
-
-        # Extract answers using the strict method (boxed preferred)
-        normal_answer_strict = ''
+        
+        normal_outside = re.sub(r'<think>.*?</think>', '', normal_text, flags=re.DOTALL)
+        unthink_outside = re.sub(r'<think>.*?</think>', '', unthink_text, flags=re.DOTALL)
+        
+        normal_undefined = ('\\boxed{' not in normal_outside)
+        unthink_undefined = ('\\boxed{' not in unthink_outside)
+        
+        if normal_undefined:
+            normal_undefined_ids.append(resp_id)
+        if unthink_undefined:
+            unthink_undefined_ids.append(resp_id)
+        
+        normal_ans_relaxed = maybe_remove_comma(find_number(normal_outside))
+        unthink_ans_relaxed = maybe_remove_comma(find_number(unthink_outside))
+        ground_truth_answer = maybe_remove_comma(find_number(ground_truth_text))
+        
+        # Strict
+        normal_ans_strict = ''
         if not normal_undefined:
-            outside_think = re.sub(r'<think>.*?</think>', '', normal_response, flags=re.DOTALL)
-            boxed_match = re.search(r'\\boxed\{([^}]+)\}', outside_think)
-            if boxed_match:
-                boxed_content = boxed_match.group(1)
-                numbers = find_numbers(boxed_content)
-                if numbers:
-                    normal_answer_strict = maybe_remove_comma(numbers[0])
+            match_box = re.search(r'\\boxed\{([^}]+)\}', normal_outside)
+            if match_box:
+                raw_box = match_box.group(1)
+                nums = find_numbers(raw_box)
+                if nums:
+                    normal_ans_strict = maybe_remove_comma(nums[0])
                 else:
-                    normal_answer_strict = maybe_remove_comma(boxed_content)
+                    normal_ans_strict = maybe_remove_comma(raw_box)
         
-        unthink_answer_strict = ''
+        unthink_ans_strict = ''
         if not unthink_undefined:
-            outside_think = re.sub(r'<think>.*?</think>', '', unthink_response, flags=re.DOTALL)
-            boxed_match = re.search(r'\\boxed\{([^}]+)\}', outside_think)
-            if boxed_match:
-                boxed_content = boxed_match.group(1)
-                numbers = find_numbers(boxed_content)
-                if numbers:
-                    unthink_answer_strict = maybe_remove_comma(numbers[0])
+            match_box = re.search(r'\\boxed\{([^}]+)\}', unthink_outside)
+            if match_box:
+                raw_box = match_box.group(1)
+                nums = find_numbers(raw_box)
+                if nums:
+                    unthink_ans_strict = maybe_remove_comma(nums[0])
                 else:
-                    unthink_answer_strict = maybe_remove_comma(boxed_content)
+                    unthink_ans_strict = maybe_remove_comma(raw_box)
         
-        # Extract answers using the relaxed method (same as GSM8K_generate_from_test.py)
-        normal_answer_relaxed = maybe_remove_comma(find_number(re.sub(r'<think>.*?</think>', '', normal_response, flags=re.DOTALL)))
-        unthink_answer_relaxed = maybe_remove_comma(find_number(re.sub(r'<think>.*?</think>', '', unthink_response, flags=re.DOTALL)))
+        normal_correct = (normal_ans_relaxed == ground_truth_answer)
+        unthink_correct = (unthink_ans_relaxed == ground_truth_answer)
         
-        # Extract ground truth using the same relaxed method
-        ground_truth_answer = maybe_remove_comma(find_number(ground_truth))
+        if normal_correct:
+            normal_right_total += 1
+            normal_correct_ids.append(resp_id)
+        if unthink_correct:
+            unthink_right_total += 1
+            unthink_correct_ids.append(resp_id)
         
-        # Track cases where boxed is wrong but relaxed method is right
-        if normal_answer_strict and normal_answer_strict != ground_truth_answer and normal_answer_relaxed == ground_truth_answer:
-            normal_boxed_wrong_but_find_number_right.append(resp_id)
-            
-        if unthink_answer_strict and unthink_answer_strict != ground_truth_answer and unthink_answer_relaxed == ground_truth_answer:
-            unthink_boxed_wrong_but_find_number_right.append(resp_id)
+        if normal_ans_strict and (normal_ans_strict != ground_truth_answer) and normal_correct:
+            normal_boxed_wrong_findnum_right.append(resp_id)
+        if unthink_ans_strict and (unthink_ans_strict != ground_truth_answer) and unthink_correct:
+            unthink_boxed_wrong_findnum_right.append(resp_id)
         
-        # Use relaxed answers for all comparisons to match GSM8K_generate_from_test.py
-        normal_correct = normal_answer_relaxed == ground_truth_answer
-        unthink_correct = unthink_answer_relaxed == ground_truth_answer
-
+        # Category
         if normal_correct and unthink_correct:
             both_right_count += 1
         elif normal_undefined and unthink_undefined:
@@ -226,16 +241,29 @@ def compare_responses(normal_dir, unthink_dir, gsm8k_data, id_mapping, max_quest
             normal_wrong_unthink_right.append(resp_id)
         elif normal_correct and not unthink_correct:
             unthink_wrong_normal_right.append(resp_id)
-
-    return (normal_wrong_unthink_right, unthink_wrong_normal_right, 
-            normal_undefined_unthink_right, unthink_undefined_normal_right, 
-            both_undefined, both_wrong_count, both_right_count, total_questions, filtered_ids,
-            normal_boxed_wrong_but_find_number_right, unthink_boxed_wrong_but_find_number_right)
-
-def save_results_to_files(results, output_dir):
-    """Save results to text files and numpy arrays."""
-    os.makedirs(output_dir, exist_ok=True)
     
+    return (
+        normal_wrong_unthink_right,    # 0
+        unthink_wrong_normal_right,    # 1
+        normal_undefined_unthink_right,# 2
+        unthink_undefined_normal_right,# 3
+        both_undefined,                # 4
+        both_wrong_count,              # 5
+        both_right_count,              # 6
+        total_questions,               # 7
+        normal_boxed_wrong_findnum_right,  # 8
+        unthink_boxed_wrong_findnum_right, # 9
+        normal_right_total,            # 10
+        unthink_right_total,           # 11
+        normal_undefined_ids,          # 12
+        unthink_undefined_ids,         # 13
+        normal_correct_ids,            # 14
+        unthink_correct_ids,           # 15
+        skipped_count                  # 16
+    )
+
+def save_results_to_files(results, output_dir: str) -> None:
+    os.makedirs(output_dir, exist_ok=True)
     categories = [
         "normal_wrong_unthink_right",
         "unthink_wrong_normal_right",
@@ -243,132 +271,149 @@ def save_results_to_files(results, output_dir):
         "unthink_undefined_normal_right",
         "both_undefined"
     ]
-    
-    # Save each category to a text file
-    for category, data in zip(categories, results):
-        with open(os.path.join(output_dir, f"{category}.txt"), 'w') as f:
+    for cat, data in zip(categories, results[:5]):
+        fname = os.path.join(output_dir, f"{cat}.txt")
+        with open(fname, 'w', encoding='utf-8') as f:
             for item in data:
                 f.write(f"{item}\n")
     
-    # Save all categories as a single numpy dictionary
-    np_dict = {category: np.array(data) for category, data in zip(categories, results)}
-    np.save(os.path.join(output_dir, "results_dict.npy"), np_dict)
+    arr_dict = {cat: np.array(data) for cat, data in zip(categories, results[:5])}
+    np.save(os.path.join(output_dir, "results_dict.npy"), arr_dict)
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Compare answers for GSM8K dataset.")
-    parser.add_argument("--split", type=str, choices=["train", "test"], default="test",
-                        help="Dataset split to use: train or test (used only if normal_dir and unthink_dir not specified)")
-    parser.add_argument("--normal_dir", type=str, default=None,
-                        help="Directory containing normal responses (overrides split-based default)")
-    parser.add_argument("--unthink_dir", type=str, default=None,
-                        help="Directory containing unthink responses (overrides split-based default)")
-    parser.add_argument("--output_dir", type=str, default=None,
-                        help="Directory to save comparison results (defaults to meta_analysis directory in parent of normal_dir)")
-    parser.add_argument("--max_questions", type=int, default=None,
-                        help="Maximum number of questions to process (default: process all available questions)")
+def main():
+    parser = argparse.ArgumentParser(description="Compare normal vs unthink on GSM8K (with 5-word CoT filter).")
+    parser.add_argument("--split", choices=["train","test"], default="test")
+    parser.add_argument("--normal_dir", type=str, default=None)
+    parser.add_argument("--unthink_dir", type=str, default=None)
+    parser.add_argument("--output_dir", type=str, default=None)
+    parser.add_argument("--max_questions", type=int, default=None)
+    parser.add_argument("--mapping_file", type=str, default=None)
+    parser.add_argument("--save_mapping", action="store_true")
     args = parser.parse_args()
     
-    # Load GSM8K dataset
-    gsm8k = load_dataset("gsm8k", "main")
-    split = args.split
-    if split == "train":
-        gsm8k_split = gsm8k['train']
+    gsm8k = load_dataset("gsm8k","main")
+    if args.split == "train":
+        gsm8k_split = gsm8k["train"]
     else:
-        gsm8k_split = gsm8k['test']
+        gsm8k_split = gsm8k["test"]
     
-    # Set directories based on command line arguments or defaults based on split
-    if args.normal_dir and args.unthink_dir:
+    if not args.normal_dir or not args.unthink_dir:
+        if args.split == "train":
+            normal_dir = "outputs/gsm8k_train/decoded_text"
+            unthink_dir = "outputs/unthink_gsm8k_train/decoded_text"
+            out_dir = "outputs/meta_analysis/gsm8k_train"
+        else:
+            normal_dir = "outputs/gsm8k_test/decoded_text"
+            unthink_dir = "outputs/unthink_gsm8k_test/decoded_text"
+            out_dir = "outputs/meta_analysis/gsm8k_test"
+    else:
         normal_dir = args.normal_dir
         unthink_dir = args.unthink_dir
-        
-        # Determine output directory if not specified
-        if args.output_dir:
-            output_dir = args.output_dir
-        else:
-            # Determine parent directory of normal_dir and create meta_analysis subdirectory
-            parent_dir = os.path.dirname(os.path.abspath(normal_dir))
-            base_name = os.path.basename(os.path.normpath(unthink_dir))
-            output_dir = os.path.join(parent_dir, "meta_analysis", base_name)
-    else:
-        # Use default directories based on split
-        if split == "train":
-            normal_dir = 'outputs/gsm8k_train/decoded_text'
-            unthink_dir = 'outputs/unthink_gsm8k_train/decoded_text'
-            output_dir = 'outputs/meta_analysis/gsm8k_train'
-        else:
-            normal_dir = 'outputs/gsm8k_test/decoded_text'
-            unthink_dir = 'outputs/unthink_gsm8k_test/decoded_text'
-            output_dir = 'outputs/meta_analysis/gsm8k_test'
-
+        out_dir = args.output_dir if args.output_dir else "outputs/meta_analysis"
+    
     print(f"Comparing responses from:")
     print(f"  Normal directory: {normal_dir}")
     print(f"  Unthink directory: {unthink_dir}")
-    print(f"Saving results to: {output_dir}")
-    if args.max_questions:
-        print(f"Processing up to {args.max_questions} questions")
-        
-    # Create mapping between response IDs and GSM8K dataset indices
+    print(f"Saving results to: {out_dir}")
+    
     print("Creating mapping between response files and GSM8K dataset...")
-    id_mapping, not_found = create_question_mapping(gsm8k_split, normal_dir)
-    print(f"Found mappings for {len(id_mapping)} questions")
-    print(f"Could not find mappings for {len(not_found)} questions")
-
-    # Compare responses (only over questions where the unthink response has <= 5 words in its <think> block)
-    results = compare_responses(normal_dir, unthink_dir, gsm8k_split, id_mapping, args.max_questions)
-
-    # Output results
-    def print_results(description, count, total):
-        percentage = (count / total) * 100 if total > 0 else 0
-        print(f"{description}: {count} out of {total} ({percentage:.2f}%)")
-
-    # Use results[7] to access total_questions
-    total_questions = results[7]
-
+    if args.mapping_file and os.path.exists(args.mapping_file):
+        mapping = load_mapping_from_file(args.mapping_file)
+        print(f"Found mappings for {len(mapping)} questions")
+        print(f"Could not find mappings for 0 questions (pre-existing file).")
+    else:
+        mapping, not_found = create_question_mapping(gsm8k_split, normal_dir)
+        print(f"Found mappings for {len(mapping)} questions")
+        print(f"Could not find mappings for {len(not_found)} questions")
+        if args.mapping_file and args.save_mapping:
+            save_mapping_to_file(mapping, args.mapping_file)
+    
+    results = compare_responses(
+        normal_dir,
+        unthink_dir,
+        gsm8k_split,
+        mapping,
+        max_questions=args.max_questions
+    )
+    
+    (
+        normal_wrong_unthink_right,
+        unthink_wrong_normal_right,
+        normal_undefined_unthink_right,
+        unthink_undefined_normal_right,
+        both_undefined,
+        both_wrong_count,
+        both_right_count,
+        total_q,
+        normal_boxed_wrong_findnum_right,
+        unthink_boxed_wrong_findnum_right,
+        normal_right_total,
+        unthink_right_total,
+        normal_undefined_ids,
+        unthink_undefined_ids,
+        normal_correct_ids,
+        unthink_correct_ids,
+        skipped_count
+    ) = results
+    
+    def ratio(count, total_):
+        if total_ == 0:
+            return "0.00%"
+        return f"{(count/total_)*100:.2f}%"
+    
     print("\n--- Standard Comparison Results ---")
-    print_results("Questions normal got wrong but unthink got right", len(results[0]), total_questions)
-    print_results("Questions unthink got wrong but normal got right", len(results[1]), total_questions)
-    print_results("Questions normal was undefined but unthink got right", len(results[2]), total_questions)
-    print_results("Questions unthink was undefined but normal got right", len(results[3]), total_questions)
-    print_results("Questions both were undefined", len(results[4]), total_questions)
-    print_results("Number of questions both got wrong", results[5], total_questions)
-    print_results("Number of questions both got right", results[6], total_questions)
+    print(f"Questions normal got wrong but unthink got right: {len(normal_wrong_unthink_right)} out of {total_q} ({ratio(len(normal_wrong_unthink_right), total_q)})")
+    print(f"Questions unthink got wrong but normal got right: {len(unthink_wrong_normal_right)} out of {total_q} ({ratio(len(unthink_wrong_normal_right), total_q)})")
+    print(f"Questions normal was undefined but unthink got right: {len(normal_undefined_unthink_right)} out of {total_q} ({ratio(len(normal_undefined_unthink_right), total_q)})")
+    print(f"Questions unthink was undefined but normal got right: {len(unthink_undefined_normal_right)} out of {total_q} ({ratio(len(unthink_undefined_normal_right), total_q)})")
+    print(f"Questions both were undefined: {len(both_undefined)} out of {total_q} ({ratio(len(both_undefined), total_q)})")
+    print(f"Number of questions both got wrong: {both_wrong_count} out of {total_q} ({ratio(both_wrong_count, total_q)})")
+    print(f"Number of questions both got right: {both_right_count} out of {total_q} ({ratio(both_right_count, total_q)})")
     
-    # Print additional information about answer matching methods
     print("\n--- Answer Extraction Method Comparison ---")
-    print_results("Normal: boxed wrong but find_number correct", len(results[9]), total_questions)
-    print_results("Unthink: boxed wrong but find_number correct", len(results[10]), total_questions)
+    print(f"Normal: boxed wrong but find_number correct: {len(normal_boxed_wrong_findnum_right)} out of {total_q} ({ratio(len(normal_boxed_wrong_findnum_right), total_q)})")
+    print(f"Unthink: boxed wrong but find_number correct: {len(unthink_boxed_wrong_findnum_right)} out of {total_q} ({ratio(len(unthink_boxed_wrong_findnum_right), total_q)})")
     
-    # Print information about filtering
-    print(f"\nExcluded {len(results[8])} questions where unthink response had >5 words in <think> block")
-
-    # Calculate the number of questions each got right
-    normal_right = results[6] + len(results[1]) + len(results[3])
-    unthink_right = results[6] + len(results[0]) + len(results[2])
-
-    # Print overall accuracy matching GSM8K_generate_from_test.py method
     print("\n--- Overall Accuracy (Using GSM8K_generate_from_test.py extraction method) ---")
-    print_results("Normal accuracy", normal_right, total_questions)
-    print_results("Unthink accuracy", unthink_right, total_questions)
-
-    # Calculate the number of questions each got right excluding undefined
-    # Include cases where the other model was undefined but this one was right
-    normal_right_excluding_undefined = results[6] + len(results[1]) + len(results[3])
-    unthink_right_excluding_undefined = results[6] + len(results[0]) + len(results[2])
-
-    # Calculate the total number of non-undefined questions for each set
-    total_non_undefined_normal = total_questions - len(results[4]) - len(results[2])
-    total_non_undefined_unthink = total_questions - len(results[4]) - len(results[3])
-
-    # Print the adjusted results with correct percentages
-    print("\n--- Accuracy Excluding Undefined Questions ---")
-    print_results("Number of questions normal got right excluding undefined", normal_right_excluding_undefined, total_non_undefined_normal)
-    print_results("Number of questions unthink got right excluding undefined", unthink_right_excluding_undefined, total_non_undefined_unthink)
-
-    # Save results to files
-    save_results_to_files(results[:5], output_dir)  # Only save the lists, not the counts
+    print(f"Normal accuracy: {normal_right_total} out of {total_q} ({ratio(normal_right_total, total_q)})")
+    print(f"Unthink accuracy: {unthink_right_total} out of {total_q} ({ratio(unthink_right_total, total_q)})")
     
-    # Save the filtered question IDs (those excluded based on unthink chain-of-thought length) to a separate text file.
-    filtered_ids = results[8]
-    with open(os.path.join(output_dir, "filtered_questions.txt"), 'w') as f:
-        for qid in filtered_ids:
-            f.write(f"{qid}\n")
+    normal_defined_count = total_q - len(normal_undefined_ids)
+    unthink_defined_count = total_q - len(unthink_undefined_ids)
+    
+    normal_correct_set = set(normal_correct_ids)
+    normal_undefined_set = set(normal_undefined_ids)
+    unthink_correct_set = set(unthink_correct_ids)
+    unthink_undefined_set = set(unthink_undefined_ids)
+    
+    normal_defined_correct_set = normal_correct_set - normal_undefined_set
+    unthink_defined_correct_set = unthink_correct_set - unthink_undefined_set
+    
+    normal_defined_correct = len(normal_defined_correct_set)
+    unthink_defined_correct = len(unthink_defined_correct_set)
+    
+    if normal_defined_count > 0:
+        normal_defined_acc = (normal_defined_correct/normal_defined_count)*100
+    else:
+        normal_defined_acc = 0.0
+    
+    if unthink_defined_count > 0:
+        unthink_defined_acc = (unthink_defined_correct/unthink_defined_count)*100
+    else:
+        unthink_defined_acc = 0.0
+    
+    print("\n--- Accuracy Excluding Undefined Questions ---")
+    print(f"Number of questions normal got right excluding undefined: {normal_defined_correct} out of {normal_defined_count} ({normal_defined_acc:.2f}%)")
+    print(f"Number of questions unthink got right excluding undefined: {unthink_defined_correct} out of {unthink_defined_count} ({unthink_defined_acc:.2f}%)")
+    
+    print("\n--- Undefined Responses ---")
+    print(f"Number of normal responses that are undefined: {len(normal_undefined_ids)} out of {total_q} ({ratio(len(normal_undefined_ids), total_q)})")
+    print(f"Number of unthink responses that are undefined: {len(unthink_undefined_ids)} out of {total_q} ({ratio(len(unthink_undefined_ids), total_q)})")
+    
+    print(f"\nNumber of unthink responses skipped (CoT >5 words): {skipped_count}")
+    
+    save_results_to_files(results, out_dir)
+    print("Done.")
+
+if __name__ == "__main__":
+    main()
