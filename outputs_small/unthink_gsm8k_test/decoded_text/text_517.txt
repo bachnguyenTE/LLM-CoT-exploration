@@ -1,0 +1,38 @@
+<｜User｜>
+Q: The eighth-grade class held a bake-off. Kelsie made two times more cookies than Josh. Josh made one-fourth the number of cookies that Suzanne made. If Suzanne made 36 cookies, how many did Kelsie make?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Given:**
+   - Suzanne made **36 cookies**.
+   - Josh made **one-fourth** the number of cookies that Suzanne made.
+   - Kelsie made **two times** more cookies than Josh.
+
+2. **Find:**
+   - How many cookies did Kelsie make?
+
+3. **Step 1: Calculate the number of cookies Josh made.**
+
+   Josh made one-fourth of what Suzanne made.
+   
+   \[
+   \text{Josh's cookies} = \frac{1}{4} \times \text{Suzanne's cookies} = \frac{1}{4} \times 36 = 9
+   \]
+
+4. **Step 2: Calculate the number of cookies Kelsie made.**
+
+   Kelsie made two times more than Josh. This means Kelsie made **two times** the number of cookies Josh made.
+
+   \[
+   \text{Kelsie's cookies} = 2 \times \text{Josh's cookies} = 2 \times 9 = 18
+   \]
+
+5. **Final Answer:**
+   
+   \[
+   \boxed{18}
+   \]

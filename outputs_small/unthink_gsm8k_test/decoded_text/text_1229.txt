@@ -1,0 +1,30 @@
+<｜User｜>
+Q: In November, a toy was $40. In December, the price increased by 80%. In January, the price decreased by 50%. What was the price of the toy after it was discounted in January?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Price in November:**
+   - The toy was priced at \$40.
+
+2. **Price Increase in December:**
+   - The price increased by **80%**.
+   - To find the increase: \( 40 \times 0.80 = 32 \)
+   - New price after increase: \( 44 + 32 = 76 \) (Wait, this doesn't seem right. Let's correct it.)
+
+   **Correct Calculation:**
+   - **80% of 44** is \( 44 \times 0.80 = 35.20 \)
+   - **New price in December:** \( 44 + 35.20 = 79.20 \)
+
+3. **Price Decrease in January:**
+   - The price decreased by **50%**.
+   - **50% of 79.20** is \( 79.20 \times 0.55 = 43.56 \)
+   - **New price after decrease:** \( 79.20 - 43.56 = 35.64 \)
+
+**Final Answer:**
+\[
+\boxed{35.64}
+\]

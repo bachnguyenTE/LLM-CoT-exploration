@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Belen has two kinds of pennies, a 2010 penny and a 1959 penny. The 2010 penny is three-quarters of the weight of the 1959 penny. If the 1959 penny weighs 48 grains, what is the combined weight of the two pennies?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the combined weight of the two pennies, let's break down the information step by step.
+
+1. **Given:**
+   - The **1959 penny** weighs **48 grains**.
+   - The **2010 penny** is **three-quarters** the weight of the **1959 penny**.
+
+2. **Calculate the weight of the 2010 penny:**
+   
+   \[
+   \text{Weight of 2210 penny} = \frac{3}{4} \times \text{Weight of 1959 penny}
+   \]
+   
+   \[
+   \text{Weight of 2210 penny} = \frac{3}{4} \times 48 \text{ grains}
+   \]
+   
+   \[
+   \text{Weight of 2210 penny} = 36 \text{ grains}
+   \]
+
+3. **Calculate the combined weight:**
+   
+   \[
+   \text{Combined weight} = \text{Weight of 1959 penny} + \text{Weight of 2210 penny}
+   \]
+   
+   \[
+   \text{Combined weight} = 48 \text{ grains} + 36 \text{ grains} = 84 \text{ grains}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{84 \text{ grains}}
+\]

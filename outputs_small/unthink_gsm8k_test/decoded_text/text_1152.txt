@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Mark buys one lottery ticket with a 20% chance of winning and a second lottery ticket that's three times more likely to win. What is the probability, expressed as a percentage, that both tickets are winners?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the probability that both lottery tickets are winners, we'll follow these steps:
+
+1. **Determine the Probability of Each Ticket Winning:**
+   - **First Ticket:** Mark has a 20% chance of winning.
+     \[
+     P(\text{First Ticket Wins}) = 20\% = 0.20
+     \]
+   - **Second Ticket:** It's three times more likely to win than the first ticket.
+     \[
+     P(\text{Second Ticket Wins}) = 3 \times 20\% = 60\% = 0.60
+     \]
+
+2. **Calculate the Joint Probability of Both Tickets Winning:**
+   - Assuming the outcomes are independent (the result of one ticket does not affect the other):
+     \[
+     P(\text{Both Tickets Win}) = P(\text{First Ticket Wins}) \times P(\text{Second Ticket Wins})
+     \]
+     \[
+     P(\text{Both Tickets Win}) = 0.20 \times 0.60 = 0.12
+     \]
+
+3. **Convert the Joint Probability to a Percentage:**
+   \[
+   0.12 \times 100\% = 12\%
+   \]
+
+**Final Answer:**
+\[
+\boxed{12\%}
+\]

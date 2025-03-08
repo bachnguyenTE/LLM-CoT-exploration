@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Jake is walking through the Museum of Entomology. He sees 80 spiders with 8 legs each, 90 insects with 6 legs each, and 3 rare mutant invertebrates with 10 legs each. How many legs does Jake see total?
+A:<｜Assistant｜><think>
+First, I need to calculate the total number of legs for the spiders. There are 80 spiders, each with 8 legs. Multiplying these together gives 80 multiplied by 8, which equals 640 legs.
+
+Next, I'll calculate the total number of legs for the insects. There are 90 insects, each with 6 legs. Multiplying these together gives 90 multiplied by 6, which equals 540 legs.
+
+Then, I'll calculate the total number of legs for the rare mutant invertebrates. There are 3 of them, each with 10 legs. Multiplying these together gives 3 multiplied by10, which equals 30 legs.
+
+Finally, I'll add up all the legs from the spiders, insects, and invertebrates to find the total number of legs Jake sees. Adding 640, 540, and 30 together gives a total of 1,218 legs.
+</think>
+
+To determine the total number of legs Jake sees at the Museum of Entomology, we'll calculate the legs from each category separately and then sum them up.
+
+1. **Spiders:**
+   - **Number of spiders:** 80
+   - **Legs per spider:** 8
+   - **Total legs from spiders:** \( 80 \times 8 = 640 \) legs
+
+2. **Insects:**
+   - **Number of insects:** 90
+   - **Legs per insect:** 6
+   - **Total legs from insects:** \( 90 \times 6 = 540 \) legs
+
+3. **Rare Mutant Invertebrates:**
+   - **Number of invertebrates:** 3
+   - **Legs per invertebrate:** 10
+   - **Total legs from invertebrates:** \( 3 \times 10 = 30 \) legs
+
+4. **Total Legs:**
+   - **Sum of all legs:** \( 640 + 540 + 30 = 1,\!218 \) legs
+
+\[
+\boxed{1,\!218}
+\]

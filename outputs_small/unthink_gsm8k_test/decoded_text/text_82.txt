@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Grace weighs 125 pounds. Alex weighs 2 pounds less than 4 times what Grace weighs. What are their combined weights in pounds?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Grace's Weight:**
+   - Grace weighs **125 pounds**.
+
+2. **Alex's Weight:**
+   - Alex weighs **2 pounds less than 4 times what Grace weighs**.
+   - First, calculate 4 times Grace's weight:
+     \[
+     4 \times 125 = 500 \text{ pounds}
+     \]
+   - Then, subtract 2 pounds:
+     \[
+     500 - 2 = 500 \text{ pounds}
+     \]
+   - So, Alex weighs **500 pounds**.
+
+3. **Combined Weight:**
+   - Add Grace's and Alex's weights together:
+     \[
+     125 + 500 = 625 \text{ pounds}
+     \]
+
+**Final Answer:**
+\[
+\boxed{625}
+\]

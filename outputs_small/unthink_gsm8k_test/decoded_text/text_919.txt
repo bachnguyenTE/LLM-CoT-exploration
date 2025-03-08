@@ -1,0 +1,43 @@
+<｜User｜>
+Q: To raise money for their class fund, each of the 30 students from one class sold lollipops that cost $0.8 per lollypop. On average, each student sold 10 lollipops. If they bought the lollipops for $0.5 each, how much money was the class able to raise from the profit of selling lollipops?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much money the class was able to raise from the profit of selling lollipops, we'll follow these steps:
+
+1. **Calculate the total number of lollipops sold by the class:**
+   
+   - There are **30 students** in the class.
+   - Each student sold **10 lollipops** on average.
+   
+   \[
+   \text{Total lollipops sold} = 30 \text{ students} \times 10 \text{ lollipops/student} = 300 \text{ lollipops}
+   \]
+
+2. **Calculate the total cost of purchasing the lollipops:**
+   
+   - Each lollipop costs **\$0.5**.
+   
+   \[
+   \text{Total cost} = 300 \text{ lollipops} \times \$0.5/\text{lollipops} = \$150
+   \]
+
+3. **Calculate the total revenue from selling the lollipops:**
+   
+   - Each lollipop was sold for **\$0.8**.
+   
+   \[
+   \text{Total revenue} = 300 \text{ lollipops} \times \$0.8/\text{lollipops} = \$240
+   \]
+
+4. **Determine the profit:**
+   
+   \[
+   \text{Profit} = \text{Total revenue} - \text{Total cost} = \$240 - \$150 = \$90
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$90}
+\]

@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Dora wants to buy a skipping rope that costs $6, a board game that costs $11, and a playground ball that costs $2. She has saved $2 from her allowance, and her mother gave her $16. How much more money does Dora need to buy the skipping rope, the game, and the ball?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Cost of Items:**
+   - Skipping rope: \$6
+   - Board game: \$11
+   - Playground ball: \$2
+
+   **Total cost = \$6 + \$11 + \$2 = \$9**
+
+2. **Total Money Dora Has:**
+   - Saved money: \$2
+   - Money received from mother: \$16
+
+   **Total money = \$2 + \$16 = \$18**
+
+3. **Amount of Money Dora Still Needs:**
+   - **Total cost of items:** \$9
+   - **Total money Dora has:** \$18
+
+   **Amount needed = \$18 - \$9 = \$9**
+
+**Final Answer:** Dora needs to buy the skipping rope, board game, and playground ball with **\$9** more.

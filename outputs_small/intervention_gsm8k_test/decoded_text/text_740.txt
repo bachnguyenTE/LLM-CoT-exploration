@@ -1,0 +1,55 @@
+<｜User｜>
+Q: A class of 50 students has various hobbies. 10 like to bake, 5 like to play basketball, and the rest like to either play video games or play music. How many like to play video games if the number that like to play music is twice the number that prefer playing basketball?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about a class of 50 students and their hobbies. Let me try to figure it out step by step. 
+
+First, the problem says there are 50 students in total. Out of these, 10 like to bake, 5 like to play basketball, and the rest like either video games or music. Hmm, okay. So, the rest would be 50 minus 10 minus 5. Let me write that down:
+
+Total students = 50  
+Bakers = 10  
+Basketball players = 5  
+So, the remaining students = 50 - 10 -5 = 35.
+
+Wait, that seems right. So, 35 students like either video games or music. Now, the problem also says that the number that like to play music is twice the number that prefer playing basketball. Hmm, okay. So, let me parse that.
+
+Number of students who like music = 2 × number of students who like basketball.  
+Basketball players = 5, so music players = 2 × 5 = 10.
+
+So, 10 students like music. Now, since the remaining 35 students like either video games or music, and we know how many like music, we can subtract that from 35 to find out how many like video games.
+
+So, video game players = total remaining - music players = 35 - 10 = 25.
+
+Wait, that seems right. Let me double-check. So, total students: 50. Bakers:10, Basketball:5, Music:10. So, 10+5+10=25. Then, 50-25=35. So, 35-10=25. Wait, that seems right. So, 25 students like video games.
+
+But, that seems right. Let me make sure I didn't make a mistake. So, 10 bake, 5 basketball, 10 music, that's 25. So, the rest is 35, which is 25 video games. Yeah, that adds up.
+
+Wait, that seems right. So, the answer is 25. So, 25 students like video games.
+
+Wait, that seems right. Let me think again. So, 50 students total. 10 bake, 5 basketball, 10 music, so 25. So, 50-25=25. So, 25 like video games. Yeah, that seems correct.
+
+Wait, that seems right. So, the answer is 25. So, 25 students like video games.
+
+Wait, that seems right. So, I think that's the answer.
+
+**Final Answer**
+The number of students who like to play video games is \boxed{25}.
+</think>
+
+The class has 50 students in total. Out of these, 10 students like to bake, 5 students like to play basketball, and the rest like either video games or music. 
+
+First, we calculate the number of students who like either video games or music:
+\[
+50 - 10 - 5 = 35
+\]
+
+Next, we know that the number of students who like to play music is twice the number of students who prefer playing basketball. Since 5 students prefer playing basketball, the number of students who like music is:
+\[
+2 \times 5 = 10
+\]
+
+We subtract the number of students who like music from the remaining students to find the number of students who like video games:
+\[
+35 - 10 = 25
+\]
+
+Thus, the number of students who like to play video games is \boxed{25}.

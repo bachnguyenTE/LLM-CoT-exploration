@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Jimmy has $2 more than twice the money Ethel has. If Ethal has $8, how much money is Jimmy having?
+A:<｜Assistant｜><think>
+</think>
+
+Sure, let's solve the problem step by step.
+
+**Problem Statement:**
+Jimmy has \$2 more than twice the money Ethel has. If Ethel has \$8, how much money is Jimmy having?
+
+**Solution:**
+
+1. **Identify the given information:**
+   - Ethel has \$8.
+   - Jimmy has \$2 more than twice Ethel's money.
+
+2. **Express Jimmy's money in terms of Ethel's money:**
+   - Let \( E \) represent Ethel's money.
+   - Let \( J \) represent Jimmy's money.
+   - According to the problem, \( J = 2E + 2 \).
+
+3. **Substitute the known value of Ethel's money:**
+   - \( E = \$8 \).
+   - Substitute into the equation: \( J = 2(8) + 2 \).
+
+4. **Perform the calculations:**
+   - \( 2 \times 8 = 16 \).
+   - \( 16 + 2 = 18 \).
+
+5. **Final Answer:**
+   - Jimmy has \$18.
+
+**Answer:** \boxed{18}

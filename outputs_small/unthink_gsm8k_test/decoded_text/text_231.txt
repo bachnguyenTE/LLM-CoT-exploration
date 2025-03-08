@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Kylie and Robert enjoy going to the beach to collect shells. On Monday, Kylie collects 5 more shells than Robert, who collects 20 shells. On Tuesday, Kylie collects 2 times more shells than she did on Monday. How many shells does Kylie collect on Tuesday?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- On **Monday**, Robert collects **20 shells**.
+- Kylie collects **5 more shells** than Robert on **Monday**.
+- On **Tuesday**, Kylie collects **2 times more** shells than she did on **Monday**.
+
+**Step 1: Determine the number of shells Kylie collects on Monday.**
+
+Since Kylie collects **5 more shells** than Robert on Monday:
+\[
+\text{Kylie's shells on Monday} = \text{Robert's shells on Monday} + 5 = 20 + 5 = 25 \text{ shells}
+\]
+
+**Step 2: Calculate the number of shells Kylie collects on Tuesday.**
+
+Kylie collects **2 times more** shells on Tuesday than on Monday. This means:
+\[
+\text{Kylie's shells on Tuesday} = 2 \times \text{Kylie's shells on Monday} = 2 \times 25 = 50 \text{ shells}
+\]
+
+**Final Answer:**
+\[
+\boxed{50}
+\]

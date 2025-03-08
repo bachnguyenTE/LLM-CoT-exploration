@@ -1,0 +1,43 @@
+<｜User｜>
+Q: Betsy and Donovan made a meal together. Betsy's part took 18 minutes longer than Donovan's part. The meal was made in 98 minutes. How many minutes long was Betsy's part?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+Betsy and Donovan made a meal together. Betsy's part took 18 minutes longer than Donovan's part. The meal was made in 98 minutes. How many minutes long was Betsy's part?
+
+**Solution:**
+
+1. **Define Variables:**
+   - Let \( D \) represent the time (in minutes) that **Donovan** spent on the meal.
+   - Since Betsy's part took 18 minutes longer, Betsy's time is \( D + 18 \) minutes.
+
+2. **Set Up the Equation:**
+   - The total time taken to make the meal is the sum of Betsy's and Donovan's times.
+   \[
+   D + (D + 18) = 98
+   \]
+
+3. **Simplify and Solve for \( D \):**
+   \[
+   2D + 18 = 98
+   \]
+   \[
+   2D = 98 - 18
+   \]
+   \[
+   2D = 80
+   \]
+   \[
+   D = \frac{80}{2} = 40
+   \]
+
+4. **Find Betsy's Time:**
+   \[
+   D + 18 = 40 + 18 = 58 \text{ minutes}
+   \]
+
+**Final Answer:**
+Betsy's part took \(\boxed{58}\) minutes.

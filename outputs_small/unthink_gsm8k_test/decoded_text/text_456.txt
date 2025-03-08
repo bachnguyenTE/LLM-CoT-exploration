@@ -1,0 +1,41 @@
+<｜User｜>
+Q: In a set of magicians cards, there are 15 red cards, and 60% more green cards. Yellow cards are as many, as the sum of red and green cards. How many cards of all mentioned colors are there?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Given:**
+   - **Red cards:** 15
+   - **Green cards:** 60% more than red cards
+   - **Yellow cards:** Equal to the sum of red and green cards
+
+2. **Calculate the number of green cards:**
+   
+   Green cards are 60% more than red cards.
+   
+   \[
+   \text{Green cards} = \text{Red cards} + 60\% \times \text{Red cards} = 15 + 0.6 \times 15 = 15 + 9 = 24
+   \]
+
+3. **Calculate the number of yellow cards:**
+   
+   Yellow cards are equal to the sum of red and green cards.
+   
+   \[
+   \text{Yellow cards} = \text{Red cards} + \text{Green cards} = 15 + 24 = 39
+   \]
+
+4. **Calculate the total number of cards:**
+   
+   \[
+   \text{Total cards} = \text{Red cards} + \text{Green cards} + \text{Yellow cards} = 15 + 24 + 39 = 78
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{78}
+\]

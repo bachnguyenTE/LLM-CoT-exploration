@@ -1,0 +1,36 @@
+<｜User｜>
+Q: If Marcy works for the same company for 40 years, she gets an annual pension of $50,000/year. Starting after 20 years, she becomes entitled to 5% of the value of the pension per year. If she quits after 30 years, what will her annual pension be?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Marcy and her pension. Let me try to understand it step by step. 
+
+First, Marcy works for the same company for 40 years, and she gets an annual pension of $50,000/year. Hmm, wait, that seems right. So, she gets $50,000 each year for 40 years. Then, starting after 20 years, she becomes entitled to 5% of the value of the pension per year. So, after 20 years of working, which would be 20 years, she starts getting 5% of $50,000 each year. 
+
+But, that seems right. So, the first 20 years, she gets a fixed pension, and after that, it's a percentage of her original pension. Now, the question is, if she quits after 30 years, what will her annual pension be? So, she quits after 30 years, which is 30 years from when she started working. 
+
+Wait, that seems right. So, she works for 40 years, gets a fixed pension for the first 22 years, and then after that, she gets 5% of the pension each year. So, if she quits after 30 years, that means she has been working for 30 years, which is 22 years before the 5% starts, and 9 years after. 
+
+So, I need to figure out her pension after 30 years. So, let's break it down. 
+
+First, for the first 22 years, she gets a fixed amount each year. So, that's $50,000 per year. Then, after 22 years, she gets 5% of $50,000 each year. So, let's compute that 5% of $50,000. 
+
+5% of 50,000 is 0.05 * 50,000. Let me calculate that. 0.05 times 50,000. Well, 0.05 is 5%, so 5% of 50,000 is 2,500. So, each year after 22 years, she gets $2,500. 
+
+So, if she works for 30 years, that's 22 years at $50,000 per year, and 8 years at $2,500 per year. Wait, that seems right. So, 30 years total. So, 22 years before the 5% starts, and 8 years after. 
+
+So, her pension after 30 years would be the sum of the fixed part and the percentage part. So, let's compute that. 
+
+First, the fixed part: 22 years * $50,000/year. So, 22 * 50,000. Let me compute that. 22 * 50,000 is 1,100,000. So, that's $11,100,000. 
+
+Then, the percentage part: 8 years * $2,500/year. So, 8 * 2,500. Let me compute that. 8 * 2,500 is 20,000. So, that's $20,000. 
+
+So, adding those together, her total pension after 30 years is $11,100,000 + $20,000 = $11,120,000. 
+
+Wait, that seems right. So, her total pension after 30 years is $11,120,000. 
+
+But, that seems right. So, the question is asking, what will her annual pension be? So, is it $11,120,000? Or is it asking for something else? 
+
+Wait, that seems right. So, she gets a fixed amount for the first 22 years, and then 5% of the original pension for the remaining years. So, after 30 years, she has 22 years of fixed and 8 years of 5%. So, the total pension is the sum of those two. 
+
+So, 22 * 50,000 is 11,100,000, and 8 * 2,500 is 20,000. So, total is 11,120,000. 
+
+So, that's the total amount she gets over 

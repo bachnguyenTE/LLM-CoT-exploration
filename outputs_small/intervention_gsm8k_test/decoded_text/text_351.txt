@@ -1,0 +1,62 @@
+<｜User｜>
+Q: April is donating plant pots to a local school for their new garden. They ask for 30 plant pots for the daisies, and twice as many for the roses. April had already bought 100 plant pots from the garden center before she knew how many she needed. How many plant pots does April have left over?
+A:<｜Assistant｜><think>
+Okay, so April is donating plant pots to a local school for their new garden. They need 30 plant pots for daisies, and twice as many for roses. Hmm, let me break this down step by step.
+
+First, they need 30 daisy pots. Then, for the roses, it's twice as many as the daisy pots. So, if daisy pots are 30, roses would be 2 times that. Let me write that down:
+
+Number of daisy pots = 30
+
+Number of rose pots = 2 × 30
+
+Calculating that, 2 times 30 is 60. So, April needs 60 rose pots.
+
+Now, the total number of plant pots April needs is the sum of daisy and rose pots. So, that would be:
+
+Total plant pots needed = 30 + 60
+
+Adding those together, 30 plus 60 is 93. So, April needs a total of 93 plant pots.
+
+But, that seems right. Let me double-check. 30 daisy pots and 60 rose pots, yes, that adds up to 93. Okay, that makes sense.
+
+Now, the problem also says that April had already bought 100 plant pots from the garden center before she knew how many she needed. So, she had 100 pots already. Now, she's going to donate 93 pots. So, how many will she have left over?
+
+To find out how many pots she has left, I need to subtract the number she's donating from the number she already has. So, that would be:
+
+Pots left = Pots she had - Pots she needs to donate
+
+Plugging in the numbers:
+
+Pots left = 100 - 93
+
+Calculating that, 100 minus 93 is 7. So, April will have 7 plant pots left over.
+
+Wait, that seems right. Let me make sure I didn't make a mistake. She had 100, she needs 93, so 100 minus 93 is indeed 7. Yeah, that seems correct.
+
+So, putting it all together:
+
+- Daisies: 30
+- Roses: 2 × 30 = 60
+- Total needed: 30 + 60 = 93
+- Pots she had: 100
+- Pots left: 100 - 93 = 7
+
+Yep, that all adds up. So, April will have 7 plant pots left over after donating to the school garden.
+
+**Final Answer**
+April has \boxed{7} plant pots left over.
+</think>
+
+April needs 30 plant pots for daisies and twice as many for roses. 
+
+- Number of daisy pots = 30
+- Number of rose pots = 2 × 30 = 60
+
+Total number of plant pots needed:
+- Total plant pots needed = 30 + 60 = 93
+
+April had already bought 100 plant pots:
+- Pots left = 100 - 93 = 7
+
+Final answer:
+\boxed{7}

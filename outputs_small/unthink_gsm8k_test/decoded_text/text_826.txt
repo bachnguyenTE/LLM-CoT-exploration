@@ -1,0 +1,27 @@
+<｜User｜>
+Q: On Easter Sunday Cindy went to the city park to participate in the Easter Egg Hunt, and ended up with a basket full of eggs. She had 5 green ones, twice as many blue ones as green ones, one fewer pink eggs than blue eggs, and one-third as many yellow eggs as pink eggs. How many eggs did Cindy have altogether?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many eggs Cindy has in total.
+
+1. **Green Eggs:**
+   - Cindy has **5 green eggs**.
+
+2. **Blue Eggs:**
+   - She has **twice as many blue eggs as green eggs**.
+   - **Blue eggs = 2 × Green eggs = 2 × 5 = 10 blue eggs**.
+
+3. **Pink Eggs:**
+   - She has **one fewer pink egg than blue eggs**.
+   - **Pink eggs = Blue eggs - 1 = 10 - 1 = 9 pink eggs**.
+
+4. **Yellow Eggs:**
+   - She has **one-third as many yellow eggs as pink eggs**.
+   - **Yellow eggs = (1/3) × Pink eggs = (1/3) × 9 = 3 yellow eggs**.
+
+5. **Total Eggs:**
+   - **Total = Green + Blue + Pink + Yellow**
+   - **Total = 5 + 10 + 9 + 3 = 27 eggs**
+
+**Final Answer:** Cindy has a total of \(\boxed{27}\) eggs.

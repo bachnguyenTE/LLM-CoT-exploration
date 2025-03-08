@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Every hour, Paige can bake 2 banana bread loaves in the oven.  Each banana bread loaf is cut into 8 slices and wrapped individually for sale.  Each slice is sold for 50 cents for a fundraiser.  If she baked from 1:00 PM - 6:00 PM straight, and sold all the slices, how much did she raise in dollars?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the baking time:**
+   - Paige bakes from **1:00 PM** to **6:00 PM**.
+   - This is a total of **5 hours**.
+
+2. **Calculate the number of banana bread loaves baked:**
+   - She bakes **2 loaves** every hour.
+   - Total loaves baked = \( 2 \text{ loaves/hour} \times 5 \text{ hours} = 10 \text{ loaves} \).
+
+3. **Determine the total number of banana bread slices:**
+   - Each loaf is cut into **8 slices**.
+   - Total slices = \( 10 \text{ loaves} \times 8 \text{ slices/loaf} = 80 \text{ slices} \).
+
+4. **Calculate the total revenue from selling the slices:**
+   - Each slice is sold for **\$0.50**.
+   - Total revenue = \( 80 \text{ slices} \times \$0.50/\text{slice} = \$40.00 \).
+
+**Final Answer:**
+\[
+\boxed{\$40.0}
+\]

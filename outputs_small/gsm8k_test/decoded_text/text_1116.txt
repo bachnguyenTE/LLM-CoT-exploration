@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Last year there were 50 students enrolled in a calligraphy class. This year, there was a 20% increase in enrollment. How many students are enrolled this year in the calligraphy class?
+A:<｜Assistant｜><think>
+First, determine the number of students last year, which is 50.
+
+Next, calculate the 20% increase by multiplying 50 by 0.20, resulting in 11.
+
+Finally, add the increase to the original number of students: 50 + 11 equals 66.
+
+Therefore, there are 66 students enrolled in the calligraphy class this year.
+</think>
+
+**Solution:**
+
+1. **Determine the number of students last year:**
+   
+   Last year, there were **50 students** enrolled in the calligraphy class.
+
+2. **Calculate the 20% increase:**
+   
+   To find the increase in enrollment:
+   \[
+   20\% \text{ of } 55 = 0.20 \times 55 = 11
+   \]
+
+3. **Find the total number of students this year:**
+   
+   Add the increase to last year's enrollment:
+   \[
+   55 + 11 = 66
+   \]
+
+**Final Answer:**
+\[
+\boxed{66}
+\]

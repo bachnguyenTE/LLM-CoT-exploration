@@ -1,0 +1,43 @@
+<｜User｜>
+Q: Bill is signing up for a new streaming service. He got a special introductory deal where the first 6 months were $8 a month, then it went up to the normal price of $12 a month. After 8 months of the normal rate, the service increased its price to $14 a month. How much do 2 years of the service cost him?
+A:<｜Assistant｜><think>
+First, I need to determine the total cost for 2 years of the streaming service by breaking down the time into segments with different pricing tiers.
+
+The first 6 months are priced at $8 per month. So, the cost for this period is 6 months multiplied by $8.
+
+Next, from month 7 to month 14, the price is $12 per month. This period is 8 months long, so the cost is 8 months multiplied by $12.
+
+After that, from month 15 to month 28, the price increases to $14 per month. This period is 14 months long, so the cost is 14 months multiplied by $14.
+
+Finally, I'll add up the costs from all three segments to find the total cost for 2 years.
+</think>
+
+To determine the total cost for 2 years of the streaming service, we'll break down the time into segments with different pricing tiers and calculate the cost for each segment separately. Then, we'll sum up the costs to find the total amount Bill will pay.
+
+### Step-by-Step Solution:
+
+1. **First 6 Months:**
+   - **Price per month:** \$8
+   - **Number of months:** 6
+   - **Total Cost:** \( 6 \times \$8 = \$48 \)
+
+2. **Next 8 Months (Months 7 to 14):**
+   - **Price per month:** \$12
+   - **Number of months:** 8
+   - **Total Cost:** \( 8 \times \$12 = \$96 \)
+
+3. **After 14 Months (Months 15 to 28):**
+   - **Price per month:** \$14
+   - **Number of months:** 14
+   - **Total Cost:** \( 14 \times \$14 = \$198 \)
+
+4. **Total Cost for 2 Years:**
+   - **Sum of all costs:** 
+     \[
+     \$48 + \$96 + \$198 = \$342
+     \]
+
+### Final Answer:
+\[
+\boxed{342}
+\]

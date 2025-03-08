@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Jack had $100. Sophia gave him 1/5 of her $100. How many dollars does Jack have now?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Jack initially has \$100. Sophia gives him **1/5** of her \$100.
+
+1. **Calculate 1/5 of \$100:**
+   \[
+   \frac{1}{5} \times 100 = 20
+   \]
+   
+2. **Add the amount Sophia gave to Jack to his original amount:**
+   \[
+   100 + 20 = 122
+   \]
+
+**Final Answer:**
+\[
+\boxed{122}
+\]

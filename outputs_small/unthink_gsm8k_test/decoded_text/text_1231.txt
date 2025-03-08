@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Sally received the following scores on her math quizzes: 50, 80, 80, 60, 40, 90, 100, 70, and 60. Find her mean score.
+A:<｜Assistant｜><think>
+</think>
+
+To find Sally's mean score, follow these steps:
+
+1. **Add up all the scores:**
+   \[
+   50 + 80 + 80 + 60 + 40 + 90 + 100 + 70 + 60 = 680
+   \]
+
+2. **Count the number of quizzes:**
+   \[
+   9 \text{ quizzes}
+   \]
+
+3. **Divide the total score by the number of quizzes to find the mean:**
+   \[
+   \text{Mean} = \frac{680}{9} \approx 75.56
+   \]
+
+**Final Answer:**
+\[
+\boxed{75.56}
+\]

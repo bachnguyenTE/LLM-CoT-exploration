@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Richard lives in an apartment building with 15 floors. Each floor contains 8 units, and 3/4 of the building is occupied. What's the total number of unoccupied units In the building?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of unoccupied units in the building, let's break down the information step by step.
+
+1. **Total Floors:** The building has **15 floors**.
+
+2. **Units per Floor:** Each floor contains **8 units**.
+
+3. **Total Units in the Building:** 
+   \[
+   \text{Total Units} = \text{Total Floors} \times \text{Units per Floor} = 15 \times 8 = 120 \text{ units}
+   \]
+
+4. **Occupied Units:** 
+   \[
+   \text{Occupied Units} = \frac{3}{4} \text{ of the building} = \frac{3}{4} \times 120 = 90 \text{ units}
+   \]
+
+5. **Unoccupied Units:** 
+   \[
+   \text{Unoccupied Units} = \text{Total Units} - \text{Occupied Units} = 120 - 90 = 27 \text{ units}
+   \]
+
+**Final Answer:** \(\boxed{27}\)

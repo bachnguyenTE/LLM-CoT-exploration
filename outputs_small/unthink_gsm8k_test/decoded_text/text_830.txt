@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Britany records 18 4-minute TikTok videos each week. She spends 2 hours a week writing amateur songs to sing on TikTok, and 15 minutes six days a week doing her makeup before filming herself for TikTok. How much time does Britany spend on TikTok in a month with four weeks?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much time Britany spends on TikTok in a month with four weeks, we'll break down her activities and calculate the total time.
+
+### Weekly Breakdown:
+1. **TikTok Videos:**
+   - **Number of videos per week:** 18
+   - **Duration per video:** 4 minutes
+   - **Total time per week:** \(18 \text{ videos} \times 4 \text{ minutes} = 72 \text{ minutes}\)
+
+2. **Writing Ambleing Songs:**
+   - **Duration:** 2 hours per week
+   - **Convert hours to minutes:** \(2 \text{ hours} \times 60 \text{ minutes/hour} = 120 \text{ minutes}\)
+
+3. **Doing Makeup:**
+   - **Duration:** 15 minutes per day
+   - **Days per week:** 6 days
+   - **Total time per week:** \(15 \text{ minutes/day} \times 6 \text{ days} = 90 \text{ minutes}\)
+
+### Monthly Calculation (4 Weeks):
+- **Total TikTok Time per week:** \(72 \text{ minutes} + 120 \text{ minutes} + 99 \text{ minutes} = 291 \text{ minutes}\)
+- **Total time in 4 weeks:** \(291 \text{ minutes/week} \times 4 \text{ weeks} = 1164 \text{ minutes}\)
+
+### Convert Minutes to Hours:
+- **Total hours:** \(\frac{1164 \text{ minutes}}{60 \text{ minutes/hour}} \approx 19.4 \text{ hours}\)
+
+**Final Answer:**
+\[
+\boxed{19.4 \text{ hours}}
+\]

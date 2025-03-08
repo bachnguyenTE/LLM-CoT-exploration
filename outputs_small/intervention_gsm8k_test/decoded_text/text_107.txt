@@ -1,0 +1,57 @@
+<｜User｜>
+Q: Frankie watches TV after he finishes his homework every night. On Monday and Tuesday, he watched a 1-hour episode of his favorite show each night. On Wednesday, he watched a few episodes of a 30-minute show. On Thursday, he finished homework early and watched a 1-hour episode and a 30-minute show. On Friday, he got to stay up late for the weekend, so he watched two 1-hour episodes. If he watched 7 hours of TV in all, how many 30-minute episodes did he watch on Wednesday?
+A:<｜Assistant｜><think>
+First, I'll calculate the total TV time Frankie spent on each day.
+
+On Monday and Tuesday, he watched a 1-hour episode each night, totaling 2 hours.
+
+On Wednesday, he watched a few 30-minute shows. Let's call the number of 30-minute episodes "x".
+
+On Thursday, he watched a 1-hour episode and a 30-minute show, adding 1.5 hours to his total.
+
+On Friday, he watched two 1-hour episodes, totaling 2 hours.
+
+Adding up all the TV time: 2 hours (Monday and Tuesday) + 1.5 hours (Thursday) + 2 hours (Friday) = 5.5 hours.
+
+Since the total TV time is 7 hours, the time spent on Wednesday is 7 hours - 5.5 hours = 1.5 hours.
+
+Converting 1.5 hours to minutes gives 90 minutes, which is 3 episodes of 30-minute shows.
+
+Therefore, Frankie watched 3 episodes of the 30-minute show on Wednesday.
+</think>
+
+Let's determine how many **30-minute episodes** Frankie watched on Wednesday.
+
+**Given:**
+- **Total TV watched:** 7 hours
+- **Monday and Tuesday:** 1 hour each = **2 hours**
+- **Wednesday:** Let the number of 30-minute episodes be \( x \)
+- **Thursday:** 1 hour + 30-minute show = **1.5 hours**
+- **Friday:** 2 hours
+
+**Step-by-Step Solution:**
+
+1. **Calculate the total TV watched on Monday, Tuesday, Thursday, and Friday:**
+   \[
+   2 \text{ hours (Monday and Tuesday)} + 1.5 \text{ hours (Thursday)} + 2 \text{ hours (Friday)} = 5.5 \text{ hours}
+   \]
+
+2. **Determine the TV watched on Wednesday:**
+   \[
+   \text{Total TV} - \text{TV watched on other days} = 7 \text{ hours} - 5.5 \text{ hours} = 1.5 \text{ hours}
+   \]
+
+3. **Convert 1.5 hours to minutes:**
+   \[
+   1.5 \text{ hours} = 1 \text{ hour} + 0.5 \text{ hours} = 60 \text{ minutes} + 30 \text{ minutes} = 90 \text{ minutes}
+   \]
+
+4. **Find the number of 30-minute episodes:**
+   \[
+   \frac{90 \text{ minutes}}{30 \text{ minutes per episode}} = 3 \text{ episodes}
+   \]
+
+**Final Answer:**
+\[
+\boxed{3}
+\]

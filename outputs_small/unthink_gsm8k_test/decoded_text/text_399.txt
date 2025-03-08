@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Alice is 7 years older than Beth, who is 5 years older than Erica. What is the difference between the ages of Alice and Erica, if Erica is 30 years old?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Define the Variables:**
+   - Let \( E \) represent Erica's age.
+   - Let \( B \) represent Beth's age.
+   - Let \( A \) represent Alice's age.
+
+2. **Given Relationships:**
+   - **Erica is 30 years old:** \( E = 30 \)
+   - **Beth is 5 years older than Erica:** \( B = E + 5 \)
+   - **Alice is 7 years older than Beth:** \( A = B + 7 \)
+
+3. **Calculate Beth's Age:**
+   \[
+   B = E + 5 = 30 + 5 = 35
+   \]
+
+4. **Calculate Alice's Age:**
+   \[
+   A = B + 7 = 35 + 7 = 42
+   \]
+
+5. **Find the Difference Between Alice and Erica's Ages:**
+   \[
+   A - E = 42 - 30 = 12
+   \]
+
+**Final Answer:**
+\[
+\boxed{12}
+\]

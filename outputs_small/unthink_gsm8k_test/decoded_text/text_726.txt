@@ -1,0 +1,54 @@
+<｜User｜>
+Q: Topher, the green giant, wears enormous shoes.  The length of one of his shoes is 10 inches longer than 9 times the length of one of Bobby’s shoes.  If the length of one of Topher’s shoes is 8-feet and 4-inches, how long, in inches, is one of Bobby’s shoes?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the length of one of Bobby’s shoes, let's break down the problem step by step.
+
+**Given:**
+- Length of Topher’s shoes = 8 feet 4 inches
+- Length of Topher’s shoes = 9 times the length of Bobby’s shoes + 10 inches
+
+**Step 1: Convert Topher’s shoe length to inches.**
+
+First, convert 8 feet to inches:
+\[
+8 \text{ feet} = 8 \times 12 = 96 \text{ inches}
+\]
+Add the additional 4 inches:
+\[
+96 \text{ inches} + 4 \text{ inches} = 100 \text{ inches}
+\]
+So, Topher’s shoes are 100 inches long.
+
+**Step 2: Set up the equation.**
+
+Let \( B \) represent the length of Bobby’s shoes in inches.
+
+According to the problem:
+\[
+\text{Topher’s shoes} = 9 \times B + 10
+\]
+Substitute the known value:
+\[
+100 = 9B + 10
+\]
+
+**Step 3: Solve for \( B \).**
+
+Subtract 10 from both sides:
+\[
+100 - 10 = 9B
+\]
+\[
+90 = 9B
+\]
+Divide both sides by 9:
+\[
+B = \frac{90}{9} = 10
+\]
+
+**Final Answer:**
+\[
+\boxed{10 \text{ inches}}
+\]

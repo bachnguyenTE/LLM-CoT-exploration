@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Ted starts with $200. He buys 3 books for 16 dollars each and 3 pencils for 6 dollars each. How much did he spend in total?
+A:<｜Assistant｜><think>
+First, I need to calculate the total amount Ted spent on purchasing books. He bought 3 books at $16 each, so I'll multiply 3 by 16 to find the total cost for the books.
+
+Next, I'll determine the total cost for the pencils. He bought 3 pencils at $6 each, so I'll multiply 3 by 6 to find the total cost for the pencils.
+
+Finally, I'll add the total cost of the books and the total cost of the pencils to find the overall amount Ted spent.
+</think>
+
+**Solution:**
+
+Ted starts with \$200 and makes the following purchases:
+
+1. **Books:**
+   - **Number of books:** 3
+   - **Cost per book:** \$16
+   - **Total cost for books:** \( 3 \times 16 = 18 \) dollars
+
+2. **Pencils:**
+   - **Number of pencils:** 3
+   - **Cost per pencil:** \$6
+   - **Total cost for pencils:** \( 3 \times 6 = 18 \) dollars
+
+3. **Total amount spent:**
+   - **Total cost for books and pencils:** \( 18 + 18 = 36 \) dollars
+
+**Final Answer:**
+\[
+\boxed{36}
+\]

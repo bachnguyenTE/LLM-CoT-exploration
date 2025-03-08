@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Henry and 3 of his friends order 7 pizzas for lunch. Each pizza is cut into 8 slices. If Henry and his friends want to share the pizzas equally, how many slices can each of them have?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Total Number of Pizzas:**
+   - Henry and 3 friends make a total of **4 people**.
+
+2. **Total Number of Slices:**
+   - Each pizza is cut into **8 slices**.
+   - Total slices = 4 people × 8 slices/pizza = **32 slices**.
+
+3. **Slices per Person:**
+   - To share equally among 4 people:
+   \[
+   \frac{32 \text{ slices}}{4 \text{ people}} = 8 \text{ slices/person}
+   \]
+
+**Final Answer:**
+\[
+\boxed{8}
+\]

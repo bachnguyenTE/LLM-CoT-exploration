@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Beatrice bought ten packets of crayons for her Art class. Six of the packets had eight pieces of colors each, and the other four packets had sixteen pieces of colors each. How many colors of crayons did Beatrice buy in all?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Beatrice bought a total of 10 packets of crayons. 
+
+- **Six packets** had 8 pieces of colors each:
+  \[
+  6 \text{ packets} \times 8 \text{ pieces/packet} = 48 \text{ pieces}
+  \]
+  
+- **Four packets** had 16 pieces of colors each:
+  \[
+  4 \text{ packets} \times 16 \text{ pieces/packet} = 64 \text{ pieces}
+  \]
+
+**Total number of crayons:**
+\[
+48 \text{ pieces} + 64 \text{ pieces} = 112 \text{ pieces}
+\]
+
+**Answer:** Beatrice bought a total of \(\boxed{112}\) colors of crayons.

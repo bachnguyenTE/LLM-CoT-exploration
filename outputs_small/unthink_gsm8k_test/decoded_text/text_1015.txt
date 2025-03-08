@@ -1,0 +1,18 @@
+<｜User｜>
+Q: Anne purchased a box of sweets that contains 15 packs, and each pack has 60 pieces. She kept two packs and gave the rest to her 10 friends equally. How many pieces of sweets did each of her friends receive?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Total number of packs:** 15
+2. **Packs kept by Anne:** 2
+3. **Packs given to friends:** \(15 - 2 = 13\)
+
+4. **Total number of pieces in each pack:** 60
+5. **Total number of pieces in 13 packs:** \(13 \times 60 = 780\)
+
+6. **Number of friends:** 10
+7. **Pieces of sweets each friend received:** \(\frac{780}{10} = 78\)
+
+**Answer:** Each friend received \(\boxed{78}\) pieces of sweets.

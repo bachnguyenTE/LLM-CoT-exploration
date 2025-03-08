@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Lori needed 1 whole egg to make 2 deviled egg halves.  She anticipates that each of her guests will eat 3 deviled egg halves.  If she is inviting 16 guests to her party, how many dozens of eggs will she need?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Lori needs to make **2 deviled egg halves** using **1 whole egg**. This means she needs **1 egg per 2 halves**.
+
+1. **Calculate the number of eggs needed per guest:**
+   
+   Each guest eats **3 deviled egg halves**. Since 2 halves require 1 egg, 3 halves would require:
+   
+   \[
+   \frac{3 \text{ halves}}{2 \text{ halves per egg}} = 1.5 \text{ eggs per guest}
+   \]
+
+2. **Calculate the total number of eggs needed for 16 guests:**
+   
+   \[
+   16 \text{ guests} \times 1.5 \text{ eggs per guest} = 24 \text{ eggs}
+   \]
+
+3. **Convert the total number of eggs to dozens:**
+   
+   Since 1 dozen = 12 eggs:
+   
+   \[
+   \frac{24 \text{ eggs}}{12 \text{ eggs per dozen}} = 2 \text{ dozen eggs}
+   \]
+
+**Final Answer:**
+\[
+\boxed{2 \text{ dozen}}
+\]

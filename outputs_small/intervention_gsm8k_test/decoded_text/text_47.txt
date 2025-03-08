@@ -1,0 +1,30 @@
+<｜User｜>
+Q: John buys twice as many red ties as blue ties.  The red ties cost 50% more than blue ties.  He spent $200 on blue ties that cost $40 each. How much did he spend on ties?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about John buying red and blue ties. Let me try to figure it out step by step. Sometimes these word problems can be a bit tricky, but, that seems right. 
+
+First, the problem says John buys twice as many red ties as blue ties. Hmm, so if he buys some number of blue ties, the red ties are double that number. Let me write that down. Let me denote the number of blue ties as B. Then, the number of red ties would be 2B. That makes sense.
+
+Next, it says the red ties cost 50% more than the blue ties. So, if a blue tie costs, say, $x, then a red tie would cost 50% more than that. Let me think about how to express that. If the blue tie is $x, then 50% more would be x + 0.5x, which is 1.5x. So, red ties are 1.5 times the cost of blue ties. Got it.
+
+Then, the problem states that he spent $200 on blue ties that cost $40 each. Wait, that seems right. So, the total amount he spent on blue ties is $200, and each blue tie costs $40. So, how many blue ties did he buy? Let me calculate that. If each blue tie is $40 and he spent $200, then the number of blue ties is total cost divided by cost per tie. So, 200 divided by 40. Let me do that: 200 / 40. Hmm, 40 goes into 200 five times because 40 times 5 is 200. So, he bought 5 blue ties. That seems straightforward.
+
+So, if he bought 5 blue ties, and the number of red ties is twice that, then red ties would be 2 times 5, which is 10 red ties. So, he bought 10 red ties. Wait, that seems right. 5 blue and 10 red ties. Let me check that. 5 blue ties at $40 each is 5*40=200, which matches the given information. And 10 red ties, each costing 50% more than blue ties. So, blue tie is $40, red tie is 40 + 20=60. So, each red tie is $60. Then, 10 red ties would cost 10*60=600. So, total cost is blue ties plus red ties, which is 200 + 600=800. So, he spent $800 on ties.
+
+Wait, that seems right. Let me go through it again to make sure I didn't make a mistake. So, blue ties: 5 ties, each $40, so 5*40=200. Red ties: twice as many as blue, so 10 ties. Each red tie is 50% more expensive than blue tie, so 40 + 20=60. 10 red ties: 10*60=600. Total spent: 200+600=800. So, $800 total.
+
+Wait, that seems right. But, that seems right. Let me think if there's another way to approach this problem. Maybe using variables instead of numbers. Let me try that.
+
+Let me denote the cost of a blue tie as B. Then, the cost of a red tie is 1.5B, since it's 50% more expensive. He bought twice as many red ties as blue ties. So, if he bought B blue ties, he bought 2B red ties.
+
+The total amount spent on blue ties is 200, and each blue tie costs 40. So, the number of blue ties is 200 / 40 = 5. So, B=5. Therefore, the cost of a red tie is 1.5*40=60. So, each red tie is 60. Then, the total spent on red ties is 2B*60=10*60=600. So, total spent is 200+600=800.
+
+So, same result. So, that seems consistent. So, the answer is $800.
+
+Wait, that seems right. So, I think that's the correct answer. So, he spent $800 on ties.
+
+**Final Answer**
+The total amount John spent on ties is \boxed{800}.
+</think>
+
+John buys twice as many red ties as blue ties. Let \( B

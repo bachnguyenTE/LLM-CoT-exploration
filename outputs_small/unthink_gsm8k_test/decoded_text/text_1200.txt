@@ -1,0 +1,43 @@
+<｜User｜>
+Q: Eight more than four times the number of coffee mugs in the teacher’s lounge is 40. How many coffee mugs are in the teacher’s lounge?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+Eight more than four times the number of coffee mugs in the teacher’s lounge is 40. How many coffee mugs are in the teacher’s lounge?
+
+**Solution:**
+
+1. **Define the variable:**
+   Let \( x \) be the number of coffee mugs in the teacher’s lounge.
+
+2. **Set up the equation:**
+   According to the problem, eight more than four times the number of coffee mugs is 40. This can be written as:
+   \[
+   4x + 8 = 40
+   \]
+   (Note: The right side is written as 40, not 40 as in the original problem. It's a minor typo, but we'll proceed with 40.)
+
+3. **Solve for \( x \):**
+   \[
+   4x + 8 = 40
+   \]
+   Subtract 8 from both sides:
+   \[
+   4x = 40 - 8
+   \]
+   \[
+   4x = 32
+   \]
+   Divide both sides by 4:
+   \[
+   x = \frac{32}{4}
+   \]
+   \[
+   x = 8
+   \]
+
+**Answer:**
+The teacher’s lounge has \(\boxed{8}\) coffee mugs.

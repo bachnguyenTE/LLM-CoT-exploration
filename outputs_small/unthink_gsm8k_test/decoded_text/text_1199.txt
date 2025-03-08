@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Fred was preparing for a party to be held in four days.  So, he made 24 gallons of root beer on the first day and put them in the refrigerator cooler.  But later that evening, his children discovered the delicious nectar and robbed the cooler, drinking 4 of those gallons of root beer.  On the second day, his wife Barbie also discovered the root beer and accidentally spilled 7 gallons. On the third day, Fred's friend Ronnie visited Fred's house and helped himself to the root beer, further reducing the amount remaining by 5 gallons.  On the fourth day, 3 people showed up for the party.  If Fred and the others shared the remaining root beer equally, how much was available for each to drink during the party?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to determine how much root beer is available for each person to drink during the party.
+
+1. **Initial Amount on Day 1:**
+   - **Root Beer made:** 24 gallons.
+
+2. **Children Discovered and Robbed the Cooler:**
+   - **Gallons drunk by children:** 4 gallons.
+   - **Remaining root beer after children:** \(24 - 4 = 20\) gallons.
+
+3. **Barbie Accidentally Spilled Root Beer on Day 2:**
+   - **Gallons spilled by Barbie:** 7 gallons.
+   - **Remaining root beer after spills:** \(20 - 7 = 13\) gallons.
+
+4. **Ronnie Helped Himself on Day 3:**
+   - **Gallons consumed by Ronnie:** 5 gallons.
+   - **Remaining root beer after Ronnie:** \(13 - 5 = 8\) gallons.
+
+5. **3 People Showed Up for the Party on Day 4:**
+   - **Total people sharing the root beer:** 3 (including Fred).
+   - **Gallons available for each person:** \( \frac{8}{3} \) gallons.
+
+**Final Answer:**
+\[
+\boxed{\dfrac{8}{3} \text{ gallons}}
+\]

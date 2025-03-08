@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Monica is wrapping Christmas gifts. She has 6 gifts to wrap for her family, 4 gifts to wrap for her friends and 2 gifts to wrap for her teachers. She has 144 inches of ribbon and wants to make a bow for each gift with it. How many inches of ribbon can she use for each gift bow?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many inches of ribbon Monica can use for each gift bow, follow these steps:
+
+1. **Total Number of Gifts:**
+   - **Family Gifts:** 6
+   - **Friendship Gifts:** 4
+   - **Teacher Gifts:** 2
+   - **Total Gifts:** \(6 + 4 + 2 = 12\) gifts
+
+2. **Total Ribbon Available:**
+   - **Total Ribbon:** 144 inches
+
+3. **Ribbon per Gift Bow:**
+   - **Total Ribbon per Gift:** \( \frac{144 \text{ inches}}{12 \text{ gifts}} = 12 \text{ inches per gift} \)
+
+**Final Answer:**
+\[
+\boxed{12}
+\]

@@ -1,0 +1,28 @@
+<｜User｜>
+Q: John wins an award at work.  The award has a 1 time monetary reward of $5000 and a 5% raise in salary.  If he makes 2000 a week, every week of the year and he got the award on the first day of the year how much money did he make that year?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+John won an award with a **1-time monetary reward of \$5,000** and a **5% salary increase**. His weekly salary is **\$2,000**. He receives this salary every week of the year and the award was received on the **first day of the year**.
+
+**Step 1: Calculate the total earnings from the weekly salary.**
+
+There are 52 weeks in a year.
+
+\[
+\text{Total weekly earnings} = 52 \text{ weeks} \times \$2,000/\text{week} = \$106,400
+\]
+
+**Step 2: Add the monetary reward.**
+
+\[
+\text{Total earnings} = \$106,400 + \$5,000 = \$111,500
+\]
+
+**Final Answer:**
+
+\[
+\boxed{\$11,\!500}
+\]

@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Two friends are playing pick-up sticks. While playing, they noticed that there are 9 red sticks, and 5 more blue sticks than red. Also, the number of yellow sticks is 3 less than the blue sticks. How many sticks do they have?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+1. **Red Sticks:**
+   - There are **9 red sticks**.
+
+2. **Blue Sticks:**
+   - It's mentioned that there are **5 more blue sticks than red sticks**.
+   - So, the number of blue sticks = Red sticks + 5
+   - Number of blue sticks = 9 + 5 = **14 blue sticks**
+
+3. **Yellow Sticks:**
+   - The number of yellow sticks is **3 less than the blue sticks**.
+   - So, the number of yellow sticks = Blue sticks - 3
+   - Number of yellow sticks = 14 - 3 = **11 yellow stick**
+
+4. **Total Sticks:**
+   - Total sticks = Red sticks + Blue sticks + Yellow sticks
+   - Total sticks = 9 + 14 + 11 = **34 sticks**
+
+**Final Answer:** \(\boxed{34}\)

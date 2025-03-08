@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Andrew bakes 200 mini cinnamon rolls and 300 mini blueberry muffins. A normal cinnamon roll has 600 calories and a normal blueberry muffin has 450 calories. If a mini pastry has 1/3rd of the calories of a normal version, how many calories do the pastries he baked have?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of calories in the mini pastries Andrew baked, follow these steps:
+
+1. **Calculate the calories for each type of pastry:**
+   - **Cinnamon Rolls:**
+     \[
+     200 \text{ mini rolls} \times 600 \text{ calories per roll} = 120,\!000 \text{ calories}
+     \]
+   - **Blueberry Muffins:**
+     \[
+     300 \text{ mini muffins} \times 450 \text{ calories per muffin} = 135,\!000 \text{ calories}
+     \]
+
+2. **Add the calories of both types of pastries:**
+   \[
+   120,\!000 \text{ calories} + 135,\!000 \text{ calories} = 255,\!000 \text{ calories}
+   \]
+
+**Final Answer:**
+\[
+\boxed{255,\!000}
+\]

@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Marcell and Beatrice are having a contest to see who can eat the most fruit roll-ups, so they unroll as many as they can find. Unfortunately, someone makes a mistake and Beatrice's was two roll-ups wide and 24 rolls up long while Marcell's was 3 roll-ups wide and 14 roll-ups long. If they both ate their entire amount, how many did they eat on average?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the average number of fruit roll-ups eaten by Marcell and Beatrice, follow these steps:
+
+1. **Calculate the total number of fruit roll-ups for Beatrice:**
+   \[
+   \text{Beatrice's roll-ups} = \text{Width} \times \text{Length} = 2 \times 24 = 48
+   \]
+
+2. **Calculate the total number of fruit roll-ups for Marcell:**
+   \[
+   \text{Marcell's roll-ups} = \text{Width} \times \text{Length} = 3 \times 14 = 42
+   \]
+
+3. **Find the total number of fruit roll-ups eaten by both:**
+   \[
+   \text{Total roll-ups} = 48 + 42 = 90
+   \]
+
+4. **Calculate the average number of roll-ups eaten per person:**
+   \[
+   \text{Average} = \frac{\text{Total roll-ups}}{2} = \frac{90}{2} = 45
+   \]
+
+**Final Answer:**
+\[
+\boxed{45}
+\]

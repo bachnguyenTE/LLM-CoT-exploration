@@ -1,0 +1,43 @@
+<｜User｜>
+Q: If a classroom has 3 times as many girls as they do boys, and 1/10 as many nongendered children as they do boys, and the classroom has 30 boys.  How many total children does it have?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Given:**
+   - The classroom has **3 times as many girls as boys**.
+   - The classroom has **1/10 as many nongendered children as boys**.
+   - The number of **boys** in the classroom is **30**.
+
+2. **Let’s denote:**
+   - Let \( B \) = number of boys.
+   - Let \( G \) = number of girls.
+   - Let \( N \) = number of nongendered children.
+
+3. **From the problem:**
+   - \( B = 30 \) (given).
+   - \( G = 3B \) (since there are 3 times as many girls as boys).
+   - \( N = \frac{1}{10}B \) (since there are 1/10 as many nongendered children as boys).
+
+4. **Calculate the number of girls:**
+   \[
+   G = 3 \times B = 3 \times 30 = 90
+   \]
+   
+5. **Calculate the number of nongendered children:**
+   \[
+   N = \frac{1}{10} \times B = \frac{1}{10} \times 30 = 3
+   \]
+   
+6. **Calculate the total number of children:**
+   \[
+   \text{Total Children} = B + G + N = 30 + 90 + 3 = 123
+   \]
+
+**Final Answer:**
+\[
+\boxed{123}
+\]

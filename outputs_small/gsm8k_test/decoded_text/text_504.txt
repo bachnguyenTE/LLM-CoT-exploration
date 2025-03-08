@@ -1,0 +1,53 @@
+<｜User｜>
+Q: Suzie loves to chew fruit-flavored gum. She bought four packs of gum the last time she was at the store. She got two packs of her favorite flavor, strawberry. She paid $2 for a pack of grape gum that she also liked. She wanted to try something new, so she paid half as much for a small pack of green apple gum. If she paid $7 in all, how many dollars did each pack of strawberry gum cost?
+A:<｜Assistant｜><think>
+First, I need to determine the total amount Suzie spent on buy the four packs of gum. She bought two packs of strawberry gum, one pack of grape gum, and one pack of green apple gum.
+
+Next, I'll calculate the cost of each type of gum. The grape gum cost $2, and the green apple gum cost half of that, which is $1.
+
+Now, I'll add up the costs of all the gum to find the total amount Suzie spent. The total is $2 (grape gum) + $1 (green apple gum) + $4 (strawberry gum) = $7.
+
+Finally, since Suzie bought two packs of strawberry gum and the total cost was $7, each pack of strawberry gum must have cost $3.50.
+</think>
+
+Let's break down the problem step by step to find out how much each pack of strawberry gum cost.
+
+1. **Identify the types of gum Suzie bought and their quantities:**
+   - **Strawberry gum:** 2 packs
+   - **Grape gum:** 1 pack
+   - **Green apple gum:** 1 pack
+
+2. **Determine the cost of each type of gum:**
+   - **Grape gum:** \$2
+   - **Green apple gum:** Half the price of grape gum = \$2 / 2 = \$1
+
+3. **Calculate the total cost of all the gum:**
+   \[
+   \text{Total Cost} = \text{Cost of Strawberry Gum} + \text{Cost of Grape Gum} + \text{Cost of Green Apple Gum}
+   \]
+   \[
+   \text{Total Cost} = 2 \times \text{Price per Strawberry Gum} + \$2 + \$1
+   \]
+   \[
+   \text{Total Cost} = 2x + 3
+   \]
+   where \( x \) is the price per pack of strawberry gum.
+
+4. **Set up the equation based on the total amount Suzie paid:**
+   \[
+   2x + 3 = 7
+   \]
+
+5. **Solve for \( x \):**
+   \[
+   2x = 7 - 3
+   \]
+   \[
+   2x = 4
+   \]
+   \[
+   x = \frac{4}{2} = 2
+   \]
+
+6. **Conclusion:**
+   Each pack of strawberry gum cost \(\boxed{2}\) dollars.

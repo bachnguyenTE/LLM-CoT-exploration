@@ -1,0 +1,35 @@
+<｜User｜>
+Q: There are 36 penguins sunbathing in the snow.  One-third of them jump in and swim in the ocean.  Another one-third go inside the cave to eat their dinner.  How many penguins are still left sunbathing?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We start with **36 penguins** sunbathing in the snow.
+
+1. **One-third of them jump into the ocean:**
+   \[
+   \frac{1}{3} \times 36 = 2 \text{ penguins}
+   \]
+   So, **2 penguins** are now in the ocean.
+
+2. **Another one-third go inside the cave:**
+   \[
+   \frac{1}{3} \times 36 = 2 \text{ penguins}
+   \]
+   So, **2 penguins** are now in the cave.
+
+3. **Total penguins that have moved:**
+   \[
+   2 \text{ (ocean)} + 2 \text{ (cave)} = 4 \text{ penguins}
+   \]
+
+4. **Penguins still sunbathing:**
+   \[
+   36 - 4 = 32 \text{ penguins}
+   \]
+
+**Final Answer:**
+\[
+\boxed{32}
+\]

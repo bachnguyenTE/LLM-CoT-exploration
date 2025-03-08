@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Maddy is buying pizza for her cousin's soccer game. There are 12 team members and 3 coaches. Each team member brings 2 guests. A pizza will serve 3 people. If each pizza costs $15, how many dollars will Maddy spend?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total number of people:**
+   - **Team members:** 12
+   - **Guests per team member:** 2
+   - **Total guests:** \(12 \times 2 = 24\)
+   - **Total people (team + guests):** \(12 + 24 = 36\)
+
+2. **Calculate the number of pizzas needed:**
+   - **People per pizza:** 3
+   - **Number of pizzas:** \(\frac{36}{3} = 2\)
+
+3. **Calculate the total cost:**
+   - **Cost per pizza:** \$15
+   - **Total cost:** \(2 \times 15 = 30\)
+
+**Final Answer:** \(\boxed{30}\)

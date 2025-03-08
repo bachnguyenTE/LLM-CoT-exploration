@@ -1,0 +1,26 @@
+<｜User｜>
+Q: In Tate’s garden pond, there are 4 male guppies, 7 female guppies, 3 male goldfishes, and 5 female goldfishes.  He buys 2 male guppies, 1 female guppy, 2 male goldfishes, and 3 female goldfishes.  How many more female fishes than male fishes does Tate have?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Initial Counts:**
+- **Male Guppies:** 4
+- **Female Guppies:** 7
+- **Male Goldfishes:** 3
+- **Female Goldfishes:** 5
+
+**After Tate Buys:**
+- **Male Guppies:** 4 + 2 = **6**
+- **Female Guppies:** 7 + 1 = **8**
+- **Male Goldfishes:** 3 + 2 = **5**
+- **Female Goldfishes:** 5 + 3 = **8**
+
+**Total Female Fishes:** 8 (guppies) + 8 (goldfishes) = **16**
+
+**Total Male Fishes:** 6 (guppies) + 5 (goldfishes) = **11**
+
+**Difference:** 16 (female) - 11 (male) = **5**
+
+**Final Answer:** \boxed{5}

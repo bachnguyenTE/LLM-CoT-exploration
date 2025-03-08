@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Pauline visits her favorite local museum three times a year. The cost of one visit is $2. After 5 years, the cost of one visit has increased by 150%, but Pauline decided not to give up any visit and continued to go to the museum for 3 more years. How much did Pauline spend on all visits to the museum?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Information:**
+   - Pauline visits the museum three times a year.
+   - The cost of one visit is \$2.
+   - After 5 years, the cost of one visit has increased by 150%.
+   - Pauline decided not to give up any visits and continued to go to the museum for 3 more years.
+
+2. **Calculate the Original Cost:**
+   - **Visits per year:** 3
+   - **Cost per visit:** \$2
+   - **Total visits in 5 years:** \(3 \times 5 = 15\) visits
+   - **Total cost in 5 years:** \(15 \times \$2 = \$30\)
+
+3. **Determine the Increased Cost:**
+   - **Increase:** 150% of \$2
+   - **Increase amount:** \(1.50 \times \$2 = \$3\)
+   - **New cost per visit:** \$2 + \$3 = \$5
+
+4. **Calculate the Additional Visits:**
+   - **Additional years:** 3
+   - **Total visits in 3 additional years:** \(3 \times 3 = 9\) visits
+   - **Total cost for additional visits:** \(9 \times \$5 = \$45\)
+
+5. **Calculate the Total Spending:**
+   - **Total cost in 5 years:** \$30
+   - **Total cost for additional 3 years:** \$45
+   - **Total spending:** \$30 + \$45 = **\$75**
+
+**Final Answer:**
+\[
+\boxed{75}
+\]

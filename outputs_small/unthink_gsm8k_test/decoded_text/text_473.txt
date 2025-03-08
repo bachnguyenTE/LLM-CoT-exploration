@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Benny saw a 10-foot shark with 2 6-inch remoras attached to it. What percentage of the shark's body length is the combined length of the remoras?
+A:<｜Assistant｜><think>
+</think>
+
+To determine what percentage of the shark's body length is occupied by the combined length of its remoras, follow these steps:
+
+1. **Understand the Given Information:**
+   - **Total length of the shark:** 10 feet
+   - **Length of each remoras:** 6 inches
+
+2. **Convert Units to Be Consistent:**
+   - Since the total length is in feet and the remoras length is in inches, convert inches to feet.
+   - **1 foot = 12 inches**
+   - **6 inches = 6/12 = 0 feet**
+
+3. **Calculate the Combined Length of the Remoras:**
+   - **Total remoras length = 2 × 6 inches = 12 inches**
+   - Convert to feet: **12 inches = 1 foot**
+
+4. **Determine the Percentage:**
+   - **Percentage = (Combined length of remoras / Total length of shark) × 100**
+   - **Percentage = (1 foot / 10 feet) × 100**
+   - **Percentage = 0.1 × 100 = 10%**
+
+**Final Answer:**  
+\boxed{10\%}

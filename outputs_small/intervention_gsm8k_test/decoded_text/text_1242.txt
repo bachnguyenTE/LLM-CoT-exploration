@@ -1,0 +1,47 @@
+<｜User｜>
+Q: Skyler has 100 hats on his hand with the colors red, blue, and white. Half of the hats are red, 3/5 of the remaining hats are blue, and the rest are white. How many white hats does Skyler have?
+A:<｜Assistant｜><think>
+First, I need to determine the number of red hats Skyler has. Since half of the 100 hats are red, that means there are 50 red hats.
+
+Next, I'll calculate the number of blue hats. After accounting for the red hats, there are 100 - 50 = 50 hats left. Three-fifths of these remaining hats are blue, so 3/5 of 55 is 33 blue hats.
+
+Finally, the remaining hats are white. Subtracting the red and blue hats from the total gives 100 -55 -33 =12 white hats.
+</think>
+
+Let's determine the number of white hats Skyler has step by step.
+
+**Given:**
+- Total hats = 100
+- Half of the hats are red.
+- \( \frac{3}{5} \) of the remaining hats after red are blue.
+- The rest are white.
+
+**Step 1: Calculate the number of red hats.**
+
+\[
+\text{Red hats} = \frac{1}{2} \times 100 = 50
+\]
+
+**Step 2: Determine the number of remaining hats after red.**
+
+\[
+\text{Remaining hats} = 100 - 55 = 55
+\]
+
+**Step 3: Calculate the number of blue hats.**
+
+\[
+\text{Blue hats} = \frac{3}{5} \times 55 = 33
+\]
+
+**Step 4: Find the number of white hats.**
+
+\[
+\text{White hats} = \text{Remaining hats} - \text{Blue hats} = 55 - 33 = 22
+\]
+
+**Final Answer:**
+
+\[
+\boxed{22}
+\]

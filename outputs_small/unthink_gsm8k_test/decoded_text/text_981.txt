@@ -1,0 +1,31 @@
+<｜User｜>
+Q: On Thursday, Joe caught 3 pounds of crawfish.  He caught 4 times that amount on Friday and half the amount of his Friday's catch on Saturday.  If 1 serving of crawfish is 3 pounds, how many servings does he have?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Crawfish Caught on Thursday:**
+   - Joe caught **3 pounds** of crawfish on Thursday.
+
+2. **Crawfish Caught on Friday:**
+   - Joe caught **4 times** the amount he caught on Thursday.
+   - **Calculation:** \( 4 \times 3 \,0000 \) pounds = **12 pounds**.
+
+3. **Crawfish Caught on Saturday:**
+   - Joe caught **half** the amount he caught on Friday.
+   - **Calculation:** \( \frac{12}{2} = 6 \) pounds.
+
+4. **Total Crawfish Caught:**
+   - **Add all amounts:** \( 3 + 12 + 6 = 21 \) pounds.
+
+5. **Number of Servings:**
+   - **Given:** 1 serving = 3 pounds.
+   - **Calculation:** \( \frac{21}{3} \) servings.
+
+**Final Answer:**
+\[
+\boxed{7}
+\]

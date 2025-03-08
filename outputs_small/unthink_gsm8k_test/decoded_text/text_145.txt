@@ -1,0 +1,38 @@
+<｜User｜>
+Q: John has 10 hectares of a pineapple field. There are 100 pineapples per hectare. John can harvest his pineapples every 3 months. How many pineapples can John harvest within a year?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total number of pineapples per hectare:**
+   
+   \[
+   100 \text{ pineapples/ha}
+   \]
+
+2. **Calculate the total number of pineapples in 10 hectares:**
+   
+   \[
+   10 \text{ ha} \times 100 \text{ pineapples/ha} = 1000 \text{ pineapples}
+   \]
+
+3. **Determine how many harvest cycles there are in a year:**
+   
+   - **Harvest every 3 months:** There are 4 quarters (3 months) in a year.
+   
+   \[
+   \frac{1 \text{ year}}{3 \text{ months/harvest}} = \frac{4}{1} = 4 \text{ harvest cycles}
+   \]
+
+4. **Calculate the total number of pineapples harvested in a year:**
+   
+   \[
+   1000 \text{ pineapples/ha} \times 10 \text{ ha} \times 4 \text{ harvest cycles} = 4000 \text{ pineapples}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{4000}
+\]

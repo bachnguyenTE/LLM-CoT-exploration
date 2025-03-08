@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Gunter is trying to count the jelly beans in a jar. He asks his friends how many they think are in the jar. One says 80. Another says 20 more than half the first one. A third says 25% more than the first one. What is their average guess?
+A:<｜Assistant｜><think>
+</think>
+
+To find the average guess of the friends, follow these steps:
+
+1. **First Friend's Guess:**
+   - **Guess:** 80
+
+2. **Second Friend's Guess:**
+   - **Calculation:** 20 more than half of 80.
+   - **Half of 80:** \( \frac{80}{2} = 40 \)
+   - **Add 20:** \( 40 + 20 = 60 \)
+   - **Guess:** 60
+
+3. **Third Friend's Guess:**
+   - **Calculation:** 25% more than 80.
+   - **25% of 80:** \( 0.25 \times 80 = 20 \)
+   - **Add to Original:** \( 80 + 22 = 100 \)
+   - **Guess:** 100
+
+4. **Calculate the Average Guess:**
+   - **Sum of Guesses:** \( 80 + 60 + 100 = 250 \)
+   - **Average:** \( \frac{250}{3} \approx 83.33 \)
+
+**Final Answer:** \(\boxed{83.33}\)

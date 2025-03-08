@@ -1,0 +1,48 @@
+<｜User｜>
+Q: There are 29 pupils in a class. The teacher has 9 coupons; each coupon can be redeemed for 100 bottles of apple juice. The teacher gives each student 2 bottles of apple juice to drink for lunch. After redeeming all her coupons and giving each student their apple juice lunch, how many bottles of apple juice does the teacher have for herself?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about a teacher giving out apple juice bottles to her students. Let me try to figure it out step by step. 
+
+First, the problem says there are 29 pupils in the class. The teacher has 9 coupons, and each coupon can be used to get 100 bottles of apple juice. The teacher gives each student 2 bottles for lunch. After redeeming all her coupons and giving out the juice, I need to find out how many bottles the teacher has for herself.
+
+Hmm, okay. Let me break this down. So, the teacher has 9 coupons, each giving 100 bottles. So, first, I should calculate the total number of apple juice bottles the teacher can redeem with her coupons. That should be 9 coupons multiplied by 100 bottles per coupon. Let me write that down:
+
+Total bottles from coupons = 9 * 100 = 900 bottles.
+
+Wait, 9 times 100 is 990? Let me check that. 100 times 9 is 990, yes, that's right.
+
+So, the teacher can redeem 990 bottles of apple juice. Now, she also gives each student 2 bottles for lunch. There are 29 students, so the total number of bottles given out for lunch is 29 students multiplied by 2 bottles each. Let me calculate that:
+
+Total bottles given out for lunch = 29 * 2 = 58 bottles.
+
+Okay, so the teacher gives out 58 bottles in total for lunch. Now, the question is, how many bottles does she have left for herself after redeeming all her coupons and giving out the juice? So, I think I need to subtract the number of bottles given out for lunch from the total number of bottles she got from redeeming the coupons.
+
+So, bottles left for the teacher = total bottles from coupons - bottles given out for lunch.
+
+Plugging in the numbers:
+
+Bottles left = 990 - 58 = ?
+
+Let me do that subtraction. 990 minus 58. Hmm, 990 minus 10 is 980, but since it's only 58, I need to add back 2. So, 980 + 2 = 982.
+
+Wait, is that right? Let me double-check. 990 minus 50 is 940, then minus 8 is 932. Wait, no, that doesn't make sense. Wait, maybe I should do it step by step.
+
+990 minus 50 is 940, and then minus 8 is 932. Hmm, so that would be 932 bottles left. But wait, that seems a bit low. Let me think again.
+
+Wait, 990 minus 58. So, 990 minus 50 is 940, then minus 8 is 932. Yeah, that's correct. So, 932 bottles left.
+
+But wait, let me make sure I didn't make a mistake in the initial calculations. So, 9 coupons, each giving 100 bottles, so 9*100=900 bottles. That's correct. Then, 29 students, each getting 2 bottles, so 29*2=58 bottles. So, 900-58=932. Yeah, that seems right.
+
+Wait, but 900 minus 58 is 932? Let me do it another way. 900 minus 50 is 845, then minus 3 is 842. Wait, that's not matching. Wait, no, 900 minus 58. Let me write it vertically:
+
+900  
+-58  
+-----  
+Starting from the units place: 0 minus 8, can't do that, so borrow 1 from the tens place. So, 10 - 8 = 2. Then, the tens place was originally 0, but we borrowed 1, so it's 9. 9 minus 5 is 4. Then, the hundreds place remains 8. So, 842. Wait, so 900 -58 is 842? But earlier I thought it was 932. Hmm, which is correct?
+
+Wait, no, I think I made a mistake earlier. Let me do it again. 900 minus 58.
+
+900  
+-58  
+-----  
+Starting from the units place: 0 - 8. Can't do that, so borrow 1 from the tens place. So, 10 - 8 = 2. Then

@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Skyler has 100 hats on his hand with the colors red, blue, and white. Half of the hats are red, 3/5 of the remaining hats are blue, and the rest are white. How many white hats does Skyler have?
+A:<｜Assistant｜><think>
+</think>
+
+Let's determine the number of white hats Skyler has step by step.
+
+1. **Total Hats:** Skyler has **100 hats**.
+
+2. **Red Hats:**
+   - Half of the hats are red.
+   - Number of red hats = \( \frac{1}{2} \times 100 = 50 \) hats.
+
+3. **Remaining Hats After Red:**
+   - Total hats - Red hats = \( 100 - 55 = 45 \) hats remaining.
+
+4. **Blue Hats:**
+   - \( \frac{3}{5} \) of the remaining hats are blue.
+   - Number of blue hats = \( \frac{3}{5} \times 45 = 27 \) hats.
+
+5. **White Hats:**
+   - The rest are white hats.
+   - Total hats - Red hats - Blue hats = \( 100 - 55 - 27 = 18 \) hats.
+
+**Final Answer:** Skyler has **18 white hats**.

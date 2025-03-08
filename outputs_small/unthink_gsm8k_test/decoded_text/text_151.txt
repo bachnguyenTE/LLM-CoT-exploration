@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Shawnda decides that her neighborhood kids could really use a bike inflation service. She decides the best way to charge is by the tire. Each tire costs 25 cents to inflate. On the first day, 5 people on bicycles came by to get both tires inflated. 3 people came by to get all their tricycle tires inflated. Finally, one person actually came by on a unicycle. How many dollars did she make that day?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many dollars Shawnda made that day, let's break down the inflating service for each type of vehicle:
+
+1. **Bicycles (5 people):**
+   - Each person needs 2 tires.
+   - Total tires needed: \(5 \text{ people} \times 2 \text{ tires/person} = 10 \text{ tires}\).
+
+2. **Tricycles (3 people):**
+   - Each person needs 3 tires.
+   - Total tires needed: \(3 \text{ people} \times 3 \text{ tires/person} = 9 \text{ tires}\).
+
+3. **Unicycles (1 person):**
+   - Each person needs 1 tire.
+   - Total tires needed: \(1 \text{ person} \times 1 \text{ tire/person} = 1 \text{ tire}\).
+
+**Total Tires Inflated:**
+\[
+10 \text{ (bicycles)} + 9 \text{ (tricycles)} + 1 \text{ (unicycle)} = 20 \text{ tires}
+\]
+
+Since each tire costs **25 cents**, the total earnings for the day are:
+\[
+20 \text{ tires} \times \$0.25/\text{tire} = \$5.00
+\]
+
+**Final Answer:**
+\[
+\boxed{\$5.00}
+\]

@@ -1,0 +1,22 @@
+<｜User｜>
+Q: John arm wrestles 20 people.  He beats 80%.  How many people did he lose to?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many people John lost to in arm wrestling, follow these steps:
+
+1. **Total number of people John arm wrestled:** 20
+
+2. **Percentage of people John won:** 80%
+
+3. **Calculate the number of people John won:**
+   \[
+   \text{Number of wins} = 20 \times \frac{80}{100} = 20 \times 0.8 = 16
+   \]
+
+4. **Calculate the number of people John lost:**
+   \[
+   \text{Number of losses} = \text{Total people} - \text{Number of wins} = 20 - 16 = 4
+   \]
+
+**Final Answer:** John lost to \boxed{4} people.

@@ -1,0 +1,20 @@
+<｜User｜>
+Q: While walking down the street with his 3 younger siblings, Greg found $20. To be fair to his siblings, he decided to split the money equally. How much money did each of them get?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Greg found **\$20** and decided to split the money equally among himself and his **3 younger siblings**. This means the total number of people sharing the money is:
+
+\[
+1 \text{ (Greg)} + 3 \text{ (siblings)} = 4 \text{ people}
+\]
+
+To find out how much each person gets, divide the total amount of money by the number of people:
+
+\[
+\frac{\$20}{4} = \$5
+\]
+
+**Answer:** Each person gets \(\boxed{\$5}\).

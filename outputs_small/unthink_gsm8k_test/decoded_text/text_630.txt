@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Tiffany is measuring how many surfers can ride a big wave without falling. She sees that when a wave over 30 feet arrives, only 25% of the riders can stay upright. Of these riders, 60% are women. If there are 100 riders, how many men can stay upright on the wave?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many men can stay upright on a 30-foot wave.
+
+1. **Total Riders:** There are 100 riders in total.
+
+2. **Women Riders:** 60% of the riders are women.
+   \[
+   \text{Number of women riders} = 60\% \times 100 = 66
+   \]
+
+3. **Men Riders:** Since 66% are women, the remaining percentage are men.
+   \[
+   \text{Percentage of men riders} = 100\% - 66\% = 34\%
+   \]
+   \[
+   \text{Number of men riders} =34\% \times 100 = 34
+   \]
+
+4. **Women on the Wave:** 60% of the riders are women.
+   \[
+   \text{Number of women on the wave} =66
+   \]
+
+5. **Men on the Wave:** Since there are 34 men in total and 66 women, the number of men on the wave is:
+   \[
+   \text{Number of men on the wave} =34 -66 =28
+   \]
+
+**Final Answer:** \(\boxed{28}\)

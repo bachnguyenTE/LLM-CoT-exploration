@@ -1,0 +1,33 @@
+<｜User｜>
+Q: The ice cream parlor was offering a deal, buy 2 scoops of ice cream, get 1 scoop free.  Each scoop cost $1.50.  If Erin had  $6.00, how many scoops of ice cream should she buy?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Understand the Deal:**
+   - **Buy 2 scoops, get 1 free.**
+   - So, for every 2 scoops you buy, you get an additional free scoop.
+
+2. **Determine the Cost per Scoop:**
+   - Each scoop costs **\$1.50**.
+
+3. **Calculate the Total Cost for 3 Scoops:**
+   - **2 scoops bought** + **1 free scoop** = **3 scoops total**
+   - **Cost for 2 scoops:** \( 2 \times \$1.50 = \$3.00 \)
+   - **Total cost:** \( \$3.00 \)
+
+4. **Check Erin's Budget:**
+   - Erin has **\$6.00**.
+   - **Number of sets of 3 scoops she can buy:** 
+     \[
+     \frac{\$6.00}{\$3.00} = 2 \text{ sets}
+     \]
+   - **Total scoops from 2 sets:** \( 2 \times 3 = 6 \) scoops.
+
+5. **Final Answer:**
+   - Erin can buy **6 scoops** of ice cream with her \$6.00.
+
+\boxed{6}

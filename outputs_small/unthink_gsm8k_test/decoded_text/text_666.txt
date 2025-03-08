@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Rayna has 60 more dollars than Kassidy, and Kassidy has 3/4 times as much money as Aurelia. If Arelia has $120, how much would each have if they decided to add together their money and share equally among them?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Define Variables:**
+   - Let \( A \) represent the amount of money Arelia has.
+   - According to the problem, Arelia has \$120. So, \( A = 120 \).
+
+2. **Express Other People's Amounts in Terms of A:**
+   - **Kassidy:** Kassidy has \( \frac{3}{4} \) times as much money as Aurelia.
+     \[
+     K = \frac{3}{4}A
+     \]
+   - **Rayna:** Rayna has \$60 more than Kassidy.
+     \[
+     R = K + 60 = \frac{3}{4}A + 60
+     \]
+
+3. **Substitute the Value of A:**
+   - Since \( A = 120 \),
+     \[
+     K = \frac{3}{4} \times 120 = 90
+     \]
+     \[
+     R = 90 + 60 = 156
+     \]
+
+4. **Calculate the Total Amount of Money:**
+   \[
+   \text{Total} = A + K + R = 120 + 90 + 156 = 366
+   \]
+
+5. **Determine the Equal Share:**
+   - There are 4 people (Arelia, Kassidy, Rayna, and presumably another person, but the problem doesn't mention a fourth person).
+   - Since the problem mentions "them," and we have four people, we'll divide the total equally among them.
+     \[
+     \text{Equal Share} = \frac{366}{4} = 91.5
+     \]
+     - However, typically money is in whole dollars, so it might be \$91.50, but since the problem doesn't specify, we'll keep it as \$91.50.
+
+**Final Answer:**
+\[
+\boxed{91.50}
+\]

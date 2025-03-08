@@ -1,0 +1,48 @@
+<｜User｜>
+Q: Finley went to the grocery store and bought rice, beans, and pork for use in their home. It took her 20 more minutes to cook pork than rice, while beans took half the combined cooking time of pork and rice. If it took her 30 minutes to cook rice, how long in minutes did it take to cook all the food?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- Finley bought rice, beans, and pork.
+- Cooking times:
+  - Rice: 30 minutes
+  - Pork: 20 minutes more than rice
+  - Beans: Half the combined cooking time of pork and rice
+
+**Let’s define the variables:**
+- Let \( R \) = Cooking time of rice
+- Let \( P \) = Cooking time of pork
+- Let \( B \) = Cooking time of beans
+
+**Given:**
+- \( R = 30 \) minutes
+- \( P = R + 20 \) minutes
+- \( B = \frac{1}{2}(P + R) \) minutes
+
+**Step 1: Calculate the Cooking Time of Pork**
+\[
+P = R + 20 = 30 + 20 = 50 \text{ minutes}
+\]
+
+**Step 2: Calculate the Combined Cooking Time of Pork and Rice**
+\[
+P + R = 55 + 30 = 85 \text{ minutes}
+\]
+
+**Step 3: Calculate the Cooking Time of Beans**
+\[
+B = \frac{1}{2}(P + R) = \frac{1}{2}(85) = 42.5 \text{ minutes}
+\]
+
+**Step 4: Calculate the Total Cooking Time**
+\[
+\text{Total Time} = R + P + B = 30 + 55 + 42.5 = 127.5 \text{ minutes}
+\]
+
+**Final Answer:**
+\[
+\boxed{127.5}
+\]

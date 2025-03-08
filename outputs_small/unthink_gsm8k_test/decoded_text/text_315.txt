@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Martha is planning her Christmas party. She invited 2 families with 6 people and 3 families with 4 people. 8 people couldn't come due to illness, and 1/4 that number had previous commitments. How many people show up for Martha's party?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many people attended Martha's Christmas party.
+
+1. **Martha's Invitations:**
+   - She invited:
+     - 2 families with 6 people each: \(2 \times 6 = 12\) people
+     - 3 families with 4 people each: \(3 \times4 = 12\) people
+   - **Total invitations:** \(12 + 12 = 24\) people
+
+2. **People Who Couldn't Attend:**
+   - **8 people couldn't come due to illness.**
+
+3. **People with Previous Commitments:**
+   - **1/4 of the 8 people with previous commitments:**
+     \[
+     \frac{1}{4} \times 8 = 2 \text{ people}
+     \]
+
+4. **Total People Who Couldn't Attend:**
+   - **8 (illness) + 2 (previous commitments) = 10 people**
+
+5. **People Who Showed Up:**
+   - **Total invitations - people who couldn't attend - people with previous commitments:**
+     \[
+     24 - 10 = 14 \text{ people}
+     \]
+
+**Final Answer:** \(\boxed{14}\)

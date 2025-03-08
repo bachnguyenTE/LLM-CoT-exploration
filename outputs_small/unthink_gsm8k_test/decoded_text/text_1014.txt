@@ -1,0 +1,55 @@
+<｜User｜>
+Q: Jamaar loves fresh fruit and is headed to the store with $10 he earned mowing lawns. Including tax, peaches and pears are $.5 each, apples are $.75 each, kiwis are $1, and plums cost $.25 each. If he has already purchased 3 peaches, 4 pears, 2 kiwis, and 5 apples, how many plums can he buy?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Jamaar has \$10 to spend at the store. He has already purchased the following items:
+
+- **Peaches:** 3 peaches at \$0.50 each
+- **Pears:** 4 pears at \$0.75 each
+- **Kiwis:** 2 kiwis at \$1.00 each
+- **Apples:** 5 apples at \$0.25 each
+
+First, calculate the total cost of the items already purchased.
+
+1. **Peaches:**
+   \[
+   3 \text{ peaches} \times \$0.50/\text{peach} = \$1.50
+   \]
+
+2. **Pears:**
+   \[
+   4 \text{ pears} \times \$0.750/\text{pear} = \$3.00
+   \]
+
+3. **Kiwis:**
+   \[
+   2 \text{ kiwis} \times \$1.00/\text{kiwi} = \$2.00
+   \]
+
+4. **Apples:**
+   \[
+   5 \text{ apples} \times \$0.25/\text{apple} = \$1.25
+   \]
+
+**Total Cost of Purchased Items:**
+\[
+\$1.50 + \$3.00 + \$2.00 + \$1.25 = \$7.75
+\]
+
+**Remaining Amount for Plums:**
+\[
+\$10.00 - \$7.75 = \$2.25
+\]
+
+Each plum costs \$0.25, so the number of plums Jamaar can buy with the remaining \$2.25 is:
+\[
+\frac{\$2.25}{\$0.25/\text{plum}} = 9 \text{ plums}
+\]
+
+**Final Answer:**
+\[
+\boxed{9}
+\]

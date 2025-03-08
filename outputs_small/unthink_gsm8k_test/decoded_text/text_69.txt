@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Bailey starts with a certain amount of money. Then she receives a weekly allowance of $5 for 8 weeks. At the end of the 8 weeks, if she has a total of $100, how much money did Bailey start with?
+A:<｜Assistant｜><think>
+</think>
+
+Let's determine how much money Bailey started with.
+
+**Step 1: Calculate the total allowance received over 8 weeks.**
+
+Bailey receives a weekly allowance of \$5 for 8 weeks:
+\[
+\text{Total Allowance} = 5 \times 8 = \$40
+\]
+
+**Step 2: Determine the total amount of money after receiving the allowance.**
+
+At the end of 8 weeks, the total amount of money is \$100:
+\[
+\text{Total Money} = \$100
+\]
+
+**Step 3: Subtract the total allowance from the total money to find the initial amount.**
+
+\[
+\text{Initial Amount} = \text{Total Money} - \text{Total Allowance} = 100 - 40 = \$60
+\]
+
+**Final Answer:**
+\[
+\boxed{60}
+\]

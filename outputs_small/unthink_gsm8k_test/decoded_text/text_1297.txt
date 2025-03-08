@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Tim makes a special honey and jam mix.  To make 1 jar of the mixture it takes 2 pounds of passion fruit and 1.5 pounds of jackfruit.  It also takes 2 pounds of special honey.  The passion fruit costs $6 per pound, the jackfruit is $8 per pound, and the honey is $10 per pound.  He sells each jar for $50.  How much profit does he make selling 10 jars?
+A:<｜Assistant｜><think>
+</think>
+
+To determine Tim's profit from selling 10 jars of his special honey and jam mix, we'll follow these steps:
+
+1. **Calculate the cost of ingredients for one jar:**
+   - **Passion Fruit:** 2 pounds × \$6 per pound = \$12
+   - **Jackfruit:** 1.5 pounds × \$8 per pound = \$12
+   - **Honey:** 2 pounds × \$10 per pound = \$20
+   - **Total Cost per Jar:** \$12 + \$12 + \$20 = **\$24**
+
+2. **Calculate the total cost for 10 jars:**
+   - **Total Cost:** 10 jars × \$24 per jar = **\$240**
+
+3. **Calculate the total revenue from selling 10 jars:**
+   - **Total Revenue:** 10 jars × \$50 per jar = **\$500**
+
+4. **Determine the profit:**
+   - **Profit:** Total Revenue - Total Cost = \$500 - \$240 = **\$260**
+
+**Final Answer:**  
+\boxed{266}

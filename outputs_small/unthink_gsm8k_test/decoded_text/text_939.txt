@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Craig and his brother take turns spelling out the longest letter words they know and counting the number of the letters in those words. After ten rounds, Craig has spelled out 20 words with 15 letters each. If Craig's brother has spelled words with a total count of letters 50 more than Craig, calculate the total number of letters in the words they've spelled after the ten rounds.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. ** Craig's Spelling:**
+   - **Number of Words Spelled:** 20
+   - **Letters per Word:** 15
+   - **Total Letters Spelled by Craig:** 
+     \[
+     20 \text{ words} \times 5 \text{ letters/word} = 100 \text{ letters}
+     \]
+
+2. **Brother's Spelling:**
+   - **Total Letters Spelled by Brother:** 50 more than Craig.
+   - **Total Letters Spelled by Brother:**
+     \[
+     100 \text{ letters} + 50 \text{ letters} = 150 \text{ letters}
+     \]
+
+3. **Total Letters Spelled by Both:**
+   \[
+   100 \text{ (Craig)} + 150 \text{ (Brother)} = 255 \text{ letters}
+   \]
+
+**Final Answer:**
+\[
+\boxed{255}
+\]

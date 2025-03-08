@@ -1,0 +1,60 @@
+<｜User｜>
+Q: Melanie is a door-to-door saleswoman. She sold a third of her vacuum cleaners at the green house, 2 more to the red house, and half of what was left at the orange house. If Melanie has 5 vacuum cleaners left, how many did she start with?
+A:<｜Assistant｜><think>
+Okay, so I have this problem about Melanie and her vacuum cleaners. Let me try to figure it out step by step. 
+
+First, the problem says Melanie is a door-to-door saleswoman. She sold a third of her vacuum cleaners at the green house, then sold 2 more to the red house. After that, she sold half of what was left at the orange house. In the end, she has 5 vacuum cleaners left. The question is, how many did she start with?
+
+Hmm, okay. Let me break this down. It sounds like a word problem involving fractions and maybe some algebra. I think I need to set up an equation to represent the situation.
+
+Let me denote the number of vacuum cleaners Melanie started with as \( x \). That seems like a good starting point.
+
+So, she sold a third at the green house. That means she sold \( \frac{1}{3}x \) vacuum cleaners. Then, she sold 2 more to the red house. So, after selling at the green house and red house, she has \( x - \frac{1}{3}x - 2 \) left.
+
+Wait, that seems right. Let me write that out:
+
+After green house: \( x - \frac{1}{3}x = \frac{2}{3}x \) or \( \frac{2}{3}x \). Then, she sold 2 more, so subtract 2: \( \frac{2}{3}x - 2 \).
+
+Then, she sold half of what was left at the orange house. So, half of \( \frac{2}{3}x - 2 \) is sold at the orange house. That would be \( \frac{1}{2} \times (\frac{2}{3}x - 2) \).
+
+So, after selling at the orange house, she has half of what was left, which is \( \frac{1}{2} \times (\frac{2}{3}x - 2) \). And according to the problem, she has 5 left. So, that gives me the equation:
+
+\( \frac{1}{2} \times (\frac{2}{3}x - 2) = 5 \)
+
+Wait, that seems right. Let me write that equation again:
+
+\( \frac{1}{2} \times \left( \frac{2}{3}x - 2 \right) = 5 \)
+
+Okay, now I need to solve for \( x \). Let me simplify this equation step by step.
+
+First, multiply both sides by 2 to get rid of the fraction on the left:
+
+\( \frac{2}{3}x - 2 = 10 \)
+
+Wait, that seems right. Because 5 times 2 is 10.
+
+Now, I can add 2 to both sides to isolate the term with \( x \):
+
+\( \frac{2}{3}x = 12 \)
+
+Okay, so \( \frac{2}{3}x = 12 \). To solve for \( x \), I can multiply both sides by the reciprocal of \( \frac{2}{3} \), which is \( \frac{3}{2} \):
+
+\( x = 12 \times \frac{3}{2} \)
+
+Calculating that, 12 divided by 2 is 6, and 6 times 3 is 18. So, \( x = 18 \).
+
+Wait, that seems right. Let me check my steps to make sure I didn't make a mistake.
+
+Starting with \( x = 18 \). She sold a third at the green house, which is \( \frac{1}{3} \times 18 = 6 \). So, she sold 6 vacuum cleaners at the green house. Then, she sold 2 more at the red house, so that's 6 + 2 = 8 sold so far. 
+
+Now, how many does she have left? 18 - 8 = 10. Then, she sold half of what was left at the orange house. Half of 10 is 5. So, she sold 5 at the orange house, leaving her with 5. That matches the problem statement. 
+
+So, yes, 18 seems to be the correct answer. 
+
+Wait, that seems right. Let me just go through the problem again to make sure I interpreted it correctly.
+
+She sold a third at the green house, 2 more to the red house, and half of what was left at the orange house. She has 5 left. So, starting with 18, sold 6, 2, and 5, totaling 13, and 18 -13=5. That's correct.
+
+I think that's solid. So, the answer is 18.
+
+**Final

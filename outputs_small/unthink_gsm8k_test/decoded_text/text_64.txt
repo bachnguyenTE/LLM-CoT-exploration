@@ -1,0 +1,19 @@
+<｜User｜>
+Q: Sophia is thinking of taking a road trip in her car, and would like to know how far she can drive on a single tank of gas. She has traveled 100 miles since last filling her tank, and she needed to put in 4 gallons of gas to fill it up again. The owner's manual for her car says that her tank holds 12 gallons of gas. How many miles can Sophia drive on a single tank of gas?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many miles Sophia can drive on a single tank of gas, we'll follow these steps:
+
+1. **Calculate the car's fuel efficiency:**
+   - Sophia drove 100 miles and needed 4 gallons of gas to fill her tank.
+   - Fuel efficiency = \(\frac{\text{Miles driven}}{\text{Gallons of gas used}} = \frac{100 \text{ miles}}{4 \text{ gallons}} = 25 \text{ miles per gallon (mpg)}\)
+
+2. **Determine the total distance Sophia can drive on a full tank:**
+   - The owner's manual states the tank holds 12 gallons.
+   - Total distance = Fuel efficiency × Tank capacity = \(25 \text{ mpg} \times 12 \text{ gallons} = 300 \text{ miles}\)
+
+**Final Answer:**
+\[
+\boxed{300 \text{ miles}}
+\]

@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Timothy has three times the number of pens that George owns. Sarah has half as many pens as Timothy. If George has 18 pens, how many pens does Sarah have?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the number of pens Timothy has:**
+   
+   - It is given that Timothy has three times the number of pens that George owns.
+   - George has **18 pens**.
+   - Therefore, Timothy has:
+     \[
+     3 \times 18 = 54 \text{ pens}
+     \]
+
+2. **Determine the number of pens Sarah has:**
+   
+   - It is given that Sarah has half as many pens as Timothy.
+   - Timothy has **54 pens**.
+   - Therefore, Sarah has:
+     \[
+     \frac{54}{2} = 27 \text{ pens}
+     \]
+
+**Final Answer:**
+\[
+\boxed{27}
+\]

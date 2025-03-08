@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Brett is 14 years old. In four years his sister Angela will be three times as old as he is now. How old is Angela right now?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here: Brett is 14 years old. In four years, his sister Angela will be three times as old as he is now. How old is Angela right now? Hmm, let me try to figure this out step by step.
+
+First, let me parse the information given. Brett is currently 14. In four years, which means in 14 + 4 = 18 years from now, Angela's age will be three times what Brett's age is now. So, right now, Brett is 14, and in four years, he'll be 18. At that time, Angela will be 3 times 14, which is 42. So, if I can figure out how old Angela is now, I can set up an equation.
+
+Let me denote Angela's current age as A. So, in four years, her age will be A + 4. According to the problem, that will be equal to three times Brett's current age. So, A + 4 = 3 * 14. Let me compute that: 3 * 14 is 42. So, A + 4 = 42. To find A, I subtract 4 from both sides: A = 42 - 4, which is 38. So, Angela is 38 years old right now.
+
+Wait, let me double-check that. If Brett is 14 now, in four years he'll be 18. If Angela is 38 now, in four years she'll be 42. And 42 is indeed three times 14. So, that seems to add up. Hmm, that seems a bit old for a sister, but maybe she's a teenager or something. Anyway, the math checks out.
+
+Alternatively, maybe I can think of it another way. Let's see, in four years, Angela will be three times as old as Brett is now. So, in four years, Angela's age is 3 * 14 = 42. So, her current age is 42 - 4 = 38. Yeah, that's the same answer.
+
+Wait, another way to think about it: Let's let A be Angela's current age. In four years, she'll be A + 4. At that time, she'll be three times Brett's current age, which is 3*14=12? Wait, no, that doesn't make sense. Wait, no, three times Brett's current age is 3*14=12? No, that's not right. Wait, 3 times 14 is 12? No, 3*14 is 42. Wait, 3*14 is 42? No, 3*14 is 42? Wait, 14*3 is 42? Wait, 14*3 is 42. Yeah, that's correct. So, A + 4 = 42, so A = 38. So, same answer.
+
+Wait, maybe I confused the numbers earlier. So, 3 times 14 is 42, so A +4 =42, so A=38. So, that's correct.
+
+Alternatively, maybe I can think of it as a system of equations. Let me define variables:
+
+Let B = Brett's current age =14
+
+Let A = Angela's current age = ?
+
+In four years, Angela's age will be A +4, and that will be equal to 3*B. So, A +4 = 3*B.
+
+So, substituting B=14, we get A +4 = 3*14=42. Wait, that can't be right because 3*14 is 42, not 42. Wait, no, 3*14 is 42, so A +4=42, so A=38. So, that's correct.
+
+Wait, so in the equation, A +4 = 3*B, so A +4 = 3*14=42, so A=38. So, that's correct.
+
+Wait, so why did I think 3*14 is 42? Because 14*3 is 42. So, yeah, that's correct. So, A +4=42, so A=38.
+
+So, that seems consistent.
+
+Alternatively, maybe I can think of it as the difference in their ages. Right now, Brett is 14, and in four years, he'll be 18. So, the difference in their ages is 18 -14=4 years. So, in four years, the age difference remains the same, right? So, if in four years, Angela

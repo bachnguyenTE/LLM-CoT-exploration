@@ -1,0 +1,44 @@
+<｜User｜>
+Q: Ada's daily electric consumption is 12 kilowatts per hour. She is planning to add a device that will consume 2 kilowatts per hour a day. If a kilowatt per hour is $1.50, how much is the difference between Ada's weekly electric bill before and after she adds the new device?
+A:<｜Assistant｜><think>
+First, I need to determine Ada's current daily electric consumption. She uses 12 kilowatts per hour, and she plans to add a new device that will consume an additional 2 kilowatts per hour. This means her total daily consumption will increase by 2 kilowatts per hour.
+
+Next, I'll calculate the new total daily consumption by adding the current consumption and the new device's consumption: 12 kilowatts + 2 kilowatts = 14 kilowatts per hour.
+
+Now, I'll find out her weekly consumption by multiplying the new total daily consumption by 7 days: 14 kilowatts/hour * 7 days = 98 kilowatts per week.
+
+Then, I'll calculate her weekly electric bill before adding the new device. The cost per kilowatt-hour is $1.50, so her current weekly bill is 12 kilowatts/hour * 7 days * $1.50 per kilowatt-hour = $126.
+
+After adding the new device, her weekly bill will increase. The new total consumption is 14 kilowatts/hour, so the new weekly bill is 14 kilowatts/hour * 7 days * $1.50 per kilowatt-hour = $147.
+
+Finally, to find the difference between her weekly bills, I'll subtract her current weekly bill from her new weekly bill: $147 - $126 = $21.
+
+Therefore, the difference in Ada's weekly electric bill due to the new device is $21.
+</think>
+
+**Solution:**
+
+1. **Calculate the new total daily consumption:**
+   
+   - **Current consumption:** 12 kilowatts per hour
+   - **New device consumption:** 2 kilowatts per hour
+   - **Total daily consumption:** \(12 + 2 = 14\) kilowatts per hour
+
+2. **Determine the weekly consumption:**
+   
+   - **Days in a week:** 7
+   - **Total weekly consumption:** \(14 \text{ kW/hour} \times 7 \text{ days} = 98 \text{ kW/week}\)
+
+3. **Calculate the weekly electric bill before and after adding the new device:**
+   
+   - **Cost per kilowatt-hour:** \$1.50
+   - **Current weekly bill:** \(12 \text{ kW/hour} \times 7 \text{ days} \times \$1.50 = \$126\)
+   - **New weekly bill:** \(14 \text{ kW/hour} \times 7 \text{ days} \times \$1.50 = \$147\)
+
+4. **Find the difference in the weekly electric bill:**
+   
+   - **Difference:** \(\$147 - \$126 = \$21\)
+
+**Final Answer:**
+
+\boxed{21}

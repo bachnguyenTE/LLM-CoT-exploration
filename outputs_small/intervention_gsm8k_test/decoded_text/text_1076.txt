@@ -1,0 +1,51 @@
+<｜User｜>
+Q: Terry sells 6 milkshakes for $5.50 each, nine burger platters for $11 each, and 20 sodas for $1.50 each. How much money does he make in total?
+A:<｜Assistant｜><think>
+First, I need to calculate the total revenue from selling milkshakes. Terry sells 6 milkshakes at $5.50 each, so I'll multiply 6 by $5.50 to find the total from milkshakes.
+
+Next, I'll calculate the total revenue from burger platters. There are 9 burger platters sold at $11 each, so I'll multiply 9 by $11.00 to find the total from burger platters.
+
+Then, I'll calculate the total revenue from sodas. There are 20 sodas sold at $1.50 each, so I'll multiply 20 by $1.50 to find the total from sodas.
+
+Finally, I'll add up the totals from milkshakes, burger platters, and sodas to find the overall total revenue.
+</think>
+
+**Solution:**
+
+To determine how much money Terry makes in total, we'll calculate the revenue from each item separately and then sum them up.
+
+1. **Milkshakes:**
+   - **Number sold:** 6
+   - **Price per milkshake:** \$5.50
+   - **Total revenue from milkshakes:**  
+     \[
+     6 \times \$5.50 = \$33.00
+     \]
+
+2. **Burger Platters:**
+   - **Number sold:** 9
+   - **Price per burger platter:** \$11.00
+   - **Total revenue from burger platters:**  
+     \[
+     9 \times \$11.00 = \$99.00
+     \]
+
+3. **Sodas:**
+   - **Number sold:** 20
+   - **Price per soda:** \$1.50
+   - **Total revenue from sodas:**  
+     \[
+     20 \times \$1.50 = \$30.00
+     \]
+
+4. **Total Revenue:**
+   - **Sum of all revenues:**  
+     \[
+     \$33.00 + \$99.00 + \$30.00 = \$162.00
+     \]
+
+**Final Answer:**
+
+\[
+\boxed{\$162.00}
+\]

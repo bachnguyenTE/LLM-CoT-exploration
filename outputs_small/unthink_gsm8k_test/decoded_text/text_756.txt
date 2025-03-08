@@ -1,0 +1,48 @@
+<｜User｜>
+Q: A council met to vote on a new regulation. The vote passed with twice as many votes in favor of the new regulation as there were against it. If there are 33 people on the council, what was the number of votes in favor of the new regulation?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+A council met to vote on a new regulation. The vote passed with twice as many votes in favor of the new regulation as there were against it. If there are 33 people on the council, what was the number of votes in favor of the new regulation?
+
+**Solution:**
+
+1. **Define Variables:**
+   - Let \( V \) = number of votes **in favor** of the new regulation.
+   - Let \( A \) = number of votes **against** the new regulation.
+
+2. **Set Up the Equation:**
+   - According to the problem, the number of votes in favor is twice the number of votes against.
+   \[
+   V = 2A
+   \]
+
+3. **Total Number of Votes:**
+   - The total number of votes is the sum of votes in favor and votes against.
+   \[
+   V + A = 33
+   \]
+
+4. **Substitute \( V \) from the First Equation into the Second Equation:**
+   \[
+   2A + A = 33
+   \]
+   \[
+   3A = 33
+   \]
+
+5. **Solve for \( A \):**
+   \[
+   A = \frac{33}{3} = 11
+   \]
+
+6. **Find \( V \) Using the First Equation:**
+   \[
+   V = 2A = 2 \times 11 = 22
+   \]
+
+**Final Answer:**
+The number of votes in favor of the new regulation was \(\boxed{22}\).

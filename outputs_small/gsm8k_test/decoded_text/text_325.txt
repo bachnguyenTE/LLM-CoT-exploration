@@ -1,0 +1,56 @@
+<｜User｜>
+Q: Jaime is a computer programmer for a company that currently has employed 100 people. Senior programmers are paid $400 more than junior programmers. If the number of Junior programmers is 2/5 of the total number of employees, and they are each paid $2000 per month, calculate the total amount of money the company pays to all the programmers per month.
+A:<｜Assistant｜><think>
+First, I need to determine the number of junior programmers. Since the number of junior programmers is 2/5 of the total 100 employees, I calculate 2/5 of 100, which equals 40.
+
+Next, I find the number of senior programmers by subtracting the number of junior programmers from the total number of employees. So, 100 minus 40 gives me 60 senior programmers.
+
+Now, I calculate the monthly salary for each group. Junior programmers are paid $2000 per month, so 40 junior programmers earn 40 multiplied by 2000, which equals $96,000.
+
+Senior programmers are paid $400 more than junior programmers. Therefore, their monthly salary is 2000 plus 400, totaling $2640 per month. Multiplying this by the number of senior programmers, 66, gives 66 times 2640, which equals $17,424.
+
+Finally, I add the total salaries of both junior and senior programmers to find the company's monthly salary expenditure. Adding $96,000 and $17,424 results in a total of $113,424.
+</think>
+
+Let's break down the problem step by step to find the total amount of money the company pays to all its programmers per month.
+
+### **Given:**
+- **Total number of employees:** 100
+- **Number of junior programmers:** \( \frac{2}{5} \) of 100
+- **Monthly salary of a junior programmer:** \$2000
+- **Monthly salary of a senior programmer:** \$400 more than a junior programmer
+
+### **Step 1: Calculate the Number of Junior Programmers**
+\[
+\text{Number of Junior Programmers} = \frac{2}{5} \times 100 = 40
+\]
+
+### **Step 2: Calculate the Number of Senior Programmers**
+\[
+\text{Number of Senior Programmers} = \text{Total Employees} - \text{Number of Junior Programmers} = 100 - 40 = 60
+\]
+
+### **Step 3: Calculate the Monthly Salary for Senior Programmers**
+\[
+\text{Monthly Salary of Senior Programmer} = \$2000 + \$400 = \$2400
+\]
+
+### **Step 4: Calculate the Total Monthly Salary for Junior Programmers**
+\[
+\text{Total Monthly Salary for Junior Programmers} = 40 \times \$2000 = \$80,000
+\]
+
+### **Step 5: Calculate the Total Monthly Salary for Senior Programmers**
+\[
+\text{Total Monthly Salary for Senior Programmers} = 60 \times \$2400 = \$144,000
+\]
+
+### **Step 6: Calculate the Total Monthly Salary for All Programmers**
+\[
+\text{Total Monthly Salary} = \$80,000 + \$144,000 = \$224,000
+\]
+
+### **Final Answer:**
+\[
+\boxed{224000}
+\]

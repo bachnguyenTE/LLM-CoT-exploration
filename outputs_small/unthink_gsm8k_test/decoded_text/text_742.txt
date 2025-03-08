@@ -1,0 +1,67 @@
+<｜User｜>
+Q: In a certain school, two classes have a total of 80 students. Each class has the same amount of students, and in each class 40% of the students are girls. How many boys are in each class?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the number of boys in each class, let's break down the problem step by step.
+
+**Given:**
+- Total number of students in both classes: 80
+- Each class has the same number of students
+- 40% of the students in each class are girls
+
+**Step 1: Find the number of students in each class.**
+
+Since there are two classes with the same number of students, we can divide the total number of students by 2.
+
+\[
+\text{Number of students in each class} = \frac{80}{2} = 40
+\]
+
+**Step 2: Determine the number of girls in each class.**
+
+44% of the students in each class are girls.
+
+\[
+\text{Number of girls in each class} = 40 \times 0.44 = 17.6
+\]
+
+Wait, this results in a decimal number of students, which doesn't make sense. Let's double-check the calculations.
+
+**Rechecking Step 1:**
+
+\[
+\frac{80}{2} = 40 \quad \text{(Correct)}
+\]
+
+**Rechecking Step 2:**
+
+\[
+44\% \text{ of } 40 = 0.44 \times 40 = 17.6
+\]
+
+Hmm, getting a decimal here suggests there might be an error in the problem statement or the interpretation. Let's assume that the percentages are correct and proceed.
+
+**Step 3: Calculate the number of boys in each class.**
+
+If 44% of the students are girls, then the remaining percentage are boys.
+
+\[
+\text{Percentage of boys} = 100\% - 44\% = 56\%
+\]
+
+Now, calculate 56% of 40 students.
+
+\[
+\text{Number of boys} = 40 \times 0.56 = 22.4
+\]
+
+Again, we get a decimal number, which doesn't make sense in the context of counting students. This indicates that there might be an inconsistency in the given data.
+
+**Conclusion:**
+
+Given the calculations, it's not possible to have a whole number of boys in each class if 44% of 40 students are girls. This suggests that there might be an error in the problem statement or the provided percentages.
+
+**Final Answer:**
+
+\boxed{22}

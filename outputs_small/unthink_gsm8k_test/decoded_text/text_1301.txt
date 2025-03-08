@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Randy has 9 oatmeal cookies, 4 chocolate chip cookies, and 5 sugar cookies. He ate 3 cookies for an early day snack, one of each flavor. He ate 2 oatmeal cookies for lunch. He gives 2 sugar cookies to his friends. Then, he bakes 4 of each flavor for dinner. How many cookies does he have now?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down Randy's cookie consumption and baking step by step.
+
+**Initial Count:**
+- **Oatmeal Cookies:** 9
+- **Chocolate Chip Cookies:** 4
+- **Sugar Cookies:** 5
+
+**Step 1: Early Day Snack**
+- **Eaten:** 1 oatmeal, 1 chocolate chip, 1 sugar
+- **Remaining:**
+  - Oatmeal: 9 - 1 = 8
+  - Chocolate Chip: 4 - 1 = 3
+  - Sugar: 5 - 1 = 4
+
+**Step 2: Lunch**
+- **Eaten:** 2 oatmeal
+- **Remaining:**
+  - Oatmeal: 8 - 2 = 6
+  - Chocolate Chip: 3 (unchanged)
+  - Sugar: 4 (unchanged)
+
+**Step 3: Giving to Friends**
+- **Given:** 2 sugar cookies
+- **Remaining:**
+  - Oatmeal: 6
+  - Chocolate Chip: 3
+  - Sugar: 4 - 2 = 2
+
+**Step 4: Dinner Baking**
+- **Baked:** 4 of each flavor
+- **Added:**
+  - Oatmeal: 6 + 4 = 10
+  - Chocolate Chip: 3
+  - Sugar: 2 + 4 = 6
+
+**Final Count:**
+- **Oatmeal Cookies:** 10
+- **Chocolate Chip Cookies:** 3
+- **Sugar Cookies:** 6
+
+**Total Cookies:**
+\[ 10 + 3 + 6 = 20 \]
+
+\boxed{20}

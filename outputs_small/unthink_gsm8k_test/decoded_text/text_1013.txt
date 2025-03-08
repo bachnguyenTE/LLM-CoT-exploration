@@ -1,0 +1,43 @@
+<｜User｜>
+Q: Janet gets a job as a waitress.  She makes $10 an hour from wages and another $15 an hour from tips.  She wants to save up 20% of the cost of a $10000 car for a downpayment.  If she works 40 hours a week how many weeks will she need to work to save the down payment?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate the total cost of the car:**
+   \[
+   \$10,\!0000
+   \]
+
+2. **Determine the amount Janet needs to save (20% of the car's cost):**
+   \[
+   0.20 \times \$10,\!000 = \$2,\!000
+   \]
+
+3. **Find out how many hours Janet needs to work each week:**
+   - She earns \$10 (wages) + \$15 (tips) = \$25 per hour.
+   \[
+   \$25 \text{ per hour}
+   \]
+
+4. **Calculate the number of hours required to save \$2,\!000:**
+   \[
+   \frac{\$2,\!000}{\$25 \text{ per hour}} = 88 \text{ hours}
+   \]
+
+5. **Determine how many weeks she needs to work:**
+   - She works 40 hours per week.
+   \[
+   \frac{88 \text{ hours}}{40 \text{ hours/week}} = 2.2 \text{ weeks}
+   \]
+
+6. **Since she can't work a fraction of a week, round up to the next whole number:**
+   \[
+   3 \text{ weeks}
+   \]
+
+**Final Answer:**
+\[
+\boxed{3}
+\]

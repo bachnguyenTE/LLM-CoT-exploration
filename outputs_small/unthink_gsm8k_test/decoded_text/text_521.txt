@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Chris is way behind on his math homework. He has 100 math problems to complete in total. He completes 12 problems on Monday night. On Tuesday, he completes 3 times as many problems as he did on Monday. On Wednesday, he completes one-quarter of the remaining math problems. How many math problems does he have left to complete on Thursday?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down Chris's math homework step by step.
+
+1. **Total Problems:** Chris has **100 math problems** to complete.
+
+2. **Monday Night:**
+   - **Problems Completed:** 12
+   - **Remaining Problems:** \(100 - 12 = 88\)
+
+3. **Tuesday:**
+   - **Problems Completed:** 3 times Monday's problems
+   - **Calculation:** \(3 \times 12 = 36\)
+   - **Remaining Problems:** \(88 - 36 = 52\)
+
+4. **Wednesday:**
+   - **Problems Completed:** One-quarter of the remaining problems
+   - **Calculation:** \(\frac{1}{4} \times 52 = 13\)
+   - **Remaining Problems:** \(52 - 13 = 39\)
+
+5. **Thursday:**
+   - **Problems Left:** \(39\)
+
+**Final Answer:** \(\boxed{39}\)

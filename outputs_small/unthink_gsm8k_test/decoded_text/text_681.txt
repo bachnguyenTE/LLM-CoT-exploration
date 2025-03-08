@@ -1,0 +1,64 @@
+<｜User｜>
+Q: Katarina has 5 less cookies than Max has. Max has 12 more cookies than the Cookie Monster, and Summer has 23 more cookies than Max. If Katarina has 68 cookies, how many cookies do they have in total?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+1. Katarina has 5 less cookies than Max.
+2. Max has 12 more cookies than the Cookie Monster.
+3. Summer has 23 more cookies than Max.
+4. Katarina has 68 cookies.
+
+**Step 1: Determine how many cookies Max has.**
+
+We know that Katarina has 5 less cookies than Max. Let's denote:
+- \( K \) = number of cookies Katarina has
+- \( M \) = number of cookies Max has
+
+From the first statement:
+\[ K = M - 5 \]
+
+We are given that \( K = 68 \), so:
+\[ 68 = M - 5 \]
+\[ M = 68 + 5 \]
+\[ M = 73 \]
+
+**Step 2: Determine how many cookies the Cookie Monster has.**
+
+Max has 12 more cookies than the Cookie Monster. Let's denote:
+- \( C \) = number of cookies the Cookie Monster has
+
+From the second statement:
+\[ M = C + 12 \]
+
+We found that \( M = 73 \), so:
+\[ 73 = C + 12 \]
+\[ C = 73 - 12 \]
+\[ C = 61 \]
+
+**Step 3: Determine how many cookies Summer has.**
+
+Summer has 23 more cookies than Max. From the third statement:
+\[ S = M + 23 \]
+
+We found that \( M = 73 \), so:
+\[ S = 73 + 23 \]
+\[ S = 96 \]
+
+**Step 4: Calculate the total number of cookies.**
+
+Now, let's add up all the cookies:
+- Katarina: 68
+- Max: 73
+- Cookie Monster: 61
+- Summer: 96
+
+\[ \text{Total} = 68 + 73 + 61 + 96 \]
+\[ \text{Total} = 238 \]
+
+**Final Answer:**
+\[
+\boxed{238}
+\]

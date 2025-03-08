@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Gene is sewing a quilt out of old souvenir t-shirts. He has one shirt from each vacation he has been on. Every shirt is its own quilt block. Each row is made of blocks from a different year of vacations. He goes on four vacations a year and has been vacationing since he was 23 years old. He is now 34. How many quilt blocks does he have in total?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of quilt blocks Gene has, we can break down the information provided:
+
+1. **Number of Vacations:**
+   - Gene has been on **four vacations a year**.
+   - He has been **23 years old** when he started.
+   - He is now **34 years old**.
+
+2. **Calculating the Number of Years:**
+   - **Years of Service:** \( 34 - 23 = 11 \) years.
+
+3. **Total Quilt Blocks:**
+   - Since he has one shirt (quilt block) from each vacation he has been on, and he has been on **four vacations a year** for **11 years**, the total number of quilt blocks is:
+     \[
+     4 \text{ blocks/year} \times 11 \text{ year} = 44 \text{ blocks}
+     \]
+
+**Final Answer:**
+\[
+\boxed{44}
+\]

@@ -1,0 +1,29 @@
+<｜User｜>
+Q: John buys 2 pairs of shoes for each of his 3 children.  They cost $60 each.  How much did he pay?
+A:<｜Assistant｜><think>
+First, determine the total number of pairs of shoes John buys. He buys 2 pairs for each of his 3 children, so that's 2 multiplied by 3, which equals 6 pairs.
+
+Next, calculate the total cost by multiplying the number of pairs by the cost per pair. Each pair costs $60, so 6 pairs multiplied by $60 per pair equals $360.
+
+Therefore, John pays a total of of $360.
+</think>
+
+**Solution:**
+
+John buys 2 pairs of shoes for each of his 3 children. To find the total number of pairs he buys, multiply the number of pairs per child by the number of children:
+
+\[
+2 \text{ pairs/child} \times 3 \text{ children} = 6 \text{ pairs}
+\]
+
+Each pair of shoes costs \$60. To find the total amount John pays, multiply the total number of pairs by the cost per pair:
+
+\[
+6 \text{ pairs} \times \$60/\text{pair} = \$360
+\]
+
+**Final Answer:**
+
+\[
+\boxed{360}
+\]

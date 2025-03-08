@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Chenny is 10 years old. Alyana is 4 years younger than Chenny. How old is Anne if she is 2 years older than Alyana?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Chenny's Age:**
+   - Chenny is 10 years old.
+
+2. **Alyana's Age:**
+   - Alyana is 4 years younger than Chenny.
+   - So, Alyana's age = Chenny's age - 4 years
+   - Alyana's age = 10 years - 4 years = **6 years**
+
+3. **Anne's Age:**
+   - Anne is 2 years older than Alyana.
+   - So, Anne's age = Alyana's age + 2 years
+   - Anne's age = 6 years + 2 years = **8 years**
+
+**Final Answer:**
+\boxed{8}

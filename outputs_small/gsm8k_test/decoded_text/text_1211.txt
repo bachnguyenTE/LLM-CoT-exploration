@@ -1,0 +1,39 @@
+<｜User｜>
+Q: For one medical dosage, Saanvi had to combine 14 mL of one medicine with 3 times that amount of the second medicine. How many mL of medicine would be in 8 doses?
+A:<｜Assistant｜><think>
+First, I need to determine the total volume of medicine in one dose. Saanvi combines 14 mL of the first medicine with three times that amount of the second medicine. 
+
+So, the second medicine is 14 mL multiplied by 3, which equals 42 mL.
+
+Adding both medicines together, the total volume for one dose is 14 mL + 42 mL = 56 mL.
+
+Next, to find out how much medicine is in 8 doses, I multiply the total volume of one dose by 8.
+
+56 mL/dose multiplied by 8 doses equals 448 mL.
+</think>
+
+To determine the total volume of medicine in 8 doses, follow these steps:
+
+1. **Calculate the volume of the second medicine in one dose:**
+   
+   \[
+   3 \times 14\ \text{mL} = 42\ \text{mL}
+   \]
+
+2. **Find the total volume of medicine in one dose:**
+   
+   \[
+   14\ \text{ mL} + 42\ \text{mL} = 56\ \text{mL}
+   \]
+
+3. **Calculate the total volume for 8 doses:**
+   
+   \[
+   56\ \text{mL/dose} \times 8\ \text{doses} = 448\ \text{mL}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{448\ \text{mL}}
+\]

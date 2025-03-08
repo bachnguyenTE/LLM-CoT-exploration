@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Cherrie wants to buy Christmas gifts for her 5 friends. 2 of her friends want 5 gifts and the other 3 friends want 2 gifts for themselves. Cherrie goes ahead and buys them and decides to further surprise them by getting 10 more random gifts. How many gifts did Cherrie buy in total?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Cherrie wants to buy Christmas gifts for her 5 friends. Here's the breakdown:
+
+1. **2 friends want 5 gifts each:**
+   \[
+   2 \text{ friends} \times 5 \text{ gifts} = 10 \text{ gifts}
+   \]
+
+2. **3 friends want 2 gifts each:**
+   \[
+   3 \text{ friends} \times 2 \text{ gifts} = 6 \text{ gifts}
+   \]
+
+3. **Total gifts initially bought:**
+   \[
+   10 \text{ gifts} + 6 \text{ gifts} = 16 \text{ gifts}
+   \]
+
+4. **Cherrie buys an additional 10 gifts:**
+   \[
+   16 \text{ gifts} + 10 \text{ gifts} = 26 \text{ gifts}
+   \]
+
+**Final Answer:**
+\[
+\boxed{26}
+\]

@@ -1,0 +1,34 @@
+<｜User｜>
+Q: John buys a cassette with 2 songs.  The first song is 5 minutes and the second song is 60% longer.  How much time was the total cassette?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+John buys a cassette with 2 songs. The first song is 5 minutes long. The second song is 60% longer than the first song.
+
+1. **Calculate the length of the second song:**
+   
+   \[
+   \text{Length of second song} = 5\ \text{minutes} + 60\% \times 5\ \text{minutes}
+   \]
+   
+   \[
+   60\% \times 5 = 0.6 \times 5 = 3\ \text{minutes}
+   \]
+   
+   \[
+   \text{Length of second song} = 5 + 3 = 8\ \text{minutes}
+   \]
+
+2. **Calculate the total length of the cassette:**
+   
+   \[
+   \text{Total length} = \text{Length of first song} + \text{Length of second song}
+   \]
+   
+   \[
+   \text{Total length} = 5\ \text{minutes} + 8\ \text{minutes} = 13\ \text{minutes}
+   \]
+
+**Answer:** The total time of the cassette is \(\boxed{13}\) minutes.

@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Mark decides to buy packs of old magic cards and open them to sell.  He buys 3 packs for $1800 each.  He gets 1 card that is worth $4000 and another card worth $1000.  There are 30 more cards worth an average of $50 each.  How much money profit did he make?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step to determine Mark's profit.
+
+1. **Total Cost:**
+   - Mark buys 3 packs of magic cards.
+   - Each pack costs \$1800.
+   - **Total Cost = 3 × \$1800 = \$5400**
+
+2. **Total Revenue:**
+   - He receives 3 types of cards:
+     - **First card:** \$4000
+     - **Second card:** \$1000
+     - **Remaining 30 cards:** Each worth an average of \$50
+   - **Total from remaining cards = 30 × \$50 = \$1500**
+
+3. **Total Money Received:**
+   - **Total Revenue = \$4000 + \$1000 + \$1500 = \$6600**
+
+4. **Profit Calculation:**
+   - **Profit = Total Revenue - Total Cost**
+   - **Profit = \$6600 - \$5400 = \$1200**
+
+**Final Answer:**
+\boxed{1200}

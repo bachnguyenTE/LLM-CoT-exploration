@@ -1,0 +1,29 @@
+<｜User｜>
+Q: In 7 days, Sofie will walk twice as far as Brian. If Sofie plans to walk 10 miles every day, how many miles will Brian walk in seven days?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Understanding the Problem:**
+   - Sofie walks 10 miles every day.
+   - In 7 days, Sofie will walk twice as far as Brian.
+
+2. **Calculating Sofie's Total Distance:**
+   - Sofie walks 10 miles/day.
+   - Over 7 days, Sofie walks: \(10 \text{ miles/day} \times 7 \text{ days} = 70 \text{ miles}\).
+
+3. **Relating Sofie's and Brian's Distances:**
+   - Sofie's total distance is twice Brian's total distance.
+   - Let \(B\) be the total distance Brian walks in 7 days.
+   - According to the problem: \(70 = 2B\).
+
+4. **Solving for \(B\):**
+   - \(B = \frac{70}{2} = 35 \text{ miles}\).
+
+5. **Final Answer:**
+   - Brian will walk **35 miles** in 7 days.
+
+\boxed{35}

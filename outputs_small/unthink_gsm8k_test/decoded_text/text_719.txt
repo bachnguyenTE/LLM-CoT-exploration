@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Goldy bought 20 sacks of rice and gave 3 sacks to her cousin and 4 sacks to her brother, if there are 25 kilograms of rice per sack, how many kilograms does she gave to her cousin and brother?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+First, determine the number of sacks Goldy gave to her cousin and brother:
+
+\[
+\text{Sacks given to cousin} = 3
+\]
+\[
+\text{Sacks given to brother} = 4
+\]
+\[
+\text{Total sacks given} = 3 + 4 = 7
+\]
+
+Next, calculate the total kilograms of rice given to her cousin and brother:
+
+\[
+\text{Kilograms per sack} = 25
+\]
+\[
+\text{Total kilograms given} = 7 \times 25 = 175
+\]
+
+**Answer:**  
+Goldy gave a total of \(\boxed{175}\) kilograms of rice to her cousin and brother.

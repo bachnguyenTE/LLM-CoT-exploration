@@ -1,0 +1,50 @@
+<｜User｜>
+Q: Jim decides to go to college to earn some more money.  It takes him 4 years to finish and he gets $50,000 in loans per year.  If he had a 25k a year job before college and his college degree tripled his income, how long would it take to earn the money equivalent to the loans and the money lost from not working while in school.
+A:<｜Assistant｜><think>
+</think>
+
+To determine how long it would take Jim to earn the equivalent of his student loans and the money lost from not working while in college, we'll break down the problem step by step.
+
+### **Given:**
+- **Loan per year:** \$50,000
+- **Number of years to finish college:** 4
+- **Before college:** Jim earned \$25,000 per year
+- **After college:** His college degree tripled his income, so his new annual income is:
+  \[
+  3 \times \$25,000 = \$75,000
+  \]
+
+### **Calculations:**
+
+1. **Total Loan Amount:**
+   \[
+   4 \text{ years} \times \$50,000 \text{ per year} = \$200,000
+   \]
+
+2. **Income from College Degree:**
+   \[
+   \$75,000 \text{ per year}
+   \]
+
+3. **Net Income from College:**
+   \[
+   \$75,000 - \$25,000 = \$50,00 \text{ per year}
+   \]
+
+4. **Total Earnings Over 4 Years:**
+   \[
+   4 \text{ years} \times \$50,000 \text{ per year} = \$200,000
+   \]
+
+5. **Total Earnings from College Degree:**
+   \[
+   4 \text{ years} \times \$75,000 \text{ per year} = \$300,000
+   \]
+
+6. **Difference in Earnings:**
+   \[
+   \$300,000 - \$200,000 = \$100,000
+   \]
+
+### **Conclusion:**
+It would take Jim **4 years** to earn the equivalent of his student loans and the money lost from not working while in college.

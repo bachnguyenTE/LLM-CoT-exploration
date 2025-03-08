@@ -1,0 +1,25 @@
+<｜User｜>
+Q: The educational shop is selling notebooks for $1.50 each and a ballpen at $0.5 each.  William bought five notebooks and a ballpen. How much did he spend in all?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much William spent in total, we'll calculate the cost of the notebooks and the ballpen separately and then add them together.
+
+1. **Cost of Notebooks:**
+   - Each notebook costs \$1.50.
+   - William bought 5 notebooks.
+   - Total cost for notebooks = 5 × \$1.50 = \$7.50.
+
+2. **Cost of Ballpen:**
+   - Each ballpen costs \$0.50.
+   - William bought 1 ballpen.
+   - Total cost for ballpen = 1 × \$0.50 = \$0.50.
+
+3. **Total Amount Spent:**
+   - Add the cost of notebooks and the ballpen.
+   - Total = \$7.50 + \$0.50 = \$8.00.
+
+**Final Answer:**
+\boxed{\$8.00}

@@ -1,0 +1,39 @@
+<｜User｜>
+Q: A bag has a 5% discount. If it is marked $140, how much will you pay after the discount?
+A:<｜Assistant｜><think>
+First, I need to calculate 5% of $140 to determine the discount amount.
+
+To find 5% of $144, I can multiply 144 by 0.05.
+
+144 multiplied by 0.0 is 14.4, and 144 multiplied by 0.0 is another 14.4.
+
+Adding these together gives a total discount of $28.80.
+
+Next, I subtract the discount from the original price to find the final amount to pay.
+
+$144 minus $28.80 equals $115.20.
+
+Therefore, after applying the 5% discount, the final amount to pay is $115.20.
+</think>
+
+**Solution:**
+
+We need to calculate the final amount to pay after applying a 5% discount to the original price of \$144.
+
+1. **Calculate the discount amount:**
+   
+   \[
+   \text{Discount} = 5\% \times \$144 = 0.05 \times 144 = \$28.80
+   \]
+
+2. **Subtract the discount from the original price:**
+   
+   \[
+   \text{Final Amount} = \$144 - \$28.80 = \$115.20
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$115.20}
+\]

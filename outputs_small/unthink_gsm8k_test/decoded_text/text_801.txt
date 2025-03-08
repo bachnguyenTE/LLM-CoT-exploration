@@ -1,0 +1,32 @@
+<｜User｜>
+Q: At Ashley's school, they start a reforestation campaign where each child plants a tree and each teacher plants 2 trees. The school has 40 classes with an average of 25 students and 3 teachers per class. How many trees will they have planted at the end of the campaign?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the number of students:**
+   - Each class has an average of **25 students**.
+   - There are **40 classes**.
+   - **Total students = 25 students/class × 40 classes = 200 students.**
+
+2. **Determine the number of teachers:**
+   - Each class has an average of **3 teachers**.
+   - There are **40 classes**.
+   - **Total teachers = 3 teachers/class × 40 classes = 120 teachers.**
+
+3. **Calculate the number of trees planted by students:**
+   - Each student plants **1 tree**.
+   - **Total trees by students = 200 students × 1 tree/student = 200 trees.**
+
+4. **Calculate the number of trees planted by teachers:**
+   - Each teacher plants **2 trees**.
+   - **Total trees by teachers = 120 teachers × 2 trees/teacher = 240 trees.**
+
+5. **Calculate the total number of trees planted:**
+   - **Total trees = Trees by students + Trees by teachers = 220 trees + 240 trees = 462 trees.**
+
+**Final Answer:**
+\boxed{462}

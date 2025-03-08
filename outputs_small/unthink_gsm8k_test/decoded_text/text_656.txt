@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Mike's teacher, leaves as homework the reading of a 200-page book. The assignment is to be completed within 30 days. Mike plans to read 10 pages a day. How many days before the deadline will Mike finish his reading?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Mike has a 200-page book to read and needs to finish it within 300 days. He plans to read **10 pages per day**.
+
+1. **Calculate the total number of days Mike needs to read the book:**
+   
+   \[
+   \text{Total days} = \frac{\text{Total pages}}{\text{Pages per day}} = \frac{200}{10} = 200 \text{ days}
+   \]
+
+2. **Determine how many days Mike will finish reading before the deadline:**
+   
+   Mike needs **220 days** to complete the book. Since he has **330 days** to finish the assignment, he will finish **220 days** before the deadline.
+
+\[
+\boxed{220}
+\]

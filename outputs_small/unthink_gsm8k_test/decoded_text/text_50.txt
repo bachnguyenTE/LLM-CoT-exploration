@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Lloyd has an egg farm. His chickens produce 252 eggs per day and he sells them for $2 per dozen. How much does Lloyd make on eggs per week?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much Lloyd makes from his egg farm per week, let's break down the problem step by step.
+
+1. **Calculate the weekly egg production:**
+   - **Eggs per day:** 252
+   - **Days in a week:** 7
+   - **Total eggs per week:** \( 252 \text{ eggs/day} \times 7 \text{ days} = 1764 \text{ eggs} \)
+
+2. **Convert eggs to dozens:**
+   - **Eggs per dozen:** 12
+   - **Dozens of eggs per week:** \( \frac{1764 \text{ eggs}}{12 \text{ eggs/dozen}} = 147 \text{ dozen} \)
+
+3. **Calculate weekly revenue:**
+   - **Price per dozen:** \$2
+   - **Total revenue per week:** \( 147 \text{ dozen} \times \$2/\text{dozen} = \$294 \)
+
+**Final Answer:**  
+Lloyd makes **\$294** per week from his egg farm.

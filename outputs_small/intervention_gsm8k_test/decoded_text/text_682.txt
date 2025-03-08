@@ -1,0 +1,84 @@
+<｜User｜>
+Q: Shania is designing her own dress, and decides to make it a longer dress by extending the dress by 50% of its original length. She also adds 20cm to the bottom of the dress with a lace trim. If the final design is 140cm long then how long, in centimeters, was the dress in its original design?
+A:<｜Assistant｜><think>
+Okay, so Shania is making a longer dress, and she's extending it by 50% of its original length. Hmm, that means she's adding more fabric to the dress. Then, she adds 20 cm to the bottom with a lace trim. After all that, the total length of the dress is 140 cm. I need to find out how long the dress was originally.
+
+Let me think. Let's call the original length of the dress "x" centimeters. So, if she extends it by 50% of its original length, that would be 0.5 times x, right? So, the extended part is 0.5x cm.
+
+Then, she adds 20 cm with a lace trim. So, the total length is the original plus the extended part plus the 20 cm. So, that would be x + 0.5x + 20 cm.
+
+And we know that this total is 140 cm. So, putting that together, the equation is:
+
+x + 0.5x + 20 = 140
+
+Let me write that down:
+
+x + 0.5x + 20 = 140
+
+Now, let's combine like terms. x is the same as 1x, so 1x + 0.5x is 1.5x. So, the equation becomes:
+
+1.5x + 20 = 140
+
+Now, I need to solve for x. So, first, subtract 20 from both sides to isolate the term with x.
+
+1.5x + 20 - 20 = 140 - 20
+
+Which simplifies to:
+
+1.5x = 120
+
+Okay, so now I have 1.5x equals 120. To find x, I need to divide both sides by 1.5.
+
+x = 120 / 1.5
+
+Hmm, let me compute that. 120 divided by 1.5. Well, 1.5 goes into 120 how many times? Let me think.
+
+1.5 times 80 is 120 because 1.5 times 10 is 15, so 1.5 times 80 is 120. So, 120 divided by 1.5 is 80.
+
+So, x is 80 cm.
+
+Wait, that seems right. Let me check my steps again.
+
+Original length: 80 cm.
+
+Extended by 50%: 0.5 * 80 = 40 cm. So, extended part is 40 cm.
+
+Then, adding 20 cm with lace: 40 + 20 = 64 cm.
+
+Wait, that seems right. So, original 80, extended 40, added 20, total is 80 + 40 +20 = 140 cm. Which matches the given total.
+
+So, yes, 80 cm is the original length.
+
+I think that's correct. So, the original dress was 80 cm long.
+
+**Final Answer**
+The original dress was \boxed{80} centimeters long.
+</think>
+
+Let \( x \) be the original length of the dress in centimeters. Shania extends the dress by 50% of its original length, which is \( 0.5x \) cm. She also adds 20 cm with a lace trim. The total length of the dress is given as 140 cm. 
+
+We can set up the equation as follows:
+
+\[
+x + 0.5x + 20 = 140
+\]
+
+Combining like terms, we get:
+
+\[
+1.5x + 20 = 140
+\]
+
+Subtracting 20 from both sides:
+
+\[
+1.5x = 120
+\]
+
+Dividing both sides by 1.5:
+
+\[
+x = \frac{120}{1.5} = 80
+\]
+
+Thus, the original length of the dress was \(\boxed{80}\) centimeters.

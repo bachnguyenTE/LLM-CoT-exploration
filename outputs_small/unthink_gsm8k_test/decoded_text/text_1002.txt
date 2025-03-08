@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Lisa and Peter are selling chocolate bars door to door. Lisa sold three and a half boxes of chocolate bars, and Peter sold four and a half boxes. They sold 64 chocolate bars together. How many chocolate bars are in a box?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's determine the number of chocolate bars in one box.
+
+1. **Define the variables:**
+   - Let \( x \) be the number of chocolate bars in one box.
+
+2. **Set up the equation based on the given information:**
+   - Lisa sold \( 3 \frac{1}{2} \) boxes.
+   - Peter sold \( 4 \frac{1}{2} \) boxes.
+   - Together, they sold 64 chocolate bars.
+
+   Therefore, the total number of boxes sold is:
+   \[
+   3\frac{1}{2} + 4\frac{1}{2} = 8 \text{ boxes}
+   \]
+
+   Since each box contains \( x \) chocolate bars, the total number of chocolate bars is:
+   \[
+   8x = 64
+   \]
+
+3. **Solve for \( x \):**
+   \[
+   x = \frac{64}{8} = 8
+   \]
+
+**Answer:**  
+\boxed{8}

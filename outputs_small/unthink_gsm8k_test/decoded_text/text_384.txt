@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Mr. Ruther sold 3/5 of his land and had 12.8 hectares left. How much land did he have at first?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+Mr. Ruther sold \( \frac{3}{5} \) of his land and had 12.8 hectares left. How much land did he have at first?
+
+**Solution:**
+
+1. **Let \( x \) be the total land Mr. Ruther had initially.**
+
+2. **He sold \( \frac{3}{5} \) of his land.**  
+   Therefore, the amount of land he sold is:  
+   \[
+   \frac{3}{5}x
+   \]
+
+3. **He had 12.8 hectares left after selling.**  
+   This means the remaining land is:  
+   \[
+   x - \frac{3}{5}x = 12.8
+   \]
+
+4. **Simplify the equation:**
+   \[
+   \frac{2}{5}x = 12.8
+   \]
+
+5. **Solve for \( x \):**
+   \[
+   x = 12.8 \times \frac{5}{2} = 32
+   \]
+
+**Answer:**
+Mr. Ruther initially had \(\boxed{32}\) hectares of land.

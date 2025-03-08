@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Sheila charged $85.00 worth of merchandise on her credit card.  She ended up returning one item that cost $15.00.  After she returned the item, she bought a frying pan that was on sale for 20% off $20.00 and a set of towels that was 10% off $30.00.  She put both of these purchases on her credit card.  What is the new balance on her credit card?
+A:<｜Assistant｜><think>
+</think>
+
+To determine Sheila's new credit card balance, let's break down each step:
+
+1. **Initial Charges:**
+   - **First Credit Card Purchase:** \$85.00
+   - **Second Credit Card Purchase:** \$20.00 (after discounts)
+
+2. **Calculating the Discounts:**
+   - **Frying Pan:** 20% off \$20.00
+     - **Discount:** 0.20 × 20.00 = \$4.00
+     - **Amount Paid:** 20.00 - 4.00 = \$16.00
+   - **Set of Towels:** 10% off \$30.00
+     - **Discount:** 0.10 × 30.00 = \$3.00
+     - **Amount Paid:** 30.00 - 3.00 = \$27.00
+
+3. **Total Amount Paid:**
+   - **First Purchase:** \$85.00
+   - **Second Purchase:** \$16.00 + \$27.00 = \$43.00
+   - **Total:** \$85.00 + \$43.00 = **\$128.00**
+
+4. **New Credit Card Balance:**
+   - **Initial Balance:** \$85.00
+   - **Subtract Returns:** \$15.00
+   - **Total Paid:** \$128.00
+   - **New Balance:** \$128.00 - \$15.00 = **\$113.00**
+
+**Final Answer:**
+\boxed{113.00}

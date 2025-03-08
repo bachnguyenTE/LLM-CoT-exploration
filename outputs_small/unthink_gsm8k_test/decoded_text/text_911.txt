@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Colby works for a manufacturing company in the packaging division.  He gets paid $0.20 for every package he completes. If he completes 10 less than 50 packages per hour, how much money, in dollars, does he earn in a typical eight-hour workday?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Colby is paid \$0.20 for each package he completes. He works at a rate of 50 packages per hour (since he completes 10 less than 50 packages per hour). 
+
+To find his daily earnings:
+
+1. **Calculate the number of packages completed per hour:**
+   \[
+   50 \text{ packages/hour} - 10 \text{ packages/hour} = 40 \text{ packages/hour}
+   \]
+
+2. **Determine the number of packages completed in an 8-hour workday:**
+   \[
+   40 \text{ packages/hour} \times 8 \text{ hours} = 320 \text{ packages}
+   \]
+
+3. **Calculate the total earnings for the day:**
+   \[
+   320 \text{ packages} \times \$0.20/\text{package} = \$64.00
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$64.0}
+\]

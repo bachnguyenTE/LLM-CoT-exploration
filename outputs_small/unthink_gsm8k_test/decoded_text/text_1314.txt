@@ -1,0 +1,37 @@
+<｜User｜>
+Q: John had a son James when he was 19.  James is now twice as old as his sister Dora, who will turn 12 in 3 years.  How old will John's youngest son, who was born when John was 32, be in 3 years?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how old John's youngest son will be in 3 years.
+
+1. **Determine James's Current Age:**
+   - John had a son James when he was 19.
+   - Let \( J \) be John's current age.
+   - Therefore, James's current age is \( J - 19 \).
+
+2. **Determine Dora's Current Age:**
+   - James is now twice as old as his sister Dora.
+   - Let \( D \) be Dora's current age.
+   - So, \( J - 19 = 2D \).
+   - Solving for \( D \): \( D = \frac{J - 19}{2} \).
+
+3. **Determine Dora's Age in 3 Years:**
+   - Dora will turn 12 in 3 years.
+   - Therefore, Dora's current age is \( 12 - 3 = 9 \).
+   - So, \( D = 9 \).
+
+4. **Find John's Current Age:**
+   - From step 2: \( 9 = \frac{J - 19}{2} \).
+   - Multiply both sides by 2: \( 18 = J - 19 \).
+   - Add 19 to both sides: \( J = 37 \).
+   - John is currently 37 years old.
+
+5. **Determine the Age of the Youngest Son:**
+   - The youngest son was born when John was 32.
+   - Therefore, the youngest son is currently \( 37 - 32 = 5 \) years old.
+
+6. **Determine the Youngest Son's Age in 3 Years:**
+   - In 3 years, the youngest son will be \( 5 + 3 = 8 \) years old.
+
+**Final Answer:** \(\boxed{8}\)

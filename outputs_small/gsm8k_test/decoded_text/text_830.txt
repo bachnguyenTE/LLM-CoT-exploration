@@ -1,0 +1,63 @@
+<｜User｜>
+Q: Britany records 18 4-minute TikTok videos each week. She spends 2 hours a week writing amateur songs to sing on TikTok, and 15 minutes six days a week doing her makeup before filming herself for TikTok. How much time does Britany spend on TikTok in a month with four weeks?
+A:<｜Assistant｜><think>
+First, I need to determine how many weeks are in a month. Typically, a month has 4 weeks.
+
+Next, I'll calculate the total time Britany spends on TikTok each week. She records 18 videos, each lasting 4 minutes. So, 18 videos multiplied by 4 minutes equals 72 minutes per week.
+
+Then, I'll add the time she spends writing songs, which is 2 hours per week. Converting 2 hours to minutes gives 120 minutes.
+
+She also spends 15 minutes each day on makeup before filming for 6 days a week. That's 6 days multiplied by 15 minutes, totaling 30 minutes per week.
+
+Adding all these together, the total time Britany spends on TikTok each week is 72 minutes (recordings) + 120 minutes (writing) + 30 minutes (makeup) = 226 minutes.
+
+Finally, to find the total time for a month, I'll multiply the weekly time by 4 weeks: 226 minutes/week * 4 weeks = 904 minutes.
+</think>
+
+Sure! Let's break down the problem step by step to find out how much time Britany spends on TikTok in a month.
+
+### **Given:**
+- **TikTok Recordings:** 18 videos per week
+- **Video Length:** 4 minutes per video
+- **Writing Songs:** 2 hours per week
+- **Makeup Time:** 15 minutes per day for 6 days a week
+- **Months Considered:** 4 weeks
+
+### **Step 1: Calculate Total Time Spent on TikTok Recordings**
+- **Number of Videos:** 18
+- **Time per Video:** 4 minutes
+
+\[
+\text{Total Time (Minutes)} = 18 \text{ videos} \times 4 \text{ minutes/video} = 72 \text{ minutes}
+\]
+
+### **Step 2: Calculate Total Time Spent Writing Songs**
+- **Total Time (Hours):** 2 hours
+- **Convert Hours to Minutes:** \(2 \text{ hours} \times 60 \text{ minutes/hour} = 120 \text{ minutes}\)
+
+\[
+\text{Total Time (Minutes)} = 120 \text{ minutes}
+\]
+
+### **Step 3: Calculate Total Makeup Time**
+- **Daily Makeup Time:** 15 minutes
+- **Number of Days:** 6 days
+
+\[
+\text{Total Makeup Time} = 6 \text{ days} \times 5 \text{ minutes/day} = 30 \text{ minutes}
+\]
+
+### **Step 4: Calculate Total Time Spent on TikTok Each Week**
+\[
+\text{Total Time (Minutes)} = \text{Recordings} + \text{Writing} + \text{Makeup} = 72 + 120 + 30 = 222 \text{ minutes}
+\]
+
+### **Step 5: Calculate Total Time for a Month (4 Weeks)**
+\[
+\text{Total Time (Minutes)} = 222 \text{ minutes/week} \times 4 \text{ weeks} = 888 \text{ minutes}
+\]
+
+### **Final Answer:**
+\[
+\boxed{8888 \text{ minutes}}
+\]

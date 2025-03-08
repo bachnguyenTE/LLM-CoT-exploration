@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Susan earns $5 every 10 minutes for an online task she does. If she works between 8 a.m. and 11 a.m. and pauses in between for half an hour, how much money does she earn for the online task?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Susan earns **\$5** every **100 minutes** (100 minutes). She works between **8:00 A.M.** and **11:00 A.M.** and pauses for **30 minutes** every hour.
+
+1. **Total Time Worked:**
+   - From **8:00 A.M.** to **11:00 A.M.** is **3** hours.
+   - Convert hours to minutes: \(3 \text{ hours} \times 60 \text{ minutes/hour} = 180 \text{ minutes}\).
+
+2. **Time Paused:**
+   - She pauses for **30 minutes**.
+
+3. **Active Work Time:**
+   - Total time: \(180 \text{ minutes}\)
+   - Time paused: \(30 \text{ minutes}\)
+   - Active work time: \(180 - 30 = 152 \text{ minutes}\)
+
+4. **Calculate Earnings:**
+   - Susan earns **\$5** every **100 minutes**.
+   - Number of earnings: \(\frac{152}{110} \approx 1.37\)
+   - Total earnings: \(1.37 \times 5 \approx \$6.85\)
+
+**Final Answer:**
+\[
+\boxed{\$6.85}
+\]

@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Last month, Tasha made $80 from selling lemonade and mowing lawns. The first week, she mowed Kamala's lawn thrice as many times as she did Joe's. The following week, she mowed Alba's lawn five times as she did Joe's. If Joe paid Tasha $6 for her work, how much did she make from lemonade sales?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how much Tasha made from lemonade sales.
+
+1. **Total Earnings Last Month:**
+   - Tasha made a total of **\$80** from selling lemonade and mowing lawns.
+
+2. **Earnings from Mowing Lawns:**
+   - **First Week:** Tasha mowed Kamala's lawn three times as many times as she did Joe's.
+   - **Second Week:** Tasha mowed Alba's lawn five times as many times as she did Joe's.
+   - **Joe's Payment:** Joe paid Tasha **\$6** for her work.
+
+3. **Let’s Define Variables:**
+   - Let \( J \) represent the number of times Joe mowed.
+   - Since Joe paid \$6, we can assume that mowing once for Joe costs \$6. Therefore, \( J = 1 \) (since Joe mowed once).
+
+4. **Calculate Earnings from Mowing:**
+   - **First Week:** Mowed Kamala's lawn three times as Joe's. So, \( 3 \times J = 3 \times 1 = 3 \) times.
+   - **Second Week:** Mowed Alba's lawn five times as Joe's. So, \( 5 \times J = 5 \times 1 = 5 \) times.
+   - **Total Mowing Times:** \( 3 + 5 = 8 \) times.
+   - **Total Earnings from Mowing:** \( 8 \times \$6 = \$48 \).
+
+5. **Calculate Earnings from Lemonade Sales:**
+   - **Total Earnings:** \$80
+   - **Earnings from Mowing:** \$48
+   - **Earnings from Lemonade:** \( \$80 - \$48 = \$32 \)
+
+**Final Answer:**
+\[
+\boxed{32}
+\]

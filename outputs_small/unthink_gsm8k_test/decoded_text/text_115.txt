@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Sasha notices that prices for lumber have gone up 50% in the last few months after she bought some lumber. Since she has leftovers, she decides to sell them. She has leftover ten 2 x 4 x 10 boards that cost her $10 each. She also has five 4 x 4 x 10 boards she bought for $16 each. If she sells them all, how much profit does she make?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine Sasha's profit from selling the lumber, we'll follow these steps:
+
+1. **Calculate the total cost of the lumber:**
+   - **Ten 2x4x10 boards:**
+     - Each board costs \$10.
+     - Total cost = 10 boards × \$10/board = \$100
+   - **Five 4x4x10 boards:**
+     - Each board costs \$16.
+     - Total cost = 5 boards × \$16/board = \$300
+   - **Total cost = \$100 + \$300 = \$400**
+
+2. **Calculate the total revenue from selling the lumber:**
+   - **Selling ten 2x4x10 boards:**
+     - She sells all ten boards.
+     - Revenue = 10 boards × \$10/board = \$100
+   - **Selling five 4x4x10 boards:**
+     - She sells all five boards.
+     - Revenue = 5 boards × \$16/board = \$300
+   - **Total revenue = \$100 + \$300 = \$400**
+
+3. **Calculate the profit:**
+   - **Profit = Total revenue - Total cost**
+   - **Profit = \$400 - \$400 = -\$0**
+
+**Conclusion:**
+Sasha incurs a **loss of \$0** after selling all the lumber.
+
+\boxed{-0}

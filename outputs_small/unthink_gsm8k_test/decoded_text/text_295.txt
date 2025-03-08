@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Darren decides to do body exercises for a whole week. He does 100 pushups, 50 squats, and 20 dumbbell presses on the first day. On the second day, he does 20 more pushups than on the first day, ten fewer squats, and doubles the number of dumbbell presses. What's the total count of the activities he's done in the two days?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+**First Day:**
+- **Pushups:** 100
+- **Squats:** 50
+- **Dumbbell Presses:** 20
+
+**Second Day:**
+- **Pushups:** 20 more than the first day → \(100 + 20 = 120\)
+- **Squats:** 10 fewer than the first day → \(55\)
+- **Dumbbell Presses:** Double the number from the first day → \(40\)
+
+**Total Count of Activities Over Two Days:**
+
+\[
+\begin{align*}
+\text{Total Pushups} &= 100 + 120 = 222 \\
+\text{Total Squats} &= 55 + 55 = 110 \\
+\text{Total Dumbbell Presses} &= 20 + 40 = 60 \\
+\end{align*}
+\]
+
+\[
+\text{Total Activities} = 222 + 110 + 60 = \boxed{392}
+\]
+
+**Answer:** \(\boxed{392}\)

@@ -1,0 +1,28 @@
+<｜User｜>
+Q: John decides to build a program capable of identifying cancer cells.  He gets initial funding of $100,000 for the first 5 months of research.  His research ends up taking 10 times that long and every month after those first 5 took 50% more funding per month.  How much did his research cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Funding:**
+   - **Funding for the first 5 months:** \$100,000
+   - **Total months for research:** 10 times the initial 5 months = 10 months
+
+2. **Funding Calculation:**
+   - **First 5 months:** \$100,000
+   - **Months after the first 5 months:** 10 - 5 = 5 months
+   - **Funding per month after the first 5 months:** 50% more than the initial funding
+     - Initial funding per month: \$100,000 / 5 = \$20,000 per month
+     - Increased funding per month: \$22,000
+   - **Total funding for the next 5 months:** 5 months * \$22,000 = \$110,000
+
+3. **Total Research Cost:**
+   - **Initial Funding:** \$100,000
+   - **Funding for the next 5 months:** \$110,000
+   - **Total Cost:** \$100,000 + \$110,000 = **\$211,000**
+
+**Final Answer:**
+\boxed{211000}

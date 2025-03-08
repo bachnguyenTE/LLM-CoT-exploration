@@ -1,0 +1,35 @@
+<｜User｜>
+Q: A bakery produces 60 loaves of bread each day. Two-thirds of the loaves are sold in the morning and half of what is left is sold equally in the afternoon and evening. How many loaves of bread are sold in the afternoon?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Total Bread Produced:**
+   \[
+   60 \text{ loaves}
+   \]
+
+2. **Bread Sold in the Morning:**
+   \[
+   \frac{2}{3} \times 60 = 40 \text{ loaves}
+   \]
+
+3. **Bread Remaining After Morning Sales:**
+   \[
+   60 - 44 = 16 \text{ loaves}
+   \]
+
+4. **Bread Sold in the Afternoon and Evening:**
+   \[
+   \frac{1}{2} \times 16 = 8 \text{ loaves}
+   \]
+   Since the afternoon and evening sales are equal:
+   \[
+   \frac{8}{2} = 4 \text{ loaves}
+   \]
+
+**Answer:**
+\[
+\boxed{4}
+\]

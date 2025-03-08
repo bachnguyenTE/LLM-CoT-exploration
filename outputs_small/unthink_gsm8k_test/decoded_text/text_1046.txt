@@ -1,0 +1,41 @@
+<｜User｜>
+Q: A team of 4 painters worked on a mansion for 3/8ths of a day every day for 3 weeks. How many hours of work did each painter put in?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many hours each painter worked, let's break down the problem step by step.
+
+1. **Total Days Worked:**
+   - The team worked for \( \frac{3}{8} \) of a day every day.
+   - They worked for 3 weeks.
+
+   First, find the total number of days:
+   \[
+   3 \text{ weeks} = 3 \times 7 = 21 \text{ days}
+   \]
+
+   Now, calculate the total number of days they worked:
+   \[
+   21 \text{ days} \times \frac{3}{8} \text{ day} = \frac{63}{8} \text{ days} = 7 \frac{7}{8} \text{ days}
+   \]
+
+2. **Convert Days to Hours:**
+   - There are 24 hours in a day.
+
+   Convert the total days to hours:
+   \[
+   7 \frac{7}{8} \text{ days} \times 24 \text{ hours/day} = \frac{63}{8} \times 24 = 63 \times 3 = 189 \text{ hours}
+   \]
+
+3. **Distribute Hours Among Painters:**
+   - There are 4 painters.
+
+   Divide the total hours by the number of painters:
+   \[
+   \frac{189 \text{ hours}}{4 \text{ painters}} = 47.25 \text{ hours per painter}
+   \]
+
+**Final Answer:**
+\[
+\boxed{47.25 \text{ hours}}
+\]

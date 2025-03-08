@@ -1,0 +1,45 @@
+<｜User｜>
+Q: Carver just turned 45 years old, which makes him 5 years less than twice the age of his son.  How old is his son, in years?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+Carver just turned 45 years old, which makes him 5 years less than twice the age of his son. How old is his son?
+
+**Solution:**
+
+1. **Define Variables:**
+   - Let \( S \) represent the son's age.
+
+2. **Set Up the Equation:**
+   - According to the problem, Carver's age is 5 years less than twice the son's age.
+   - This can be written as:
+     \[
+     45 = 2S - 5
+     \]
+
+3. **Solve for \( S \):**
+   - Add 5 to both sides of the equation:
+     \[
+     45 + 5 = 2S
+     \]
+     \[
+     50 = 2S
+     \]
+   - Divide both sides by 2:
+     \[
+     S = \frac{50}{2}
+     \]
+     \[
+     S = 25
+     \]
+
+4. **Conclusion:**
+   - The son is **25 years old**.
+
+**Final Answer:**
+\[
+\boxed{25}
+\]

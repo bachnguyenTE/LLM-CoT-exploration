@@ -1,0 +1,20 @@
+<｜User｜>
+Q: Bahati, Azibo, and Dinar each contributed to their team's 45 points. Bahati scored the most points and it was 20 more than Azibo scored and 10 more points than Dinar scored. How many points did Azibo score?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Total team points: 45
+- Bahati scored the most points.
+- Bahati's points = Azibo's points + 20
+- Bahati's points = Dinar's points + 10
+
+**Let’s define:**
+- Let \( A \) = points scored by Azibo
+- Let \( B \) = points scored by Bahati
+- Let \( D \) = points scored by Dinar
+
+**From the problem:**
+1. \( B = A + 20 \)                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

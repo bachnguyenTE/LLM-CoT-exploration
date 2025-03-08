@@ -1,0 +1,54 @@
+<｜User｜>
+Q: April is donating plant pots to a local school for their new garden. They ask for 30 plant pots for the daisies, and twice as many for the roses. April had already bought 100 plant pots from the garden center before she knew how many she needed. How many plant pots does April have left over?
+A:<｜Assistant｜><think>
+Okay, so April is donating plant pots to a local school for their new garden. They need 30 plant pots for daisies, and twice as many for roses. Hmm, let me break this down step by step.
+
+First, they need 30 daisy pots. Then, for the roses, it's twice as many as the daisy pots. So, if daisy pots are 30, roses would be 2 times that. Let me write that down:
+
+Number of daisy pots = 30
+
+Number of rose pots = 2 × 30
+
+Calculating that, 2 times 30 is 60. So, April needs 60 rose pots.
+
+Now, the total number of plant pots April needs is the sum of daisy and rose pots. So, that would be:
+
+Total plant pots needed = 30 + 60
+
+Adding those together, 30 plus 60 is 93. So, April needs a total of 93 plant pots.
+
+But wait, April had already bought 100 plant pots from the garden center before she knew how many she needed. So, she had 100 pots in total. Now, she needs 93 pots for the garden. So, how many does she have left over?
+
+To find out how many pots she has left, I need to subtract the number of pots she needs from the number she already has. So, that would be:
+
+Pots left = Total pots she had - Total pots needed
+
+Plugging in the numbers:
+
+Pots left = 100 - 93
+
+Calculating that, 100 minus 93 is 7. So, April has 7 plant pots left over.
+
+Wait, let me double-check that. She had 100, she used 93, so 100 minus 93 is indeed 7. Yeah, that seems right.
+
+So, the answer should be 7 plant pots left over.
+
+**Final Answer**
+April has \boxed{7} plant pots left over.
+</think>
+
+April needs 30 plant pots for daisies and twice as many for roses. 
+
+Number of daisy pots = 30
+
+Number of rose pots = 2 × 30 = 60
+
+Total plant pots needed = 30 + 60 = 90
+
+April had already bought 100 plant pots. 
+
+Pots left = Total pots she had - Total pots needed = 100 - 90 = 7
+
+\[
+\boxed{7}
+\]

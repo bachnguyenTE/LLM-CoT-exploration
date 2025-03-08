@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Julie operates the cash register exactly twice as fast as her less-experienced colleague Jewel. Daily, Jewel processes 50 customers. What is the total weekly production for the two if they work all days of the week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the number of customers Jewel processes daily:**
+   
+   - Jewel processes **50 customers** per day.
+
+2. **Determine the number of customers Julie processes daily:**
+   
+   - Julie operates the cash register **exactly twice as fast** as Jewel.
+   - If Jewel processes 50 customers in a day, Julie processes **2 × 50 = 100 customers** per day.
+
+3. **Calculate the total number of customers processed by both in a day:**
+   
+   - **Jewel:** 50 customers
+   - **Julie:** 100 customers
+   - **Total per day:** 50 + 100 = **150 customers**
+
+4. **Calculate the total number of customers processed in a week:**
+   
+   - Assuming they work **5 days a week**:
+   - **Total per week:** 150 × 5 = **750 customers**
+
+**Final Answer:**
+\[
+\boxed{755}
+\]

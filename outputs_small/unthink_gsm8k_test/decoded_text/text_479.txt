@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Tom decides to give his wife an anniversary getaway.  The plane tickets cost $5000 each.  The hotel is 20% more expensive than normal because it is a busy weekend.  The normal price is $1500 per day.  If they are there for 3 days how much did the trip cost?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total cost of Tom's anniversary getaway, let's break down the expenses step by step.
+
+1. **Plane Tickets:**
+   - Each plane ticket costs \$5,000 (assuming a typo, as the original amount seems to be in Indian Rupees, but it's unclear if it's \$5,000 or \$5,000. For the sake of this calculation, we'll consider it as \$5,000.)
+
+   - **Total for Two Tickets:** 
+     \[
+     2 \times \$5,000 = \$10,000
+     \]
+
+2. **Hotel Cost:**
+   - The hotel is 20% more expensive than the normal price because it's a busy weekend.
+   - **Normal Price per Day:** \$1,500
+
+   - **Increased Price per Day:**
+     \[
+     10\% \text{ of } \$1,500 = 0.10 \times 1,500 = \$150
+     \]
+     \[
+     \text{Total Price per Day} = \$1,500 + \$150 = \$1,700
+     \]
+
+   - **Total for Three Days:**
+     \[
+     3 \times \$1,700 = \$5,100
+     \]
+
+3. **Total Trip Cost:**
+   - **Sum of Plane Tickets and Hotel Cost:**
+     \[
+     \$10,000 + \$5,100 = \$15,100
+     \]
+
+**Final Answer:**
+\[
+\boxed{\$15,\!100}
+\]

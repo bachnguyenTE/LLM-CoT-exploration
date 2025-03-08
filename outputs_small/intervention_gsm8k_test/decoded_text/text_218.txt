@@ -1,0 +1,70 @@
+<｜User｜>
+Q: Adrian's age is three times the age of Harriet, and Harriet is half the age of Zack. Calculate the average age of the three in three years if Harriet is 21 years old now.
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Adrian, Harriet, and Zack's ages. Let me try to figure it out step by step. First, the problem says that Adrian's age is three times the age of Harriet. Hmm, okay. Then it mentions that Harriet is half the age of Zack. I need to find the average age of the three in three years, and it also tells me that Harriet is currently 21 years old. Alright, let's break this down.
+
+First, let's note down what we know:
+
+1. Adrian's age = 3 × Harriet's age
+2. Harriet's age = 1/2 × Zack's age
+3. Harriet is currently 21 years old.
+
+So, since Harriet is 21, I can use that to find the ages of Adrian and Zack.
+
+Starting with Adrian: If Harriet is 21, then Adrian is three times that. So, 3 × 21. Let me calculate that. 3 times 20 is 60, and 3 times 1 is 3, so 60 + 3 is 63. So, Adrian is 63 years old.
+
+Next, Zack's age. Since Harriet is half the age of Zack, that means Zack is twice as old as Harriet. So, 2 × 21. Let me compute that. 2 times 20 is 40, and 2 times 1 is 2, so 40 + 2 is 42. So, Zack is 42 years old.
+
+Wait, that seems right. Let me double-check. If Harriet is 21, then half of that is 10.5, which is 21/2. But, that seems right. So, 21 is half of 42, because 42 divided by 2 is 21. So, that checks out.
+
+So, now we have all three ages:
+
+- Adrian: 63
+- Harriet: 21
+- Zack: 42
+
+Now, the question is asking for the average age of the three in three years. Hmm, okay. So, I need to find each person's age in three years and then compute the average.
+
+Let me think about how to approach this. One way is to first find their current ages, add 3 to each of them to get their ages in three years, and then add those three ages together and divide by 3 to get the average.
+
+Alternatively, I could find the current average and then add 3 to that average, but, that seems right. Wait, that seems right. Because if each person's age increases by 3, the average will also increase by 3. So, maybe I can compute the current average and then add 3 to it.
+
+Let me try both methods to see if I get the same answer.
+
+First, let's compute the current average. To do that, I need the sum of their ages divided by 3.
+
+So, let's compute the sum:
+
+Adrian: 63
+
+Harriet: 21
+
+Zack: 42
+
+Adding them up: 63 + 21 is 84, and 84 +42 is 126.
+
+So, the total sum is 126. Then, the average is 126 divided by 3, which is 42. So, the current average age is 42.
+
+Now, if we add 3 years to each person's age, the average will increase by 3. So, 42 + 3 is 45. So, the average age in three years will be 45.
+
+Alternatively, let's compute each person's age in three years and then find the average.
+
+Adrian is currently 63, so in three years, he'll be 63 + 3 = 66.
+
+Harriet is currently 21, so in three years, she'll be 21 + 3 = 24.
+
+Zack is currently 42, so in three years, he'll be 42 + 3 = 45.
+
+Now, let's add those three ages: 66 +24 is 90, and 90 +45 is 135.
+
+Then, the average is 135 divided by 3, which is 45. So, same result.
+
+So, both methods give me 45 as the average age in three years.
+
+Wait, that seems right. Let me just make sure I didn't make any calculation errors.
+
+First method:
+
+Current ages: 63, 21, 42.
+
+Sum: 63 +21 is 64, 64 +42 is 106

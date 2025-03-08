@@ -1,0 +1,37 @@
+<｜User｜>
+Q: There are 4 snails in one aquarium and 32 snails in another aquarium. The difference between the number of snails in the two aquariums is twice the amount of fish in both aquariums. If both aquariums have the same number of fish in them, how many fish are there in each aquarium?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Number of snails in the first aquarium: 4
+- Number of snails in the second aquarium: 32
+- Let \( F \) be the number of fish in each aquarium.
+
+**Let’s define the variables:**
+- Let \( F \) be the number of fish in each aquarium.
+
+**Understanding the relationship:**
+The problem states that the difference between the number of snails in the two aquariums is twice the amount of fish in both aquariums.
+
+**Setting up the equation:**
+\[
+\text{Difference in snails} = 2 \times (\text{Total number of fish})
+\]
+\[
+|32 - 4| = 2 \times (F + F)
+\]
+\[
+28 = 2 \times 2F
+\]
+\[
+28 = 4F
+\]
+\[
+F = \frac{28}{4} = 7
+\]
+
+**Conclusion:**
+Each aquarium has \(\boxed{7}\) fish.

@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Derrick has a bakery that makes 10 dozen doughnuts every day, selling at $2 per doughnut. How much money does Derrick make in June if he sells all the doughnuts?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Derrick's bakery produces **10 dozen doughnuts** every day. Since 1 dozen equals 12 doughnuts, the total number of doughnuts produced daily is:
+
+\[
+10 \text{ dozen} \times 12 \text{ doughnuts per dozen} = 120 \text{ doughnuts}
+\]
+
+Doughnuts are sold at **\$2 per doughnut**. Therefore, the daily revenue from doughnuts is:
+
+\[
+120 \text{ doughnuts} \times \$2 \text{ per doughnut} = \$240
+\]
+
+June has **30 days**. To find the total revenue for the month, multiply the daily revenue by the number of days:
+
+\[
+\$240 \text{ per day} \times 30 \text{ days} = \$7,200
+\]
+
+**Final Answer:**
+
+\[
+\boxed{\$7,\!200}
+\]

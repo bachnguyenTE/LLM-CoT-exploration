@@ -1,0 +1,44 @@
+<｜User｜>
+Q: There are 96 fourth-graders at Small Tree  School. 43 of them are girls. On Friday, 5 fourth-grade girls and 4 fourth-grade boys were absent. How many fourth grade boys were at Small Tree  School on Friday?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of fourth-grade boys at the school. There are 96 fourth-graders in total, and 43 of them are girls. So, I subtract the number of girls from the total number of fourth-graders to find the number of boys.
+
+96 (total fourth-graders) minus 43 (girls) equals 53 (boys).
+
+Next, I know that 5 fourth-grade girls were absent on Friday, but the number of boys absent is not provided. However, the question asks specifically for the number of fourth-grade boys present on Friday, not the number absent.
+
+Since the total number of boys is 53, and no information is given about boys being absent, I can conclude that all 53 boys were present on Friday.
+
+Therefore, the number of fourth-grade boys at Small Tree School on Friday is 53.
+</think>
+
+To determine the number of fourth-grade boys at Small Tree School on Friday, let's break down the information step by step.
+
+1. **Total Number of Fourth-Graders:**
+   \[
+   96 \text{ students}
+   \]
+
+2. **Number of Fourth-Grade Girls:**
+   \[
+   43 \text{ girls}
+   \]
+
+3. **Number of Fourth-Grade Boys:**
+   \[
+   \text{Total students} - \text{Number of girls} = 96 - 43 = 53 \text{ boys}
+   \]
+
+4. **Absentees on Friday:**
+   - **Girls Absent:** 5
+   - **Boys Absent:** Not provided, so we assume all boys were present.
+
+5. **Fourth-Grade Boys Present on Friday:**
+   \[
+   \text{Total boys} - \text{Boys absent} = 53 - 0 = 53 \text{ boys}
+   \]
+
+**Final Answer:**
+\[
+\boxed{53}
+\]

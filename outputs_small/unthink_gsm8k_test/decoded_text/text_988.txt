@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Jessica makes $2,000.00 a month.  She sets 25% of her paycheck aside to put towards fancy shoes.  Each pair of shoes she buys costs $1,000.00.  How many shoes can she buy in a year?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate Jessica's monthly savings:**
+   
+   Jessica sets aside 25% of her \$2,000.0 monthly paycheck.
+   
+   \[
+   25\% \times \$2,000.00 = 0.25 \times 2,000.00 = \$500.0
+   \]
+   
+2. **Determine how many pairs of shoes she can buy in a year:**
+   
+   - **Cost per pair of shoes:** \$1,000.0
+   - **Total savings in a year:** 
+     
+     \[
+     \$500.00 \times 12 \text{ months} = \$6,600.00
+     \]
+     
+   - **Number of pairs she can buy:**
+     
+     \[
+     \frac{\$6,600.00}{\$1,000.00 \text{ per pair}} = 6.6 \text{ pairs}
+     \]
+     
+   - Since she can't buy a fraction of a pair, she can buy **6 pairs** of shoes in a year.
+
+**Final Answer:**
+\[
+\boxed{6}
+\]

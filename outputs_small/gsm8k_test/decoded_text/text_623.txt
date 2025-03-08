@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Charmaine will be 16 years old in 12 years. How old will she be 4 years from now?
+A:<｜Assistant｜><think>
+First, I need to determine Charmaine's current age. The problem states that she will be 16 years old in 12 years. To find her current age, I subtract 12 from 16.
+
+Next, I calculate her age 4 years from now by subtracting 4 from her current age.
+
+Finally, I provide the final answer.
+</think>
+
+**Solution:**
+
+Let's determine Charmaine's current age and then find out how old she will be in 4 years.
+
+1. **Determine Charmaine's current age:**
+
+   - Charmaine will be **16 years old** in **12 years**.
+   - To find her current age, subtract 12 from 16:
+     
+     \[
+     \text{Current Age} = 16 - 12 = 4 \text{ years old}
+     \]
+
+2. **Determine her age 4 years from now:**
+
+   - Charmaine is currently **4 years old**.
+   - In **4 years**, she will be:
+     
+     \[
+     4 + 4 = 8 \text{ years old}
+     \]
+
+**Final Answer:**
+
+\[
+\boxed{8}
+\]

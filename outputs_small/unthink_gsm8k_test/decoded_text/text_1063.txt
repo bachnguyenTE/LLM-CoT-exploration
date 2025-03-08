@@ -1,0 +1,27 @@
+<｜User｜>
+Q: James gets 80 emails a day.  20% of those emails don't require any response.  He responds to the rest of them.  How many emails does he respond to in a 5 day work week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+James receives **80 emails** each day. Out of these, **20%** (which is **20/100 = 0.20**) do not require a response, and **78%** (which is **78/100 = 0.78**) do require a response.
+
+1. **Calculate the number of emails that require a response per day:**
+   
+   \[
+   80 \text{ emails/day} \times 0.78 = 66.24 \text{ emails}
+   \]
+
+2. **Calculate the total number of response emails for a 5-day work week:**
+   
+   \[
+   66.24 \text{ emails/day} \times 5 \text{ days} = 331.2 \text{ emails}
+   \]
+
+Since you can't send a fraction of an email, we'll round to the nearest whole number.
+
+**Final Answer:**
+\[
+\boxed{331}
+\]

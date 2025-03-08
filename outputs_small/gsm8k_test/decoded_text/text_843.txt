@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Craig has 2 twenty dollar bills. He buys six squirt guns for $2 each.  He also buys 3 packs of water balloons for $3 each.  How much money does he have left?
+A:<｜Assistant｜><think>
+First, I need to determine how much money Craig initially has. He has 2 twenty-dollar bills, so that's 2 multiplied by $20, which equals $40.
+
+Next, I'll calculate the total cost of the squirt guns. Each squirt gun costs $2, and he buys 6 of them. So, 6 multiplied by $2 equals $12.
+
+Then, I'll calculate the total cost of the water balloon packs. Each pack costs $3, and he buys 3 of them. Therefore, 3 multiplied by $3 equals $9.
+
+Now, I'll add the costs of the squirt guns and water balloon packs to find the total expenditure: $12 plus $9 equals $21.
+
+Finally, I'll subtract the total expenditure from the initial amount of money to find out how much money Craig has left: $40 minus $21 equals $23.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Amount of Money:**
+   - Craig has 2 twenty-dollar bills.
+   - Total = 2 × \$20 = \$40
+
+2. **Cost of squirt guns:**
+   - Each squirt gun costs \$2.
+   - Number of squirt guns bought = 6
+   - Total cost = 6 × \$2 = \$12
+
+3. **Cost of water balloon packs:**
+   - Each water balloon pack costs \$3.
+   - Number of packs bought = 3
+   - Total cost = 3 × \$3 = \$9
+
+4. **Total Expenditure:**
+   - Total cost of squirt guns + Total cost of water balloon packs
+   - Total expenditure = \$12 + \$9 = \$21
+
+5. **Money Left:**
+   - Initial amount - Total expenditure
+   - Money left = \$40 - \$21 = \$23
+
+**Final Answer:**
+\boxed{23}

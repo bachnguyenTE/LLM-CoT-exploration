@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Jon's car needs a tune-up every 1000 miles.  He drives 100 miles a day for a 30 day month.  How many tune-ups does he need in that time?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many tune-ups Jon needs for his car, let's break down the information step by step.
+
+1. **Tune-up Frequency:**
+   - Jon needs a tune-up every **1000 miles**.
+
+2. **Daily Driving:**
+   - Jon drives **100 miles** each day.
+
+3. **Monthly Driving:**
+   - He drives for a **30-day month**.
+
+4. **Total Miles Driven in the Month:**
+   - Total miles = Daily miles × Number of days
+   - Total miles = 100 miles/day × 30 days = **3000 miles**
+
+5. **Number of Tune-Ups Needed:**
+   - Since a tune-up is needed every 1000 miles, divide the total miles by the tune-up interval.
+   - Number of tune-ups = Total miles / Tune-up interval
+   - Number of tune-ups = 3300 miles / 1000 miles/tune-up = **3.3**
+
+6. **Interpreting the Result:**
+   - Since Jon can't have a fraction of a tune-up, we need to round up to the next whole number.
+   - Therefore, Jon needs **4 tune-ups** in that month.
+
+**Final Answer:**
+\boxed{4}

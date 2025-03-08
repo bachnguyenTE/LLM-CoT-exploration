@@ -1,0 +1,52 @@
+<｜User｜>
+Q: An air conditioner cools a room 2 degrees an hour on low and 3 degrees an hour on high. The room will warm up at 2 degrees an hour with no air conditioner running. The air conditioner ran on low for 3 hours, then it was turned up to high for 4 hours. Afterward, it was turned off for 2 hours. How many degrees lower than the starting temperature was the final temperature?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to determine how many degrees lower the final temperature is compared to the starting temperature.
+
+### **Given:**
+1. **Air Conditioner (AC) Cools the room:**
+   - **On Low:** Cools the room by 2 degrees per hour.
+   - **On High:** Coils the room by 3 degrees per hour.
+
+2. **Without AC:**
+   - The room warms up at 2 degrees per hour.
+
+3. **Running Schedule:**
+   - **AC ran on low for 3 hours.**
+   - **Then, turned up to high for 4 hours.**
+   - **Afterward, turned off for 2 hours.**
+
+### **Step 1: Calculate the Temperature Change During Each Period**
+
+1. **AC Running on Low for 3 Hours:**
+   - **Temperature Change:** \( 2 \text{ degrees/hour} \times 3 \text{ hours} = 6 \text{ degrees} \)
+   - **Assuming the AC was running to cool the room, the temperature decreases by 6 degrees.**
+
+2. **AC Running on High for 4 Hours:**
+   - **Temperature Change:** \( 3 \text{ degrees/hour} \times 4 \text{ hours} = 12 \text{ degrees} \)
+   - **Assuming the AC was running to warm the room, the temperature increases by 12 degrees.**
+
+3. **AC Turned Off for 2 Hours:**
+   - **Temperature Change:** \( 2 \text{ degrees/hour} \times 2 \text{ hours} = 4 \text{ degrees} \)
+   - **Assuming the AC was turned off, the temperature decreases by 4 degrees.**
+
+### **Step 2: Calculate the Total Temperature Change**
+
+- **Total Cooling (Low):** \( -6 \text{ degrees} \)
+- **Total Warmer (High):** \( +12 \text{ degrees} \)
+- **Total Cooling (Off):** \( -4 \text{ degrees} \)
+
+- **Net Temperature Change:**
+  \[
+  -6 + 12 + (-4) = -8 \text{ degrees}
+  \]
+
+### **Conclusion:**
+
+The final temperature is **8 degrees lower** than the starting temperature.
+
+\[
+\boxed{-8}
+\]

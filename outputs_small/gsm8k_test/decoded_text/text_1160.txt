@@ -1,0 +1,47 @@
+<｜User｜>
+Q: Last week the IRS received 5168 tax reports. On Monday and Tuesday they received a total of 1907 reports. On Thursday and Friday they received a total of 2136 reports. How many reports did they receive on Wednesday?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of tax reports received during the week. The problem states that the IRS received 5168 reports last week.
+
+Next, I know that on Monday and Tuesday, they received a total of 1907 reports. Similarly, on Thursday and Friday, they received 2136 reports.
+
+To find out how many reports were received on Wednesday, I'll subtract the total reports from Monday and Tuesday and the total from Thursday and Friday from the overall total for the week.
+
+So, Wednesday's reports would be 5168 minus 1907 minus 2136.
+</think>
+
+To determine the number of tax reports received on Wednesday, let's break down the information provided:
+
+1. **Total reports for the week:**  
+   \[
+   \text{Total} = 5168
+   \]
+
+2. **Reports received on Monday and Tuesday:**  
+   \[
+   \text{Monday + Tuesday} = 1907
+   \]
+
+3. **Reports received on Thursday and Friday:**  
+   \[
+   \text{Thursday + Friday} = 2136
+   \]
+
+4. **Calculate the reports received on Wednesday:**  
+   \[
+   \text{Wednesday} = \text{Total} - (\text{Monday + Tuesday} + \text{Thursday + Friday})
+   \]
+   \[
+   \text{Wednesday} = 5168 - (1907 + 2136)
+   \]
+   \[
+   \text{Wednesday} = 5168 - 4043
+   \]
+   \[
+   \text{Wednesday} = 1125
+   \]
+
+**Final Answer:**  
+\[
+\boxed{1125}
+\]

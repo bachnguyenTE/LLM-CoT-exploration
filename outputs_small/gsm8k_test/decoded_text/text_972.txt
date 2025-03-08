@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Mrs. Harrington bought 12 boxes of oranges at the market. She gave her mom and her sister 2 boxes of oranges each. Then she kept 1/4 of the oranges and sold the rest. How many oranges did Mrs. Harrington sell if each box contains 20 oranges?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of oranges Mrs. Harrington bought. She purchased 12 boxes, and each box contains 20 oranges. So, the total number of oranges is 12 multiplied by 20, which equals 240 oranges.
+
+Next, she gave 2 boxes to her mom and 2 boxes to her sister. That means she gave away a total of 4 boxes. Each box has 20 oranges, so she gave away 4 times 20, which is 80 oranges.
+
+Subtracting the oranges she gave away from the total number she bought, Mrs. Harrington has 240 minus 80, which equals 160 oranges left.
+
+She then kept 1/4 of these remaining oranges for herself. Calculating 1/4 of 160 gives her 40 oranges.
+
+Finally, to find out how many oranges she sold, I subtract the oranges she kept from the remaining oranges. So, 160 minus 40 equals 120 oranges sold.
+</think>
+
+**Solution:**
+
+1. **Total Oranges Bought:**
+   - Number of boxes bought: 12
+   - Oranges per box: 20
+   - **Total Oranges:** \(12 \times 20 = 240\) oranges
+
+2. **Oranges Given Away:**
+   - Given to mom: 2 boxes
+   - Given to sister: 2 boxes
+   - **Oranges Given Away:** \(2 + 2 = 4\) boxes
+   - **Oranges Given Away in Oranges:** \(4 \times 20 = 80\) oranges
+
+3. **Oranges Remaining:**
+   - **Oranges Remaining:** \(240 - 80 = 160\) oranges
+
+4. **Oranges Kept:**
+   - **Oranges Kept:** \(\frac{1}{4}\) \times 160 = 15\) oranges
+
+5. **Oranges Sold:**
+   - **Oranges Sold:** \(160 - 15 = 145\) oranges
+
+**Final Answer:**
+\(\boxed{145}\)

@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Linus works for a trading company. He buys a mobile device for $20 and sells it for twice the amount of the original price. If he bought 2 devices last Monday and 4 devices last Tuesday, how much profit was he able to earn after selling all the mobile devices he bought last Monday and Tuesday?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Linus and his mobile devices. Let me try to figure it out step by step. 
+
+First, the problem says Linus works for a trading company. He buys a mobile device for $20 and sells it for twice the original price. Hmm, so the original price is $20, right? So twice that would be $40, correct? So, he sells each device for $40.
+
+Now, he bought 2 devices last Monday and 4 devices last Tuesday. So, in total, how many devices did he buy? Let me add those up. 2 plus 4 is 6 devices. So, he bought 6 devices in total.
+
+Each device costs him $20 and he sells each for $40. So, for each device, his profit would be the selling price minus the cost price. That would be $40 minus $20. Let me calculate that: $40 minus $20 is $20 profit per device.
+
+Since he sold all 6 devices, his total profit should be the number of devices multiplied by the profit per device. So, 6 devices times $20 per device. Let me do that multiplication: 6 times 20 is 120. So, his total profit is $120.
+
+Wait, let me double-check that. He bought 2 devices on Monday and 4 on Tuesday, so 2 + 4 is indeed 6 devices. Each sold for $40, so each made $20 profit. 6 times 20 is 120. Yeah, that seems right.
+
+I don't think I made any mistakes here. The key steps were figuring out the selling price, calculating the profit per device, and then multiplying by the total number of devices. Everything seems to add up correctly.
+
+**Final Answer**
+The total profit Linus earned is \boxed{120} dollars.
+</think>
+
+Linus buys a mobile device for $20 and sells it for twice the original price, which is $40. The profit per device is calculated as follows:
+
+\[
+\text{Profit per device} = \text{Selling price} - \text{Cost price} = 40 - 20 = 20 \text{ dollars}
+\]
+
+Linus bought 2 devices last Monday and 4 devices last Tuesday, totaling:
+
+\[
+2 + 4 = 6 \text{ devices}
+\]
+
+The total profit is then calculated by multiplying the number of devices by the profit per device:
+
+\[
+\text{Total profit} = 6 \times 20 = 120 \text{ dollars}
+\]
+
+\[
+\boxed{120}
+\]

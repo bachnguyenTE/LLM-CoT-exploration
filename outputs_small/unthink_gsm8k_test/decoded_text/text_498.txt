@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Brianne and Ashley make greek orange pie. Ashley brought five boxes with ten oranges in each box, while Brianne brought 20 more oranges than Ashley. If one greek orange pie needs three oranges, how many greek orange pies can they make?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to determine how many **Greek Orange Pies** Brianne and Ashley can make.
+
+1. **Oranges from Ashley:**
+   - Ashley brought **5 boxes**.
+   - Each box contains **10 oranges**.
+   - **Total oranges from Ashley:** \( 5 \text{ boxes} \times 10 \text{ oranges/box} = 50 \text{ oranges} \).
+
+2. **Oranges from Brianne:**
+   - Brianne brought **20 more oranges** than Ashley.
+   - **Total oranges from Brianne:** \( 50 \text{ oranges} + 20 = 70 \text{ oranges} \).
+
+3. **Total Oranges Available:**
+   - **Total oranges:** \( 50 \text{ oranges} + 70 \text{ oranges} = 120 \text{ oranges} \).
+
+4. **Oranges Needed per Greek Orange Pie:**
+   - Each pie requires **3 oranges**.
+
+5. **Number of Greek Orange Pies They Can Make:**
+   - **Total pies:** \( \frac{120 \text{ oranges}}{3 \text{ oranges/pie}} = 40 \text{ pies} \).
+
+**Final Answer:** \(\boxed{40}\)

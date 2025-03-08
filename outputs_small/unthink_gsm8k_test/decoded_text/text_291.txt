@@ -1,0 +1,23 @@
+<｜User｜>
+Q: 4 adults and 8 children are to share 8 packets of chocolate bars. Each packet contains 5 chocolate bars. If each adult gets 6 chocolate bars and the rest are to be shared equally among the children, how many will each child get?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We need to determine how many chocolate bars each child will get after distributing the chocolates as per the given conditions.
+
+1. **Total Number of Chocolate Bars:**
+   - Each packet contains 5 chocolate bars.
+   - There are 8 packets.
+   - **Total chocolate bars = 8 packets × 5 bars/packet = 40 bars.**
+
+2. **Distributing Chocolate Bars:**
+   - **Adults:** 4 adults each get 6 chocolate bars.
+     - **Total for adults = 4 adults × 6 bars/adult = 24 bars.**
+   - **Children:** The remaining chocolate bars will be shared equally among 8 children.
+     - **Remaining chocolate bars = 40 bars - 24 bars = 16 bars.**
+     - **Chocolate per child = 16 bars ÷ 8 children = 2 bars/child.**
+
+**Final Answer:**
+\boxed{2}

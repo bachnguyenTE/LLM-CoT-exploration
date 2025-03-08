@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Jake is walking through the Museum of Entomology. He sees 80 spiders with 8 legs each, 90 insects with 6 legs each, and 3 rare mutant invertebrates with 10 legs each. How many legs does Jake see total?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of legs Jake sees, we'll calculate the legs contributed by each type of creature and then sum them up.
+
+1. **Spiders**:  
+   - Number of spiders: 80  
+   - Legs per spider: 8  
+   - Total legs from spiders: \( 80 \times 8 = 640 \) legs
+
+2. **Insects**:  
+   - Number of insects: 90  
+   - Legs per insect: 6  
+   - Total legs from insects: \( 90 \times 6 = 540 \) legs
+
+3. **Rare Mutant Invertebrates**:  
+   - Number of invertebrates: 3  
+   - Legs per invertebrate: 10  
+   - Total legs from invertebrates: \( 3 \times 10 = 30 \) legs
+
+4. **Total Legs**:  
+   - Sum of all legs: \( 640 + 540 + 30 = 1215 \) legs
+
+**Final Answer:**  
+\boxed{1215}

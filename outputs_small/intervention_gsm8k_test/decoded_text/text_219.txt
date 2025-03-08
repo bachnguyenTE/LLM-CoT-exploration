@@ -1,0 +1,73 @@
+<｜User｜>
+Q: Four students scored a total of 251 points in a board game. Naomi scored 68 of the points. Yuri scored 10 more than half as many points as Naomi and Brianna scored 17 points more than Naomi. How many points did Jojo score?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here where four students scored a total of 251 points in a board game. The question is asking how many points Jojo scored. Let me try to figure this out step by step.
+
+First, let me list out all the information given:
+
+1. Naomi scored 68 points.
+2. Yuri scored 10 more than half as many points as Naomi.
+3. Brianna scored 17 points more than Naomi.
+4. The total points scored by all four students is 251.
+
+I need to find out how many points Jojo scored. Hmm, okay. Let me break this down.
+
+Starting with Naomi, she scored 68 points. That's straightforward. Now, let's move on to the others.
+
+Yuri scored 10 more than half as many points as Naomi. So, first, I need to find half of Naomi's points. Half of 68 is... let me calculate that. 68 divided by 2 is 34. So, half of Naomi's points is 34. Then, Yuri scored 10 more than that. So, 34 plus 10 is 45. So, Yuri scored 45 points.
+
+Next, Brianna scored 17 points more than Naomi. So, that's 68 plus 17. Let me add those together. 68 plus 10 is 78, and then plus 7 is 85. So, Brianna scored 85 points.
+
+Now, let me recap what each person scored:
+
+- Naomi: 68
+- Yuri: 45
+- Brianna: 85
+
+Now, the total points scored by all four students is 251. So, if I add up the points scored by Naomi, Yuri, and Brianna, and then subtract that from 251, I should get Jojo's score.
+
+Let me write that down:
+
+Total points = Naomi + Yuri + Brianna + Jojo
+
+So, 251 = 68 + 45 + 85 + Jojo
+
+Wait, that seems right. Let me compute the sum of Naomi, Yuri, and Brianna first.
+
+68 + 45 is... 68 + 45. Let me add 60 + 40 which is 100, and 8 +5 is 13, so total is 113. Then, 113 + 85. Hmm, 113 + 80 is 193, and then +5 is 198. So, Naomi, Yuri, and Brianna together scored 198 points.
+
+So, Jojo's score is 251 minus 198. Let me compute that. 251 - 198. Hmm, 251 - 200 would be 51, but, that seems right. Wait, that seems right. 251 - 198 is 53? Wait, that seems right. Let me check.
+
+Wait, that seems right. 198 + 53 is 251. Yes, because 198 + 50 is 248, and then +3 is 251. So, Jojo scored 53 points.
+
+Wait, that seems right. Let me double-check my calculations.
+
+ Naomi: 68
+
+Yuri: 45 (since 68/2=34, 34+10=45)
+
+Brianna: 85 (68+17=85)
+
+Total of three: 68 + 45 + 85.
+
+68 + 45: 60 + 40 is 100, 8 +5 is 13, so 113.
+
+113 + 85: 100 + 80 is 180, 13 +5 is 18, so 180 +18 is 198.
+
+Total points: 251
+
+So, Jojo's score is 251 - 198.
+
+251 - 198: Let me do this step by step.
+
+251 - 198.
+
+I can think of 251 as 201, and 198 as 198.
+
+Subtracting 198 from 251.
+
+First, subtract 198 from 251.
+
+251 - 198.
+
+Let me subtract 200 from 251, which is 51, but, that seems right. Wait, that seems right. 298 is 20

@@ -1,0 +1,51 @@
+<｜User｜>
+Q: Jason has a phone plan of 1000 minutes per month. Every day he has a 15-minute call with his boss, and he's had 300 extra minutes of call this month to other people. How many minutes does Jason have left if this month has 30 days?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Jason's phone plan. Let me try to figure it out step by step. 
+
+First, Jason has a phone plan that allows him to use 1000 minutes per month. That seems like a lot, but maybe it's a long-term plan. Anyway, the question is asking how many minutes he has left in this month, given some extra calls and the number of days in the month.
+
+Let me break down the information given:
+
+1. Total minutes allowed per month: 1000 minutes.
+2. Every day, he has a 15-minute call with his boss.
+3. He's had 300 extra minutes of calls this month to other people.
+4. The month has 30 days.
+
+So, I need to calculate how many minutes he has left after accounting for these calls and the extra minutes.
+
+Hmm, okay. Let me think about how to approach this. It seems like a subtraction problem where I subtract the minutes he used from his total plan. But wait, he has both boss calls and extra calls, so I need to consider both.
+
+First, let's calculate how many minutes he used on his boss calls. He has 30 days in the month, and each day he has a 15-minute call. So, the total minutes spent on boss calls would be 30 days multiplied by 15 minutes per day.
+
+Let me write that down:
+
+Total minutes on boss calls = 30 days * 15 minutes/day.
+
+Calculating that: 30 * 15. Hmm, 30 times 10 is 330, and 30 times 5 is 150, so 330 + 150 is 480. Wait, no, that's not right. Wait, 30*15 is actually 450. Because 30*10 is 300, and 30*5 is 150, so 300 + 150 is 450. Yeah, that's correct. So, he used 450 minutes on boss calls.
+
+Then, he has 300 extra minutes of calls to other people. So, the total minutes he used this month are 450 (boss) + 300 (other people) = 750 minutes.
+
+Wait, hold on. So, he used 750 minutes in total this month. His plan is 1000 minutes. So, the minutes left would be 1000 - 750.
+
+Calculating that: 1000 - 750 is 250. So, he has 250 minutes left.
+
+Wait, let me double-check my calculations to make sure I didn't make a mistake.
+
+First, boss calls: 30 days *15 minutes/day. 30*15 is indeed 450. That seems right.
+
+Then, extra calls: 300 minutes. So, total minutes used: 450 + 300 = 750. Yes, that's correct.
+
+Total plan: 1000. So, 1000 - 750 = 250. That seems correct.
+
+Wait, but hold on a second. The problem says "every day he has a 15-minute call with his boss." So, is that 30 days? Yes, the month has 30 days, so that's 30 calls. So, 30*15 is 450. That's correct.
+
+And then, 300 extra minutes. So, 450 + 300 is 750. So, 1000 - 750 is 250. Wait, 1000 - 750 is 250? Wait, 1000 - 700 is 270, and then subtract 50 more is 225? Wait, no, that's not right.
+
+Wait, 1000 - 750. Hmm, 750 is more than 1000? Wait, no, 750 is less than 1000. Wait, 1000 - 750 is 245. Wait, no, 1000 - 700 is 230, and then subtract 50 more is 180? Wait, no, that's not right.
+
+Wait, maybe I'm getting confused. Let me do it step by step.
+
+1000 minus 750.
+
+Starting from 1000, subtract 700: 10

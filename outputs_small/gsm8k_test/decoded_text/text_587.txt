@@ -1,0 +1,52 @@
+<｜User｜>
+Q: At the Burger Palace restaurant, there is an enormous jar containing red, blue and green jelly beans.  On the outside of the jar is a note that reads, "This jar contains 1% fewer red jelly beans than blue jelly beans and 1% more green jelly beans than blue jelly beans."  If the jar contains a total of 4500 jelly beans, how many more green jelly beans does it contain than red jelly beans?
+A:<｜Assistant｜><think>
+Okay, so I have this problem about jelly beans in a jar at Burger Palace. Let me try to figure it out step by step. 
+
+First, the problem says there are red, blue, and green jelly beans. The jar has a note that says there's 1% fewer red jelly beans than blue ones and 1% more green jelly beans than blue ones. The total number of jelly beans is 4500. I need to find how many more green jelly beans there are than red ones.
+
+Hmm, okay. Let me break this down. Let's denote the number of blue jelly beans as B. Then, according to the note, red jelly beans are 1% fewer than blue ones. So, red would be B minus 1% of B, which is 0.99B. Wait, is that right? If it's 1% fewer, that means red is 99% of blue. So, yes, red = 0.99B.
+
+Similarly, green jelly beans are 1% more than blue ones. So, green would be B plus 1% of B, which is 1.01B. That makes sense.
+
+So, now I have expressions for red, blue, and green in terms of B. Let me write that down:
+
+- Red (R) = 0.99B
+- Blue (B) = B
+- Green (G) = 1.01B
+
+Now, the total number of jelly beans is 4500. So, R + B + G = 4500.
+
+Substituting the expressions in terms of B:
+
+0.99B + B + 1.01B = 4500
+
+Let me compute the left side:
+
+0.99B + B + 1.01B. Let me add them up.
+
+First, 0.99B + B is 1.99B, and then adding 1.01B gives 1.99B.
+
+Wait, 0.99 + 1 + 1.01? Wait, no, that's not right. Wait, 0.99B + B is 1.99B, and then adding 1.01B gives 1.99B + 1.01B = 3B.
+
+Wait, that can't be right. Wait, 0.99 + 1 + 1.01 is 3.00? Wait, 0.99 + 1 is 1.99, plus 1.01 is 3.00. So, 3B = 4500.
+
+So, 3B = 4500. Therefore, B = 4500 / 3 = 1500.
+
+So, blue jelly beans are 1500.
+
+Then, red is 0.99B, which is 0.99 * 1500. Let me compute that.
+
+0.99 * 1500. Hmm, 1500 * 0.99. Let me think. 1500 * 1 is 1500, so 1500 * 0.99 is 1500 - 1500 * 0.01 = 1500 - 150 = 1350.
+
+So, red is 1350.
+
+Green is 1.01B, which is 1.01 * 1500. Let me compute that.
+
+1.01 * 1500. Hmm, 1500 * 1.01. Let me break it down: 1500 * 1 = 1500, 1550 * 0.01 = 155.5. Wait, no, that's not right.
+
+Wait, 1.01 is 1 + 0.1, so 1500 * 1 = 1500, and 1500 * 0.1 = 155.5. So, adding them together: 1500 + 155.5 = 1655.5? Wait, that can't be right because 1.01 * 1500 is 1665.5? Wait, no, wait.
+
+Wait, 1.01 * 1500 is 155, so 1.01 * 1500 is 1550 + 15.5 = 1565.5? Wait, I'm getting confused.
+
+Wait, 1

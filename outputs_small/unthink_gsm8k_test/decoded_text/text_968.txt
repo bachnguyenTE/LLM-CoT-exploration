@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Andy works in the pro shop of a tennis resort. He has 12 racquets that need restringing. 3 of them are to be strung with synthetic gut, 5 of them will be strung with polyester string, and 4 of them will be strung with a hybrid set (half synthetic gut, half polyester string). How long will it take Andy to string all of those racquets if it takes him an average of 15 minutes for him to string with synthetic gut, 22 minutes to string with polyester string, and 18 minutes for hybrid sets?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how long it will take Andy to string all the racquets, we'll calculate the time required for each type of string and then sum them up.
+
+1. **Synthetic Gut Strings:**
+   - **Number of racquets:** 3
+   - **Time per racquet:** 15 minutes
+   - **Total time:** \( 3 \times 15 = 15 \) minutes
+
+2. **Polyester Strings:**
+   - **Number of racquets:** 5
+   - **Time per racquet:** 22 minutes
+   - **Total time:** \( 5 \times 22 = 110 \) minutes
+
+3. **Hybrid Sets:**
+   - **Number of racquets:** 4
+   - **Time per hybrid set:** 18 minutes
+   - **Total time:** \( 4 \times 18 = 72 \) minutes
+
+4. **Total Time:**
+   - **Sum of all times:** \( 15 + 110 + 72 = 198 \) minutes
+
+**Final Answer:** \(\boxed{198}\) minutes

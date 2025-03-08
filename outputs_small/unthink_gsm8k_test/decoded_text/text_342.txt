@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Laurel's friend gave her 24 baby outfits that her child no longer needed.  At her baby shower, Laurel received twice the amount of new baby outfits.  Then, Laurel's mom gifted her with another 15 baby outfits.  How many outfits does she have for her baby?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Outfits:**
+   - Laurel's friend gave her **24 baby outfits**.
+
+2. **Outfits Received at the Baby Shower:**
+   - Laurel received **twice the amount** of new baby outfits at the baby shower.
+   - **Twice 24 outfits** is \( 2 \times 24 = 48 \) outfits.
+
+3. **Outfits Gifted by Mom:**
+   - Laurel's mom gifted her **another 15 baby outfits**.
+
+4. **Total Outfits:**
+   - **Initial outfits** + **Outfits from shower** + **Outfits from mom** = \( 24 + 48 + 15 = 87 \) outfits.
+
+**Final Answer:**
+\[
+\boxed{87}
+\]

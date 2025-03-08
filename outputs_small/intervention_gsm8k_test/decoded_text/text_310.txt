@@ -1,0 +1,86 @@
+<｜User｜>
+Q: Theo has $6000 he wishes to spend on his upcoming business trip to South Africa. He buys 6 business suits at $100 each, 3 suitcases at $50 each, a flight ticket that costs $700 more than 5 times as much as the cost of a business suit. He wishes to save $2000 for this trip, how much does he have to spend on buying gifts for his business partners in South Africa?
+A:<｜Assistant｜><think>
+Okay, so Theo has $6000 to spend on his business trip to South Africa. He wants to figure out how much he can spend on gifts for his business partners after he buys all his other expenses. Let me break this down step by step.
+
+First, Theo buys 6 business suits, each costing $100. So, I need to calculate the total cost for the suits. That would be 6 multiplied by $100. Let me write that down:
+
+6 suits * $100/suit = $600.
+
+Alright, so the business suits cost $600 in total.
+
+Next, he buys 3 suitcases at $50 each. Let me calculate that:
+
+3 suitcases * $50/suit = $150.
+
+So, the suitcases cost $150 in total.
+
+Now, he also buys a flight ticket that costs $700 more than 5 times the cost of a business suit. Hmm, okay, let's parse that. First, find 5 times the cost of a business suit. Since each suit is $100, 5 times that would be:
+
+5 * $100 = $500.
+
+Then, the flight ticket costs $700 more than that. So, we add $700 to $550:
+
+$550 + $700 = $1250.
+
+Wait, that seems right. So, the flight ticket is $1250.
+
+Now, let me add up all his expenses so far: business suits, suitcases, and flight ticket.
+
+Total spent so far = $600 (suits) + $150 (suitcases) + $1250 (flight ticket).
+
+Let me add those up step by step.
+
+First, $600 + $150 = $750.
+
+Then, $750 + $1250. Hmm, 750 + 1250. Let me do that:
+
+750 + 1250 = 2000.
+
+Wait, that seems right. So, he's spent $2000 on business suits, suitcases, and flight ticket.
+
+But, that seems right. Let me double-check:
+
+6 suits at $100: 6*100=600.
+
+3 suitcases at $50: 3*50=150.
+
+Flight ticket: 5*100=500, plus 700 is 1200. Wait, that seems right. Wait, that seems right. 5*100 is 500, plus 700 is 1200.
+
+So, 600 + 150 is 750, plus 1200 is 1950. Wait, that seems right. Wait, that seems right. 600 + 150 is 750, plus 1200 is 1950.
+
+Wait, that seems right. So, he's spent $1950 on business suits, suitcases, and flight ticket.
+
+Wait, that seems right. So, he started with $6000, and he's spending $1950 on these items. So, let me subtract that from his total.
+
+Total he has: $6000.
+
+Subtract the amount spent: $1950.
+
+So, 6000 - 1950.
+
+Let me compute that.
+
+6000 - 1950.
+
+First, subtract 2000 from 6000, which is 4000.
+
+But, that seems right. Wait, that seems right. 6000 - 1950.
+
+Alternatively, 6000 - 1000 = 5000.
+
+5500 - 850 = 4650.
+
+Wait, that seems right. So, 6000 - 1950 = 4650.
+
+Wait, that seems right. So, he has $4650 left after buying the suits, suitcases, and flight ticket.
+
+But, that seems right. So, he has $4650 left.
+
+But, that seems right. So, he wants to save $2000 for the trip, so he needs to spend the rest on gifts.
+
+Wait, that seems right. So, he wants to save $2000, so he needs to spend the remaining amount on gifts.
+
+So, total he has: $6000.
+
+He wants to save $2000, so he needs to spend 6000 - 2000 = 400

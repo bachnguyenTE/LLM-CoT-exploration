@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Buford writes many checks every year.  Once per month he writes a check to pay the electric bill.  He also writes a check every month for the gas bill.  Twice per month he writes a check to the church.  And quarterly, he writes a check to the pest and lawn service.  How many checks does Buford write per year?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many checks Buford writes per year, let's break down his activities:
+
+1. **Electric Bill Check:**
+   - **Frequency:** Once per month.
+   - **Per Year:** \(12 \text{ checks}\).
+
+2. **Gas Bill Check:**
+   - **Frequency:** Once per month.
+   - **Per Year:** \(12 \text{ checks}\).
+
+3. **Church Checks:**
+   - **Frequency:** Twice per month.
+   - **Per Year:** \(2 \times 12 = 24 \text{ checks}\).
+
+4. **Pest and Lawn Service Check:**
+   - **Frequency:** Quarterly (every 3 months).
+   - **Per Year:** \(4 \text{ checks}\).
+
+**Total Checks per Year:**
+\[
+12 \text{ (Electric)} + 12 \text{ (Gas)} + 24 \text{ (Church)} + 4 \text{ (Pest and Lawn)} = 52 \text{ checks}
+\]
+
+**Final Answer:**  
+\[
+\boxed{52}
+\]

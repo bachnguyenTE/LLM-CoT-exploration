@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Johnny took his allowance of $20 and added an extra $10 to it.  He then invested this sum of money, which tripled in a year.  How much money did he have after a year?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Johnny and his allowance. Let me try to figure it out step by step. 
+
+First, the problem says Johnny took his allowance of $20 and added an extra $10 to it. Hmm, so that means he started with $20 and then added $10 more. Let me write that down. 
+
+So, $20 plus $100. Wait, hold on, is that $20 or $20? Maybe I should write it as $20 + $10. Yeah, that makes sense. So, $20 plus $10 is $30. So, Johnny initially had $30. 
+
+Then, he invested this sum of money, which tripled in a year. Hmm, okay, so he invested $30, and it tripled. Tripling means multiplying by 3, right? So, if something triples, it becomes three times as much. 
+
+So, if he invested $30 and it tripled, that would be 3 times $30. Let me calculate that. 3 multiplied by 30 is... 3 times 3 is 9, and 3 times 0 is 0, so 90? Wait, no, that's not right. Wait, 3 times 30 is actually 90? Wait, no, 3 times 30 is 90? Wait, no, 3 times 30 is 90? Wait, 30 times 3 is 90? Wait, no, 30 is 30, so 30 times 3 is 99? Wait, no, 3 times 30 is 90, and 3 times 3 is 9, so 90 plus 9 is 99? Wait, no, that's not right. Wait, 3 times 30 is 90, right? Because 3 times 3 is 9, and 3 times 0 is 0, so 90. So, 3 times 30 is 90. So, 3 times 30 is 90. So, he had $90 after the investment. 
+
+Wait, but hold on, let me make sure I'm doing this right. So, he started with $30, right? Because $20 plus $10 is $30. Then he invested that $30, and it tripled. So, tripled means multiplied by 3, so 30 times 3 is 90. So, he had $90 after a year. 
+
+Wait, but hold on, is the $10 added to the $20, making it $30, or is it $20 plus $10, which is $30? Yeah, that's correct. So, $20 plus $10 is $30. Then, he invested that $30, and it tripled. So, 30 times 3 is 90. So, he had $90 after a year. 
+
+Wait, but let me think again. Sometimes, when people say something triples, it can be interpreted differently. Is it that the total amount after investment is triple the original, or is it that the investment itself triples? Hmm, the problem says, "He then invested this sum of money, which tripled in a year." So, the sum he invested tripled. So, the sum he invested was $30, and it tripled, so it became $90. So, the total amount he had after a year is the original $30 plus the $90? Wait, no, that doesn't make sense. 
+
+Wait, no, hold on. Let me read the problem again. "He then invested this sum of money, which tripled in a year." So, he had $30, he invested that $30, and it tripled. So, the investment itself became tripled, meaning it became 3 times the original investment. So, the investment was $30, and it tripled, so it became 3 times $30, which is $90. So, the total amount he had after a year is the original $30 plus the $90 from the investment? Wait, no, that can't be right because he already invested it. 
+
+Wait, maybe I'm overcomplicating it. Let me parse the sentence again. "He took his allowance of $20 and added an extra $10 to it. He then invested this sum of money, which tripled in a year." So, the key is that he invested the sum, which was $20 + $10, which is $30, and that investment tripled. So, the investment became

@@ -1,0 +1,55 @@
+<｜User｜>
+Q: Every month, Madeline has to buy food, treats, and medicine for her dog. Food costs $25 per week. Treats cost $20 per month. Medicine costs $100 per month. How much money does Madeline spend on her dog per year if there are 4 weeks in a month?
+A:<｜Assistant｜><think>
+First, I need to determine the weekly cost for Madeline's dog food. The food costs $25 per week.
+
+Next, I'll calculate the monthly cost for food by multiplying the weekly cost by the number of weeks in a month, which is 4. So, 4 weeks multiplied by $25 per week equals $100 per month.
+
+Then, I'll add the monthly cost for treats, which is $200, to the monthly food cost. This gives a total of $120 per month for food and treats.
+
+After that, I'll add the monthly cost for medicine, which is $100, to the previous total. This brings the total monthly cost to $220.
+
+Finally, to find the annual cost, I'll multiply the monthly total by 12, resulting in $2640 per year.
+</think>
+
+To determine how much Madeline spends on her dog's annual expenses, let's break down the costs month by month and then annualize them.
+
+### Monthly Costs:
+1. **Food:**
+   - **Cost per week:** \$25
+   - **Number of weeks in a month:** 4
+   - **Total monthly cost for food:** 
+     \[
+     25 \, \!00 \times 4 = 100
+     \]
+   
+2. **Treats:**
+   - **Cost per month:** \$200
+   - **Total monthly cost for treats:** 
+     \[
+     200
+     \]
+   
+3. **Medicine:**
+   - **Cost per month:** \$100
+   - **Total monthly cost for medicine:** 
+     \[
+     100
+     \]
+
+4. **Total Monthly Cost:**
+   \[
+   100 \, (\text{food}) + 200 \, \!00 + 100 = 400
+   \]
+
+### Annual Costs:
+- **Total monthly cost:** \$400
+- **Number of months in a year:** 12
+- **Total annual cost:**
+  \[
+  400 \times 12 = 4800
+  \]
+
+\[
+\boxed{4800}
+\]

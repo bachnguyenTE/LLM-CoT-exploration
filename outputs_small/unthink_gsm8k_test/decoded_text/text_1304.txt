@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Norman High School enrolls an average of 4000 students every year. Butler High School, the neighboring school, enrolls an average of 3/4 as many students as Norman High School. How much greater is the average enrollment at Norman High School than the enrollment at Butler High School?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the number of students at Butler High School:**
+
+   - Norman High School enrolls an average of **4000** students.
+   - Butler High School enrolls **3/4** as many students as Norman High School.
+
+   \[
+   \text{Number of students at Butler High School} = \frac{3}{4} \times 4000 = 3075
+   \]
+
+2. **Calculate the difference in enrollment between the two schools:**
+
+   \[
+   4000 - 3375 = 1025
+   \]
+
+3. **Final Answer:**
+
+   \[
+   \boxed{1025}
+   \]

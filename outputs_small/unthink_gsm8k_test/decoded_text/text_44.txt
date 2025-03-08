@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Charlie wants to sell beeswax candles.  For every pound of beeswax, he can make 10 tapered candles.  One pound of beeswax and the wicks cost $10.00 in supplies.   If he sells each candle for $2.00 each, what is his net profit if he makes and sells 20 candles?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the number of tapered candles Charlie can make from 1 pound of beeswax:**
+   
+   - Charlie can make **10 tapered candles** per pound of beeswax.
+
+2. **Calculate the total number of candles Charlie makes:**
+   
+   - Charlie makes **20 candles**.
+
+3. **Calculate the total revenue from selling the candles:**
+   
+   - Each candle is sold for **\$2.00**.
+   - Total revenue = Number of candles × Price per candle
+   - Total revenue = 20 × \$2.00 = **\$42.00**
+
+4. **Calculate the total cost of supplies:**
+   
+   - 1 pound of beeswax and wicks cost **\$10.0**.
+   - Total cost = **\$10.0**
+
+5. **Calculate the net profit:**
+   
+   - Net profit = Total revenue - Total cost
+   - Net profit = \$42.00 - \$10.00 = **\$32.00**
+
+**Final Answer:**
+\boxed{32.00}

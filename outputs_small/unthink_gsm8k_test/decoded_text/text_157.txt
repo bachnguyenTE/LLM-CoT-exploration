@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Blake and Kelly are having a contest to see who can run the most in 15 minutes. They decide to do it on a football field that is 100 yards long. Blake runs back and forth 15 times. Kelly runs back and forth once, and then decides that she doesn't want to run next to Blake, so she starts to run to the 40-yard line and back. She does this 34 times. How much farther does the winner run than the loser?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much farther the winner ran compared to the loser, let's break down the problem step by step.
+
+### ** Blake's Distance:**
+- **Distance of one back-and-forth:** 100 yards (since the field is 100 yards long and he runs back and forth once).
+- **Number of back-and-forth runs:** 15 times.
+- **Total distance Blake runs:** 
+  \[
+  100 \text{ yards} \times 15 = 1500 \text{ yards}
+  \]
+
+### ** Kelly's Distance:**
+1. **First part:** She runs to the 40-yard line and back.
+   - **One way distance:** 40 yards.
+   - **Total for one back-and-forth:** 
+     \[
+     40 \text{ yards} \times 2 = 80 \text{ yards}
+     \]
+2. **Number of back-and-forth runs:** 34 times.
+- **Total distance Kelly runs:**
+  \[
+  80 \text{ yards} \times 34 = 2720 \text{ yards}
+  \]
+
+### **Comparing the Distances:**
+- **Difference in distance:**
+  \[
+  2720 \text{ yards} - 1500 \text{ yards} = 1220 \text{ yards}
+  \]
+
+### **Final Answer:**
+\[
+\boxed{1220}
+\]

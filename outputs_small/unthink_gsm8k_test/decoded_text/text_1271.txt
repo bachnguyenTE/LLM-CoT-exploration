@@ -1,0 +1,41 @@
+<｜User｜>
+Q: A large bag of Starbursts candy has 232 pieces of individually wrapped candies.  If this bag has 54 red candies, twice that amount of orange candies and half as many yellow candies as red candies, how many candies are pink?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the number of pink candies in the bag, let's break down the information step by step.
+
+1. **Total Candies in the Bag:**
+   \[
+   232 \text{ pieces}
+   \]
+
+2. **Red Candies:**
+   \[
+   54 \text{ pieces}
+   \]
+
+3. **Orange Candies:**
+   \[
+   \text{Twice the amount of red candies} = 2 \times 54 = 108 \text{ pieces}
+   \]
+
+4. **Yellow Candies:**
+   \[
+   \text{Half as many as red candies} = \frac{54}{2} = 27 \text{ pieces}
+   \]
+
+5. **Total Non-Pink Candies:**
+   \[
+   \text{Red} + \text{Orange} + \text{Yellow} = 54 + 108 + 27 = 189 \text{ pieces}
+   \]
+
+6. **Pink Candies:**
+   \[
+   \text{Total Candies} - \text{Non-Pink Candies} = 232 - 189 = 43 \text{ pieces}
+   \]
+
+**Final Answer:**
+\[
+\boxed{43}
+\]

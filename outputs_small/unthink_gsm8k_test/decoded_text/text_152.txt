@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Carl buys ten packs of cookies. Each pack of cookies has six cookies inside. Each cookie cost $0.10. How much change does Carl receive if he pay with a $10 bill?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate the total number of cookies:**
+   \[
+   10 \text{ packs} \times 6 \text{ cookies/pack} = 60 \text{ cookies}
+   \]
+
+2. **Determine the total cost of the cookies:**
+   \[
+   60 \text{ cookies} \times \$0.10/\text{cookie} = \$6.60
+   \]
+
+3. **Subtract the total cost from the amount paid:**
+   \[
+   \$10.00 - \$6.60 = \$3.40
+   \]
+
+**Answer:** Carl receives **\$3.40** in change.

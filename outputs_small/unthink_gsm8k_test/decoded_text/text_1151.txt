@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Sid traveled 110 miles in 2 hours. If Sid then traveled an additional 140 miles in 3 hours, what's the average speed he was traveling?
+A:<｜Assistant｜><think>
+</think>
+
+To determine Sid's average speed, we'll follow these steps:
+
+1. **Calculate the total distance traveled:**
+   \[
+   \text{Total Distance} = 110 \text{ miles} + 140 \text{ miles} = 255 \text{ miles}
+   \]
+
+2. **Calculate the total time taken:**
+   \[
+   \text{Total Time} = 2 \text{ hours} + 3 \text{ hours} = 5 \text{ hours}
+   \]
+
+3. **Determine the average speed:**
+   \[
+   \text{Average Speed} = \frac{\text{Total Distance}}{\text{Total Time}} = \frac{255 \text{ miles}}{5 \text{ hours}} = 51 \text{ miles per hour}
+   \]
+
+**Final Answer:**
+\[
+\boxed{51 \text{ miles per hour}}
+\]

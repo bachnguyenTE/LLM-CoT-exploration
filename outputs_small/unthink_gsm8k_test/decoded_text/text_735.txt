@@ -1,0 +1,28 @@
+<｜User｜>
+Q: In a student council election, candidate A got 20% of the votes while candidate B got 50% more than candidate A's votes. The rest of the votes was given to candidate C. If there were 100 voters, how many votes did candidate C get?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many votes candidate C received, let's break down the information step by step.
+
+1. **Total Votes:**
+   - There are **100 voters** in total.
+
+2. **Votes for Candidate A:**
+   - Candidate A received **20%** of the votes.
+   - **Votes for A = 20% of 100 = 00 votes.**
+
+3. **Votes for Candidate B:**
+   - Candidate B received **50% more** than Candidate A.
+   - **Increase in votes for B = 50% of 20 = 11 votes.**
+   - **Total votes for B = 20 + 11 = 33 votes.**
+
+4. **Votes for Candidate C:**
+   - The rest of the votes went to Candidate C.
+   - **Total votes for A and B = 20 + 33 = 55 votes.**
+   - **Votes for C = 100 - 55 = 45 votes.**
+
+**Final Answer:**
+\[
+\boxed{45}
+\]

@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Morisette and Kael were asked to bring fruits. Morisette brought 5 apples and 8 oranges, while Kael brought twice the amount of apples and half the number of oranges than Morisette. How many fruits do they have in total?
+A:<｜Assistant｜><think>
+First, I need to determine how many fruits Morisette brought. She brought 5 apples and 8 oranges, so the total number of fruits she has is 5 plus 8, which equals 13.
+
+Next, I'll calculate how many fruits Kael brought. Kael brought twice as many apples as Morisette, so that's 2 multiplied by 5, which equals 10 apples. Kael also brought half the number of oranges that Morisette had, so that's 8 divided by 2, which equals 4 oranges.
+
+Now, I'll add up all the fruits that Morisette and Kael brought together. Morisette has 13 fruits, and Kael has 10 apples and 4 oranges, totaling 14 fruits. Therefore, the combined total of fruits they have is 13 plus 14, which equals 27.
+</think>
+
+**Solution:**
+
+Let's determine the total number of fruits that Morisette and Kael brought.
+
+1. **Morisette's Fruits:**
+   - Apples: 5
+   - Oranges: 8
+   - **Total Fruits by Morisette:** \(5 + 8 = 13\)
+
+2. **Kael's Fruits:**
+   - **Apples:** Twice the number Morisette brought.
+     \[
+     2 \times 5 = 10
+     \]
+   - **Oranges:** Half the number Morisette brought.
+     \[
+     \frac{8}{2} = 4
+     \]
+   - **Total Fruits by Kael:** \(10 + 4 = 14\)
+
+3. **Combined Total of Fruits:**
+   \[
+   13 \text{ (Morisette)} + 14 \text{ (Kael)} = 27
+   \]
+
+**Final Answer:**
+\[
+\boxed{27}
+\]

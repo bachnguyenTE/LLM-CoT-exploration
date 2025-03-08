@@ -1,0 +1,63 @@
+<｜User｜>
+Q: Rory is retrieving tennis balls from the court after a tennis match. In the first of three sets, he had to retrieve four more balls than in the second set. In the third set, he retrieved half as many balls as in the second. He retrieved 19 tennis balls in all. How many tennis balls did he retrieve in the first set of the match?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Let:**
+- \( x \) = number of tennis balls retrieved in the **second set**
+- \( y \) = number of tennis balls retrieved in the **first set**
+- \( z \) = number of tennis balls retrieved in the **third set**
+
+**Given:**
+1. In the first set, Rory retrieved **four more balls** than in the second set:
+   \[
+   y = x + 4
+   \]
+2. In the third set, he retrieved **half as many balls** as in the second set:
+   \[
+   z = \frac{1}{2}x
+   \]
+3. The total number of tennis balls retrieved in all three sets is **19**:
+   \[
+   y + x + z = 19
+   \]
+
+**Substitute the expressions for \( y \) and \( z \) into the total equation:**
+\[
+(x + 4) + x + \frac{1}{2}x = 19
+\]
+
+**Combine like terms:**
+\[
+x + 4 + x + \frac{1}{2}x = 19
+\]
+\[
+2x + \frac{1}{2}x + 4 = 19
+\]
+\[
+\frac{5}{2}x + 4 = 19
+\]
+
+**Subtract 4 from both sides:**
+\[
+\frac{5}{2}x = 15
+\]
+
+**Multiply both sides by \(\frac{2}{5}\) to solve for \( x \):**
+\[
+x = 15 \times \frac{2}{5} = 6
+\]
+
+**Now, find \( y \) using \( y = x + 4 \):**
+\[
+y = 6 + 4 = 10
+\]
+
+**Therefore, Rory retrieved **10** tennis balls in the first set.**
+
+**Final Answer:**
+\[
+\boxed{10}
+\]

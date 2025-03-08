@@ -1,0 +1,29 @@
+<｜User｜>
+Q: A plague infects ten people. Every day, each infected person infects six others. How many people are infected after three days?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many people are infected after three days, let's break down the problem step by step.
+
+**Day 0:**
+- **Initial Infection:** 1 person is infected.
+
+**Day 1:**
+- Each infected person infects 6 others.
+- **New Infections:** \(1 \times 6 = 6\) people.
+- **Total Infected:** \(1 + 6 = 7\) people.
+
+**Day 2:**
+- Each of the 7 infected people infects 6 others.
+- **New Infections:** \(7 \times 6 = 42\) people.
+- **Total Infected:** \(7 + 42 = 49\) people.
+
+**Day 3:**
+- Each of the 49 infected people infects 6 others.
+- **New Infections:** \(49 \times 6 = 294\) people.
+- **Total Infected:** \(49 + 294 = 343\) people.
+
+**Final Answer:**
+\[
+\boxed{343}
+\]

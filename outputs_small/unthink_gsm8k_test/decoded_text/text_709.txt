@@ -1,0 +1,21 @@
+<｜User｜>
+Q: An ice cream factory makes 100 quarts of chocolate ice cream in 2 hours.  It can make 50 quarts of vanilla ice cream in 4 hours.  How many quarts in total would be made in 48 hours?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total quarts of ice cream made in 48 hours, we'll calculate the production rates for each flavor and then multiply by the total time.
+
+1. **Chocolate Ice Cream:**
+   - **Production:** 100 quarts in 2 hours.
+   - **Rate:** \( \frac{100 \text{ quarts}}{2 \text{ hours}} = 50 \text{ quarts per hour} \).
+   - **Total in 48 hours:** \( 55 \text{ quarts/hour} \times 48 \text{ hours} = 2640 \text{ quarts} \).
+
+2. **Vanilla Ice Cream:**
+   - **Production:** 50 quarts in 4 hours.
+   - **Rate:** \( \frac{50 \text{ quarts}}{4 \text{ hours}} = 13.75 \text{ quarts per hour} \).
+   - **Total in 48 hours:** \( 13.75 \text{ quarts/hour} \times 48 \text{ hours} = 654 \text{ quarts} \).
+
+3. **Total Ice Cream:**
+   - **Chocolate + Vanilla:** \( 2640 \text{ quarts} + 654 \text{ quarts} = 3294 \text{ quarts} \).
+
+**Final Answer:** \(\boxed{3294}\)

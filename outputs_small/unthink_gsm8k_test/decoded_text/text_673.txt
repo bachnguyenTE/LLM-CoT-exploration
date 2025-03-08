@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Janey has 3 more than twice the number of books that Sally has. If Janey has 21 books, how many does Sally have?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's denote the number of books Sally has as \( S \).
+
+According to the problem:
+- Janey has 3 more than twice the number of books Sally has.
+- Janey has 21 books.
+
+We can set up the equation as follows:
+\[
+\text{Janey's books} = 2 \times S + 3
+\]
+Given that Janey has 21 books:
+\[
+21 = 2S + 3
+\]
+
+Now, let's solve for \( S \):
+\[
+21 - 3 = 2S \\
+18 = 2S \\
+S = \frac{18}{2} \\
+S = 9
+\]
+
+**Answer:** Sally has \(\boxed{9}\) books.

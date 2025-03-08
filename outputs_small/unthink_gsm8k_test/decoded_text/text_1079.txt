@@ -1,0 +1,26 @@
+<｜User｜>
+Q: A $2000 watch was put on sale so that Mr. Rogers bought it at 75% of its original price. He then sold the watch to his friend at 120% of the price that he bought it. What is the percentage discount obtained by Mr. Roger's friend from the original price?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Original Price of the Watch:**
+   - Let the original price of the watch be \( P \).
+
+2. **Price Mr. Rogers Paid:**
+   - Mr. Rogers bought the watch at 75% of its original price.
+   - So, the price he paid is \( 75\% \times P = 0.75P \).
+
+3. **Price Mr. Rogers Sold to His Friend:**
+   - He sold the watch to his friend at 120% of the price he bought it.
+   - The price he sold it for is \( 120\% \times 0.75P = 1.2 \times 0.75P = 0.9P \).
+
+4. **Percentage Discount from the Original Price:**
+   - The final price Mr. Rogers received is \( 0.9P \).
+   - The discount from the original price is \( P - 0.9P = 0.1P \).
+   - To find the percentage discount: \( \frac{0.1P}{P} \times 100 = 10\% \).
+
+**Answer:** \(\boxed{10\%}\)

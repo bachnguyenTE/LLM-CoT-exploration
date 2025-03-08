@@ -1,0 +1,43 @@
+<｜User｜>
+Q: After Andrea saved some money, she then spent the rest of her money on an $11 sweater and gave her brother $4. If she had $36 in the beginning, how much did Andrea save?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Amount:**
+   Andrea starts with **\$36**.
+
+2. **Savings:**
+   Let \( S \) be the amount Andrea saved.
+
+3. **Total Money After Saving:**
+   After saving, Andrea has \( 36 + S \) dollars.
+
+4. **Spending:**
+   - She spent **\$11** on an **11**-inch sweater.
+   - She also gave her **brother** **\$4**.
+
+   So, the total amount she spent is:
+   \[
+   11 + 4 = 15 \text{ dollars}
+   \]
+
+5. **Remaining Money:**
+   After spending \$15, the remaining money is:
+   \[
+   (36 + S) - 15 = 31 + S
+   \]
+
+6. **Equation Setup:**
+   Since the problem doesn't specify how much money Andrea has left after her purchases, we assume that the question is asking for the amount she saved, which is \( S \).
+
+7. **Final Answer:**
+   The amount Andrea saved is:
+   \[
+   \boxed{S}
+   \]
+
+However, if there's additional information provided in the original question that specifies how much money Andrea has left, we would need to use that to solve for \( S \). As it stands, the amount Andrea saved is represented by \( S \).

@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Tanya is teaching at school. She earns $15 for every hour and an additional $5 per day if she teaches more than 3 classes. On Monday she teaches 4 classes for 5 hours, and on Wednesday 2 classes for 2 hours. How much did Tanya earn for these two days of teaching?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much Tanya earned over the two days, we'll break down her earnings for each day and then sum them up.
+
+1. **Monday:**
+   - **Classes:** 4 classes
+   - **Hours:** 5 hours
+   - **Earnings per hour:** \$15
+   - **Additional earnings per day:** \$5 per class
+   - **Total earnings for Monday:**
+     \[
+     (4 \text{ classes} \times \$5/\text{class}) + (5 \text{ hours} \times \$15/\text{hour}) = \$20 + \$75 = \$95
+     \]
+
+2. **Wednesday:**
+   - **Classes:** 2 classes
+   - **Hours:** 2 hours
+   - **Earnings per hour:** \$15
+   - **Additional earnings per day:** \$5 per class
+   - **Total earnings for Wednesday:**
+     \[
+     (2 \text{ classes} \times \$5/\text{class}) + (2 \text{ hours} \times \$15/\text{hour}) = \$10 + \$30 = \$40
+     \]
+
+3. **Total Earnings for Both Days:**
+   \[
+   \$95 \text{ (Monday)} + \$44 \text{ (Wednesday)} = \$139
+   \]
+
+**Final Answer:**
+\[
+\boxed{139}
+\]

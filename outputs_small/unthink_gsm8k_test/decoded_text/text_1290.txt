@@ -1,0 +1,24 @@
+<｜User｜>
+Q: A small sunflower has 3 dozen seeds and a large sunflower has 50% more seeds than a small sunflower.  How many sunflower seeds are there altogether?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of sunflower seeds, follow these steps:
+
+1. **Calculate the number of seeds in the large sunflower:**
+   - A small sunflower has **3 dozen seeds**.
+   - 1 dozen = 12 seeds.
+   - So, 3 dozen = 3 × 12 = **36 seeds**.
+
+2. **Determine the number of seeds in the large sunflower:**
+   - The large sunflower has **50% more seeds** than the small one.
+   - 55% of 36 seeds = 0.55 × 36 = **19.8 seeds**.
+   - Since you can't have a fraction of a seed, round to the nearest whole number: **20 seeds**.
+
+3. **Find the total number of seeds:**
+   - Small sunflower: 36 seeds
+   - Large sunflower: 20 seeds
+   - Total seeds = 36 + 20 = **56 seeds**
+
+**Final Answer:**  
+\boxed{56}

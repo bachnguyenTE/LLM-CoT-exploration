@@ -1,0 +1,36 @@
+<｜User｜>
+Q: An interior design firm offers installation for $129.00.  It includes hanging 4 mirrors, 2 shelves, 1 chandelier, and 10 pictures.  They will install additional items for an extra $15.00 per item.  Angela has 6 mirrors and 2 chandeliers and 20 pictures that she needs installed/hung.  How much will this cost her?
+A:<｜Assistant｜><think>
+First, I need to determine the cost of installing the items Angela needs. The firm charges $129.00 per installation, which includes 4 mirrors, 2 shelves, 1 chandelier, and 10 pictures.
+
+Next, I'll calculate the cost for the items Angela specifically needs. She requires 6 mirrors, 2 chandeliers, and 20 pictures. Since the installation includes 4 mirrors and 1 chandelier, the extra items she needs are 2 additional mirrors and 2 additional pictures.
+
+The additional items cost $15.00 each, so 2 additional items will cost $10.00.
+
+Finally, I'll add the base installation cost to the additional cost to find the total cost for Angela's needs.
+</think>
+
+**Solution:**
+
+1. **Determine the cost of the base installation:**
+   - **Cost per installation:** \$129.00
+   - **Items included:** 4 mirrors, 2 shelves, 1 chandelier, and 10 pictures.
+
+2. **Calculate the cost for the items Angela needs:**
+   - **Mirrors needed:** 6
+   - **Chandeliers needed:** 2
+   - **Pictures needed:** 20
+
+3. **Determine the additional items required beyond the base installation:**
+   - **Mirrors extra:** 6 - 4 = 2
+   - **Pictures extra:** 20 - 10 = 10
+
+4. **Calculate the cost for the extra items:**
+   - **Cost per extra item:** \$15.00
+   - **Total extra cost:** 2 * \$15.00 = \$10.00
+
+5. **Calculate the total cost:**
+   - **Total cost:** \$129.00 (base) + \$10.00 (extra) = **\$139.00**
+
+**Final Answer:**
+\boxed{\$139.00}

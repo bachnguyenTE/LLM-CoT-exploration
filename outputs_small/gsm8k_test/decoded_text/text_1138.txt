@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Melanie's father opens up an animal farm starting with 50 cows and 20 chickens. Milkie Cows Limited brings him 20 cows per day and Broilers Limited brings him 10 chickens per day, for three weeks. What's the total number of animals on the farm after three weeks?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Melanie's father who opened an animal farm. Let me try to understand what's going on here. The farm starts with 50 cows and 20 chickens. Then, there are two more sources of animals: Milkie Cows Limited brings in 20 cows per day, and Broilers Limited brings in 10 chickens per day. This is for three weeks. I need to find the total number of animals on the farm after three weeks.
+
+Hmm, let me break this down. First, the initial number of animals is 50 cows and 20 chickens. So that's 50 + 20 = 70 animals. Got that.
+
+Now, Milkie Cows Limited is bringing in cows. They add 20 cows each day. Broilers Limited is bringing in chickens at 10 per day. So, each day, the number of cows increases by 20, and the number of chickens increases by 10.
+
+Wait, so for each day, both cows and chickens are being added. So, over three weeks, which is 21 days, right? Because 3 weeks is 21 days. Let me confirm: 3 weeks * 7 days/week = 21 days. Yeah, that's correct.
+
+So, over 21 days, how many cows will be added? Each day 20 cows, so 20 * 21 = 420 cows. Similarly, for chickens, each day 10 chickens, so 10 * 21 = 210 chickens.
+
+Wait, hold on. So, the initial number of cows is 50, and we add 420 cows over 21 days. So, total cows will be 50 + 420. Let me calculate that: 50 + 420 is 475 cows.
+
+Similarly, initial chickens are 20, adding 210 chickens over 21 days. So, 20 + 210 = 230 chickens.
+
+Therefore, total animals on the farm will be cows plus chickens, which is 475 + 230. Let me add that: 475 + 230. 400 + 200 is 600, and 75 +30 is 105, so total is 600 + 105 = 705 animals.
+
+Wait, that seems straightforward, but let me double-check my calculations.
+
+Starting with 50 cows and 20 chickens. Each day, 20 cows and 10 chickens. Over 21 days, cows added: 20 *21=420, so 50+420=470. Chickens added:10*21=210, so 20+210=230. Total animals:470+230=700. Wait, hold on, earlier I got 705, but now I'm getting 700. Hmm, which is correct?
+
+Wait, maybe I made a mistake in the initial addition. 50 + 420 is 475, and 20 + 210 is 230. 475 + 230. Let me add 475 + 230. 400 + 200 is 600, 75 +30 is 105, so 600 +105 is 705. Wait, but 475 +230 is 705? Wait, 475 +230. 400 +200 is 620, 75 +30 is 105, so 620 +105 is 737. Wait, now I'm confused.
+
+Wait, no, 475 +230. Let me do it step by step. 475 +200 is 475, then 475 +30 is 505, then 505 +20 is 525? Wait, no, that's not right. Wait, 475 +230. 475 +200 is 495, then 495 +30 is 525. Wait, that's not right either. Wait, 475 +230. 400 +200 is 600, 70 +30 is 100, 5 +0 is 5. So, 600 +

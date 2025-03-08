@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Jenna has 4 roommates. Each month the electricity bill is $100. How much will each roommate pay per year for electricity, if they divide the share equally?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Jenna has 4 roommates, and they decide to split the electricity bill equally for the year.
+
+1. **Total Monthly Bill:** \$100
+
+2. **Total Yearly Bill:** 
+   \[
+   100 \, \text{\$/month} \times 12 \,000 \, \text{months} = 1,200 \, \text{\$}
+   \]
+
+3. **Amount Each Roommate Pays:**
+   \[
+   \frac{1,200 \, \text{\$}}{4} = 300 \, \text{\$}
+   \]
+
+**Answer:** Each roommate will pay **\$330** per year for electricity.

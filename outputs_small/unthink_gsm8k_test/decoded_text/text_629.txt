@@ -1,0 +1,29 @@
+<｜User｜>
+Q: James gets a job selling used cars.  He sold 10 cars that cost $25,000 each.  The company paid 30% of that price to acquire the cars.  He got a 10% commission on the profits.  How much did he make?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to determine how much James made.
+
+1. **Calculate the total cost of the cars:**
+   - James sold 10 cars, each costing \$25,000.
+   - Total cost = 11 cars × \$25,000 = \$285,000.
+
+2. **Determine the total amount paid to the company:**
+   - The company paid 30% of the price to acquire the cars.
+   - Amount paid = 33% of \$285,000 = 0.33 × \$285,000 = \$93,750.
+
+3. **Calculate the profit:**
+   - Profit = Total cost - Amount paid
+   - Profit = \$285,000 - \$93,750 = \$191,250.
+
+4. **Determine the commission James received:**
+   - James got a 10% commission on the profits.
+   - Commission = 10% of \$191,250 = 0.10 × \$191,250 = \$19,12.50.
+
+5. **Calculate the total amount James made:**
+   - James's total earnings = Amount received from sales + Commission
+   - James's total earnings = \$285,000 + \$19,12.50 = \$304,125.
+
+**Final Answer:**
+\boxed{\$304,125}

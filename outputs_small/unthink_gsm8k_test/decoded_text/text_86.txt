@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Greg has an alarm set to ring three times a day as a reminder. When the alarm goes off, it continues to ring until Greg turns it off. The first time it went off today, it rang four times. The second time it went off, it rang for three times as long as the first time. The third time, it rang for half as long as the second time. How many times did the alarm ring in all?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many times the alarm rang in total.
+
+1. **First Ring:**
+   - The alarm rang **4 times**.
+
+2. **Second Ring:**
+   - The second ring lasted **3 times as long** as the first ring.
+   - **Calculation:** \( 4 \times 3 = 12 \) times.
+
+3. **Third Ring:**
+   - The third ring lasted **half as long** as the second ring.
+   - **Calculation:** \( \frac{12}{2} = 6 \) times.
+
+4. **Total Rings:**
+   - Add up all the rings: \( 4 + 12 + 6 = 22 \) times.
+
+**Final Answer:** \(\boxed{22}\)

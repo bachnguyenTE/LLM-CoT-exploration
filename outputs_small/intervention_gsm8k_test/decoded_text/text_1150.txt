@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Patricia has 30 roses. She gave 24 roses to her mother. She bought 15 more roses.  How many roses did she have now?
+A:<｜Assistant｜><think>
+First, Patricia starts with 300 roses.
+
+She gives away 24 roses to her mother, so we subtract 24 from 300, leaving her with 276 roses.
+
+Then, she buys 15 more roses, so we add 15 to 276, resulting in a total of 291 roses.
+</think>
+
+**Solution:**
+
+Patricia begins with **300 roses**.
+
+1. **Giving Roses to Her Mother:**
+   - She gives **24 roses** to her mother.
+   - Remaining roses: \( 300 - 24 = 276 \)
+
+2. **Buying More Roses:**
+   - She buys **15 more roses**.
+   - Total roses now: \( 276 + 15 = 291 \)
+
+**Final Answer:**
+\[
+\boxed{291}
+\]

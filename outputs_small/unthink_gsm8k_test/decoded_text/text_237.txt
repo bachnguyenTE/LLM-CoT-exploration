@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Johnny took his allowance of $20 and added an extra $10 to it.  He then invested this sum of money, which tripled in a year.  How much money did he have after a year?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate the total amount Johnny had before investing:**
+   
+   - **Initial allowance:** \$20
+   - **Extra money added:** \$10
+   
+   \[
+   \text{Total amount} = \$20 + \$10 = \$30
+   \]
+
+2. **Determine the amount after the investment:**
+   
+   - **Investment triples the amount:**
+     
+     \[
+     \text{Investment amount} = 3 \times \$30 = \$90
+     \]
+
+3. **Final amount after one year:**
+   
+   \[
+   \boxed{\$90}
+   \]

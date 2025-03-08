@@ -1,0 +1,47 @@
+<｜User｜>
+Q: Aleena subscribed to a streaming service that charges her $140 per month. If the streaming company charged her the initial amount for the first half of the year and then charged her 10% less money on the other half of the year, calculate the total amount she had paid for the streaming service by the end of the year.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Months in a Year:**
+   \[
+   12 \text{ months}
+   \]
+
+2. **First Half of the Year:**
+   - **Number of Months:** \( \frac{12}{2} = 6 \text{ months} \)
+   - **Monthly Charge:** \$140
+   - **Total Paid in First Half:**
+     \[
+     6 \times 144 = \$864
+     \]
+
+3. **Second Half of the Year:**
+   - **Initial Charge:** \$140
+   - **Reduction:** 10% of \$144
+   - **Reduction Amount:**
+     \[
+     0.10 \times 144 = \$15.84
+     \]
+   - **Charged Amount:**
+     \[
+     144 - 15.84 = \$128.16
+     \]
+   - **Total Paid in Second Half:**
+     \[
+     128.16 \text{ (rounded to two decimal places)}
+     \]
+
+4. **Total Amount Paid for the Year:**
+   \[
+   864 + 128.16 = \$992.16
+   \]
+
+**Final Answer:**
+\[
+\boxed{992.16}
+\]

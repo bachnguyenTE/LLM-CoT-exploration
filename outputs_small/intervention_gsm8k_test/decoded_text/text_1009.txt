@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Brook Hills High School currently enrolls 3000 students. Half of these students are over 16 years old, and one-fourth of the students over 16 years old are male. The remaining half of the students are under 16 years old, and one-half of the students under 16 are male. In total, how many female students are enrolled at this school?
+A:<｜Assistant｜><think>
+Okay, so I have this problem about Brook Hills High School with 3000 students. Let me try to figure out how many female students there are. Hmm, let's break it down step by step.
+
+First, the school has 3000 students in total. Half of them are over 16 years old. So, half of 3000 is... let me calculate that. Half of 3000 is 1500. So, 1500 students are over 16 years old. Got that.
+
+Now, of these 1500 students over 16, one-fourth are male. So, one-fourth of 1500 is... let me do the math. 1500 divided by 4 is 375. So, 375 male students are over 16 years old. That means the rest are female. So, 1500 minus 375 is... 1500 - 375. Let me subtract that. 1500 - 375 is 1125. Wait, that seems right. So, 1125 female students are over 16 years old.
+
+Okay, moving on to the under 16 students. The problem says that the remaining half of the students are under 16 years old. So, half of 3000 is 1500. So, 1500 students are under 16. And one-half of these are male. So, half of 1500 is 750. So, 750 male students are under 16. That means the rest are female. So, 1500 minus 750 is... 1500 - 750. Let me calculate that. 1500 - 700 is 800, and then minus 50 is 750. So, 750 female students are under 16.
+
+Now, to find the total number of female students, I need to add the female students over 16 and under 16. So, 1125 plus 750. Let me add those together. 1125 + 750. 1000 + 700 is 1700, and 125 + 50 is 175. So, 1700 + 175 is 1875. Wait, that seems right. So, 1875 female students in total.
+
+Let me just double-check my calculations to make sure I didn't make a mistake. Half of 3000 is 1500 over 16, one-fourth of that is 375 males, so 1500 - 375 is 1125 females over 16. Then, half of 3000 is 1500 under 16, half of that is 750 males, so 1500 - 750 is 750 females under 16. Adding 1125 and 750 gives 1875. Yeah, that seems correct.
+
+I don't think I missed anything here. So, the total number of female students is 1875.
+
+**Final Answer**
+The total number of female students enrolled at Brook Hills High School is \boxed{1875}.
+</think>
+
+The school currently enrolls 3000 students. Half of these students are over 16 years old, which is 1500 students. One-fourth of these students are male, so there are \( \frac{1500}{4} = 375 \) male students over 16 years old. Therefore, the number of female students over 16 years old is \( 1500 - 375 = 1125 \).
+
+The remaining half of the students are under 16 years old, which is also 1500 students. Half of these students are male, so there are \( \frac{1500}{2} = 750 \) male students under 16 years old. Therefore, the number of female students under 16 years old is \( 1500 - 750 = 750 \).
+
+Adding the number of female students over 16 years old and under 16 years old gives the total number of female students:
+\[ 1125 + 750 = 1875 \]
+
+The total number of female students enrolled at Brook Hills High School is \

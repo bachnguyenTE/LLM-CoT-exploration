@@ -1,0 +1,30 @@
+<｜User｜>
+Q: John picks 4 bananas on Wednesday. Then he picks 6 bananas on Thursday. On Friday, he picks triple the number of bananas he did on Wednesday. How many bananas does John have?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Wednesday:**
+   - John picks **4 bananas**.
+
+2. **Thursday:**
+   - John picks **6 bananas**.
+
+3. **Friday:**
+   - He picks **triple** the number of bananas he did on Wednesday.
+   - Triple of 4 bananas is \( 3 \times 4 = 12 \) bananas.
+
+4. **Total Bananas:**
+   - Add the bananas picked on all three days:
+     \[
+     4 \, \ 6, \text{and } 12
+     \]
+   - Total = \( 4 + 6 + 12 = 22 \) bananas.
+
+**Final Answer:**
+\[
+\boxed{22}
+\]

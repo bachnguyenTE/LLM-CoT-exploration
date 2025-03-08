@@ -1,0 +1,43 @@
+<｜User｜>
+Q: Jenny buys 1 bag of cookies a week.  The bag has 36 cookies and she puts 4 cookies in her son's lunch box 5 days a week.  Her husband eats 1 cookie a day for 7 days.  Jenny eats the rest of the cookies.  How many cookies does Jenny eat?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Cookies in a Bag:**
+   - Jenny buys **1 bag** of cookies every week.
+   - Each bag contains **36 cookies**.
+
+2. **Cookies Placed in Son's Lunch Box:**
+   - Jenny puts **4 cookies** in her son's lunch box **5 days a week**.
+   - **Cookies eaten by Jenny in her son's lunch box:** \( 4 \text{ cookies/day} \times 5 \text{ days} = 20 \text{ cookies} \).
+
+3. **Cookies Eaten by Her Husband:**
+   - Her husband eats **1 cookie** every day for **7 days**.
+   - **Cookies eaten by her husband:** \( 1 \text{ cookie/day} \times 7 \text{ days} = 7 \text{ cookies} \).
+
+4. **Total Cookies Consumed by Jenny and Her Husband:**
+   - **Total cookies eaten:** \( 20 \text{ cookies} + 7 \text{ cookies} = 27 \text{ cookies} \).
+
+5. **Cookies Remaining for Jenny to Eat:**
+   - **Total cookies in the bag:** \( 36 \text{ cookies} \).
+   - **Cookies eaten by others:** \( 27 \text{ cookies} \).
+   - **Cookies Jenny eats:** \( 36 - 27 = -11 \text{ cookies} \).
+
+Wait, this result doesn't make sense because you can't eat a negative number of cookies. Let's re-examine the calculations.
+
+**Re-examining the husband's consumption:**
+- **Husband eats 1 cookie a day for 7 days:** \( 1 \times 7 = 7 \text{ cookies} \).
+
+**Re-examining the total consumption:**
+- **Jenny eats 27 cookies to her son and husband.**
+- **Total cookies in the bag:** \( 36 \text{ cookies} \).
+- **Cookies left for Jenny to eat:** \( 36 - 27 = 9 \text{ cookies} \).
+
+**Final Answer:**
+\[
+\boxed{9}
+\]

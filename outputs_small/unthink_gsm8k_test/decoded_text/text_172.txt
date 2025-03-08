@@ -1,0 +1,31 @@
+<｜User｜>
+Q: There are four birds at the Caboose. Sally Two is three years older than Granny Red. Granny Red is two times as old as Sally Four. If Sally Four is the same age as Sally Thirtytwo, and Sally Thirtytwo is 8 years old, what's the total age of the four birds?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the total age of the four birds.
+
+1. **Identify the given information:**
+   - **Sally Four** is the same age as **Sally Thirtytwo**.
+   - **Sally Thirtytwo** is **8 years old**.
+
+2. **Determine Sally Four's age:**
+   - Since **Sally Thirtytwo** is **8 years old** and they are the same age, **Sally Four** is also **8 years old**.
+
+3. **Find Granny Red's age:**
+   - Granny Red is **two times as old** as **Sally Four**.
+   - **Granny Red's age** = 2 × **Sally Four's age** = 2 × 8 = **16 years old**.
+
+4. **Determine Sally Two's age:**
+   - Sally Two is **three years older** than **Granny Red**.
+   - **Sally Two's age** = **Granny Red's age** + 3 = 16 + 3 = **19 years old**.
+
+5. **Calculate the total age of all four birds:**
+   - **Sally Four** = 8 years
+   - **Sally Thirtytwo** = 8 years
+   - **Granny Red** = 16 years
+   - **Sally Two** = 19 years
+
+   **Total Age** = 8 + 8 + 16 + 19 = **41 years**
+
+**Final Answer:** \(\boxed{41}\)

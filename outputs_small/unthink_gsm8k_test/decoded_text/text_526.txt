@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Ada's daily electric consumption is 12 kilowatts per hour. She is planning to add a device that will consume 2 kilowatts per hour a day. If a kilowatt per hour is $1.50, how much is the difference between Ada's weekly electric bill before and after she adds the new device?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate Ada's current daily electric consumption:**
+   
+   \[
+   12 \text{ kW/h} \times 1 = 12 \text{ kW/h}
+   \]
+
+2. **Calculate the new daily electric consumption after adding the device:**
+   
+   \[
+   12 \text{ kW/h} + 2 \text{ kW/h} = 14 \text{ kW/h}
+   \]
+
+3. **Calculate the difference in daily consumption:**
+   
+   \[
+   14 \text{ kW/h} - 12 \text{ kW/h} = 2 \text{ kW/h}
+   \]
+
+4. **Calculate the weekly consumption difference:**
+   
+   \[
+   2 \text{ kW/h} \times 7 \text{ days} = 14 \text{ kW/h}
+   \]
+
+5. **Convert the weekly consumption difference to dollars:**
+   
+   \[
+   14 \text{ kW/h} \times \$1.50/\text{kW/h} = \$21.00
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$21.10}
+\]

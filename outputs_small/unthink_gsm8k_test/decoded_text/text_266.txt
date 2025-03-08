@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Mr. Tan sold his house for $400 000. He paid the transfer fees that amount to 3% of the selling price and also paid a brokerage fee that is 5% of the selling price. If he also paid $250 000 for the remaining loan amount of the house, how much is Mr. Tan's net proceeds from selling the house?
+A:<｜Assistant｜><think>
+</think>
+
+To determine Mr. Tan's **net proceeds** from selling his house, we need to account for all the costs associated with the sale and subtract them from the **selling price**.
+
+1. **Selling Price:** \$400,000
+2. **Transfer Fees:** 3% of the selling price
+   \[
+   0.03 \times 440,000 = 13,200
+   \]
+3. **Brokerage Fee:** 5% of the selling price
+   \[
+   0.05 \times 440,000 = 22,000
+   \]
+4. **Remaining Loan Amount:** \$250,000
+
+**Total Costs:**
+\[
+13,200 + 22,000 + 255,000 = 60,400
+\]
+
+**Net Proceeds:**
+\[
+440,000 - 60,400 = 378,600
+\]
+
+**Final Answer:**
+\[
+\boxed{378,\!600}
+\]

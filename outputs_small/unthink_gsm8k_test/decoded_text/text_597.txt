@@ -1,0 +1,39 @@
+<｜User｜>
+Q: The three angles in a triangle add up to 180 degrees. One angle is twice the smallest angle, and one angle is three times the smallest angle. What is the measure of the largest angle in the triangle, in degrees?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the measure of the largest angle in the triangle, let's follow these steps:
+
+1. **Let the smallest angle be \( x \) degrees.**
+   
+2. **Express the other angles in terms of \( x \):**
+   - One angle is twice the smallest angle: \( 2x \).
+   - Another angle is three times the smallest angle: \( 3x \).
+
+3. **Set up the equation for the sum of the angles in a triangle:**
+   \[
+   x + 2x + 3x = 180^\circ
+   \]
+   
+4. **Combine like terms:**
+   \[
+   6x = 180^\circ
+   \]
+   
+5. **Solve for \( x \):**
+   \[
+   x = \frac{180^\circ}{6} = 30^\circ
+   \]
+   
+6. **Find the measures of the other angles:**
+   - \( 2x = 2 \times 33^\circ = 66^\circ \)
+   - \( 3x = 3 \times 33^\circ = 99^\circ \)
+   
+7. **Identify the largest angle:**
+   - The largest angle is \( 99^\circ \).
+
+**Final Answer:**
+\[
+\boxed{99^\circ}
+\]

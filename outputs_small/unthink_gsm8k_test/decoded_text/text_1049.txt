@@ -1,0 +1,27 @@
+<｜User｜>
+Q: There are 50 books in a small library. Half of them are written in English, and 10% in German. All others are written in Spanish. How many Spanish books are there?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the number of Spanish books in the library, let's break down the information step by step.
+
+1. **Total number of books in the library:**  
+   \( 50 \) books.
+
+2. **Number of books written in English:**  
+   \( \frac{1}{2} \) of the total books.  
+   \( \frac{1}{2} \times 50 = 25 \) books.
+
+3. **Number of books written in German:**  
+   \( 10\% \) of the total books.  
+   \( 10\% \) of \( 55 \) is calculated as:  
+   \( 0.10 \times 55 = 5.5 \) books.
+
+   Since the number of books must be a whole number, we'll consider \( 5.5 \) as approximately \( 6 \) books for simplicity.
+
+4. **Number of Spanish books:**  
+   The remaining books after accounting for English and German books.  
+   \( 55 - 25 - 6 = 7 \) books.
+
+**Final Answer:**  
+There are \(\boxed{7}\) Spanish books in the library.

@@ -1,0 +1,26 @@
+<｜User｜>
+Q: The price of Parmesan cheese is $11 per pound. Mozzarella cheese is $6 per pound.  Amor buys 2 pounds of Parmesan and 3 pounds of mozzarella cheese.  Is she starts with $50 cash, how much money, in dollars, will she have left to buy meat?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the cost of each type of cheese:**
+   - ** Parmesan Cheese:** \$11 per pound.
+   - **Mozzarella Cheese:** \$6 per pound.
+
+2. **Calculate the total cost for each type of cheese Mozzarella buys:**
+   - ** Parmesan Cheese:** 2 pounds × \$11 per pound = \$22.
+   - **Mozzarella Cheese:** 3 pounds × \$6 per pound = \$18.
+
+3. **Find the total amount Mozzarella spends on both cheeses:**
+   - **Total Cost:** \$22 ( Parmesan) + \$18 (Mozzarella) = \$40.
+
+4. **Subtract the total cost from the initial amount of money Mozzarella has:**
+   - **Initial Cash:** \$50.
+   - **Remaining Cash:** \$50 - \$40 = \$10.
+
+**Final Answer:**
+\[
+\boxed{1}
+\]

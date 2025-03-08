@@ -1,0 +1,46 @@
+<｜User｜>
+Q: Ginger and Amy both start with 100 pieces of Halloween candy. Ginger eats 4 pieces a day and Amy eats 3 pieces a day. How much more candy does Amy have after two weeks?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Candy:**
+   - Both Ginger and Amy start with **100 pieces of Halloween candy**.
+
+2. **Candy Eaten Over Time:**
+   - **Ginger's Consumption:**
+     - **Eats 4 pieces a day.**
+     - **Over 2 weeks (14 days):**
+       \[
+       4 \,000 \text{ pieces/day} \times 14 \text{ days} = 56,000 \text{ pieces}
+       \]
+   - **Amy's Consumption:**
+     - **Eats 3 pieces a day.**
+     - **Over 2 weeks (14 days):**
+       \[
+       3 \, \text{pieces/day} \times 14 \,000 \text{ pieces}
+       \]
+
+3. **Candy Remaining:**
+   - **Ginger's Remaining Candy:**
+     \[
+     100,000 - 56,000 = 44,000 \text{ pieces}
+     \]
+   - **Amy's Remaining Candy:**
+     \[
+     100,000 - (3 \times 14) = 100,000 - 42 = 58,000 \text{ pieces}
+     \]
+
+4. **Difference in Candy:**
+   - **Amy's Candy - Ginger's Candy:**
+     \[
+     58,000 - 44,000 = 14,000 \text{ pieces}
+     \]
+
+**Final Answer:**
+\[
+\boxed{14,000}
+\]

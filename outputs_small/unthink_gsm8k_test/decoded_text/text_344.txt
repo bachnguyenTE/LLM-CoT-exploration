@@ -1,0 +1,24 @@
+<｜User｜>
+Q: At a restaurant, Juice Box A is 4 dollars. Juice Box B is 5 dollars more than Juice Box A. Juice Box C is 7 dollars more than Juice Box A. How much more is Juice box C than Juice Box B?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the price of Juice Box A:**
+   - **Price of Juice Box A:** \$4
+
+2. **Calculate the price of Juice Box B:**
+   - **Price of Juice Box B:** \$5 more than Juice Box A
+   - **Calculation:** \$4 + \$5 = \$9
+
+3. **Calculate the price of Juice Box C:**
+   - **Price of Juice Box C:** \$7 more than Juice Box A
+   - **Calculation:** \$4 + \$7 = \$11
+
+4. **Find out how much more Juice Box C is than Juice Box B:**
+   - **Difference:** \$11 (C) - \$9 (B) = \$2
+
+**Final Answer:** \boxed{2}

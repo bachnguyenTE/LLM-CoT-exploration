@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Charlie has three times as many Facebook friends as Dorothy. James has four times as many friends on Facebook as Dorothy. If Charlie has 12 friends on Facebook, how many Facebook friends does James have?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Charlie, Dorothy, and James's Facebook friends. Let me try to figure it out step by step. Hmm, the problem says that Charlie has three times as many Facebook friends as Dorothy. Then it also mentions that James has four times as many friends as Dorothy. It tells me that Charlie has 12 friends, and I need to find out how many friends James has. 
+
+Alright, let's break this down. First, I think I need to figure out how many friends Dorothy has because both Charlie and James are related to her. The problem says Charlie has three times as many friends as Dorothy. So if I let the number of friends Dorothy has be some variable, maybe D, then Charlie's friends would be 3 times D. 
+
+Wait, the problem says Charlie has 12 friends. So if Charlie's friends are 3 times D, then 3D equals 12. That makes sense. So I can write that as an equation: 3D = 12. To find D, I need to solve for it. So I can divide both sides by 3. That would give me D = 12 / 3, which is 4. So Dorothy has 4 friends on Facebook.
+
+Now that I know Dorothy has 4 friends, the problem also says James has four times as many friends as Dorothy. So if I let J be the number of friends James has, then J = 4 * D. Since D is 4, that would be J = 4 * 4, which is 16. So James has 16 friends on Facebook.
+
+Wait, let me double-check that. If Dorothy has 4 friends, and James has four times that, so 4*4 is 16. That seems right. And Charlie has three times as many as Dorothy, so 3*4 is 12, which matches the given information. So yeah, that makes sense.
+
+I think that's it. So the answer should be 16. Let me just write that in the box as the final answer.
+
+**Final Answer**
+The number of Facebook friends James has is \boxed{16}.
+</think>
+
+Charlie has three times as many Facebook friends as Dorothy. If Charlie has 12 friends, we can determine the number of friends Dorothy has. Let \( D \) be the number of friends Dorothy has. Then, we have:
+
+\[ 3D = 12 \]
+
+Solving for \( D \):
+
+\[ D = \frac{12}{3} = 4 \]
+
+Dorothy has 4 friends. James has four times as many friends as Dorothy. Let \( J \) be the number of friends James has. Then:
+
+\[ J = 4D \]
+
+Substituting \( D = 4 \):
+
+\[ J = 4 \times 4 = 16 \]
+
+Thus, the number of Facebook friends James has is \boxed{16}.

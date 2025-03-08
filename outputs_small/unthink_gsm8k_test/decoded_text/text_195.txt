@@ -1,0 +1,45 @@
+<｜User｜>
+Q: A pen costs as much as a pencil and eraser combined. A pencil costs $1.20 and an eraser costs $0.30. How much will 8 pens cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Given:**
+   - A pen costs as much as a pencil and an eraser combined.
+   - A pencil costs \$1.20.
+   - An eraser costs \$0.30.
+
+2. **Let’s denote the costs:**
+   - Let \( P \) be the cost of one pen.
+   - Let \( E \) be the cost of one eraser (which is given as \$0.30).
+   - Let \( C \) be the cost of one pencil (which is given as \$1.20).
+
+3. **From the problem statement:**
+   \[
+   P = C + E
+   \]
+   Substituting the known values:
+   \[
+   P = 1.20 + 0.30 = 1.50
+   \]
+   So, one pen costs \$1.50.
+
+4. **Now, we need to find the cost of 8 pens:**
+   \[
+   \text{Total cost} = 8 \times P = 8 \times 1.50
+   \]
+   
+5. **Calculating the total cost:**
+   \[
+   8 \times 1.50 = 12.00
+   \]
+   
+6. **Final Answer:**
+   \[
+   \boxed{12.00}
+   \]
+
+**Answer:** The total cost for 8 pens is \$12.00.

@@ -1,0 +1,32 @@
+<｜User｜>
+Q: If John scored 100 on his first 3 tests and an 80 on his 4th, what was his average score across the 4 tests?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To find John's average score across the 4 tests, follow these steps:
+
+1. **Calculate the total score for the first 3 tests:**
+   
+   \[
+   100 \text{ (first test)} + 100 \text{ (second test)} + 100 \text{ (third test)} = 300
+   \]
+
+2. **Add the score of the 4th test:**
+   
+   \[
+   300 + 80 = 380
+   \]
+
+3. **Divide the total score by the number of tests to find the average:**
+   
+   \[
+   \text{Average} = \frac{380}{4} = 95
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{95}
+\]

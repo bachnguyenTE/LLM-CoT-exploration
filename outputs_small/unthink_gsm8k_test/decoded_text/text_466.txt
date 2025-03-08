@@ -1,0 +1,51 @@
+<｜User｜>
+Q: Becky bought 20 apples for 45 cents each and received a $1 discount. Kelly bought 20 apples for 50 cents each and received a 10 percent discount. How much more did Kelly pay than Becky?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much more Kelly paid than Becky, let's break down the calculations step by step.
+
+### **Becky's Purchase:**
+- **Number of Apples:** 20
+- **Price per Apple:** \$0.45
+- **Discount:** \$1
+
+**Total Cost Before Discount:**
+\[
+20 \text{ apples} \times \$0.45/\text{apple} = \$9.00
+\]
+
+**Total Cost After Discount:**
+\[
+\$9.00 - \$1.00 = \$8.00
+\]
+
+### **Kelly's Purchase:**
+- **Number of Apples:** 20
+- **Price per Apple:** \$0.50
+- **Discount:** 10%
+
+**Total Cost Before Discount:**
+\[
+20 \text{ apples} \times \$0.50/\text{apple} = \$10.00
+\]
+
+**Discount Amount:**
+\[
+10\% \times \$10.00 = \$1.00
+\]
+
+**Total Cost After Discount:**
+\[
+\$10.00 - \$1.00 = \$8.90
+\]
+
+### **Difference in Payment:**
+\[
+\$8.90 - \$8.00 = \$0.90
+\]
+
+**Final Answer:**
+\[
+\boxed{\$0.90}
+\]

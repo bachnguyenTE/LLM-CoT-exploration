@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Kayla is having her birthday party at a movie theater. The fee to rent the theater is $125 for a party of 20, plus $6 for each additional guest. Kayla invited her 25 classmates and the 7 girls in her dance class, as well as 13 family members. Only 4 people said they could not come. How much will the party cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the total cost of Kayla's birthday party at the movie theater, we'll follow these steps:
+
+1. **Calculate the base fee for the party:**
+   - The base fee is \$125 for a party of 20 people.
+
+2. **Determine the number of additional guests:**
+   - Kayla invited 25 classmates, 7 girls in her dance class, and 13 family members.
+   - Total invited guests: \(25 + 7 + 13 = 25\) (classmates) + \(7\) (dance class) + \(13\) (family) = **25**.
+   - However, only **4** people couldn't attend.
+
+3. **Calculate the number of people who will attend:**
+   - Total invited: 25 (classmates) + 7 (dance class) + 13 (family) = **25**.
+   - Subtract the 4 who couldn't attend: \(25 - 4 = 21\).
+
+4. **Calculate the additional cost for the extra guests:**
+   - The base fee covers 20 people, so the number of additional guests is \(21 - 20 = 1\).
+   - Each additional guest costs \$6.
+   - Total additional cost: \(1 \times \$6 = \$6\).
+
+5. **Calculate the total party cost:**
+   - Base fee: \$125
+   - Additional cost: \$6
+   - **Total cost:** \$125 + \$6 = **\$131**
+
+**Final Answer:**
+\[
+\boxed{131}
+\]

@@ -1,0 +1,27 @@
+<｜User｜>
+Q: A pet store currently has 5 dogs, 2 cats, and 10 birds. How many legs in total do the pets in the store have?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of legs in the pet store, we'll calculate the legs contributed by each type of pet and then sum them up.
+
+1. **Dogs:**  
+   - **Number of dogs:** 5  
+   - **Legs per dog:** 4  
+   - **Total legs from dogs:** \( 5 \times 4 = 20 \) legs
+
+2. **Cats:**  
+   - **Number of cats:** 2  
+   - **Legs per cat:** 4  
+   - **Total legs from cats:** \( 2 \times 4 = 8 \) legs
+
+3. **Birds:**  
+   - **Number of birds:** 10  
+   - **Legs per bird:** 2  
+   - **Total legs from birds:** \( 10 \times 2 = 20 \) legs
+
+4. **Total legs in the store:**  
+   - **Sum of all legs:** \( 20 \) (dogs) + \( 8 \) (cats) + \( 20 \) (birds) = \( 50 \) legs
+
+**Final Answer:**  
+\boxed{50}

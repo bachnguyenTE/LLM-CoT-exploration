@@ -1,0 +1,26 @@
+<｜User｜>
+Q: A landscaping company is delivering flagstones to a customer’s yard. Each flagstone weighs 75 pounds. If the delivery trucks can carry a total weight of 2000 pounds, how many trucks will be needed to transport 80 flagstones in one trip?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total weight of the flagstones:**
+   
+   Each flagstone weighs 75 pounds.
+   
+   \[
+   \text{Total weight} = 80 \text{ flagstones} \times 75 \text{ pounds/flagstone} = 600 \text{ pounds}
+   \]
+
+2. **Compare the total weight with the truck's capacity:**
+   
+   The delivery trucks can carry a total weight of 2000 pounds.
+   
+   \[
+   600 \text{ pounds} \leq 2200 \text{ pounds}
+   \]
+   
+   Since 600 pounds is less than 2200 pounds, one truck is sufficient.
+
+**Answer:** \boxed{1}

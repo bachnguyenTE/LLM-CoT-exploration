@@ -1,0 +1,36 @@
+<｜User｜>
+Q: The bananas at the supermarket cost $0.80 each, or a bunch for $3.00.  Jenny buys 10 bunches that average 4 bananas per bunch. How much money, in dollars, did she save by buying the bananas in bunches instead of individually?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much Jenny saved by buying bananas in bunches instead of individually, let's break down the costs step by step.
+
+1. **Cost per banana individually:**
+   - Each banana costs \$0.80.
+
+2. **Cost per bunch individually:**
+   - A bunch of bananas costs \$3.00.
+
+3. **Number of bananas in a bunch:**
+   - A bunch contains 6 bananas.
+
+4. **Total bananas bought:**
+   - Jenny buys 10 bunches.
+   - Total bananas = 10 bunches × 6 bananas/bunch = 60 bananas.
+
+5. **Cost of bananas bought individually:**
+   - Total bananas = 60 bananas.
+   - Cost per banana = \$0.80.
+   - Total cost = 60 bananas × \$0.80/banana = \$48.00.
+
+6. **Cost of bananas bought in bunches:**
+   - Each bunch costs \$3.00.
+   - Total cost = 10 bunches × \$3.00/bunch = \$30.00.
+
+7. **Savings:**
+   - Savings = Cost bought individually - Cost bought in bunches
+   - Savings = \$48.00 - \$30.00 = \$18.00.
+
+**Answer:** Jenny saved **\$18.00** by buying bananas in bunches instead of individually.

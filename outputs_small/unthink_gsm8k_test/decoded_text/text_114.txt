@@ -1,0 +1,58 @@
+<｜User｜>
+Q: Jamal's phone can hold 6 times more photographs than can Brittany's phone.  The maximum number of photographs that Brittany's phone can hold is 50 times more than the number of birds in Jamal's photograph of the ducks at the zoo.  If Jamal's phone can hold 1800 photographs, how many ducks can be seen in Jamal's photograph of ducks at the zoo?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Let’s define the variables:**
+   - Let \( J \) be the number of photographs Jamal's phone can hold.
+   - Let \( B \) be the number of photographs Brittany's phone can hold.
+   - Let \( D \) be the number of ducks in Jamal's photograph.
+
+2. **Given information:**
+   - Jamal's phone can hold 6 times more photographs than Brittany's phone:
+     \[
+     J = 6B
+     \]
+   - The maximum number of photographs Brittany's phone can hold is 50 times more than the number of birds in Jamal's photograph:
+     \[
+     B = 50D
+     \]
+   - Jamal's phone can hold 1800 photographs:
+     \[
+     J = 1800
+     \]
+
+3. **Find the number of ducks \( D \):**
+   - From the first equation:
+     \[
+     J = 6B \implies 1800 = 6B \implies B = \frac{1800}{6} = 300
+     \]
+   - From the second equation:
+     \[
+     B = 50D \implies 300 = 50D \implies D = \frac{300}{50} = 5.4545
+     \]
+   - Wait, this doesn't make sense because the number of ducks should be a whole number. Let's check the calculations again.
+
+4. **Re-examining the second equation:**
+   - The problem states that "the maximum number of photographs Brittany's phone can hold is 50 times more than the number of birds in Jamal's photograph."
+   - This should be interpreted as:
+     \[
+     B = 50D
+     \]
+   - Given \( J = 1800 \), and \( J = 6B \):
+     \[
+     1800 = 6B \implies B = 300
+     \]
+   - Now, using \( B = 50D \):
+     \[
+     300 = 50D \implies D = \frac{300}{50} = 6
+     \]
+
+5. **Final Answer:**
+   \[
+   \boxed{6}
+   \]

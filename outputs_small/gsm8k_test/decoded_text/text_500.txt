@@ -1,0 +1,115 @@
+<｜User｜>
+Q: Together Lily, David, and Bodhi collected 43 insects. Lily found 7 more than David. David found half of what Bodhi found. How many insects did Lily find?
+A:<｜Assistant｜><think>
+First, I'll define the number of insects found by each person. Let \( L \) represent the number found by Lily, \( D \) for David, and \( B \) for Bodhi.
+
+According to the problem, the total number of insects collected by all three is 43. So, I can write the equation:
+\[ L + D + B = 43 \]
+
+Next, it's given that Lily found 7 more insects than David. This translates to:
+\[ L = D + 7 \]
+
+Additionally, David found half of what Bodhi found. This means:
+\[ D = \frac{1}{2}B \]
+
+Now, I'll substitute \( D \) in terms of \( B \) into the equation for \( L \):
+\[ L = \frac{1}{2}B + 7 \]
+
+Substituting \( L \) and \( D \) into the total insects equation:
+\[ \left(\frac{1}{2}B + 7\right) + \frac{1}{2}B + B = 43 \]
+
+Combining like terms:
+\[ 2B + 7 = 43 \]
+
+Solving for \( B \):
+\[ 2B = 36 \]
+\[ B = 36 \]
+
+Now, I'll find \( D \) using the value of \( B \):
+\[ D = \frac{1}{2} \times 36 = 18 \]
+
+Finally, I'll determine \( L \) using the value of \( D \):
+\[ L = 18 + 7 = 25 \]
+
+So, Lily found 25 insects.
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Total insects collected by Lily, David, and Bodhi: 43
+- Lily found 7 more insects than David.
+- David found half of what Bodhi found.
+
+**Let:**
+- \( L \) = number of insects found by Lily
+- \( D \) = number of insects found by David
+- \( B \) = number of insects found by Bodhi
+
+**Step 1: Translate the given information into equations.**
+
+1. **Total insects:**
+   \[
+   L + D + B = 43
+   \]
+
+2. **Lily found 7 more than David:**
+   \[
+   L = D + 7
+   \]
+
+3. **David found half of what Bodhi found:**
+   \[
+   D = \frac{1}{2}B \quad \text{or} \quad B = 2D
+   \]
+
+**Step 2: Substitute \( D \) in terms of \( B \) into the equation for \( L \).**
+
+From equation 3:
+\[
+D = \frac{1}{2}B \quad \Rightarrow \quad L = \frac{1}{2}B + 7
+\]
+
+**Step 3: Substitute \( L \) and \( D \) into the total insects equation.**
+
+\[
+\left(\frac{1}{2}B + 7\right) + \frac{1}{2}B + B = 43
+\]
+
+**Step 4: Combine like terms.**
+
+\[
+\frac{1}{2}B + \frac{1}{2}B + B + 7 = 43
+\]
+\[
+2B + 7 = 43
+\]
+
+**Step 5: Solve for \( B \).**
+
+\[
+2B = 43 - 7
+\]
+\[
+2B = 36
+\]
+\[
+B = 18
+\]
+
+**Step 6: Find \( D \) using \( B = 18 \).**
+
+\[
+D = \frac{1}{2} \times 18 = 9
+\]
+
+**Step 7: Find \( L \) using \( D = 9 \).**
+
+\[
+L = 9 + 7 = 16
+\]
+
+**Final Answer:**
+\[
+\boxed{16}
+\]

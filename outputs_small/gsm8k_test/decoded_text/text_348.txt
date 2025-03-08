@@ -1,0 +1,42 @@
+<｜User｜>
+Q: A factory used to make tractors, but now makes silos. When they made tractors, they sold 10 tractors a day and made $100 per tractor. Now, they sell 5 silos a day, and make $220 per silo. What percentage more are they making per day now?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about a factory that used to make tractors but now makes silos. I need to figure out what percentage more they're making per day now compared to before. Hmm, let me break this down step by step.
+
+First, let me understand the original situation. Before the factory started making silos, they made tractors. They sold 10 tractors a day and made $100 per tractor. So, I think I need to calculate their daily revenue before they switched to making silos.
+
+Alright, so if they sold 10 tractors a day and each tractor was $100, then their daily revenue would be 10 tractors multiplied by $100 per tractor. Let me write that down:
+
+Original daily revenue = 10 tractors/day * $100/tractor = $1000/day.
+
+Okay, that seems straightforward. Now, moving on to the new situation. They're making silos now. They sell 5 silos a day, and each silo brings in $220. So, I need to calculate their new daily revenue.
+
+New daily revenue = 5 silos/day * $220/silo = ?
+
+Let me compute that. 5 times 220. Hmm, 5 times 200 is 1000, and 5 times 20 is 100, so adding those together, 1000 + 100 = $1100/day.
+
+Wait, so their daily revenue has gone up from $1000 to $1100. That's an increase of $100 per day. But the question is asking for the percentage increase. So, I need to find out what percentage $100 is of the original daily revenue, which was $1000.
+
+To find the percentage increase, I can use the formula:
+
+Percentage increase = (Increase / Original amount) * 100%.
+
+So, plugging in the numbers:
+
+Increase = $1100 - $1000 = $100.
+
+Wait, hold on, that doesn't seem right. If the original was $1000 and the new is $1100, the increase is $100. So, the increase is $100, and the original is $1000. So, 100 divided by 1000 is 0.1, and multiplying by 100% gives 10%. So, the percentage increase is 10%.
+
+Wait, let me double-check that. Original revenue was $1000, new revenue is $1100. So, the difference is $100. So, 100 divided by 1000 is 0.1, which is 10%. So, yes, that seems correct.
+
+But just to make sure I didn't make any mistakes in my calculations. Let me go through it again.
+
+Original daily revenue: 10 tractors * $100/tractor = $1000.
+
+New daily revenue: 5 silos * $220/silo = $1100.
+
+Difference: $1110 - $1000 = $110.
+
+Wait, hold on, that's $110, not $100. Did I make a mistake earlier?
+
+Wait, 5 times 220 is 1100, right? 5*200=1000, 5*20=100, so 1000+100=1100. So, $1110? Wait, no, 5*220 is 1100? Wait, 220*5: 200*5=1000, 20*5=110, so 1000+110=1111? Wait, no, 220*5 is 1100? Wait, 220*5=1100, 2*5=10, so 1100+10=1110? Wait, no, 220*5 is 1100? Wait, 220*5 is 1100, but 220 is 220, so 220*5 is 1110? Wait, 220*5: 200*5=1000, 20*5=100, 2*5=10, so 1000+100+10=11110?

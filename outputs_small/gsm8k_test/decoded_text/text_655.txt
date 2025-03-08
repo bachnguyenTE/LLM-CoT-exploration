@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Shiela is required to submit a 15-page research paper. She already finished writing 1/3 of the paper. How many pages does she have left to write?
+A:<｜Assistant｜><think>
+First, I need to determine how many pages Shiela has already written. She has completed 1/3 of a 15-page research paper.
+
+Next, I'll calculate the number of pages she has written by multiplying 15 by 1/3, which equals 5 pages.
+
+Finally, to find out how many pages she has left, I'll subtract the pages she has written from the total number of pages: 15 minus 5 equals 10 pages.
+
+Therefore, Shiela has 10 pages left to write.
+</think>
+
+**Solution:**
+
+Shiela has a research paper that is **15 pages** in total. She has already finished writing **1/3** of the paper. To find out how many pages she has left to write, follow these steps:
+
+1. **Calculate the number of pages Shiela has already written:**
+   
+   \[
+   \text{Pages written} = \frac{1}{3} \times 15 = 5 \text{ pages}
+   \]
+
+2. **Determine the number of pages remaining:**
+   
+   \[
+   \text{Pages left} = \text{Total pages} - \text{Pages written} = 15 - 5 = 10 \text{ pages}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{10 \text{ pages}}
+\]

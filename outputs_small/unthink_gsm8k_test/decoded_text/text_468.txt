@@ -1,0 +1,44 @@
+<｜User｜>
+Q: Fireman Frank has 200 shoes. If he gets 5 pairs of shoes on Monday and gains 15 new pairs on Wednesday and 30 pairs on Friday, how many shoes will he have on Sunday if he gets rid of 180 shoes on Saturday?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- Fireman Frank starts with **200 shoes**.
+- **Monday:** Gets **5 pairs** of shoes.
+- **Wednesday:** Gains **15 new pairs**.
+- **Friday:** Gets **30 pairs** of shoes.
+- **Saturday:** Gets rid of **180 shoes**.
+
+**Step 1: Calculate the total number of pairs received.**
+
+- **Monday:** 5 pairs
+- **Wednesday:** 15 pairs
+- **Friday:** 30 pairs
+
+Total pairs received = 5 + 15 + 30 = **50 pairs**
+
+**Step 2: Convert pairs to individual shoes.**
+
+- **Monday:** 5 pairs × 2 shoes/pair = **10 shoes**
+- **Wednesday:** 15 pairs × 2 shoes/pair = **30 shoes**
+- **Friday:** 30 pairs × 2 shoes/pair = **60 shoes**
+
+Total shoes received = 10 + 30 + 60 = **100 shoes**
+
+**Step 3: Calculate the total number of shoes after receiving.**
+
+Starting shoes: 200
+
+Total shoes after receiving = 200 + 100 = **300 shoes**
+
+**Step 4: Subtract the number of shoes removed on Saturday.**
+
+Shoes removed on Saturday: 180
+
+Total shoes remaining = 300 - 180 = **120 shoes**
+
+**Final Answer:**
+\boxed{120}

@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Marcus is trying to decide whether he really needs to do his homework. There's a 50% chance that tomorrow he'll have a substitute teacher who won't collect the homework. Even if the normal teacher comes in, there's a 40% chance she'll give everyone an extension. Even if the whole class doesn't get an extension, there's a 20% chance Marcus can convince the teacher his dog ate his assignment and get a personal extension. What is the percentage chance that Marcus will actually have to turn in his homework tomorrow?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the percentage chance that Marcus will have to turn in his homework tomorrow, we'll analyze each scenario step by step.
+
+1. **Substitute Teacher:**
+   - **Probability:** 50% (0.5)
+   - **Outcome:** Marcus doesn't have homework.
+   
+2. **Normal Teacher with Extension:**
+   - **Probability:** 40% (0.4)
+   - **Outcome:** Marcus gets an extension.
+   
+3. **No Extension:**
+   - **Probability:** 56% (1 - 0.4 = 0.6)
+     - **Subsequent Extension:**
+       - **Probability:** 20% (0.2)
+       - **Outcome:** Marcus gets an extension.
+     - **No Extension:**
+       - **Probability:** 80% (1 - 0.2 = 0.8)
+       - **Outcome:** Marcus doesn't need to turn in homework.
+
+4. **Final Outcome:**
+   - **Probability Marcus needs to turn in homework:** 80% (0.8)
+
+**Final Answer:**
+\boxed{80\%}

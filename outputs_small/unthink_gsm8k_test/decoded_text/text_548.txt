@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Mark was unwell for 3 months, during which he lost 10 pounds per month. If his final weight was 70 pounds, what was his initial weight?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's denote:
+- \( W \) as Mark's initial weight.
+- Mark lost 10 pounds per month for 3 months.
+- His final weight is 70 pounds.
+
+We can set up the equation as follows:
+
+\[
+\text{Initial Weight} - (\text{Weight Loss per Month} \times \text{Number of Months}) = \text{Final Weight}
+\]
+
+Plugging in the known values:
+
+\[
+W - (10 \times 3) = 70
+\]
+
+\[
+W - 30 = 70
+\]
+
+To find \( W \), add 30 to both sides:
+
+\[
+W = 70 + 30
+\]
+
+\[
+W = 107
+\]
+
+**Answer:** Mark's initial weight was \(\boxed{107}\) pounds.

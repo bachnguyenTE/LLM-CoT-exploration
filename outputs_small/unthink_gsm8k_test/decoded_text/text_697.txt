@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Great Grandma Jones has three children.  And each of her children has three children of their own, who are Great Grandma Jones' grandchildren.  And each of these grandchildren has three babies of their own, who are Great Grandma Jones' great grand-babies.  If all of the family show up at the family reunion, how many great grand-babies will be there for Great Grandma Jones to kiss?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to determine the total number of **great grand-babies** at the reunion.
+
+1. **Great Grandma Jones's Children:**
+   - Great Grandma Jones has **3 children**.
+   - These 3 children are **Great Grandma Jones' grandchildren**.
+
+2. **Great Grandma Jones's Great Grand-Babies:**
+   - Each of these 3 grandchildren has **3 children**.
+   - So, the number of **great grand-babies** is:
+     \[
+     3 \text{ grandchildren} \times 3 \text{ children each} = 9 \text{ great grand-babies}
+     \]
+
+3. **Great Grandma Jones's Great Grand-Baby's Great Grand-Babies:**
+   - Each of these 9 great grand-babies has **3 children**.
+   - So, the number of **great grand-baby's great grand-babies** is:
+     \[
+     9 \text{ great grand-babies} \times 3 \text{ children each} = 27 \text{ great grand-baby's great grand-babies}
+     \]
+
+4. **Total Number of Great Grand babies:**
+   - Adding up all the great grand-babies:
+     \[
+     9 \text{ (great grand-babies)} + 27 \text{ (great grand-baby's great grand-babies)} = 36 \text{ great grand-babies}
+     \]
+
+**Final Answer:**
+\[
+\boxed{36}
+\]

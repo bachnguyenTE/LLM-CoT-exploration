@@ -1,0 +1,43 @@
+<｜User｜>
+Q: The Adams family is busy making cookies. So far, they've made 7995 cookies. They have 2595 rainbow cookies, 3075 oatmeal cookies, and some chocolate chip cookies. How many chocolate chip cookies have they made?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many chocolate chip cookies the Adams family has made, we can use the following steps:
+
+1. **Total Cookies Made:**  
+   The Adams family has made a total of **7,995** cookies.
+
+2. **Rainbow Cookies:**  
+   They have made **2,595** rainbow cookies.
+
+3. **Oatmeal Cookies:**  
+   They have made **3,075** oatmeal cookies.
+
+4. **Calculate Chocolate Chip Cookies:**  
+   To find the number of chocolate chip cookies, subtract the number of rainbow and oatmeal cookies from the total cookies made.
+
+   \[
+   \text{Chocolate Chip Cookies} = \text{Total Cookies} - \text{Rainbow Cookies} - \text{Oatmeal Cookies}
+   \]
+
+   Plugging in the numbers:
+
+   \[
+   \text{Chocolate Chip Cookies} = 7,995 - 2,595 - 3,075
+   \]
+
+5. **Perform the Subtraction:**  
+   \[
+   7,995 - 2,595 = 5,400
+   \]
+   \[
+   5,400 - 3,075 = 2,325
+   \]
+
+6. **Final Answer:**  
+   The Adams family has made **2,325** chocolate chip cookies.
+
+\[
+\boxed{2325}
+\]

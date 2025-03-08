@@ -1,0 +1,29 @@
+<｜User｜>
+Q: To fund his store, Mr. Josue solicited money from two banks. The first bank gave him $4000, and the second company gave him twice as much. If he initially had $5000 in capital, how much capital does he have now?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Amount Received from the First Bank:**
+   - The first bank provided Mr. Josue with **\$4,0000**.
+
+2. **Amount Received from the Second Bank:**
+   - The second bank gave him twice as much as the first bank.
+   - **Amount from the second bank** = 2 × **\$4,000** = **\$8,000**.
+
+3. **Total Amount Received:**
+   - **Total** = **\$4,000** + **\$8,000** = **\$12,000**.
+
+4. **Initial Capital:**
+   - Mr. Josue initially had **\$5,000** in capital.
+
+5. **Total Capital Now:**
+   - **Total Capital** = **\$5,000** + **\$12,000** = **\$17,000**.
+
+**Final Answer:**
+\[
+\boxed{\$17,\!000}
+\]

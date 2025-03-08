@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Nathan has a bouncy ball that bounces to 2/3rds of its starting height with each bounce. If he drops it from the third-floor balcony in the mall, where each story is 24 feet high, how high does the ball go on its second bounce?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how high the bouncy ball goes on its second bounce, we'll follow these steps:
+
+1. **Initial Drop:**
+   - **Height of the balcony:** 24 feet.
+
+2. **First Bounce:**
+   - **Bounce ratio:** 2/3.
+   - **Height after first bounce:** \( 24 \times \frac{2}{3} = 16 \) feet.
+
+3. **Second Bounce:**
+   - **Height after first bounce:** 16 feet (since \( 16 \times \frac{2}{3} = 10.666... \) feet).
+   - **Height after second bounce:** \( 16 \times \frac{2}{3} = 4 \) feet.
+
+**Final Answer:**
+The ball reaches a height of **4 feet** on its second bounce.
+
+\boxed{4}

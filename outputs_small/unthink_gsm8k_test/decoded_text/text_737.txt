@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Peter wants to make different sized ice cubes with 32 ounces of water. He can make giant cubes that use 4 ounces per cube, medium cubes that use 2 ounces, and small cubes that use 1/2 an ounce. If he makes 3 giant cubes, 7 medium cubes, and 8 small cubes, how many ounces of water does he have left?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many ounces of water Peter has left after making the ice cubes, follow these steps:
+
+1. **Calculate the total water used for each size of cube:**
+   - **Giant cubes:** \( 3 \text{ cubes} \times 4 \text{ ounces per cube} = 12 \text{ ounces} \)
+   - **Medium cubes:** \( 7 \text{ cubes} \times 2 \text{ ounces per cube} = 14 \text{ ounces} \)
+   - **Small cubes:** \( 8 \text{ cubes} \times 0.5 \text{ ounces per cube} = 4 \text{ ounces} \)
+
+2. **Sum the total water used:**
+   \[
+   12 \text{ ounces} + 14 \text{ ounces} + 4 \text{ ounces} = 30 \text{ ounces}
+   \]
+
+3. **Subtract the total water used from the initial amount:**
+   \[
+   32 \text{ ounces} - 30 \text{ ounces} = 2 \text{ ounces}
+   \]
+
+**Final Answer:** \(\boxed{2}\)

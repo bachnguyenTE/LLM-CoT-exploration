@@ -1,0 +1,46 @@
+<｜User｜>
+Q: Elise has been selling her Dad's collection of 250 books for three years. Each book sells at 20$, and she sold twice as many books in the first year as she has sold in the current year. There are currently 50 unsold books, and her sales number this year is 45. What's the total amount of money she earned in the second year?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Books:**
+   - Elise has been selling her Dad's collection of **250 books**.
+
+2. **Sales Breakdown:**
+   - **First Year:** She sold twice as many books as she sold in the **current year**.
+   - **Current Year:** She sold **45 books**.
+   - **First Year:** She sold **2 × 45 = 90 books**.
+
+3. **Books Sold in Previous Years:**
+   - **First Year:** 90 books
+   - **Current Year:** 45 books
+   - **Total sold so far:** 90 + 45 = 135 books
+
+4. **Books Remaining:**
+   - **Total books:** 250
+   - **Books sold:** 135
+   - **Books remaining:** 255 - 135 = 120 books
+
+5. **Second Year Sales:**
+   - She sold **45 books** this year.
+
+6. **Total Books Sold in Two Years:**
+   - **First Year:** 90
+   - **Second Year:** 45
+   - **Total:** 90 + 45 = 135 books
+
+7. **Books Remaining After Two Years:**
+   - **Books sold:** 135
+   - **Books remaining:** 255 - 135 = 120 books
+
+8. **Total Money Earned in the Second Year:**
+   - Each book sells for **\$20**.
+   - **Books sold in the second year:** 45
+   - **Total money:** 45 × \$20 = \$900
+
+**Final Answer:**
+\boxed{900}

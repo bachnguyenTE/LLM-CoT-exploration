@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Two sports coaches went shopping together. The baseball coach bought 9 new baseballs for $3 each. The basketball coach bought 8 new basketballs for $14 each. How much more did the basketball coach spend than the baseball coach?
+A:<｜Assistant｜><think>
+First, I need to calculate how much the baseball coach spent. He bought 9 baseballs at $3 each, so I'll multiply 9 by 3 to find the total cost.
+
+Next, I'll do the same for the basketball coach. He bought 8 basketballs at $14 each, so I'll multiply 8 by 14 to find his total expenditure.
+
+Finally, to determine how much more the basketball coach spent compared to the baseball coach, I'll subtract the total amount the baseball coach spent from the total amount the basketball coach spent.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Calculate the total amount spent by the baseball coach:**
+   
+   - **Number of baseballs bought:** 9
+   - **Cost per baseball:** \$3
+   - **Total cost for baseballs:** \( 9 \times 3 = \$27 \)
+
+2. **Calculate the total amount spent by the basketball coach:**
+   
+   - **Number of basketballs bought:** 8
+   - **Cost per basketball:** \$14
+   - **Total cost for basketballs:** \( 8 \times 14 = \$112 \)
+
+3. **Determine how much more the basketball coach spent than the baseball coach:**
+   
+   - **Total spent by basketball coach:** \$112
+   - **Total spent by baseball coach:** \$27
+   - **Difference in spending:** \( 112 - 27 = \$85 \)
+
+**Final Answer:**
+\[
+\boxed{85}
+\]

@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Adam went to a store to buy some sweets. He bought 7 candies of type A and 10 candies of type B. One candy of type A costs $0.5, and one candy of type B costs $0.75. How much change did Adam get, if he paid the cashier $15?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the cost of each type of candy:**
+   - **Type A:** 7 candies × \$0.50 = \$3.50
+   - **Type B:** 10 candies × \$0.75 = \$7.50
+
+2. **Calculate the total amount spent:**
+   - Total = \$3.50 + \$7.50 = \$11.00
+
+3. **Find the change received:**
+   - Amount paid = \$15.00
+   - Change = \$15.00
+
+**Final Answer:**
+\boxed{\$5.00}

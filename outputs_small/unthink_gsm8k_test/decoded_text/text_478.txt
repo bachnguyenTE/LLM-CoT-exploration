@@ -1,0 +1,29 @@
+<｜User｜>
+Q: A company decided to take its employees on a tour to explore an ancient site. The employees were divided into 3 groups of 200 employees. Each group was assigned 7 tour guides. How many is the total number of people going on this tour?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of people going on the tour, we can follow these steps:
+
+1. **Identify the number of groups and employees per group:**
+   - There are **3 groups**.
+   - Each group has **200 employees**.
+
+2. **Calculate the total number of employees:**
+   \[
+   3 \text{ groups} \times 200 \text{ employees/group} = 600 \text{ employees}
+   \]
+
+3. **Determine the number of tour guides:**
+   - Each group is assigned **7 tour guides**.
+   - There are **3 groups**, so:
+   \[
+   3 \text{ groups} \times 7 \text{ tour guides/group} = 21 \text{ tour guides}
+   \]
+
+4. **Calculate the total number of people on the tour:**
+   \[
+   600 \text{ employees} + 21 \text{ tour guides} = 661 \text{ people}
+   \]
+
+**Final Answer:** \(\boxed{661}\)

@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Chase and Rider can ride their bikes thrice a day for 5 days; but on two other days, they ride twice the times they do on usual days. How many times do they ride their bikes a week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Understanding the Problem:**
+   - **Chase and Rider** ride their bikes.
+   - **They ride thrice a day** for **5 days**.
+   - **On two other days**, they ride **twice the times** they do on usual days.
+   - **We need to find out how many times they ride their bikes in a week.**
+
+2. **Calculating Usual Rides:**
+   - They ride thrice a day for **5 days**.
+   - **Usual rides per day:** 3 times
+   - **Usual rides in 5 days:** \( 3 \times 5 = 15 \) times
+
+3. **Calculating Rides on Two Other Days:**
+   - On **two other days**, they ride **twice the usual times**.
+   - **Rides per usual day:** 3 times
+   - **Rides on two days:** \( 2 \times 3 = 6 \) times
+
+4. **Total Weekly Rides:**
+   - **Usual rides in 5 days:** 15 times
+   - **Rides on two days:** 6 times
+   - **Total rides in a week:** \( 15 + 6 = 21 \) times
+
+**Final Answer:**
+\[
+\boxed{21}
+\]

@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Audrey has to take two math tests to pass 6th grade. She must correctly answer 70% of the total questions to move on to the 7th grade. The first test has 70 questions and she gets 60% of them correct. The second test has 40 questions. How many questions does she need to get right on the second test to move onto the 7th grade?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many questions Audrey needs to answer correctly on the second test, let's break down the problem step by step.
+
+1. **Total Questions for 7th Grade:**
+   - The second test has **40 questions**.
+
+2. **Current Performance:**
+   - **First Test:**
+     - **Total Questions:** 70
+     - **Correct Answers Needed:** 70 × 70% = 53.9 ≈ 54 questions
+   - **Second Test:**
+     - **Total Questions:** 40
+     - **Current Correct Answers:** Let's denote the number of correct answers as \( x \).
+
+3. **Total Correct Answers Needed:**
+   - To move onto the 7th grade, Audrey needs to answer **70% of the total questions**. 
+   - **Total Questions:** 70 (from both tests)
+   - **Required Correct Answers:** 70% of 70 = 0.77 × 100 = 77 questions
+
+4. **Calculating Required Correct Answers on the Second Test:**
+   - **Total Correct Needed:** 77
+   - **Correct from First Test:** 54
+   - **Required Correct on Second Test:** 77 - 54 = 23
+
+5. **Final Answer:**
+   - Audrey needs to answer **23 questions correctly** on the second test to move onto the 7th grade.
+
+\boxed{23}

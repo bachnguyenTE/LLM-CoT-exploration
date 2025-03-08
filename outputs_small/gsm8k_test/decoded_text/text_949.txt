@@ -1,0 +1,81 @@
+<｜User｜>
+Q: Marcus is half of Leo’s age and five years younger than Deanna. Deanna is 26. How old is Leo?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here: Marcus is half of Leo’s age and five years younger than Deanna. Deanna is 26. How old is Leo? Hmm, let me try to figure this out step by step.
+
+First, let me break down the information given. There are three people mentioned: Marcus, Leo, and Deanna. The problem gives me some relationships between their ages. Let me list them out:
+
+1. Marcus is half of Leo’s age.
+2. Marcus is five years younger than Deanna.
+3. Deanna is 26 years old.
+
+Alright, so starting with the third point, Deanna is 26. That seems straightforward. So, Deanna = 26.
+
+Now, the second point says Marcus is five years younger than Deanna. Since Deanna is 26, that means Marcus is 26 minus 5. Let me calculate that: 26 - 5 = 21. So, Marcus is 21 years old.
+
+Wait, hold on. If Marcus is 21, and he is half of Leo’s age, then Leo must be twice as old as Marcus. So, if Marcus is 21, then Leo is 21 * 2. Let me do that multiplication: 21 * 2. Hmm, 20 is 42, and 1 * 2 is 2, so adding them together gives 42 + 2 = 44. So, Leo is 44 years old.
+
+Wait, let me double-check that. If Marcus is 21, and he is half of Leo's age, then Leo is indeed 42. But hold on, the problem says Marcus is five years younger than Deanna. Since Deanna is 26, five years younger would be 21, which is correct. So, that seems consistent.
+
+But let me make sure I didn't mix up any numbers. So, Deanna is 26. Five years younger than that would be 21, which is Marcus. Then, Marcus is half of Leo's age, so Leo is 42. Wait, 42 is half of 84, but that doesn't make sense because 42 is half of 84, but in this case, 42 is half of 84? Wait, no, 42 is half of 84? Wait, 42 * 2 is 84, yes. But in this case, Leo is 42, so Marcus is 21, which is half of 42. So, that seems correct.
+
+Wait, but 42 is half of 84, but in this problem, Leo is 42, so Marcus is 21, which is half of 42. So, that seems consistent. So, I think that's correct.
+
+But let me think again. Maybe I should write it out in equations to make sure.
+
+Let me assign variables:
+
+Let M = Marcus's age
+
+Let L = Leo's age
+
+Let D = Deanna's age = 26
+
+Given:
+
+1. M = (1/2) * L
+
+2. M = D - 5
+
+So, substituting equation 2 into equation1:
+
+(D - 5) = (1/2) * L
+
+Since D is 26, substitute that in:
+
+26 - 5 = (1/2) * L
+
+21 = (1/2) * L
+
+So, to solve for L, multiply both sides by 2:
+
+21 * 2 = L
+
+42 = L
+
+So, Leo is 42 years old.
+
+Wait, that seems consistent. So, the answer is 42.
+
+But just to make sure, let me plug the numbers back into the original statements.
+
+First, is Marcus half of Leo's age? If Leo is 42, then half of 42 is 21, which is Marcus's age. So that's correct.
+
+Second, is Marcus five years younger than Deanna? If Deanna is 26, then five years younger would be 26 - 5 = 21, which is Marcus's age. So that's also correct.
+
+So, both conditions are satisfied. Therefore, Leo is 42 years old.
+
+I think that's solid. I don't see any mistakes in the calculations or the logic. So, I'm confident that the answer is 42.
+
+**Final Answer**
+The age of Leo is \boxed{42}.
+</think>
+
+Given the problem, we need to determine Leo's age based on the relationships provided.
+
+1. Deanna is 26 years old.
+2. Marcus is five years younger than Deanna.
+3. Marcus is half of Leo’s age.
+
+First, we calculate Marcus's age:
+\[ \text{Marcus's

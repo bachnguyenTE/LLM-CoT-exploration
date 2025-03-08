@@ -1,0 +1,51 @@
+<｜User｜>
+Q: Carly wants to treat her friends. She orders five hamburgers at $4 each, ten packs of potato fries at $0.30 each pack, and five cans of fruit drinks at $2 each can.  How much change does Carly get back if she gives one fifty-dollar bill?
+A:<｜Assistant｜><think>
+Okay, so I need to figure out how much change Carly gets back after buying these hamburgers, potato fries, and fruit drinks. Let me break this down step by step. 
+
+First, let's see what each item costs. She ordered five hamburgers, each costing $4. Hmm, so I should multiply the number of hamburgers by the price per hamburger. That would be 5 times $4. Let me write that down: 5 * $4. Hmm, 5 times 4 is 20, so that's $20. Okay, so the hamburgers cost her $20 in total.
+
+Next, she bought ten packs of potato fries. Each pack is $0.30. So, I need to calculate the total cost for the potato fries. That would be 10 packs multiplied by $0.30 per pack. So, 10 * $0.30. Let me do that multiplication. 10 times 0.3 is 3. So, the potato fries cost her $3 in total.
+
+Then, she bought five cans of fruit drinks, each costing $2. So, similar to the hamburgers, I need to multiply the number of drinks by the price per drink. That's 5 * $2. Let me calculate that. 5 times 2 is 10, so that's $10 for the fruit drinks.
+
+Now, I need to add up all these costs to find the total amount Carly spent. So, the hamburgers were $20, the potato fries were $3, and the fruit drinks were $10. Let me add them together: $20 + $3 + $10. 
+
+Starting with $20 plus $3 is $23. Then, adding $10 to that gives me $33. So, the total amount Carly spent is $33.
+
+But wait, she gave a fifty-dollar bill to the cashier. So, to find out how much change she gets back, I need to subtract the total cost from the amount she gave. That would be $50 (the fifty-dollar bill) minus $33 (the total cost). Let me do that subtraction: $50 - $33.
+
+Subtracting $3 from $50 gives me $47. So, the change she gets back is $47.
+
+Let me just double-check my calculations to make sure I didn't make any mistakes. 
+
+Hamburgers: 5 * $4 = $20. That seems right. 
+
+Potato fries: 10 * $0.30. Hmm, 10 times 0.3 is 3, so $3. That's correct.
+
+Fruit drinks: 5 * $2 = $10. Yep, that's right.
+
+Total cost: $20 + $3 + $10. 20 + 3 is 23, plus 10 is 33. So, $33 total.
+
+Fifty dollars minus $33 is $47. That seems correct.
+
+I don't think I made any calculation errors here. So, I'm confident that the change is $47.
+
+**Final Answer**
+The change Carly gets back is \boxed{47} dollars.
+</think>
+
+Carly orders five hamburgers at $4 each, ten packs of potato fries at $0.30 each, and five cans of fruit drinks at $2 each. 
+
+First, calculate the cost of each item:
+- The cost of five hamburgers: \(5 \times 4 = 20\) dollars.
+- The cost of ten packs of potato fries: \(10 \times 0.30 = 3\) dollars.
+- The cost of five cans of fruit drinks: \(5 \times 2 = 10\) dollars.
+
+Next, add up the total cost:
+- Total cost: \(20 + 3 + 10 = 33\) dollars.
+
+Carly gives a fifty-dollar bill, so the change she gets back is:
+- Change: \(50 - 33 = 47\) dollars.
+
+The change Carly gets back is \(\boxed{47}\) dollars.

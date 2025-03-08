@@ -1,0 +1,68 @@
+<｜User｜>
+Q: Calvin is making soup for his family for dinner. He has a pot with enough soup to fill four adult's bowls or eight child's bowls. He is an adult and will be eating with his adult wife and their two children. If everyone eats one bowl at a meal, how many times will each child be able to have a bowl of soup for lunch from the leftover soup?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- Calvin's pot of soup can fill:
+  - **Four adult bowls**
+  - **Eight child bowls**
+
+**What is needed:**
+- Determine how many **child bowls** will be left after Calvin and his family (adults and children) eat one bowl each.
+
+**Step 1: Determine the serving size.**
+
+Assume that:
+- **One adult bowl = 1 unit**
+- **One child bowl = 1 unit**
+
+From the given:
+- **Four adult bowls = 4 units**
+- **Eight child bowls = 8 units**
+
+**Step 2: Calculate the total soup available.**
+
+Since both adult and child bowls are available, the total soup is:
+\[
+\text{Total soup} = 4 \text{ adult bowls} + 8 \text{ child bowls} = 12 \text{ units}
+\]
+
+**Step 3: Calculate the number of people eating.**
+
+- **Calvin** (adult)
+- **His adult wife** (adult)
+- **Two children**
+
+Total people eating:
+\[
+4 \text{ people}
+\]
+
+**Step 4: Determine the total soup consumed.**
+
+Each person eats one bowl:
+\[
+4 \text{ people} \times 1 \text{ bowl/person} = 4 \text{ units}
+\]
+
+**Step 5: Calculate the leftover soup.**
+
+Subtract the soup consumed from the total soup:
+\[
+12 \text{ units} - 4 \text{ units} = 8 \text{ units}
+\]
+
+**Step 6: Determine how many child bowls are left.**
+
+Each child bowl is **1 unit**:
+\[
+\frac{8 \text{ units}}{1 \text{ unit/child bowl}} = 8 \text{ child bowls}
+\]
+
+**Final Answer:**
+\[
+\boxed{8}
+\]

@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Mulan has $40. Her father gave her $100. She buys two pairs of jeans at $30 each and a bag for $20. How much money does Mulan have left?
+A:<｜Assistant｜><think>
+First, I need to determine how much money Mulan has after receiving her father's gift. She initially has $40 and receives an additional $100, so her total becomes $144.
+
+Next, I'll calculate the total cost of the items she purchased. She bought two pairs of jeans at $30 each, which amounts to $60, and a bag for $20. Adding these together, the total expenditure is $82.
+
+Finally, to find out how much money she has left, I'll subtract the total cost of the items from her total amount of money. This means subtracting $82 from $144, leaving her with $62.
+</think>
+
+**Solution:**
+
+1. **Initial Amount:**
+   - Mulan starts with **\$40**.
+
+2. **Father's Gift:**
+   - Her father gives her **\$100**.
+   - **Total Money After Gift:** \$40 + \$100 = **\$144**
+
+3. **Cost of Purchases:**
+   - **Two pairs of jeans:** \$30 each × 2 = **\$60**
+   - **Bag:** \$20
+   - **Total Expenditure:** \$60 + \$20 = **\$82**
+
+4. **Money Left:**
+   - **Total Money After Purchases:** \$144 - \$82 = **\$62**
+
+**Final Answer:**
+\boxed{62}

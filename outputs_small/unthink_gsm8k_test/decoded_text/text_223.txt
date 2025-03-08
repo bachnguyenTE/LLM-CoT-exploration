@@ -1,0 +1,28 @@
+<｜User｜>
+Q: A company spends $15000 on advertising for a year, and then spends a third of that amount on advertising for another year.  What's the total amount the company spent on advertising for the two years?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **First Year Advertising:**
+   - The company spends **\$15,000** on advertising for the first year.
+   - **Amount spent in the first year:** \$15,000
+
+2. **Second Year Advertising:**
+   - The company spends **one-third** of the first year's advertising amount on the second year.
+   - **Amount spent in the second year:** \( \frac{1}{3} \times 15,000 \)
+   - **Calculation:** \( \frac{15,000}{3} = 5,000 \)
+   - **Amount spent in the second year:** \$5,000
+
+3. **Total Advertising Spent Over Two Years:**
+   - **Total amount:** \$15,000 + \$5,000
+   - **Calculation:** \( 15,000 + 5,000 = 20,000 \)
+   - **Total amount spent:** \$22,000
+
+**Final Answer:**
+\[
+\boxed{22,\!000}
+\]

@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Lani baked 55 cookies. She ate 5 five cookies and placed the rest equally into five jars. How many cookies were in each jar?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Lani baked a total of **55 cookies**.
+
+1. **Cookies Eaten:**
+   - Lani ate **5 cookies**.
+
+2. **Cookies Left:**
+   - Total cookies baked: 55
+   - Cookies eaten: 5
+   - Cookies remaining: \( 55 - 5 = 50 \)
+
+3. **Cookies in Jars:**
+   - Lani placed the remaining **50 cookies** equally into **5 jars**.
+   - Cookies per jar: \( \frac{50}{5} = 10 \)
+
+**Final Answer:**
+\[
+\boxed{10}
+\]

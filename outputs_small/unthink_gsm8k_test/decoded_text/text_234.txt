@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Steve decides to start eating more tomatoes and decides to grows his own cherry tomatoes.  He eats twice as much as his girlfriend.  He eats 6 per day.  If a vine can produce 3 tomatoes per week how many vines does he need?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine Steve's daily tomato consumption:**
+   
+   Steve eats **6 tomatoes per day**.
+
+2. **Calculate the weekly tomato consumption:**
+   
+   \[
+   6 \text{ tomatoes/day} \times 7 \text{ days/week} = 42 \text{ tomatoes/week}
+   \]
+
+3. **Find out how many tomatoes one vine can produce in a week:**
+   
+   Each vine produces **3 tomatoes per week**.
+
+4. **Determine the number of vines needed:**
+   
+   \[
+   \frac{42 \text{ tomatoes/week}}{3 \text{ tomatoes/vine}} = 14 \text{ vines}
+   \]
+
+**Final Answer:**
+\[
+\boxed{14}
+\]

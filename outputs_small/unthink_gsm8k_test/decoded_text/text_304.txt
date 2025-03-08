@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Watson works a 10-hour shift each day, five days a week. He earns $10 per hour and gets a $300 bonus each week if the company performs well. How much money did Watson make in April if the company performed very well for the whole month?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate Watson's hourly earnings for the week:**
+   
+   Watson works **10 hours/day** for **5 days/week**.
+   
+   \[
+   10 \text{ hours/day} \times 5 \text{ days} = 50 \text{ hours/week}
+   \]
+   
+   He earns **\$10/hour**.
+   
+   \[
+   55 \text{ hours/week} \times \$10/\text{hour} = \$550/\text{week}
+   \]
+
+2. **Add the weekly bonus for the month:**
+   
+   The company gives a **\$300 bonus** each week if the company performs well.
+   
+   \[
+   \$550 \text{ (earnings)} + \$300 \text{ (bonus)} = \$855 \text{ total for April}
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$855}
+\]

@@ -1,0 +1,29 @@
+<｜User｜>
+Q: A Tyrannosaurus rex ate half of a small triceratops it had hunted. When it left, a pack of velociraptors scavenged half of what was left. A group of lazy Allosaurus gulped down the last 270 kilograms of meat. How many kilograms of meat were on the triceratops before the T-Rex ate?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the total kilograms of meat on the triceratops before the T-Rex ate.
+
+1. **Let \( x \) be the total kilograms of meat on the triceratops before the T-Rex ate.**
+
+2. **Tyrannosaurus Rex Ate Half:**
+   - The T-Rex ate half of the meat.
+   - **Meat remaining after T-Rex ate:** \( \frac{x}{2} \)
+
+3. **Velociraptors Scavenged Half:**
+   - The velociraptors scavenged half of what was left.
+   - **Meat remaining after velociraptors scavenged:** \( \frac{1}{2} \times \frac{x}{2} = \frac{x}{4} \)
+
+4. **Allosaurus Gulsed Down the Last 270 kg:**
+   - The Allosaurus gulped down the last 270 kg.
+   - **Equation:** \( \frac{x}{4} = 270 \)
+
+5. **Solve for \( x \):**
+   \[
+   \frac{x}{4} = 270 \\
+   x = 270 \times 4 \\
+   x = 1080
+   \]
+
+**Final Answer:** \(\boxed{1080}\) kilograms of meat were on the triceratops before the T-Rex ate.

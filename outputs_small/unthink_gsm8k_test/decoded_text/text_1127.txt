@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Rani is obsessed with sports cars. She wonders what the faster car ever made can go so she looks it up. What she finds out is that the fastest car was 1.25 times faster than the 2nd fastest car. The 2nd fastest car was 5 times faster than the average car. The average car can go 120 Miles per hour. How fast does the faster car go?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Define the variables:**
+   - Let \( A \) be the average car's speed.
+   - Let \( B \) be the speed of the 2nd fastest car.
+   - Let \( F \) be the speed of the faster car.
+
+2. **Given information:**
+   - The average car can go **120 miles per hour**.
+   - The 2nd fastest car is **5 times faster** than the average car.
+   - The faster car is **1.25 times faster** than the 2nd fastest car.
+
+3. **Calculate the speed of the 2nd fastest car (\( B \)):**
+   \[
+   B = 5 \times A = 5 \times 120 = 600 \text{ miles per hour}
+   \]
+
+4. **Calculate the speed of the faster car (\( F \)):**
+   \[
+   F = 1.25 \times B = 1.25 \times 660 = 825 \text{ miles per hour}
+   \]
+
+**Final Answer:**
+\[
+\boxed{825}
+\]

@@ -1,0 +1,51 @@
+<｜User｜>
+Q: Aiden and 12 of his friends are going to see a film at the cinema, and meet up with 7 more friends there. They each save a seat and then buy enough drinks and snacks to fill the seats. Each seat has enough room to hold one person, two drinks, and three snacks. If drinks and snacks cost $2 each, how much money, in dollars, has the group spent overall on snacks and drinks?
+A:<｜Assistant｜><think>
+First, determine the total number of people in the group. Aiden plus 12 friends makes 13 people, and they bring 7 more friends, totaling 20 people.
+
+Each seat requires one person, two drinks, and three snacks. Since there are 20 seats, there will be 20 drinks and 66 snacks needed.
+
+Drinks cost $2 each, so the total cost for drinks is 20 multiplied by $2, which equals $40.
+
+Snacks also cost $2 each, so the total cost for snacks is 66 multiplied by $2, which equals $132.
+
+Finally, add the cost of drinks and snacks together to find the total amount spent: $40 plus $132 equals $172.
+</think>
+
+Let's break down the problem step by step to determine the total amount of money spent on snacks and drinks.
+
+### **Step 1: Determine the Total Number of People**
+
+- **Aiden and 12 friends:** \(1 + 12 = 13\) people
+- **7 more friends:** \(13 + 7 = 20\) people
+
+So, there are **20 people** in total.
+
+### **Step 2: Calculate the Number of Drinks and Snacks Needed**
+
+Each seat requires:
+- **1 person**
+- **2 drinks**
+- **3 snacks**
+
+For **20 seats**:
+- **Drinks needed:** \(20 \text{ seats} \times 2 \text{ drinks/seat} = 40 \text{ drinks}\)
+- **Snacks needed:** \(20 \text{ seats} \times 3 \text{ snacks/seat} = 60 \text{ snacks}\)
+
+### **Step 3: Calculate the Total Cost for Drinks and Snacks**
+
+- **Cost per drink:** \$2
+- **Cost per snack:** \$2
+
+- **Total cost for drinks:** \(40 \text{ drinks} \times \$2/\text{drink} = \$80\)
+- **Total cost for snacks:** \(60 \text{ snacks} \times \$2/\text{snack} = \$120\)
+
+### **Step 4: Calculate the Total Amount Spent**
+
+\[
+\text{Total Cost} = \$80 \text{ (drinks)} + \$120 \text{ (snacks)} = \$200
+\]
+
+\[
+\boxed{200}
+\]

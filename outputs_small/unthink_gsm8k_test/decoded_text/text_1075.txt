@@ -1,0 +1,56 @@
+<｜User｜>
+Q: Jenny goes to the florist to buy some flowers. Roses cost $2 each and $15 for a dozen. If she bought 15 roses and arrived with five 5 dollar bills and they only have quarters for change, how many quarters does she leave with?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many quarters Jenny has left after buying the roses.
+
+**Given:**
+- **Roses:** \$2 each or \$15 for a dozen.
+- **Number of Roses Purchased:** 15
+- **Amount of Money Available:** 5 × \$5 = \$25
+- **Change Available:** Only quarters.
+
+**Step 1: Calculate the Total Cost of 15 Roses**
+
+First, determine the cost of 15 roses. Since a dozen roses cost \$15, we can find the cost per rose and then multiply by 15.
+
+\[
+\text{Cost per rose} = \frac{\$15}{12} \approx \$0.4167
+\]
+
+\[
+\text{Total cost for 15 roses} = 15 \times \$0.41667 \approx \$20.50
+\]
+
+**Step 2: Determine the Change Received**
+
+Jenny has \$25 and spends approximately \$20.50 on roses.
+
+\[
+\text{Change} = \$25 - \$20.50 = \$4.499
+\]
+
+Since she only has quarters for change, we need to convert the change into quarters.
+
+\[
+\text{Number of quarters} = \frac{\$4.499}{\$0.25} \approx 17.99
+\]
+
+Since she can't have a fraction of a quarter, we'll consider the exact amount she can give with whole quarters.
+
+**Step 3: Calculate the Exact Change in Quarters**
+
+\[
+\text{Total change in quarters} = \frac{\$4.499}{\$0.25} = 17.99 \approx 18 \text{ quarters}
+\]
+
+However, since she can't have a fraction of a quarter, we'll take the whole number of quarters she can give, which is 17 quarters.
+
+**Final Answer:**
+
+Jenny will have **17 quarters** left after buying the roses.
+
+\[
+\boxed{17}
+\]

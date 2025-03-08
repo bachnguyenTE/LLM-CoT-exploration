@@ -1,0 +1,24 @@
+<｜User｜>
+Q: If Ann is 9 years old and her brother is twice her age, how old will her brother be in 3 years?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine Ann's Current Age:**
+   - Ann is **9 years old**.
+
+2. **Find Out Her Brother's Current Age:**
+   - Ann's brother is **twice** as old as Ann.
+   - So, Brother's current age = 2 × Ann's age = 2 × 9 = **18 years old**.
+
+3. **Calculate the Brother's Age in 3 Years:**
+   - In 3 years, the brother will be 3 years older.
+   - Brother's age in 3 years = Brother's current age + 3 = 18 + 3 = **21 years old**.
+
+**Final Answer:**
+\[
+\boxed{21}
+\]

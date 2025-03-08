@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Violetta wants to buy new crayons. She needs them in 5 different colors and prepared $20 for this purchase. One crayon costs $2. How much change will she get?
+A:<｜Assistant｜><think>
+</think>
+
+Violetta wants to buy new crayons and has prepared \$20 for this purchase. Each crayon costs \$2. To find out how much change she will get, we can follow these steps:
+
+1. **Determine the total number of crayons Violetta can buy:**
+   
+   \[
+   \text{Total crayons} = \frac{\text{Total money}}{\text{Cost per crayon}} = \frac{20}{2} = 10 \text{ crayons}
+   \]
+
+2. **Calculate the total cost for 10 crayons:**
+   
+   \[
+   \text{Total cost} = 10 \text{ crayons} \times \$2/\text{crayon} = \$20
+   \]
+
+3. **Find the change Violetta will receive:**
+   
+   Since Violetta spent all her money on the crayons, she will receive no change.
+
+\[
+\boxed{0}
+\]

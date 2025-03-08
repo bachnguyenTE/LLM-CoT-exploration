@@ -1,0 +1,54 @@
+<｜User｜>
+Q: Rory orders 2 subs for $7.50 each, 2 bags of chips for $1.50 each and 2 cookies for $1.00 each for delivery.  There’s a 20% delivery fee added at check out and she wants to add a $5.00 tip.  What will her delivery order cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the costs step by step.
+
+1. **Cost of Subs:**
+   - Number of subs: 2
+   - Cost per sub: \$7.50
+   - Total for subs: \( 2 \times \$7.50 = \$15.00 \)
+
+2. **Cost of Chips:**
+   - Number of bags: 2
+   - Cost per bag: \$1.50
+   - Total for chips: \( 2 \times \$1.50 = \$3.00 \)
+
+3. **Cost of Cookies:**
+   - Number of cookies: 2
+   - Cost per cookie: \$1.00
+   - Total for cookies: \( 2 \times \$1.00 = \$2.00 \)
+
+4. **Total Order Before Delivery Fee:**
+   - Add up all the costs:
+     \[
+     \$15.00 \ (\text{subs}) + \$3.00 \ (\text{chips}) + \$2.00 \ (\text{cookies}) = \$20.50
+     \]
+
+5. **Delivery Fee:**
+   - Delivery fee: 20% of the total order
+   - Calculation:
+     \[
+     20\% \times \$20.50 = 0.20 \times 20.50 = \$4.50
+     \]
+   - **Total with Delivery Fee:** 
+     \[
+     \$20.50 + \$4.50 = \$25.00
+     \]
+
+6. **Tip:**
+   - Tip amount: \$5.00
+
+7. **Final Total Cost:**
+   - Add the tip to the total with delivery fee:
+     \[
+     \$25.00 + \$5.00 = \$30.00
+     \]
+
+**Final Answer:**
+\[
+\boxed{\$30.00}
+\]

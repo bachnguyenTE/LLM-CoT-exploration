@@ -1,0 +1,26 @@
+<｜User｜>
+Q: On Mondays, Wednesdays, and Fridays, college student Kimo has three 1-hour  classes each day.  On Tuesdays and Thursdays, he has two 2-hour classes each day.  In one semester, there are 16 weeks of school.  In one semester, how many hours does Kimo spend attending classes?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of hours Kimo spends attending classes in one semester, let's break down his schedule:
+
+1. **Weeks with 3-hour classes:**
+   - **Mondays:** 3 hours
+   - **Wednesdays:** 3 hours
+   - **Fridays:** 3 hours
+   - **Total per week:** \(3 + 3 + 3 = 9\) hours
+
+2. **Weeks with 2-hour classes:**
+   - **Tuesdays:** 2 hours
+   - **Thursdays:** 2 hours
+   - **Total per week:** \(2 + 2 = 4\) hours
+
+3. **Total weeks in a semester:** 16 weeks
+
+4. **Calculate total hours:**
+   - **9 hours/week × 16 weeks = 144 hours**
+   - **4 hours/week × 16 weeks = 24 hours**
+   - **Total:** \(144 + 24 = 168\) hours
+
+**Final Answer:** \(\boxed{168}\)

@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Gloria is shoe shopping when she comes across a pair of boots that fit her shoe budget. However, she has to choose between the boots and two pairs of high heels that together cost five dollars less than the boots. If one pair of heels costs $33 and the other costs twice as much, how many dollars are the boots?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the total cost of the boots.
+
+1. **Let the cost of the boots be \( B \) dollars.**
+
+2. **The two pairs of high heels together cost five dollars less than the boots.**  
+   So, the total cost for the heels is \( B - 5 \) dollars.
+
+3. **Given that one pair of heels costs \$33 and the other costs twice as much.**  
+   - First pair: \$33  
+   - Second pair: \( 2 \times 33 = \$66 \)  
+
+4. **Add the costs of the two pairs of heels:**  
+   \( 33 + 66 = \$99 \)
+
+5. **Set up the equation based on the total cost of the heels:**  
+   \( B - 5 = 99 \)
+
+6. **Solve for \( B \):**  
+   \( B = 99 + 5 \)  
+   \( B = 104 \)
+
+**Final Answer:**  
+The boots cost \(\boxed{104}\) dollars.

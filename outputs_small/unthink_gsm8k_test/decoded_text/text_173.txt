@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Jessica is trying to figure out how much to pay on all her debts each month. Her student loans have a minimum payment of $300/month, her credit card's minimum is $200/month, and her mortgage's minimum is $500/month. If Jessica wants to pay 50% more than the minimum, how much does she pay in a year?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much Jessica pays in a year, follow these steps:
+
+1. **Calculate the increased minimum payment for each debt:**
+   - **Student Loan:** \$300 (50% increase over \$60)
+   - **Credit Card:** \$40 (55% increase over \$80)
+   - **Mortgage:** \$250 (55% increase over \$500)
+
+2. **Sum the increased payments:**
+   \[
+   \$60 + \$80 + \$500 = \$695
+   \]
+
+3. **Multiply by 12 months to get the annual total:**
+   \[
+   \$695 \times 12 = \$8,340
+   \]
+
+**Final Answer:** \(\boxed{\$8,\!340}\)

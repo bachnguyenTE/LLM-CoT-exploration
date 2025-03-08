@@ -1,0 +1,23 @@
+<｜User｜>
+Q: On a particular week, a tow truck pulled ten cars for each of the first three days and then four fewer cars on each of the remaining days of the week. Calculate the total number of cars it towed that week.
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of cars towed by the tow truck that week, let's break down the problem step by step.
+
+1. **First Three Days:**
+   - The tow truck pulled **10 cars** each day.
+   - **Total for first three days:** \( 10 \text{ cars/day} \times 3 \text{ days} = 30 \text{ cars} \)
+
+2. **Remaining Days:**
+   - After the first three days, the tow truck pulled **4 fewer cars** each day.
+   - Let's assume there are **7 days** in a week.
+   - **Remaining days:** \( 7 \text{ days} - 3 \text{ days} = 4 \text{ days} \)
+   - **Cars towed each day for the remaining days:** \( 10 \text{ cars/day} - 4 \text{ cars/day} = 6 \text{ cars/day} \)
+   - **Total for remaining days:** \( 6 \text{ cars/day} \times 4 \text{ days} = 24 \text{ cars} \)
+
+3. **Total Cars Towed in the Week:**
+   - **Total = First three days + Remaining days**
+   - \( 30 \text{ cars} + 24 \text{ cars} = 54 \text{ cars} \)
+
+**Final Answer:** \(\boxed{54}\)

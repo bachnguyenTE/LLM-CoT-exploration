@@ -1,0 +1,24 @@
+<｜User｜>
+Q: John fills a 6 foot by 4 foot pool that is 5 feet deep.  It cost $.1 per cubic foot to fill.  How much does it cost to fill?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the cost of filling the pool, follow these steps:
+
+1. **Calculate the volume of the pool:**
+   \[
+   \text{Volume} = \text{Length} \times \text{Width} \times \text{Depth}
+   \]
+   \[
+   \text{Volume} = 6\,04 \times 4 \times 5 = 120 \text{ cubic feet}
+   \]
+
+2. **Determine the cost to fill the pool:**
+   \[
+   \text{Cost} = \text{Volume} \times \text{Cost per cubic foot}
+   \]
+   \[
+   \text{Cost} = 120 \times 0.1 = \$12
+   \]
+
+**Final Answer:** \boxed{\$12}

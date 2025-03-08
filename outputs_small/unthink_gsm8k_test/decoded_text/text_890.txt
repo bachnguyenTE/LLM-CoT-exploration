@@ -1,0 +1,36 @@
+<｜User｜>
+Q: There are 100 plants in Mrs. Smith's garden. One-fourth of her plants are indoor plants. Two-thirds of the remaining are outdoor plants while the rest are flowering plants. What percent of the plants are flowering plants?
+A:<｜Assistant｜><think>
+</think>
+
+To determine what percent of the plants in Mrs. Smith's garden are flowering plants, let's break down the information step by step.
+
+1. **Total Number of Plants:**
+   - There are **100 plants** in total.
+
+2. **Indoor Plants:**
+   - One-fourth of the plants are indoor plants.
+   - Calculation: \( \frac{1}{4} \times 100 = 25 \) plants.
+
+3. **Remaining Plants After Subtracting Indoor Plants:**
+   - Total plants: 100
+   - Indoor plants: 25
+   - Remaining plants: \( 100 - 25 = 75 \) plants.
+
+4. **Outdoor Plants:**
+   - Two-thirds of the remaining plants are outdoor plants.
+   - Calculation: \( \frac{2}{3} \times75 = 50 \) plants.
+
+5. **Flowering Plants:**
+   - The rest of the plants are flowering plants.
+   - Calculation: \( 75 - 50 = 25 \) plants.
+
+6. **Percentage of flowering plants:**
+   - Number of flowering plants: 25
+   - Total plants: 100
+   - Percentage: \( \frac{25}{100} \times 100\% = 25\% \)
+
+**Final Answer:**
+\[
+\boxed{25\%}
+\]

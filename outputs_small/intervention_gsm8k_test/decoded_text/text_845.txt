@@ -1,0 +1,74 @@
+<｜User｜>
+Q: There are 20 students in Miss Susan's class. 5 of them are good at math only, 8 of them perform well in English only, and the rest are good at both math and English. How many are good at math?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Miss Susan's class with 20 students. Let me try to figure out how many are good at math. Hmm, the problem says there are 5 students who are good at math only, 8 students who are good at English only, and the rest are good at both math and English. I need to find out how many are good at math in total.
+
+Alright, let me break this down. First, the total number of students is 20. So, 20 students in total. Now, out of these, 5 are only good at math, and 8 are only good at English. The rest are good at both. So, I think I need to use some kind of set theory here, maybe a Venn diagram or something.
+
+Let me recall, in set theory, when we have two sets, like math and English, the total number of elements is the sum of the elements in each set minus the elements that are in both sets. That's the principle of inclusion-exclusion. So, if I let M be the set of students good at math and E be the set of students good at English, then the total number of students is M + E - both.
+
+Wait, that seems right. So, total students = M + E - both. But, that seems right. So, in this case, the total number of students is 20. So, 20 = M + E - both.
+
+But, that seems right. But, that seems right. But, that seems right. Wait, that seems right. So, if I can find M and E, I can find both.
+
+But, that seems right. Wait, that seems right. So, let me think. So, the number of students good at math only is 5, and the number of students good at English only is 8. So, that means, the number of students good at math is the number of students good at math only plus the number of students good at both. Similarly, the number of students good at English is the number of students good at English only plus the number of students good at both.
+
+So, if I let both be x, then the number of students good at math is 5 + x, and the number of students good at English is 8 + x. Then, according to the inclusion-exclusion principle, total students = M + E - both, which is 20 = (5 + x) + (8 + x) - x.
+
+Wait, that seems right. Let me write that down:
+
+Total students = (students only math) + (students only English) + (students both math and English)
+
+So, 20 = 5 + 8 + both.
+
+But, that seems right. So, 20 = 13 + both. So, both = 20 - 13 = 7.
+
+So, both = 7. So, the number of students good at both is 7.
+
+Therefore, the number of students good at math is 5 + 7 = 12.
+
+Wait, that seems right. So, 5 only math, 7 both, so total math students are 12.
+
+But, that seems right. Let me check.
+
+So, if 5 are only math, 8 are only English, and 7 are both, then total math students are 5 + 7 = 12, and total English students are 8 + 7 = 15. Then, total students would be 12 + 15 - 7 = 20, which matches the given total. So, that seems correct.
+
+So, the number of students good at math is 12.
+
+Wait, that seems right. So, the answer is 12.
+
+But, that seems right. Let me think again.
+
+Alternatively, maybe I can use another approach. Let me denote:
+
+Let M be the number of students good at math.
+
+Let E be the number of students good at English.
+
+Let both be the number of students good at both.
+
+We know that:
+
+Only math = M - both = 5
+
+Only English = E - both = 8
+
+Total students = 20 = Only math + Only English + both
+
+So, 20 = 5 + 8 + both
+
+So, both = 20 - 13 = 7
+
+Therefore, M = Only math + both = 5 +7 =12
+
+So, same result.
+
+So, that seems correct.
+
+Alternatively, maybe I can think in terms of Venn diagrams.
+
+Imagine two circles, one for math and one for English. The overlapping part is both. The part only in math is 5, only in English is 8, and the rest is both.
+
+So, the total number in math is 5 + both, and total in English is 8 + both.
+
+Total students

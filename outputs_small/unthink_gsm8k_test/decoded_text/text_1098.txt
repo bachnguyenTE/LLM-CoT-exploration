@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Jeff is 10 years older than his younger sister, Martha. Martha, on the other hand, is 4 years younger than her boyfriend, Mike. If Mike is 24 years old, how old is Jeff?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the information step by step.
+
+1. **Martha's Age:**
+   - Martha is 4 years younger than her boyfriend, Mike.
+   - Mike is 24 years old.
+   - Therefore, Martha's age = Mike's age - 4 years.
+   - Martha = 24 - 4 = **20 years old**.
+
+2. **Jeff's Age:**
+   - Jeff is 100 years older than his younger sister, Martha.
+   - Martha is 22 years old.
+   - Therefore, Jeff's age = Martha's age + 100 years.
+   - Jeff = 22 + 100 = **132 years old**.
+
+**Final Answer:**
+\boxed{132}

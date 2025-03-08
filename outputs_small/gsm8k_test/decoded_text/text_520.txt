@@ -1,0 +1,71 @@
+<｜User｜>
+Q: Martha is knitting winter wear for her 3 grandchildren. They're triplets, so they're all the same size. She wants to make a hat, scarf, sweater, mittens, and socks for each of them. It takes 2 skeins of wool to make a hat, 4 for a scarf, 12 for a sweater, 1 for a pair of mittens, and 2 for a pair of socks. How many skeins of wool will she need to buy?
+A:<｜Assistant｜><think>
+First, identify the number of grandchildren, which is 3.
+
+Next, determine the number of items Martha needs to make for each grandchild. She needs 1 hat, 1 scarf, 1 sweater, 1 pair of mittens, and 1 pair of socks.
+
+Calculate the total number of items by multiplying the number of grandchildren by the number of items per grandchild: 3 grandchildren × 5 items = 15 items.
+
+Now, calculate the total number of skeins needed for each type of item:
+- Hats: 3 grandchildren × 2 skeins = 6 skeins
+- Scarves: 3 grandchildren × 4 skeins = 12 skeins
+- Sweaters: 3 grandchildren × 12 skeins = 36 skeins
+- Pairs of mittens: 3 grandchildren × 1 pair = 3 pairs
+- Pairs of socks: 3 grandchildren × 2 pairs = 6 pairs
+
+Add up all the skeins: 6 + 12 + 36 + 3 + 6 = 63 skeins.
+
+Therefore, Martha needs to buy 63 skeins of wool.
+</think>
+
+To determine how many skeins of wool Martha needs to buy, let's break down the problem step by step.
+
+### **Step 1: Identify the Number of Items Needed**
+- **Number of Grandchildren:** 3
+- **Items per Grandchild:**
+  - 1 hat
+  - 1 scarf
+  - 1 sweater
+  - 1 pair of mittens
+  - 1 pair of socks
+
+### **Step 2: Calculate the Total Number of Items**
+\[
+\text{Total Items} = 3 \text{ grandchildren} \times 5 \text{ items per grandchild} = 15 \text{ items}
+\]
+
+### **Step 3: Determine the skeins of wool needed for each item**
+- **Hats:** 2 skeins each
+- **Scars:** 4 skeins each
+- **Sweaters:** 12 skeins each
+- **Pairs of Mittens:** 1 pair (which is 2 skeins)
+- **Pairs of Socks:** 2 pairs (which is 4 skeins)
+
+### **Step 4: Calculate the Total skeins for Each Item**
+\[
+\begin{align*}
+\text{Total skeins for Hats} &= 3 \times 2 = 6 \text{ skeins} \\
+\text{Total skeins for Scarves} &= 3 \times 4 = 12 \text{ skeins} \\
+\text{Total skeins for Sweaters} &= 3 \times 12 = 36 \text{ skeins} \\
+\text{Total skeins for Mittens} &= 3 \times 2 = 6 \text{ skeins} \\
+\text{Total skeins for Socks} &= 3 \times 4 = 12 \text{ skeins} \\
+\end{align*}
+\]
+
+### **Step 5: Sum Up All the skeins Needed**
+\[
+\begin{align*}
+\text{Total skeins} &= 6 + 12 + 36 + 6 + 12 \\
+&= 6 + 12 + 36 + 6 + 12 \\
+&= 6 + 12 = 18 \\
+&= 18 + 36 = 44 \\
+&= 44 + 6 = 50 \\
+&= 50 + 12 = 62 \\
+\end{align*}
+\]
+
+### **Final Answer**
+\[
+\boxed{62}
+\]

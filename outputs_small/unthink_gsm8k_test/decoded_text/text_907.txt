@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Sarah has 9 books and Joseph had twice the number of Sarah’s books, but he lost 2 of them. How many books does Joseph currently have?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Sarah has 9 books.
+
+Joseph initially had twice the number of Sarah’s books:
+\[
+\text{Joseph's initial books} = 2 \times 9 = 18
+\]
+
+However, Joseph lost 2 books:
+\[
+\text{Joseph's current books} = 18 - 2 = 16
+\]
+
+**Final Answer:**
+\[
+\boxed{16}
+\]

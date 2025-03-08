@@ -1,0 +1,48 @@
+<｜User｜>
+Q: Farmer Brown has 60 animals on his farm, all either chickens or cows. He has twice as many chickens as cows. How many legs do the animals have, all together?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Farmer Brown has a total of **60 animals** on his farm.
+- All animals are either **chickens** or **cows**.
+- The number of **chickens** is **twice** the number of **cows**.
+
+**Let’s define:**
+- Let \( C \) represent the number of **cows**.
+- Then, the number of **chickens** would be \( 2C \) (since there are twice as many chickens as cows).
+
+**Total number of animals:**
+\[
+C + 2C = 3C
+\]
+According to the problem, the total number of animals is 60:
+\[
+3C = 60
+\]
+**Solving for \( C \):**
+\[
+C = \frac{60}{3} = 20
+\]
+So, there are **20 cows**.
+
+**Number of chickens:**
+\[
+2C = 2 \times 20 = 40
+\]
+So, there are **40 chickens**.
+
+**Total number of legs:**
+- Each **cow** has **4 legs**.
+- Each **chicken** has **2 legs**.
+
+\[
+\text{Total legs} = (20 \times 4) + (40 \times 2) = 80 + 80 = 168
+\]
+
+**Final Answer:**
+\[
+\boxed{168}
+\]

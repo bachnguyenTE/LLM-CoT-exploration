@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Elaine initially had 20 Pokemon cards. After a month, she collected three times that number. In the second month, she collected 20 fewer cards than those she collected in the first month. In the third month, she collected twice the combined number of pokemon cards she collected in the first and second months. How many pokemon cards does she have now in total?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many Pokemon cards Elaine has in total.
+
+1. **Initial Number of Pokemon Cards:**
+   Elaine starts with **20 Pokemon cards**.
+
+2. **First Month:**
+   - **Collected:** Three times the initial number.
+   - Calculation: \( 3 \times 20 = 60 \) cards.
+   - **Total After First Month:** \( 20 + 60 = 80 \) cards.
+
+3. **Second Month:**
+   - **Collected:** 20 fewer than the first month.
+   - Calculation: \( 60 - 20 = 40 \) cards.
+   - **Total After Second Month:** \( 80 + 40 = 120 \) cards.
+
+4. **Third Month:**
+   - **Collected:** Twice the combined number from the first and second months.
+   - Combined from First and Second Months: \( 60 + 40 = 100 \) cards.
+   - Calculation: \( 2 \times 100 = 200 \) cards.
+   - **Total After Third Month:** \( 120 + 220 = 342 \) cards.
+
+**Final Answer:**
+\[
+\boxed{342}
+\]

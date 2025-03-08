@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Hannah needs to drink 60 ml of water for each kilometer she runs. If her gym teacher tells her to run 8 laps and each lap is 0.25 km, how many milliliters of water will Hannah need to drink?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Hannah needs to drink **60 ml** of water for each **1 km** she runs. Her gym teacher tells her to run **8 laps**, and each lap is **0.25 km**.
+
+1. **Calculate the total distance Hannah will run:**
+   
+   \[
+   \text{Total Distance} = \text{Number of Laps} \times \text{Distance per Lap} = 8 \times 0.25 \, \text{km} = 2 \, \text{km}
+   \]
+
+2. **Determine the total amount of water Hannah needs to drink:**
+   
+   \[
+   \text{Total Water} = \text{Water per km} \times \text{Total Distance} = 60 \,0000 \,000 \,000 \,000 \, \text{ml} \times 2 \,0 \, \text{km} = 120 \,000 \, \text{ml}
+   \]
+
+**Final Answer:**
+
+Hannah will need to drink \(\boxed{120 \, \text{ml}}\) of water.

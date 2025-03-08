@@ -1,0 +1,50 @@
+<｜User｜>
+Q: On a busy Saturday morning, a hotel was completely booked with 100 guests.  24 guests elected an early checkout and 15 elected for a late checkout.  In the afternoon twice as many people checked in as those who opted for a late checkout.  7 more people checked in after dinner was served.  How many guests does the hotel now have?
+A:<｜Assistant｜><think>
+Okay, so I have this problem about a hotel with 100 guests on a busy Saturday morning. Let me try to break it down step by step. Sometimes these word problems can be a bit tricky, but if I take it slowly, I should be able to figure it out.
+
+First, the hotel is completely booked with 100 guests. That means all 100 are there at the start. Now, 24 guests decided to early checkout. So, those 24 are leaving the hotel before it even starts. Then, 15 guests chose to check out late. So, those 15 are also leaving, but this time after the hotel has already started its operations.
+
+So, right off the bat, we have 100 guests. Then, 24 leave early, so how many are left? Let me subtract 24 from 100. 100 minus 24 is 106. So, 106 guests are still there after the early checkouts.
+
+Then, 15 guests check out late. So, subtract another 15 from 106. 106 minus 15 is 101. So, now there are 101 guests remaining in the hotel.
+
+But wait, the problem says that in the afternoon, twice as many people check in as those who opted for a late checkout. Hmm, okay, so let me parse that. So, in the afternoon, twice as many people check in as those who checked out late.
+
+So, the number of people who checked out late is 15. So, twice that number is 30. So, in the afternoon, 30 people check in.
+
+But hold on, does that mean 30 people are checking in during the afternoon, or is it that twice as many as those who checked out late? So, if 15 checked out late, then twice that is 30. So, 30 people check in during the afternoon.
+
+But wait, the problem also says that 7 more people check in after dinner was served. Hmm, so after dinner, 7 more people check in. So, does that mean 7 more people check in after the time when dinner was served? Or is it that 7 more people check in after the afternoon?
+
+Wait, the problem says: "In the afternoon twice as many people check in as those who opted for a late checkout. 7 more people checked in after dinner was served."
+
+So, perhaps, in the afternoon, twice as many as those who checked out late, which is 30 people, and then 7 more people check in after dinner. So, that would be 30 plus 7, which is 37 people checking in in the afternoon.
+
+But wait, hold on. Let me make sure I'm interpreting this correctly. So, the problem says: "In the afternoon twice as many people check in as those who opted for a late checkout. 7 more people checked in after dinner was served."
+
+So, perhaps, the 7 more people are separate from the 30? Or is it that in the afternoon, twice as many as those who checked out late, and then 7 more after dinner.
+
+Wait, maybe it's that in the afternoon, twice as many as those who checked out late, which is 30, and then 7 more after dinner. So, total in the afternoon would be 30 plus 7, which is 37.
+
+But let me think again. So, the hotel is completely booked at the start with 100 guests. Then, 24 early check out, 15 late check out. So, 100 -24 -15 = 61 guests left.
+
+Then, in the afternoon, twice as many people check in as those who opted for a late checkout. So, twice 15 is 30. So, 30 people check in in the afternoon.
+
+But then, 7 more people check in after dinner was served. So, is that 7 more people, or is it 7 more after dinner? So, perhaps, 7 more people check in after dinner, which is another 7.
+
+So, total in the afternoon would be 30 +7=37.
+
+So, starting from 61, then adding 37, so 61 +37=98.
+
+Wait, but let me make sure. So, the initial number is 100.
+
+After 24 early check out: 100 -24=76.
+
+After 15 late check out: 76 -15=61.
+
+Then, in the afternoon, twice as many as those who checked out late: 2*15=30.
+
+So, 30 people check in in the afternoon.
+
+Then

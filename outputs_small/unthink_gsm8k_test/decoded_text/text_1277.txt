@@ -1,0 +1,43 @@
+<｜User｜>
+Q: Mia and Emma are currently 16 years apart in age. If Mia, who is younger than Emma, is 40 years old, what's the average of their ages?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Define the Variables:**
+   - Let \( M \) represent Mia's current age.
+   - Let \( E \) represent Emma's current age.
+
+2. **Given Information:**
+   - Mia and Emma are currently 16 years apart in age.
+   - Mia is younger than Emma, so \( E > M \).
+   - Mia is 40 years old.
+
+3. **Set Up the Equation:**
+   - The age difference between Emma and Mia is 16 years.
+   - Therefore, \( E - M = 16 \).
+
+4. **Substitute Mia's Age:**
+   - Since \( M = 40 \), substitute into the equation:
+     \[
+     E - 40 = 16
+     \]
+
+5. **Solve for Emma's Age:**
+   \[
+   E = 40 + 16 = 56
+   \]
+
+6. **Calculate the Average of Their Ages:**
+   - The average age is the sum of their ages divided by 2.
+   \[
+   \text{Average} = \frac{M + E}{2} = \frac{40 + 56}{2} = \frac{96}{2} = 48
+   \]
+
+**Final Answer:**
+\[
+\boxed{48}
+\]

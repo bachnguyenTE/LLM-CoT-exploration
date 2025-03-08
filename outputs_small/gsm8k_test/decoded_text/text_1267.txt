@@ -1,0 +1,33 @@
+<｜User｜>
+Q: A farm has 10 2-legged animals and 15 4-legged animals. If all animals are healthy, how many pairs of animal legs in total are on the farm?
+A:<｜Assistant｜><think>
+First, I need to determine the number of animal legs for each type of animal.
+
+There are 10 animals with 2 legs each, so that's 10 multiplied by 2, which equals 20 legs.
+
+Next, there are 15 animals with 4 legs each, so that's 15 multiplied by 4, which equals 60 legs.
+
+Finally, to find the total number of animal legs on the farm, I add the legs from both groups together: 20 plus 60 equals 86 legs.
+</think>
+
+To determine the total number of animal legs on the farm, follow these steps:
+
+1. **Calculate the legs from the 2-legged animals:**
+   \[
+   10 \text{ animals} \times 2 \text{ legs/animal} = 20 \text{ legs}
+   \]
+
+2. **Calculate the legs from the 4-legged animals:**
+   \[
+   15 \text{ animals} \times 4 \text{ legs/animal} = 20 \text{ legs}
+   \]
+
+3. **Add the legs from both groups to find the total number of animal legs:**
+   \[
+   20 \text{ legs} + 20 \text{ legs} = 40 \text{ legs}
+   \]
+
+**Final Answer:**
+\[
+\boxed{40}
+\]

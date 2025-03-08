@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Janet takes two bus trips five days a week. If each bus trip costs her $2.20, how much would she save by buying a weekly bus pass for $20?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the cost of two bus trips without the pass:**
+   - Each bus trip costs \$2.20.
+   - Janet takes **2** bus trips per week.
+   - Total cost without the pass = \( 2 \times \$2.20 = \$4.40 \).
+
+2. **Determine the cost of the weekly bus pass:**
+   - The weekly bus pass costs \$20.
+
+3. **Calculate the savings:**
+   - Savings = Cost without the pass - Cost with the pass
+   - Savings = \$4.40 - \$20 = **\$1.60**
+
+**Final Answer:**
+\[
+\boxed{\$1.60}
+\]

@@ -1,0 +1,30 @@
+<｜User｜>
+Q: The zookeeper feeds all the apes in the zoo. He orders all the bananas from a local farm every 2 months. If the monkeys need 200 bananas, the gorillas need 400 bananas, and the baboons need 100 bananas every month, how many bananas does he need to order to last for 2 months?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many bananas the zookeeper needs to order to last for 2 months, let's break down the requirements for each animal:
+
+1. **Monkeys:** Need **200 bananas** every month.
+2. **Gorillas:** Need **400 bananas** every month.
+3. **Baboons:** Need **100 bananas** every month.
+
+Since the zookeeper needs to ensure there are enough bananas for **2 months**, we'll calculate the total bananas required for each animal over 2 months and then sum them up.
+
+**Calculations:**
+
+- **Monkeys:** \( 200 \, \text{bananas/month} \times 2 \,000 = 400 \,000 \,00 \) bananas
+- **Gorillas:** \( 400 \,000 \, \text{bananas/month} \times 2,000 = 800,000,00 \) bananas
+- **Baboons:** \( 100 \, \text{bananas/month} \times 2,000 = 200,000 \) bananas
+
+**Total Bananas Needed:**
+
+\[
+400,000,000 + 800,000,000 + 200,000 = 1,230,000,000 \, \text{bananas}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{1,230,000,000}
+\]

@@ -1,0 +1,41 @@
+<｜User｜>
+Q: A three-ounce box of flavored jello makes 10 small jello cups.  Greg wants to make small jello cups for his son's outdoor birthday party.  There will be 30 kids and he wants to have enough so that each kid can have 4 jello cups.  Jello is currently on sale for $1.25.  How much will he spend on jello?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total number of jello cups needed:**
+   
+   - **Number of kids:** 30 (Assuming a typo, it should be 30, but let's proceed with 30 for now.)
+   - **Jello cups per kid:** 4
+   
+   \[
+   \text{Total jello cups} = 30 \text{ kids} \times 4 \text{ cups/kid} = 120 \text{ cups}
+   \]
+
+2. **Find out how many jello cups are in the box:**
+   
+   - **Jello in the box:** 3 ounces
+   
+3. **Calculate how many boxes Greg needs:**
+   
+   - **Jello cups per box:** 10
+   
+   \[
+   \text{Number of boxes} = \frac{120 \text{ cups}}{10 \text{ cups/box}} = 12 \text{ boxes}
+   \]
+
+4. **Determine the total cost:**
+   
+   - **Price per box:** \$1.25
+   
+   \[
+   \text{Total cost} = 12 \text{ boxes} \times \$1.25/\text{box} = \$15.00
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$15.00}
+\]

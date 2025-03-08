@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Paul has 52 marbles. His friend gave him 28 marbles. Then, he lost 1/4 of his marbles. How many marbles does Paul have left?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Paul initially has 52 marbles.
+- His friend gives him 28 more marbles.
+- Paul then loses \( \frac{1}{4} \) of his marbles.
+
+**Step 1: Calculate the total number of marbles after receiving the friend's marbles.**
+
+\[
+52 \text{ marbles} + 28 \text{ marbles} = 80 \text{ marbles}
+\]
+
+**Step 2: Determine how many marbles Paul loses.**
+
+\[
+\frac{1}{4} \text{ of } 80 \text{ marbles} = \frac{80}{4} = 20 \text{ marbles}
+\]
+
+**Step 3: Subtract the lost marbles from the total to find the remaining marbles.**
+
+\[
+80 \text{ marbles} - 20 \text{ marbles} = 68 \text{ marbles}
+\]
+
+**Final Answer:**
+\[
+\boxed{68}
+\]

@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Gus spent $20.00 at the grocery store.  He bought 2 bag of chips for $2.00 each, a bucket of fried chicken for $8.00 and a bottle of soda for $1.00.  How much did the apple pie cost?
+A:<｜Assistant｜><think>
+First, I need to determine the total amount Gus spent at the grocery store. He bought 2 bags of chips at $2.00 each, a bucket of fried chicken for $8.00, and a bottle of soda for $1.00.
+
+Next, I'll calculate the total cost of the known items. The two bags of chips cost 2 multiplied by $2.00, which equals $4.00. Adding the cost of the fried chicken and soda, the total expenditure is $4.00 plus $8.00 plus $1.00, totaling $13.00.
+
+Since Gus spent a total of $20.00, I'll subtract the amount he spent on the chips, fried chicken, and soda from this total to find out how much he spent on the apple pie. Subtracting $13.00 from $20.00 leaves $7.00.
+
+Therefore, the apple pie cost $7.00.
+</think>
+
+**Solution:**
+
+Gus spent a total of \$20.00 at the grocery store. Let's break down the costs of the items he bought:
+
+1. **2 Bags of Chips:**  
+   Each bag costs \$2.00, so  
+   \[
+   2 \times \$2.00 = \$4.00
+   \]
+
+2. **Bucket of Fried Chicken:**  
+   This costs \$8.00.
+
+3. **Bottle of Soda:**  
+   This costs \$1.0.
+
+Now, let's add up the total amount spent on these items:
+
+\[
+\$4.00 \, (\text{chips}) + \$8.00 \, (\text{fried chicken}) + \$1.00 \, (\text{soda}) = \$13.00
+\]
+
+Gus spent a total of \$20.00. To find out how much he spent on the **apple pie**, subtract the total spent on the other items from the overall total:
+
+\[
+\$20.00 \, (\text{total}) - \$13.00 \, (\text{other items}) = \$7.00
+\]
+
+**Answer:**  
+\boxed{\$7.00}

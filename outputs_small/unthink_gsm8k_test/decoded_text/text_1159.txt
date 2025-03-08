@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Carla just gave birth to identical octuplets. She dresses 3/4 of them in purple and 1/4 in blue. If all the blue-wearers and 1/3 of the purple wearers also wear bows, what is the percentage chance a baby wearing a bow is wearing purple?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the percentage chance that a baby wearing a bow is wearing purple, let's break down the problem step by step.
+
+1. **Total Octuplets:**
+   - Carla has **3 octuplets** in purple and **1 octuplet** in blue.
+
+2. **Wearing Bows:**
+   - **All blue-wearers** wear a bow.
+   - **1/3 of the purple wearers** wear a bow.
+
+3. **Calculating Purple Wearers with Bows:**
+   - **Purple wearers with a bow:** \( \frac{1}{3} \times 3 = 1 \) octuplet.
+
+4. **Calculating Total Wearers with Bows:**
+   - **Blue wearers with a bow:** \( 1 \) octuplet.
+   - **Purple wearers with a bow:** \( 1 \) octuplet.
+   - **Total wearers with a bow:** \( 1 + 1 = 2 \) octuplets.
+
+5. **Probability Calculation:**
+   - **Probability of wearing purple and having a bow:** \( \frac{1}{2} \).
+   - **Percentage:** \( \frac{1}{2} \times 100\% = 50\% \).
+
+**Final Answer:** \(\boxed{50\%}\)

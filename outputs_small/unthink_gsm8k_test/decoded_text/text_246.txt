@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Jeans makeup artist charges her $250 an hour.  She requires very expensive makeup for a movie she is in and it takes 6 hours to do each day and she needs it done 4 times a week.  The movie takes 5 weeks to finish.  After the movie is done the makeup artist gives Jean a 10% discount because of the amount of work done.  How much did Jean pay?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate the total hours required for makeup:**
+   - **Hours per day:** 6 hours
+   - **Days per week:** 4 days
+   - **Total hours per week:** \(6 \text{ hours/day} \times 4 \text{ days/week} = 24 \text{ hours/week}\)
+   - **Total hours for 5 weeks:** \(24 \text{ hours/week} \times 5 \text{ weeks} = 120 \text{ hours}\)
+
+2. **Calculate the total cost before discount:**
+   - **Hourly rate:** \$250
+   - **Total cost:** \(250 \text{ dollars/hour} \times 120 \text{ hours} = 30600 \text{ dollars}\)
+
+3. **Calculate the discount:**
+   - **Discount rate:** 10% (or 0.10)
+   - **Discount amount:** \(30600 \text{ dollars} \times 0.10 = 3060 \text{ dollars}\)
+
+4. **Calculate the final amount paid:**
+   - **Total cost after discount:** \(30600 \text{ dollars} - 3060 \text{ dollars} = 27540 \text{ dollars}\)
+
+**Final Answer:**
+\[
+\boxed{27540}
+\]

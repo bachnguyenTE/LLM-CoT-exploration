@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Janet goes to the mall and spends $3.50 on ice cream, $7.50 each for movie tickets for herself and her younger sister, and $8.50 on a bracelet. If her parents gave her $40, how many dollars does she have left?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down Janet's expenses step by step:
+
+1. **Ice Cream:**
+   - **Cost:** \$3.50
+
+2. **Movie Tickets:**
+   - **Cost per ticket:** \$7.50
+   - **Number of tickets:** 2 (for herself and her younger sister)
+   - **Total for tickets:** \( 2 \times \$7.50 = \$15.00 \)
+
+3. **Bracelet:**
+   - **Cost:** \$8.50
+
+**Total Expenses:**
+\[
+\$3.50 + \$15.00 + \$8.50 = \$27.00
+\]
+
+**Amount Left:**
+\[
+\$40.00 - \$27.00 = \$17.00
+\]
+
+**Final Answer:**
+\[
+\boxed{17.00}
+\]

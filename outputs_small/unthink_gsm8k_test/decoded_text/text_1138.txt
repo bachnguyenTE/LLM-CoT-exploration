@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Melanie's father opens up an animal farm starting with 50 cows and 20 chickens. Milkie Cows Limited brings him 20 cows per day and Broilers Limited brings him 10 chickens per day, for three weeks. What's the total number of animals on the farm after three weeks?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Number of Animals:**
+   - **Cows:** 50
+   - **Chickens:** 20
+   - **Total Initial Animals:** \(50 + 20 = 72\)
+
+2. **Daily Addition of Animals:**
+   - **Cows:** 20 per day
+   - **Chickens:** 10 per day
+   - **Total Daily Addition:** \(20 + 10 = 30\) animals per day
+
+3. **Duration:**
+   - **Three Weeks:** \(3 \times 7 = 21\) days
+
+4. **Total Addition Over Three Weeks:**
+   - **Cows Added:** \(20 \times 21 = 420\) cows
+   - **Chickens Added:** \(10 \times 21 = 210\) chickens
+   - **Total Added Animals:** \(420 + 210 = 630\) animals
+
+5. **Total Number of Animals After Three Weeks:**
+   - **Initial Animals:** 72
+   - **Added Animals:** 630
+   - **Total Animals:** \(72 + 630 = 702\)
+
+**Final Answer:**
+\[
+\boxed{702}
+\]

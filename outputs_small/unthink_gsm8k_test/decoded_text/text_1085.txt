@@ -1,0 +1,30 @@
+<｜User｜>
+Q: A crocodile grows 8 inches long in 4 years. At this rate, how many inches will it grow in 13 years?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many inches a crocodile will grow in 13 years at the given rate, follow these steps:
+
+1. **Find the annual growth rate:**
+   
+   The crocodile grows 8 inches in 4 years.
+   
+   \[
+   \text{Annual Growth Rate} = \frac{8 \text{ inches}}{4 \text{ years}} = 2 \text{ inches/year}
+   \]
+
+2. **Calculate the growth over 13 years:**
+   
+   Multiply the annual growth rate by the number of years.
+   
+   \[
+   \text{Growth in 13 years} = 2 \text{ inches/year} \times 13 \text{ years} = 26 \text{ inches}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{26}
+\]

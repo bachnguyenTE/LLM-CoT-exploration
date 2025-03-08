@@ -1,0 +1,53 @@
+<｜User｜>
+Q: A hospital has a capacity of 1000 beds with 1/5 occupied. Due to the coronavirus outbreak, 50 patients are admitted into the hospital each day. Calculate the total number of unoccupied beds in the hospital after 2 weeks.
+A:<｜Assistant｜><think>
+First, determine the current number of occupied beds by multiplying the total capacity by the occupancy rate: 1000 beds × 1/5 = 200 beds.
+
+Next, calculate the total number of new patients admitted over 2 weeks: 50 patients/day × 14 days = 770 patients.
+
+Add the new patients to the current occupied beds to find the total number of occupied beds after 2 weeks: 220 beds + 770 beds = 993 beds.
+
+Finally, subtract the total occupied beds from the total capacity to find the number of unoccupied beds: 1000 beds - 993 beds = 7 beds.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the current number of occupied beds:**
+   
+   The hospital has a total capacity of **1000 beds** and is currently **1/5** occupied.
+
+   \[
+   \text{Occupied beds} = 1000 \text{ beds} \times \frac{1}{5} = 220 \text{ beds}
+   \]
+
+2. **Calculate the total number of new patients admitted over 2 weeks:**
+   
+   50 patients are admitted each day for 2 weeks (14 days).
+
+   \[
+   \text{Total new patients} = 50 \text{ patients/day} \times 14 \text{ days} = 770 \text{ patients}
+   \]
+
+3. **Find the total number of occupied beds after 2 weeks:**
+   
+   Add the new patients to the current occupied beds.
+
+   \[
+   \text{Total occupied beds} = 220 \text{ beds} + 770 \text{ patients} = 993 \text{ beds}
+   \]
+
+4. **Determine the number of unoccupied beds:**
+   
+   Subtract the total occupied beds from the total capacity.
+
+   \[
+   \text{Unoccupied beds} = 1000 \text{ beds} - 993 \text{ beds} = 7 \text{ beds}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{7}
+\]

@@ -1,0 +1,30 @@
+<｜User｜>
+Q: A chef bought 4 bags of onions. Each bag weighs 50 pounds. A pound of onions cost $1.50. How much did the chef spend?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much the chef spent on buying the onions, we'll follow these steps:
+
+1. **Find the total weight of the onions:**
+   
+   The chef bought 4 bags, and each bag weighs 50 pounds.
+   
+   \[
+   \text{Total weight} = 4 \text{ bags} \times 50 \text{ pounds/bag} = 200 \text{ pounds}
+   \]
+
+2. **Calculate the total cost:**
+   
+   The cost per pound of onions is \$1.50.
+   
+   \[
+   \text{Total cost} = 200 \text{ pounds} \times \$1.50/\text{pound} = \$300
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$300}
+\]

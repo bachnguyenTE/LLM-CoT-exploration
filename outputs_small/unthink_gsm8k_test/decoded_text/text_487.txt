@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Uncle Ben has four horses. Each horse can consume five pounds of oats per meal. He feeds his horses twice a day. If one bag contains 50-pounds of oats,  how many bags of oats does he need to fed his horses for five days?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total oats consumed per horse per day:**
+   - Each horse eats **5 pounds** of oats per meal.
+   - Feeds **2 meals** a day.
+   - **Total per horse per day:** \( 5 \text{ pounds} \times 2 = 10 \text{ pounds} \).
+
+2. **Calculate the total for all four horses:**
+   - **Total per day:** \( 10 \text{ pounds} \times 4 = 40 \text{ pounds} \).
+
+3. **Find the total for five days:**
+   - **Total for 5 days:** \( 40 \text{ pounds} \times 5 = 200 \text{ pounds} \).
+
+4. **Determine the number of bags needed:**
+   - Each bag contains **50 pounds** of oats.
+   - **Number of bags:** \( \frac{220 \text{ pounds}}{50 \text{ pounds/bag}} = 4.4 \) bags.
+
+5. **Since you can't have a fraction of a bag, round up to the next whole number:**
+   - **Total bags needed:** **5 bags**.
+
+**Final Answer:** \(\boxed{5}\)

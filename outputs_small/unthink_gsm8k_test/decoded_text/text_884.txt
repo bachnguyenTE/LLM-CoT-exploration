@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Argo has 200 toys. He gives 40 toys to Alyssa, 80 to Bonnie, and 30 to Nicky. How many toys does Argo have now?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Argo starts with 200 toys.
+
+He gives away:
+- 40 toys to Alyssa
+- 80 toys to Bonnie
+- 30 toys to Nicky
+
+**Total toys given away:**
+\[ 40 + 80 + 30 = 162 \]
+
+**Toys remaining with Argo:**
+\[ 200 - 162 = 38 \]
+
+**Final Answer:**
+\[
+\boxed{38}
+\]

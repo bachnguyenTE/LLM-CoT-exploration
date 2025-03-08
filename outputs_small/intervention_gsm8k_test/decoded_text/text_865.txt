@@ -1,0 +1,56 @@
+<｜User｜>
+Q: A bumper car rink has 12 red cars. They have 2 fewer green cars than they have red cars. They have 3 times the number of blue cars as they have green cars. The rink also has yellow cars.  If the rink has 75 cars in total how many yellow cars do they have?
+A:<｜Assistant｜><think>
+First, I need to determine the number of green cars. Since there are 2 fewer green cars than red cars, and there are 12 red cars, I subtract 2 from 12 to find the number of green cars.
+
+Next, I'll calculate the number of blue cars. There are 3 times as many blue cars as green cars, so I multiply the number of green cars by 3.
+
+Then, I'll add up the number of red, green, and blue cars to find the total number of cars excluding yellow cars.
+
+Finally, I'll subtract this total from the overall total number of cars (75) to find out how many yellow cars there are.
+</think>
+
+Let's determine the number of yellow cars step by step.
+
+**Given:**
+- **Red cars:** 12
+- **Green cars:** 2 fewer than red cars
+- **Blue cars:** 3 times the number of green cars
+- **Yellow cars:** Let's denote this as \( Y \)
+- **Total cars:** 75
+
+**Step 1: Calculate the number of green cars.**
+
+\[
+\text{Green cars} = \text{Red cars} - 2 = 12 - 2 = 10
+\]
+
+**Step 2: Calculate the number of blue cars.**
+
+\[
+\text{Blue cars} = 3 \times \text{Green cars} = 3 \times 10 = 30
+\]
+
+**Step 3: Calculate the total number of non-yellow cars.**
+
+\[
+\text{Total non-yellow cars} = \text{Red cars} + \text{Green cars} + \text{Blue cars} = 12 + 10 + 30 = 52
+\]
+
+**Step 4: Determine the number of yellow cars.**
+
+\[
+\text{Total cars} = \text{Total non-yellow cars} + \text{Yellow cars}
+\]
+\[
+75 = 52 + Y
+\]
+\[
+Y = 75 - 52 = 23
+\]
+
+**Final Answer:**
+
+\[
+\boxed{23}
+\]

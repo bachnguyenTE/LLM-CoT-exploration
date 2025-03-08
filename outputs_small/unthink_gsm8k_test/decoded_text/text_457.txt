@@ -1,0 +1,34 @@
+<｜User｜>
+Q: While playing with her friends in their school playground, Katelyn saw 50 fairies flying above the nearby forest. After about twenty minutes, one of her friends saw half as many fairies as Katelyn saw come from the east and join the fairies that were there. Ten minutes later, 30 fairies flew away. How many fairies are remaining?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the number of fairies remaining.
+
+1. **Initial Number of Fairies:**
+   - Katelyn saw **50 fairies** flying above the forest.
+
+2. **Friend's Reaction:**
+   - One of her friends saw half as many fairies as Katelyn saw from the east and joined the fairies.
+   - **Fairies from the east:** Let's assume there were **F** fairies from the east.
+   - **Fairies joined:** Half of that, so \( \frac{F}{2} \).
+   - **Total fairies after friend joined:** \( 50 + \frac{F}{2} \).
+
+3. **Fairies That Flown Away:**
+   - **Fairies that flew away:** 30 fairies.
+   - **Remaining fairies:** \( 50 + \frac{F}{2} - 30 \).
+
+4. **Simplifying the Expression:**
+   - \( 50 - 30 = 20 \)
+   - So, \( 20 + \frac{F}{2} \).
+
+5. **Final Answer:**
+   - The number of fairies remaining depends on the initial number of fairies from the east (\( F \)).
+   - **Final number of fairies:** \( 20 + \frac{F}{2} \).
+
+However, since the problem doesn't provide the exact number of fairies from the east, we can't calculate a specific numerical answer. If you have additional information about the number of fairies from the east, we can plug it in to find the exact remaining fairies.
+
+**Final Answer:**
+\[
+\boxed{20 + \frac{F}{2}}
+\]

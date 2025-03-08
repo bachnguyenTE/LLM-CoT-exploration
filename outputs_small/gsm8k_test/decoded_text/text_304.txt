@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Watson works a 10-hour shift each day, five days a week. He earns $10 per hour and gets a $300 bonus each week if the company performs well. How much money did Watson make in April if the company performed very well for the whole month?
+A:<｜Assistant｜><think>
+First, I need to calculate Watson's earnings from his hourly wage. He works 10 hours each day for 5 days a week, so his daily earnings are 10 hours multiplied by $10 per hour, which equals $100 per day.
+
+Next, I'll determine his weekly earnings by multiplying his daily earnings by 5 days, resulting in $500 per week.
+
+Since April has 30 days, Watson worked 30 days in April. Multiplying his weekly earnings by 30 gives him $15,000 for the week.
+
+Additionally, because the company performed very well for the entire month, Watson receives a $300 bonus. Adding this to his weekly earnings, Watson's total earnings for April are $15,300.
+</think>
+
+**Solution:**
+
+Let's break down Watson's earnings step by step.
+
+1. **Calculate Daily Earnings:**
+   - **Hours Worked per Day:** 10 hours
+   - **Hourly Wage:** \$10 per hour
+   - **Daily Earnings:** 
+     \[
+     10 \text{ hours/day} \times \$10/\text{hour} = \$100/\text{day}
+     \]
+
+2. **Calculate Weekly Earnings:**
+   - **Days Worked per Week:** 5 days
+   - **Weekly Earnings:**
+     \[
+     5 \text{ days/week} \times \$100/\text{day} = \$500/\text{week}
+     \]
+
+3. **Calculate Earnings for April:**
+   - **Days in April:** 30 days
+   - **Total Weekly Earnings for April:**
+     \[
+     30 \text{ weeks} \times \$500/\text{week} = \$15,000
+     \]
+
+4. **Add the Bonus:**
+   - **Bonus for April:** \$300
+   - **Total Earnings for April:**
+     \[
+     \$15,000 + \$300 = \$15,300
+     \]
+
+**Final Answer:**
+\[
+\boxed{15300}
+\]

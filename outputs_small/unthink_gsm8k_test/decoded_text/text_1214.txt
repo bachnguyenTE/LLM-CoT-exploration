@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Jordan has 2 children who wear diapers.  Each child requires 5 diaper changes per day.  Jordan's wife changes half of the diapers.  How many diapers does Jordan change per day?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Number of Diapers:**
+   - Jordan has **2 children**.
+   - Each child requires **5 diaper changes** per day.
+   - **Total diaper changes per day = 2 children × 5 diaper changes/child = 10 diaper changes.**
+
+2. **Diapers Changed by Jordan's Wife:**
+   - Jordan's **wife changes half of the diapers**.
+   - **Diapers changed by the wife = 10 diaper changes / 2 = 5 diaper changes.**
+
+3. **Diapers Changed by Jordan:**
+   - Since the total diaper changes per day are **10**, and the wife changes **5**, Jordan must change the remaining:
+   - **Diapers changed by Jordan = 10 diaper changes - 5 diaper changes = 5 diaper changes.**
+
+**Final Answer:**
+\[
+\boxed{5}
+\]

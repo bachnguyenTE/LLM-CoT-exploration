@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Matteo traveled at 55 miles per hour for 4 hours. Shandy traveled at 45 miles per hour for 10 hours. How many miles farther did Shandy drive than Matteo?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many miles farther Shandy drove than Matteo, we'll calculate the distance each traveled and then find the difference.
+
+1. **Calculate Matteo's Distance:**
+   - **Speed:** 55 miles per hour
+   - **Time:** 4 hours
+   - **Distance = Speed × Time**
+   - \( 55 \,000 \text{ mph} \times 4 \text{ hours} = 220 \text{ miles} \)
+
+2. **Calculate Shandy's Distance:**
+   - **Speed:** 45 miles per hour
+   - **Time:** 10 hours
+   - **Distance = Speed × Time**
+   - \( 45 \,000 \text{ mph} \times 10 \text{ hours} = 450 \text{ miles} \)
+
+3. **Find the Difference:**
+   - \( 450 \text{ miles} - 220 \text{ miles} = 230 \text{ miles} \)
+
+**Final Answer:**
+\[
+\boxed{230 \text{ miles}}
+\]

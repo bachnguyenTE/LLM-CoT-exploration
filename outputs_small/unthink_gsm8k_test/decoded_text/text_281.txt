@@ -1,0 +1,55 @@
+<｜User｜>
+Q: A cobra, which has 70 spots, has twice as many spots as a mamba. If there are 40 cobras and 60 mambas in a snake park, what is half the number of spots they all have combined?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the number of spots on a mamba:**
+   
+   It's given that a cobra has **70 spots** and that a cobra has **twice as many spots** as a mamba. Let's denote the number of spots on a mamba as \( M \).
+
+   \[
+   \text{Spots on a cobra} = 2 \times \text{Spots on a mamba}
+   \]
+   
+   \[
+   70 = 2M
+   \]
+   
+   \[
+   M = \frac{70}{2} = 35
+   \]
+   
+   So, a mamba has **35 spots**.
+
+2. **Calculate the total number of spots for all the snakes:**
+   
+   - **Number of cobras:** 40
+   - **Number of mambas:** 60
+   
+   \[
+   \text{Total spots} = (\text{Number of cobras} \times \text{Spots per cobra}) + (\text{Number of mambas} \times \text{Spots per mamba})
+   \]
+   
+   \[
+   \text{Total spots} = (40 \times 70) + (60 \times 35)
+   \]
+   
+   \[
+   \text{Total spots} = 2800 + 1800 = 4680
+   \]
+   
+3. **Find half of the total number of spots:**
+   
+   \[
+   \frac{\text{Total spots}}{2} = \frac{4680}{2} = 2340
+   \]
+   
+4. **Final Answer:**
+
+   \[
+   \boxed{2340}
+   \]

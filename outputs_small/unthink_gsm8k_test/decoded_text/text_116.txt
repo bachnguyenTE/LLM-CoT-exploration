@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Katy makes coffee using teaspoons of sugar and cups of water in the ratio of 7:13. If she used a total of 120 teaspoons of sugar and cups of water, calculate the number of teaspoonfuls of sugar she used.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We are given that Katy uses a ratio of **7:13** for sugar to water. This means for every **7 parts** of sugar, she uses **13 parts** of water.
+
+Let’s denote:
+- The number of parts of sugar as **7x**.
+- The number of parts of water as **13x**.
+
+The total parts used are:
+\[
+7x + 13x = 20x
+\]
+
+We are told that the total amount of sugar and water used is **120** parts. Therefore:
+\[
+20x = 120
+\]
+
+Solving for **x**:
+\[
+x = \frac{120}{20} = 6
+\]
+
+Now, the number of parts of sugar is:
+\[
+7x = 7 \times 6 = 42
+\]
+
+**Final Answer:**
+\[
+\boxed{42}
+\]

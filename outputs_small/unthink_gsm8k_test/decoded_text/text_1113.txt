@@ -1,0 +1,23 @@
+<｜User｜>
+Q: The temperature was 2 degrees Celsius. It dropped 8 degrees Celsius overnight and then increased 3 degrees Celsius in the morning. What was the temperature, in degrees Celsius, in the morning?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We start with the initial temperature of **2 degrees Celsius**.
+
+1. **Drop of 8 degrees Celsius overnight:**
+   \[
+   2^\circ \text{C} - 8^\circ \text{C} = -6^\circ \text{C}
+   \]
+   
+2. **Increase of 3 degrees Celsius in the morning:**
+   \[
+   -6^\circ \text{C} + 3^\circ \text{C} = -3^\circ \text{C}
+   \]
+
+**Final Temperature in the Morning:**
+\[
+\boxed{-3^\circ \text{C}}
+\]

@@ -1,0 +1,29 @@
+<｜User｜>
+Q: John does 30 cycles of work a day.  Each cycle has 5 different tasks and each task pays $1.20.  How much does he make if he works a full 7 day week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+John completes **30 cycles** of work each day. Each cycle consists of **5 different tasks**, and each task is paid **\$1.20**.
+
+1. **Calculate the total earnings per day:**
+   \[
+   \text{Total earnings per day} = \text{Number of cycles} \times \text{Number of tasks per cycle} \times \text{Payment per task}
+   \]
+   \[
+   \text{Total earnings per day} = 30 \times 5 \times 1.20 = 180 \times 1.20 = 216
+   \]
+
+2. **Calculate the total earnings for a full 7-day week:**
+   \[
+   \text{Total earnings for 7 days} = \text{Daily earnings} \times 7
+   \]
+   \[
+   \text{Total earnings for 7 days} = 216 \times 7 = 126
+   \]
+
+**Final Answer:**
+\[
+\boxed{126}
+\]

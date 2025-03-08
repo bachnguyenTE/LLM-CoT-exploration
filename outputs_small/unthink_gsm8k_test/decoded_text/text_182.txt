@@ -1,0 +1,47 @@
+<｜User｜>
+Q: Jean is two years older than Mark.  Two years ago Mark was 5 years older than half Jan's age.  If Jan is 30 how old is Jean?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+1. Jean is two years older than Mark.
+2. Two years ago, Mark was 5 years older than half of Jan's age.
+3. Jan is 30 years old.
+
+**Find:**
+Jean's age.
+
+**Solution:**
+
+1. **Determine Jan's age:**
+   - Jan is 30 years old.
+
+2. **Calculate Jan's age two years ago:**
+   - Jan's age two years ago = 30 - 2 = 30 years.
+
+3. **Set up the equation based on the second statement:**
+   - Two years ago, Mark was 5 years older than half of Jan's age.
+   - Let Mark's age two years ago be \( M \).
+   - According to the statement:
+     \[
+     M = \frac{1}{2} \times \text{Jan's age two years ago} + 5
+     \]
+   - Substitute Jan's age:
+     \[
+     M = \frac{1}{2} \times 30 + 5 = 15 + 5 = 20
+     \]
+   - So, Mark was 20 years old two years ago.
+
+4. **Determine Mark's current age:**
+   - Mark's current age = 20 + 2 = 22 years.
+
+5. **Determine Jean's current age:**
+   - Jean is two years older than Mark.
+   - Jean's current age = 22 + 2 = 24 years.
+
+**Final Answer:**
+\[
+\boxed{24}
+\]

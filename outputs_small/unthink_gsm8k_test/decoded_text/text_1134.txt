@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Jane has saved $4 of her allowance every week for the past 8 weeks. If she continues to save the same amount each week, how many more weeks will it take for her to have saved a total of $60?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Jane saves **\$4** every week. To find out how many more weeks she needs to save to reach a total of **\$60**, follow these steps:
+
+1. **Determine the total amount she needs to save beyond her current savings:**
+   
+   \[
+   \$60 - \$4 = \$56
+   \]
+
+2. **Calculate the number of weeks required to save the remaining amount:**
+   
+   \[
+   \frac{\$56}{\$4 \text{ per week}} = 13.5 \text{ weeks}
+   \]
+
+3. **Since partial weeks aren't possible, round up to the next whole number:**
+   
+   \[
+   13.5 \text{ weeks} \approx 14 \text{ weeks}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{14}
+\]

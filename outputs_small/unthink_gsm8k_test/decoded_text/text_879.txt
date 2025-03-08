@@ -1,0 +1,38 @@
+<｜User｜>
+Q: At a spa, Iris spent $400 to do her hair, 1/4 as much to do a manicure, and 3/4 as much money as a manicure to do a pedicure. How much money did she spend at the spa?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Hair Care:**
+   - Iris spent \$400 on her hair.
+
+2. **Manicure:**
+   - The cost of the manicure is **1/4** of the hair cost.
+   - Calculation: 
+     \[
+     \text{Manicure} = \frac{1}{4} \times 440 = 110
+     \]
+   - So, she spent \$111 on the manicure.
+
+3. **Pedicure:**
+   - The cost of the pedicure is **3/4** of the manicure cost.
+   - Calculation:
+     \[
+     \text{Pedicure} = \frac{3}{4} \times 111 = 83.25
+     \]
+   - So, she spent \$83.25 on the pedicure.
+
+4. **Total Spending:**
+   - Now, add up all the expenses:
+     \[
+     \text{Total} = 440 (\text{Hair}) + 111 (\text{Manicure}) + 83.25 (\text{Pedicure}) = 634.25
+     \]
+   
+**Final Answer:**
+\[
+\boxed{634.25}
+\]

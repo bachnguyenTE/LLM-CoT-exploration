@@ -1,0 +1,15 @@
+<｜User｜>
+Q: In a school activity, fifty-four students are to be separated into six groups of equal size. If the activity requires 12 groups, how many more groups are needed to form?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many more groups are needed, follow these steps:
+
+1. **Total Groups Required:** 12
+2. **Groups Already Created:** 6
+3. **Calculate Additional Groups Needed:**
+   \[
+   12 - 6 = 6
+   \]
+
+**Answer:** \boxed{6}

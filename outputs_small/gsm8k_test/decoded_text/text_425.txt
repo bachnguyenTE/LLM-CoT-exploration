@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Lillian's garden doesn't have any bird feeders in it so she wants to add some. She builds 3 and buys 3 others. Each bird feeder seems to attract 20 birds throughout the day until Lillian notices that the birds seem to prefer the feeders she made herself which attract 10 more birds each than the store-bought ones. How many birds can Lillian expect to see in her garden each day if the same amount keep coming to her bird feeders?
+A:<｜Assistant｜><think>
+Okay, so I have this problem about Lillian's garden and bird feeders. Let me try to figure it out step by step. 
+
+First, the problem says Lillian's garden doesn't have any bird feeders, so she decides to build 3 and buys 3 more. So, in total, she has 3 + 3 = 6 bird feeders. Each of these feeders seems to attract 20 birds throughout the day. But then she notices that the birds prefer the feeders she made herself, which attract 10 more birds each than the store-bought ones. 
+
+So, initially, each store-bought feeder attracts 20 birds, and each made herself feeder attracts 20 + 10 = 32 birds. 
+
+The question is asking how many birds Lillian can expect to see in her garden each day if the same amount keep coming to her bird feeders. Hmm, so I think this means that each day, the number of birds visiting her feeders depends on how many feeders are available and how many birds each feeder attracts.
+
+Wait, let me make sure. So, she has 6 bird feeders in total. Some are store-bought, some are her own. Each store-bought feeder attracts 20 birds, each made feeder attracts 32 birds. So, each day, the number of birds would depend on how many of each type she has.
+
+But the problem says "the same amount keep coming to her bird feeders." Hmm, maybe that means the number of birds visiting each feeder is the same each day, regardless of whether it's a store-bought or made feeder. Or perhaps it's that the number of birds per feeder is the same, but the type of feeder affects the total number.
+
+Wait, let me read it again: "each bird feeder seems to attract 20 birds throughout the day until Lillian notices that the birds seem to prefer the feeders she made herself which attract 10 more birds each than the store-bought ones. How many birds can Lillian expect to see in her garden each day if the same amount keep coming to her bird feeders?"
+
+So, initially, each store-bought feeder attracts 20 birds. Then, she notices that the birds prefer her made ones, which attract 10 more. So, each made feeder now attracts 30 birds. So, each store-bought feeder is 20, each made feeder is 30.
+
+But the problem says "the same amount keep coming to her bird feeders." Hmm, maybe it's that the number of birds per feeder is the same, but the type of feeder affects the total. Or perhaps it's that the number of birds per feeder is the same, but the number of feeders is different.
+
+Wait, maybe I need to think about it differently. Let's parse the problem again.
+
+She builds 3 and buys 3 more. So, total of 6 bird feeders. Each bird feeder seems to attract 20 birds throughout the day. Then, she notices that the birds prefer the feeders she made herself which attract 10 more birds each than the store-bought ones. So, each store-bought feeder is 20, each made feeder is 30.
+
+So, each store-bought feeder is 20, each made feeder is 30. So, each day, the number of birds depends on how many of each type she has.
+
+But the problem says "how many birds can Lillian expect to see in her garden each day if the same amount keep coming to her bird feeders?" So, maybe it's that the number of birds per feeder is the same, but the number of feeders is different.
+
+Wait, perhaps it's that each store-bought feeder attracts 20 birds, each made feeder attracts 30 birds, but the number of birds per feeder is the same? No, that doesn't make sense.
+
+Wait, maybe it's that the number of birds per feeder is the same, but the number of feeders is different. So, if she has 3 store-bought and 3 made, each feeder attracting 20, but the made ones attract 10 more. So, each made feeder is 30.
+
+But the problem says "the same amount keep coming to her bird feeders." Hmm, maybe it's that the number of birds per feeder is the same, but the number of feeders is different. So, if she has 6 bird feeders, each attracting 20, that would be 120 birds. But then, if the made ones attract 10 more, so each made feeder is 30, so 3 made feeders would attract 90 birds, and 3 store-bought would attract 60, so total 150 birds.
+
+But the problem says "the same amount keep coming to her bird feeders." Hmm

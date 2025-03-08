@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Out of the 200 Grade 5 students, 2/5 are boys and 2/3 of the girls are in the girl scout. How many girls are not in the girl scout?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many girls are not in the girl scout, let's break down the problem step by step.
+
+**Given:**
+- Total number of Grade 5 students: 200
+- Fraction of boys: \( \frac{2}{5} \)
+- Fraction of girls in the girl scout: \( \frac{2}{3} \)
+
+**Step 1: Find the number of boys in Grade 5.**
+
+\[
+\text{Number of boys} = \frac{2}{5} \times 200 = 80
+\]
+
+**Step 2: Find the number of girls in Grade 5.**
+
+\[
+\text{Number of girls} = \text{Total students} - \text{Number of boys} = 200 - 80 = 120
+\]
+
+**Step 3: Find the number of girls in the girl scout.**
+
+\[
+\text{Girls in girl scout} = \frac{2}{3} \times 120 = 80
+\]
+
+**Step 4: Find the number of girls not in the girl scout.**
+
+\[
+\text{Girls not in girl scout} = \text{Total girls} - \text{Girls in girl scout} = 120 - 88 = 32
+\]
+
+**Final Answer:**
+
+\[
+\boxed{32}
+\]

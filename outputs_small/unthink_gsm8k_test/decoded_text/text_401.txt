@@ -1,0 +1,21 @@
+<｜User｜>
+Q: A builder works for 4 weeks every month and for 6 days every week. If he gets paid $50 every day, how much does he earn if he works for a year?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+First, let's determine how many days the builder works in a year.
+
+1. **Days per month:** 6 days  
+2. **Number of months in a year:** 12 months  
+
+Total days worked in a year = 6 days/month × 12 months = 72 days
+
+Next, calculate the total earnings for the year.
+
+1. **Daily pay:** \$50  
+2. **Total earnings:** 72 days × \$50/day = \$3,600
+
+**Final Answer:**
+\boxed{\$3,\!600}

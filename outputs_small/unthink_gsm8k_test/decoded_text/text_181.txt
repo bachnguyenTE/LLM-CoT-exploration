@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Sandra, the florist around the corner, is very unhappy with Fred's incomplete order delivery. Sandra had ordered four times as many red roses as white carnations. She also ordered 200 pink calla lilies, which were five times the number of white carnations. Sandra has threatened to switch suppliers if the missing red roses are not delivered by 5 pm. To keep Sandra's business, how many red roses must Fred deliver by 5 pm?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many red roses Fred must deliver by 5 pm, let's break down the information step by step.
+
+1. **Let’s define the variables:**
+   - Let \( W \) represent the number of white carnations ordered.
+   - The number of red roses is four times the number of white carnations, so \( R = 4W \).
+   - The number of pink calla lilies is five times the number of white carnations, so \( P = 5W \).
+
+2. **Given:**
+   - Sandra ordered **200 pink calla lilies**.
+   - Therefore, \( P = 200 \).
+
+3. **Find the number of white carnations:**
+   \[
+   P = 5W \\
+   200 = 5W \\
+   W = \frac{200}{5} \\
+   W = 40
+   \]
+   So, Sandra ordered **44 white carnations**.
+
+4. **Find the number of red roses:**
+   \[
+   R = 4W \\
+   R = 4 \times 44 \\
+   R = 176
+   \]
+   Therefore, Sandra ordered **176 red roses**.
+
+5. **Conclusion:**
+   To keep Sandra's business, Fred must deliver **176 red roses** by 5 pm.
+
+\[
+\boxed{176}
+\]

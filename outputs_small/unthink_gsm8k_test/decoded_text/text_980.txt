@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Adrianne is collecting different kinds of beads for making bracelets. Her mother gave her 20 metallic beads. Her sister gave her ten more beads than her mother, and her friend gave her twice as many as her mother gave.  How many beads did Adrianne have altogether?
+A:<｜Assistant｜><think>
+</think>
+
+Let's determine the total number of beads Adrianne has step by step.
+
+1. **Mother's Beads:**
+   - Adrianne's mother gave her **20 metallic beads**.
+
+2. **Sister's Beads:**
+   - Adrianne's sister gave her **10 more beads** than what her mother gave.
+   - Calculation: \(20 + 10 = 30\) beads.
+
+3. **Friend's Beads:**
+   - Adrianne's friend gave her **twice as many beads** as what her mother gave.
+   - Calculation: \(2 \times 20 = 40\) beads.
+
+4. **Total Beads:**
+   - Summing up all the beads:
+     \[
+     20 \ (\text{mother}) + 30 \ (\text{sister}) + 40 \ (\text{friend}) = 92 \ \text{beads}
+     \]
+
+**Final Answer:** Adrianne has a total of \(\boxed{92}\) beads.

@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Oscar has 24 lollipops and eats 2 on his way to school.  He passes 14 out to his friends.  He buys twice as many lollipops on his way home as he gave to his friends.  He eats 3 more that night and 2 more in the morning.  How many lollipops does Oscar have?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many lollipops Oscar has in the end.
+
+1. **Initial Lollipops:**
+   - Oscar starts with **24 lollipops**.
+
+2. **Eating on the Way to School:**
+   - He eats **2 lollipops**.
+   - **Remaining lollipops:** \(24 - 2 = 22\).
+
+3. **Passing Lollipops to Friends:**
+   - He gives **14 lollipops** to his friends.
+   - **Remaining lollipops:** \(22 - 14 = 8\).
+
+4. **Buying More Lollipops on the Way Home:**
+   - He buys **twice as many lollipops** as he gave to his friends.
+   - He gave **14 lollipops** to friends, so he buys \(2 \times 14 = 28\) lollipops.
+   - **Total lollipops after buying:** \(8 + 28 = 36\).
+
+5. **Eating More Lollipops That Night:**
+   - He eats **3 more lollipops**.
+   - **Remaining lollipops:** \(36 - 3 = 33\).
+
+6. **Eating Lollipops in the Morning:**
+   - He eats **2 more lollipops**.
+   - **Final remaining lollipops:** \(33 - 2 = 31\).
+
+**Final Answer:**
+\[
+\boxed{31}
+\]

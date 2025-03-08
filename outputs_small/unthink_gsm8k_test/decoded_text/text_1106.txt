@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Marty has 100 centimeters of ribbon that he must cut into 4 equal parts. Each of the cut parts must be divided into 5 equal parts. How long will each final cut be?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Marty has **100 centimeters** of ribbon.
+
+1. **First Cut:**
+   - He needs to divide the ribbon into **4 equal parts.**
+   - **Length of each part:**  
+     \[
+     \frac{100\,000\text{ cm}}{4} = 25,000\text{ cm}
+     \]
+   
+2. **Second Cut:**
+   - Each of these **4 parts** is then divided into **5 equal parts.**
+   - **Length of each final part:**  
+     \[
+     \frac{25,000\text{ cm}}{5} = 5,000\text{ cm}
+     \]
+
+**Final Answer:**  
+Each final cut will be **5.00 centimeters** long.

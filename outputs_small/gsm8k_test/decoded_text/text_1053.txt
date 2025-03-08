@@ -1,0 +1,45 @@
+<｜User｜>
+Q: Alison qualified for a spot on the running team, so she went shopping for some athletic gear. She bought a tank top for $10, a pair of running shorts for $5 more than the top cost, and a pair of tennis shoes that were originally $48 but were on sale for half price. She had a coupon for $2 off the package of $8 athletic socks that she also bought. How much did she spend on athletic gear?
+A:<｜Assistant｜><think>
+Okay, so I need to figure out how much Alison spent on buy her athletic gear. Let me break this down step by step. 
+
+First, she bought a tank top for $10. That seems straightforward. So, tank top is $10.
+
+Next, she bought a pair of running shorts. The problem says it cost $5 more than the top. Since the top was $10, the shorts must be $10 + $5 = $15. So, running shorts are $15.
+
+Then, she bought a pair of tennis shoes. They were originally $48, but they were on sale for half price. Half of $48 is $24. So, tennis shoes are $24.
+
+Now, she also bought athletic socks. The problem mentions she had a coupon for $2 off the package of $8 athletic socks. So, the total for the socks would be $8 minus $2, which is $6. So, socks are $6.
+
+Wait, hold on. Let me make sure I got that right. The socks are $8 package, and she has a coupon for $2 off. So, yes, $8 - $2 = $6. That seems correct.
+
+Now, let me add up all the costs:
+
+- Tank top: $10
+- Running shorts: $15
+- Tennis shoes: $24
+- Socks: $6
+
+So, adding them up: $10 + $15 is $25. Then, $25 + $24 is $49. Then, $49 + $6 is $55. Wait, that can't be right. Let me check my addition again.
+
+Wait, $10 + $15 is $25. Then, $25 + $24 is $49. Then, $49 + $6 is $55. Hmm, that seems high. Let me verify each item again.
+
+Tank top: $10. Running shorts: $5 more than $10 is $15. So, that's correct. Tennis shoes: half of $48 is $24. Socks: $8 package with $2 off coupon is $6. So, adding them: 10 + 15 is 25, 25 +24 is 49, 49 +6 is 55. So, total is $55.
+
+Wait, but the problem says she had a coupon for $2 off the package of $8 athletic socks. So, the socks are $8, and she gets $2 off, so $6. So, that's correct.
+
+Wait, but let me think again. Is the coupon for the entire package? So, the package is $8, and she has a coupon for $2 off. So, the total for the socks is $6. So, that's correct.
+
+So, adding all the items: $10 + $15 + $24 + $6. Let me add them in a different order to make sure.
+
+$10 + $15 is $25. $24 + $6 is $30. Then, $25 + $30 is $55. So, that's consistent.
+
+Wait, but the problem says she had a coupon for $2 off the package of $8 athletic socks. So, is the coupon only for the socks, or is it for the entire package? Hmm, the wording is a bit ambiguous. It says "a coupon for $2 off the package of $8 athletic socks that she also bought." So, it's a coupon for the package, which is $8, and she also bought socks. So, the socks are part of the package, so the coupon applies to the package, which includes the socks. So, the socks are $8, and the coupon is $2 off, so socks are $6. So, that's correct.
+
+Alternatively, if the coupon was only for the socks, but the problem says "the package of $8 athletic socks," so it's the entire package. So, the coupon is for the package, which includes the socks. So, the socks are part of the package, so the coupon applies to the package, which is $8, so the socks are $6.
+
+So, that seems correct.
+
+So, adding up all the items: $10 (top) + $15 (shorts) + $24 (shoes) + $6 (socks) = $55.
+
+Wait, but let me check the problem again. It says she bought a tank top for $10, a pair of running shorts for $5 more than the top cost, and a pair of tennis shoes that were originally $48 but on sale for half price. She had a coupon for $2 off the package of $8 athletic socks that she also

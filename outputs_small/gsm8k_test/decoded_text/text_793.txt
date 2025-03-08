@@ -1,0 +1,73 @@
+<｜User｜>
+Q: Jamie earns $20 per hour for 8 hours of work each day. Should she need to work additional hours, she is paid a special hourly rate that is 150% of her regular hourly rate. Last Tuesday, she worked 11 hours. How much was she paid, in dollars, for her work that day?
+A:<｜Assistant｜><think>
+First, calculate Jamie's regular hourly rate by multiplying her base hourly rate of $20 by 150%, which gives $30 per hour.
+
+Next, determine the number of regular hours she worked, which is 8 hours.
+
+Then, calculate the total pay for the regular hours by multiplying the regular hourly rate of $30 by 8 hours, resulting in $240.
+
+Since she worked 11 hours in total, subtract the 8 regular hours to find the number of overtime hours, which is 3 hours.
+
+Calculate the overtime pay by multiplying the overtime hourly rate of $45 by 3 hours, resulting in $135.
+
+Finally, add the regular pay and the overtime pay to find the total amount Jamie was paid for the day, which is $375.
+</think>
+
+**Solution:**
+
+1. **Calculate the Regular Hourly Rate:**
+   
+   Jamie's regular hourly rate is 150% of her base hourly rate.
+   
+   \[
+   \text{Regular Hourly Rate} = 20 \times 1.50 = 30 \text{ dollars per hour}
+   \]
+
+2. **Determine the Number of Regular Hours Worked:**
+   
+   Jamie worked 8 regular hours.
+   
+   \[
+   \text{Regular Hours} = 8 \text{ hours}
+   \]
+
+3. **Calculate the Total Pay for Regular Hours:**
+   
+   \[
+   \text{Regular Pay} = 30 \times 8 = 240 \text{ dollars}
+   \]
+
+4. **Calculate the Overtime Hours Worked:**
+   
+   Jamie worked a total of 11 hours, so the overtime hours are:
+   
+   \[
+   \text{Overtime Hours} = 11 - 8 = 3 \text{ hours}
+   \]
+
+5. **Determine the Overtime Pay Rate:**
+   
+   Overtime pay is 150% of the regular hourly rate.
+   
+   \[
+   \text{Overtime Hourly Rate} = 30 \times 1.50 = 45 \text{ dollars per hour}
+   \]
+
+6. **Calculate the Overtime Pay:**
+   
+   \[
+   \text{Overtime Pay} = 45 \times 3 = 135 \text{ dollars}
+   \]
+
+7. **Calculate the Total Pay for the Day:**
+   
+   \[
+   \text{Total Pay} = \text{Regular Pay} + \text{Overtime Pay} = 240 + 135 = 375 \text{ dollars}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{375}
+\]

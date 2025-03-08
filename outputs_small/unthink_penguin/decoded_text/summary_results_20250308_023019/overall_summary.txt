@@ -1,0 +1,27 @@
+OVERALL SUMMARY
+===============
+
+Data directory: outputs_small/unthink_penguin/decoded_text/
+Analysis date: 2025-03-08 02:30:19
+Unthink mode: Enabled
+
+Total files found: 1200
+Files processed (with complete chain-of-thought): 1200
+Files excluded (incomplete chain-of-thought): 0
+Unthink files with >5 words in chain-of-thought: 0
+Adjusted files processed (excluding unthink with >5 words): 1200
+
+Results for processed files (after adjustment):
+Correct answers (NO): 898 (74.83% of processed)
+Incorrect answers (YES): 302 (25.17% of processed)
+Unknown classifications: 0 (0.00% of processed)
+
+Results by Temperature:
+=====================
+
+Temperature 0.6:
+  Total files: 1200
+  Correct answers (NO): 898 (74.83%)
+  Incorrect answers (YES): 302 (25.17%)
+  Unknown: 0 (0.00%)
+

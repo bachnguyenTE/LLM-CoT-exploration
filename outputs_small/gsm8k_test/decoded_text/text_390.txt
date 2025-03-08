@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Monica is wrapping Christmas gifts. She has 6 gifts to wrap for her family, 4 gifts to wrap for her friends and 2 gifts to wrap for her teachers. She has 144 inches of ribbon and wants to make a bow for each gift with it. How many inches of ribbon can she use for each gift bow?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of gifts Monica is wrapping. She has 6 gifts for her family, 4 gifts for her friends, and 2 gifts for her teachers. Adding these together gives a total of 12 gifts.
+
+Next, since she wants to make a bow for each gift, she will need 12 ribbons for the bows. Monica has a total of 144 inches of ribbon.
+
+To find out how many inches of ribbon she can use for each bow, I'll divide the total ribbon length by the number of gifts. So, 144 inches divided by 12 gifts equals 12 inches per bow.
+</think>
+
+**Solution:**
+
+Monica has a total of 144 inches of ribbon to wrap all her gifts. She wants to make a bow for each gift, which means she needs 12 ribbons (6 for her family, 4 for her friends, and 2 for her teachers).
+
+To find out how many inches of ribbon she can use for each bow, follow these steps:
+
+1. **Calculate the total number of gifts:**
+   \[
+   6 \text{ (family)} + 4 \text{ (friends)} + 2 \text{ (teachers)} = 12 \text{ gifts}
+   \]
+
+2. **Determine the total ribbon available:**
+   \[
+   144 \text{ inches}
+   \]
+
+3. **Divide the total ribbon by the number of gifts to find the ribbon per bow:**
+   \[
+   \frac{144 \text{ inches}}{12 \text{ gifts}} = 12 \text{ inches per bow}
+   \]
+
+**Final Answer:**
+\[
+\boxed{12}
+\]

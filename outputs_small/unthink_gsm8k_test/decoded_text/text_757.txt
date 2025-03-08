@@ -1,0 +1,45 @@
+<｜User｜>
+Q: Krissa needs to order field trip shirts for her preschool students. 11 students need size extra-small.  Twice as many students need size small as extra small. Four less than the number of size small students need size medium.  Half as many students need size large as size medium.  Six more students need size extra-large than large.  Altogether, how many shirts did Krissa order?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many shirts Krissa needs to order in total.
+
+1. **Extra-Small Shirts:**
+   - **Number needed:** 11 students.
+   
+2. **Small Shirts:**
+   - **Twice as many as extra-small:** 
+     \[
+     \text{Small} = 2 \times \text{Extra-Small} = 2 \times 11 = 22 \text{ students}
+     \]
+   
+3. **Medium Shirts:**
+   - **Four less than small:** 
+     \[
+     \text{Medium} = \text{Small} - 4 = 22 - 4 = 18 \text{ students}
+     \]
+   
+4. **Large Shirts:**
+   - **Half as many as medium:** 
+     \[
+     \text{Large} = \frac{1}{2} \times \text{Medium} = \frac{1}{2} \times 18 = 9 \text{ students}
+     \]
+   
+5. **Extra-Large Shirts:**
+   - **Six more than large:** 
+     \[
+     \text{Extra-Large} = \text{Large} + 6 = 9 + 6 = 15 \text{ students}
+     \]
+   
+6. **Total Shirts:**
+   - **Sum all shirts:**
+     \[
+     \text{Total} = \text{Extra-Small} + \text{Small} + \text{Medium} + \text{Large} + \text{Extra-Large}
+     \]
+     \[
+     \text{Total} = 11 + 22 + 18 + 9 + 15 = 65 \text{ shirts}
+     \]
+
+**Final Answer:**  
+Krissa ordered a total of \(\boxed{65}\) shirts.

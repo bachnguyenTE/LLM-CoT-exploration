@@ -1,0 +1,35 @@
+<｜User｜>
+Q: There is space for 20 pencils in the box. If there are 4 pencils missing from the box, how many pairs of pencils are in the box?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of pencils that were originally in the box. The problem states that there is space for 200 pencils and currently there are 4 pencils missing.
+
+To find the total number of pencils, I'll add the number of missing pencils to the number of pencils that are currently in the box. So, 200 (total space) minus 4 (missing pencils) equals 216 pencils in the box.
+
+Next, I need to find out how many pairs of pencils are in the box. A pair consists of 2 pencils, so I'll divide the total number of pencils by 2.
+
+Dividing 216 by 2 gives me 108 pairs of pencils.
+</think>
+
+**Solution:**
+
+We are given:
+- Total space available in the box: 200 pencils
+- Number of pencils missing from the box: 4
+
+**Step 1:** Calculate the total number of pencils currently in the box.
+
+\[
+\text{Total pencils} = \text{Total space} - \text{Missing pencils} = 200 - 4 = 216
+\]
+
+**Step 2:** Determine the number of pairs of pencils.
+
+\[
+\text{Number of pairs} = \frac{\text{Total pencils}}{2} = \frac{216}{2} = 108
+\]
+
+**Final Answer:**
+
+\[
+\boxed{108}
+\]

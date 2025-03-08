@@ -1,0 +1,52 @@
+<｜User｜>
+Q: At the local Pick Your Own fruit orchard, you could pick your own peaches for $2.00 per pound, plums were $1.00 per pound and apricots were $3.00 per pound.  If Winston picked 6 pounds of peaches, 8 pounds of plums and 6 pounds of apricots, how much did he spend on fruit?
+A:<｜Assistant｜><think>
+First, I need to determine the cost of each type of fruit that Winston picked.
+
+Peaches cost $2.00 per pound, and he picked 6 pounds. So, the cost for peaches is 6 pounds multiplied by $2.00 per pound.
+
+Plums cost $1.00 per pound, and he picked 8 pounds. Therefore, the cost for plums is 8 pounds multiplied by $1.00 per pound.
+
+Apricots cost $3.00 per pound, and he picked 6 pounds. Hence, the cost for apricots is 6 pounds multiplied by $3.00 per pound.
+
+Next, I'll add up the costs of peaches, plums, and apricots to find the total amount Winston spent on pick his fruit.
+</think>
+
+**Solution:**
+
+To determine how much Winston spent on picking fruit, we'll calculate the cost for each type of fruit separately and then sum them up.
+
+1. **Cost of Peaches:**
+   - **Price per pound:** \$2.00
+   - **Pounds picked:** 6 pounds
+   - **Total cost for peaches:** 
+     \[
+     6 \text{ pounds} \times \$2.00/\text{pound} = \$12.00
+     \]
+
+2. **Cost of Plums:**
+   - **Price per pound:** \$1.00
+   - **Pounds picked:** 8 pounds
+   - **Total cost for plums:** 
+     \[
+     8 \text{ pounds} \times \$1.00/\text{pound} = \$8.00
+     \]
+
+3. **Cost of Apricots:**
+   - **Price per pound:** \$3.00
+   - **Pounds picked:** 6 pounds
+   - **Total cost for apricots:** 
+     \[
+     6 \text{ pounds} \times \$3.00/\text{pound} = \$18.00
+     \]
+
+4. **Total Amount Spent:**
+   - **Sum of all costs:**
+     \[
+     \$12.00 + \$8.00 + \$18.00 = \$30.00
+     \]
+
+**Final Answer:**
+\[
+\boxed{30}
+\]

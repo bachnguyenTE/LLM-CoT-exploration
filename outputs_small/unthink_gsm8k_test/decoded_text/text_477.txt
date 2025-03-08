@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Nine of the kids in Gina's class are allergic to dairy, 6 are allergic to peanuts and 3 are allergic to both. If there are 32 kids in her class, how many aren't allergic to anything?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many kids in Gina's class are not allergic to anything, we can use the principle of inclusion-exclusion.
+
+1. **Total number of kids in the class:** 32
+
+2. **Number of kids allergic to dairy:** 9
+
+3. **Number of kids allergic to peanuts:** 6
+
+4. **Number of kids allergic to both dairy and peanuts:** 3
+
+Using the inclusion-exclusion principle:
+
+\[
+\text{Total allergic} = \text{Allergic to dairy} + \text{Allergic to peanuts} - \text{Allergic to both}
+\]
+
+\[
+\text{Total allergic} = 9 + 6 - 3 = 12
+\]
+
+5. **Number of kids not allergic to anything:** 
+
+\[
+\text{Total} - \text{Total allergic} = 32 - 12 = 20
+\]
+
+**Final Answer:** \(\boxed{20}\)

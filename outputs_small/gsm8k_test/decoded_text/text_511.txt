@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Gerald works at a daycare that pays him $30 every day. He worked for an entire week and spent a total of $100. How much does he have left?
+A:<｜Assistant｜><think>
+First, I need to determine how much Gerald earns in a week. Since he is paid $30 every day and worked for 7 days, I'll multiply 30 by 7 to find his total earnings.
+
+Next, I'll subtract his total spending of $100 from his weekly earnings to find out how much money he has left.
+</think>
+
+**Solution:**
+
+1. **Calculate Gerald's weekly earnings:**
+   
+   Gerald is paid **\$30** every day.
+   
+   \[
+   \text{Weekly Earnings} = 30 \times 7 = 210
+   \]
+
+2. **Determine the amount spent:**
+   
+   Gerald spent a total of **\$100**.
+   
+   \[
+   \text{Amount Spent} = 100
+   \]
+
+3. **Find out how much money Gerald has left:**
+   
+   \[
+   \text{Money Left} = \text{Weekly Earnings} - \text{Amount Spent} = 210 - 100 = 110
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{110}
+\]

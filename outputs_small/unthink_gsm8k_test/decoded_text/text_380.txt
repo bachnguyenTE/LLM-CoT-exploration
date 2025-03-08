@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Karan borrowed $3,650 for five months at an interest rate of 10%. She has to pay an equal amount every month. How much does she have to pay per month?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much Karan has to pay each month, we'll calculate the total amount to be repaid and then divide it by the number of months.
+
+1. **Calculate the Total Interest:**
+   \[
+   \text{Total Interest} = \text{Principal} \times \text{Rate} \times \text{Time}
+   \]
+   \[
+   \text{Total Interest} = \$3,650 \times 10\% \times \frac{5}{12} = \$75.42
+   \]
+
+2. **Calculate the Total Amount to be Repaid:**
+   \[
+   \text{Total Amount} = \text{Principal} + \text{Total Interest}
+   \]
+   \[
+   \text{Total Amount} = \$3,650 + \$75.42 = \$3,725.42
+   \]
+
+3. **Calculate the Monthly Payment:**
+   \[
+   \text{Monthly Payment} = \frac{\text{Total Amount}}{\text{Number of Months}} = \frac{\$3,725.42}{5} = \$745.08
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$745.08}
+\]

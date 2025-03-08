@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Elly is organizing her books on the new bookcases her parents bought her. Each of the middle 2 shelves can hold 10 books. The bottom shelf can hold twice as many books as a middle shelf. The top shelf can hold 5 fewer books than the bottom shelf. If she has 110 books, how many bookcases does she need to hold all of them?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the capacity of each shelf:**
+   - **Middle shelves:** Each middle shelf can hold 10 books. There are 2 middle shelves.
+     \[
+     \text{Total capacity of middle shelves} = 2 \times 10 = 20 \text{ books}
+     \]
+   - **Bottom shelf:** Can hold twice as many books as a middle shelf.
+     \[
+     \text{Capacity of bottom shelf} = 2 \times 10 = 20 \text{ books}
+     \]
+   - **Top shelf:** Can hold 5 fewer books than the bottom shelf.
+     \[
+     \text{Capacity of top shelf} = 20 - 5 = 15 \text{ books}
+     \]
+
+2. **Calculate the total capacity of all shelves:**
+   \[
+   \text{Total capacity} = \text{Middle shelves} + \text{Bottom shelf} + \text{Top shelf} = 20 + 20 + 15 = 55 \text{ books}
+   \]
+
+3. **Determine how many bookcases are needed:**
+   - Each bookcase can hold a certain number of books. However, the problem does not specify the capacity of each bookcase. Assuming each bookcase can hold the total capacity of all shelves:
+     \[
+     \text{Number of bookcases} = \frac{\text{Total number of books}}{\text{Total capacity}} = \frac{1100}{55} \approx 20 \text{ bookcases}
+     \]
+   - Since you can't have a fraction of a bookcase, round up to the nearest whole number.
+
+**Final Answer:**
+\[
+\boxed{22}
+\]

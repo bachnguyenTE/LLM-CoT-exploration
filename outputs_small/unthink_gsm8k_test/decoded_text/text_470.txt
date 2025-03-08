@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Theo bought a pen for $2 and a piece of paper that cost $1 less than three times the price of the pen. She gave the cashier $10. What is the amount of change Theo received?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Cost of the Pen:**
+   - Theo bought a pen for **\$2**.
+
+2. **Cost of the Paper:**
+   - The paper costs **\$1 less than three times the price of the pen**.
+   - First, calculate three times the price of the pen: \( 3 \times \$2 = \$6 \).
+   - Then, subtract \$1 from this amount: \( \$6 - \$1 = \$5 \).
+   - So, the paper costs **\$5**.
+
+3. **Total Amount Paid:**
+   - Theo gave the cashier **\$10**.
+   - The total cost of the pen and paper is \( \$2 + \$5 = \$7 \).
+
+4. **Amount of Change Received:**
+   - Subtract the total cost from the amount given: \( \$10 - \$7 = \$3 \).
+
+**Final Answer:**
+\[
+\boxed{3}
+\]

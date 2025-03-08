@@ -1,0 +1,29 @@
+<｜User｜>
+Q: There are some oranges in a basket. Ana spends 3 minutes peeling an orange and Jane spends 4 minutes doing the same. If Ana and Jane start picking oranges from this basket to peel at the same time, how many more oranges will Ana have peeled than Jane after an hour?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Understanding the Rates:**
+   - **Ana's Rate:** She peels 1 orange in 3 minutes.
+   - **Jane's Rate:** She peels 1 orange in 4 minutes.
+
+2. **Calculating the Number of Oranges Each Can Peel in an Hour:**
+   - **Ana's Oranges in 60 Minutes:**
+     \[
+     \text{Oranges} = \frac{60 \text{ minutes}}{3 \text{ minutes/orange}} = 20 \text{ oranges}
+     \]
+   - **Jane's Oranges in 60 Minutes:**
+     \[
+     \text{Oranges} = \frac{60 \text{ minutes}}{4 \text{ minutes/orange}} = 15 \text{ oranges}
+     \]
+
+3. **Difference in Oranges Peeled:**
+   \[
+   20 \text{ oranges (Ana)} - 15 \text{ oranges (Jane)} = 5 \text{ oranges}
+   \]
+
+**Final Answer:** \(\boxed{5}\)

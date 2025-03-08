@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Raymond and Samantha are cousins. Raymond was born 6 years before Samantha. Raymond had a son at the age of 23. If Samantha is now 31, how many years ago was Raymond's son born?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine Samantha's Age:**
+   - Samantha is currently 31 years old.
+
+2. **Calculate the Time Since Samantha was Born:**
+   - Since Samantha is 31 now, she was born 31 years ago.
+
+3. **Determine Raymond's Age:**
+   - Raymond was born 6 years before Samantha.
+   - Therefore, if Samantha is 31, Raymond is \(31 + 6 = 37\) years old.
+
+4. **Determine When Raymond's Son Was Born:**
+   - Raymond's son was born when Raymond was 23.
+   - Since Raymond is now 37, the son was born \(37 - 23 = 14\) years ago.
+
+5. **Final Answer:**
+   - Raymond's son was born **14 years ago.**
+
+\boxed{14}

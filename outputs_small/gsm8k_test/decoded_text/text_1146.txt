@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Adam has $100 and wants to spend it to open a rock stand. He can buy rocks for $5 each and sell them for $7 each. If he invests all his money in the rock stand but only sells 60% of his inventory, how much money does he lose?
+A:<｜Assistant｜><think>
+First, I need to determine how many rocks Adam can buy with his $100. Since each rock costs $5, I'll divide his total money by the cost per rock.
+
+Next, I'll calculate the revenue from selling the rocks. He plans to sell 60% of his inventory, so I'll multiply the number of rocks he bought by 66% to find out how many he'll sell.
+
+Then, I'll find out how much money he makes from selling those rocks by multiplying the number of sold rocks by the selling price per rock.
+
+After that, I'll subtract the revenue from the total investment to find out how much money he has left.
+
+Finally, I'll determine the loss by subtracting the revenue from the total investment.
+</think>
+
+**Solution:**
+
+Adam has **\$100** to invest in a rock stand. He buys rocks for **\$5** each and sells them for **\$7** each. He sells **66%** of his inventory.
+
+1. **Calculate the number of rocks Adam buys:**
+   
+   \[
+   \text{Number of rocks} = \frac{\text{Total money}}{\text{Cost per rock}} = \frac{100}{5} = 20 \text{ rocks}
+   \]
+
+2. **Determine the number of rocks sold:**
+   
+   \[
+   \text{Rocks sold} = 66\% \text{ of } 20 = 0.66 \times 20 = 13.2 \text{ rocks}
+   \]
+   
+   Since Adam can't sell a fraction of a rock, we'll consider he sells **13** rocks.
+
+3. **Calculate the revenue from selling the rocks:**
+   
+   \[
+   \text{Revenue} = \text{Number of rocks sold} \times \text{Selling price per rock} = 13 \times 7 = 91 \text{ dollars}
+   \]
+
+4. **Determine the loss:**
+   
+   \[
+   \text{Loss} = \text{Total investment} - \text{Revenue} = 100 - 91 = 9 \text{ dollars}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{9}
+\]

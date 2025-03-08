@@ -1,0 +1,47 @@
+<｜User｜>
+Q: Toby is reading a book that is 45 pages long. It averages 200 words a page. Toby can read at a rate of 300 words per minute. He has to be at the airport in 60 minutes and plans to leave as soon as he finishes the book. It takes 10 minutes to get to the airport. How many minutes early will Toby be?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many minutes early Toby will be, let's break down the problem step by step.
+
+1. **Total Pages in the Book:**
+   \[
+   45 \text{ pages}
+   \]
+
+2. **Words per Page:**
+   \[
+   200 \text{ words/page}
+   \]
+   \[
+   \text{Total Words} = 45 \times 200 = 9000 \text{ words}
+   \]
+
+3. **Reading Speed:**
+   \[
+   300 \text{ words per minute}
+   \]
+   \[
+   \text{Time to Read the Book} = \frac{9000}{300} = 30 \text{ minutes}
+   \]
+
+4. **Total Time Needed:**
+   \[
+   \text{Time to Get to Airport} + \text{Time to Read the Book} = 10 + 30 = 40 \text{ minutes}
+   \]
+
+5. **Time Available:**
+   \[
+   60 \text{ minutes}
+   \]
+
+6. **Early by:**
+   \[
+   60 - 40 = 16 \text{ minutes}
+   \]
+
+**Final Answer:**
+\[
+\boxed{16}
+\]

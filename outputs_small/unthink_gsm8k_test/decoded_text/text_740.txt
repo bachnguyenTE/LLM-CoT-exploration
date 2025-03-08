@@ -1,0 +1,49 @@
+<｜User｜>
+Q: A class of 50 students has various hobbies. 10 like to bake, 5 like to play basketball, and the rest like to either play video games or play music. How many like to play video games if the number that like to play music is twice the number that prefer playing basketball?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We are given a class of **50 students** with various hobbies. The breakdown is as follows:
+
+- **10 students** like to **bake**.
+- **5 students** like to **play basketball**.
+- The **remaining students** like to either **play video games** or **play music**.
+
+We are also told that:
+- The number of students who like **music** is **twice** the number of students who prefer **playing basketball**.
+
+Let's break down the problem step by step.
+
+1. **Total number of students:** 50
+
+2. **Number of students who like to bake:** 10
+
+3. **Number of students who like to play basketball:** 5
+
+4. **Number of students who like to play music:** Let's denote this as \( M \).
+
+   - Given that \( M = 2 \times \) (number of students who play basketball)
+   - So, \( M = 2 \times 5 = 10 \)
+
+5. **Number of students who like to play video games:** Let's denote this as \( V \).
+
+   - The remaining students like either video games or music.
+   - So, \( V + M = \) total students - those who like to bake - those who like to play basketball
+
+6. **Calculating the number of students who like video games:**
+
+   \[
+   V = \text{Total students} - \text{Students who bake} - \text{Students who play basketball} - \text{Students who play music}
+   \]
+   
+   \[
+   V = 50 - 10 - 5 - 10 = 25
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{25}
+\]

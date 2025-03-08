@@ -1,0 +1,28 @@
+<｜User｜>
+Q: April is donating plant pots to a local school for their new garden. They ask for 30 plant pots for the daisies, and twice as many for the roses. April had already bought 100 plant pots from the garden center before she knew how many she needed. How many plant pots does April have left over?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many plant pots April has left after donating to the school.
+
+1. **Daisy Pots:**
+   - April needs **30 plant pots** for daisies.
+
+2. **Rose Pots:**
+   - She needs twice as many for roses as daisies.
+   - Calculation: \( 2 \times 30 = 60 \) plant pots for roses.
+
+3. **Total Pots Needed:**
+   - Total pots = Daisies + Roses
+   - Calculation: \( 30 + 60 = 90 \) plant pots.
+
+4. **Pots Already Bought:**
+   - April had already bought **100 plant pots** from the garden center.
+
+5. **Pots Left Over:**
+   - Total pots bought: 100
+   - Pots used: 90
+   - Calculation: \( 100 - 90 = 10 \) plant pots left.
+
+**Final Answer:**  
+April has \(\boxed{10}\) plant pots left over.

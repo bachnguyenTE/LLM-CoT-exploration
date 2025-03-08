@@ -1,0 +1,38 @@
+<｜User｜>
+Q: James hires a horse-drawn carriage from 5 PM to 9 PM.  He gets 1 hour free.  The first paid hour is $15 and each hour after that is twice the cost.  How much did he pay?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much James paid for the horse-drawn carriage, let's break down the problem step by step.
+
+1. **Total Time Hired:**
+   - James hires the carriage from **5 PM to 9 PM**, which is **4 hours**.
+
+2. **Free Time:**
+   - He gets **1 hour** free.
+
+3. **Paid Hours:**
+   - Subtract the free time from the total time:
+     \[
+     4 \text{ hours} - 1 \text{ hour} = 3 \text{ paid hours}
+     \]
+
+4. **Cost Calculation:**
+   - The first paid hour costs **\$15**.
+   - Each subsequent paid hour costs **twice the cost** of the previous one.
+
+   Let's calculate the cost for each paid hour:
+   - **First hour:** \$15
+   - **Second hour:** \$15 × 2 = \$30
+   - **Third hour:** \$30 × 2 = \$60
+
+5. **Total Payment:**
+   - Add up the costs of all paid hours:
+     \[
+     \$15 + \$30 + \$60 = \$105
+     \]
+
+**Final Answer:**
+\[
+\boxed{105}
+\]

@@ -1,0 +1,29 @@
+<｜User｜>
+Q: An ice cream truck is traveling through a neighborhood. Children from various homes have started chasing the truck and, by the time the truck has reached the end of the first street, there are 5 children it. On the second street, each child is joined by another child and on the third street, each child in the existing group is joined by another 2 children. The original 5 children then give up and leave the group. How many children are now following the truck?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many children are following the ice cream truck after it has traveled through three streets.
+
+1. **First Street:**
+   - **Children on the truck:** 5
+   - **Children chasing the truck:** 5
+   - **Total children following the truck:** \(5 + 5 = 10\)
+
+2. **Second Street:**
+   - **Children on the truck:** 10 (from the first street)
+   - **Children joining the truck:** Each child is joined by another child.
+   - **Total children joining the truck:** \(10 \times 2 = 20\)
+   - **Total children following the truck:** \(10 + 20 = 30\)
+
+3. **Third Street:**
+   - **Children on the truck:** 30 (from the second street)
+   - **Children joining the truck:** Each child is joined by another 2 children.
+   - **Total children joining the truck:** \(30 \times 2 = 60\)
+   - **Total children following the truck:** \(30 + 60 = 90\)
+
+4. **Children Leaving:**
+   - **Original 5 children leave.**
+   - **Total children following the truck after leaving:** \(90 - 5 = 85\)
+
+**Final Answer:** \(\boxed{85}\)

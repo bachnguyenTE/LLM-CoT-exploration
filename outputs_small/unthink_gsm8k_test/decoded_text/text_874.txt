@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Ella earned $33 for 3 hours of dog walking. If she continues to walk dogs at the same rate, how much would she earn after 12 hours?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Ella earns money by walking dogs at a constant rate. To find out how much she would earn after 12 hours, we first need to determine her hourly rate.
+
+1. **Calculate the hourly rate:**
+   
+   Ella earned **\$33** for walking dogs for **3 hours**.
+   
+   \[
+   \text{Hourly Rate} = \frac{\text{Total Earnings}}{\text{Total Hours}} = \frac{33}{3} = 11 \text{ dollars per hour}
+   \]
+
+2. **Determine earnings for 12 hours:**
+   
+   If her hourly rate is **\$11**, then for **12 hours**, she would earn:
+   
+   \[
+   \text{Earnings for 12 hours} = 11 \times 12 = 132 \text{ dollars}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{132}
+\]

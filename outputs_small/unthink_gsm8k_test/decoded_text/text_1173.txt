@@ -1,0 +1,30 @@
+<｜User｜>
+Q: A regular box of 100 dishwasher pods costs $12. There's currently a special size box for the same price that has 20% more pods. How many dishwashing cycles with the new box can you run for $1 if you use 1 pod per cycle?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the number of pods in the special box:**
+   
+   - The regular box has **100 pods**.
+   - The special box has **20% more pods**.
+   
+   \[
+   \text{Number of pods in special box} = 100 + (100 \times 0.20) = 100 + 20 = 120 \text{ pods}
+   \]
+
+2. **Calculate the number of cycles you can run with $1:**
+   
+   - Each cycle uses **1 pod**.
+   - With **$1**, you can use **1 pod**.
+   
+   \[
+   \text{Number of cycles} = \frac{\text{Total money}}{\text{Pods per cycle}} = \frac{1}{1} = 1 \text{ cycle}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{1}
+\]

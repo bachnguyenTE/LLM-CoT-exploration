@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Hannah's city is having a big display of fireworks for the 4th of July. They're going to set off 15 boxes of 20 fireworks each. Hannah's house is at the right angle to see 40% of the city's fireworks. Hannah will also set off 3 boxes of 5 fireworks each in her backyard. How many fireworks will Hannah see in total?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many fireworks Hannah will see in total, let's break down the problem step by step.
+
+1. **Total Fireworks in the City:**
+   - There are 15 boxes, each containing 20 fireworks.
+   - Total fireworks = \( 15 \times 20 = 150 \) fireworks.
+
+2. **Fireworks Hannah Sees in the City:**
+   - Hannah sees 40% of the city's fireworks.
+   - Fireworks seen = \( 40\% \times 150 = 0.4 \times 150 = 60 \) fireworks.
+
+3. **Fireworks Hannah Sees in Her Backyard:**
+   - Hannah sets off 3 boxes, each containing 5 fireworks.
+   - Fireworks seen = \( 3 \times5 = 15 \) fireworks.
+
+4. **Total Fireworks Hannah Sees:**
+   - Total = Fireworks in the city + Fireworks in her backyard
+   - Total = \( 60 + 15 = 75 \) fireworks.
+
+**Final Answer:** \(\boxed{75}\)

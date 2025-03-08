@@ -1,0 +1,50 @@
+<｜User｜>
+Q: Sara wants to buy herself a new jacket and 2 pairs of shoes. The jacket she wants costs $30 and each pair of shoes cost $20. Sara babysits the neighbor's kids 4 times, earning $5 each time she babysits them. Her parents pay her $4 each time she mows the lawn. If Sara already had $10 saved before she started babysitting, how many times must she mow the lawn before she can afford the jacket and shoes?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many times Sara needs to mow the lawn to afford the jacket and shoes, let's break down the costs and her savings step by step.
+
+**Total Cost:**
+- Jacket: \$30
+- 2 pairs of shoes: 2 × \$20 = \$40
+- **Total Cost:** \$30 + \$40 = **\$73**
+
+**Savings:**
+- Sara already has \$10 saved.
+
+**Amount Needed:**
+- Total Cost - Savings = \$73 - \$10 = **\$62**
+
+**Earnings from Jobs:**
+- **Babysitting:**
+  - \$5 per session
+- **Mowing Lawns:**
+  - \$4 per session
+
+**Let \( x \) be the number of times Sara mows the lawn.**
+
+**Total Earnings:**
+- From babysitting: 4 sessions × \$5 = **\$20**
+- From mowing lawns: \( x \) sessions × \$4 = **\$4x**
+- **Total Earnings:** \$20 + \$4x
+
+**Equation:**
+\[
+\$20 + \$4x = \$62
+\]
+
+**Solving for \( x \):**
+\[
+4x = \$62 - \$20 = \$42
+\]
+\[
+x = \frac{\$42}{4} = \$10.5
+\]
+
+Since Sara can't mow half a lawn, she needs to mow **11 times** to cover the remaining cost.
+
+**Final Answer:**
+\[
+\boxed{11}
+\]

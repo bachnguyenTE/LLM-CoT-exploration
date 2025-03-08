@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Kim has started his own housekeeping business and is calculating how much profit he will make from his clients. He already has 3 clients, but is talking to another 5 potential clients and feels confident enough to include them in his calculations. Each client’s home will need 2 bottles of bleach and a pack of cloths to clean. Bottles of bleach will cost $2 each and packs of cloths will cost $5 each. These are his only expenses. He calculates that his total income each week will be $92. Profit is the difference between total income and total expenses, so how much profit, in dollars, will Lucas make each week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Identify the given information:**
+   - **Total potential clients:** 5
+   - **Clients already working:** 3
+   - **Total clients to consider:** 5 (since he already has 3)
+   - **Clients per week:**
+     - **Bottles of bleach per client:** 2
+     - **Packs of cloths per client:** 1
+   - **Costs:**
+     - **Cost per bottle of bleach:** \$2
+     - **Cost per pack of cloths:** \$5
+   - **Total weekly income:** \$92
+
+2. **Calculate total weekly expenditure:**
+   - **Total bottles of bleach needed:** \(2 \text{ bottles/client} \times 5 \text{ clients} = 10 \text{ bottles}\)
+   - **Total packs of cloths needed:** \(1 \text{ pack/client} \times 5 \text{ clients} = 5 \text{ packs}\)
+   - **Total cost for bleach:** \(10 \text{ bottles} \times \$2/\text{bottle} = \$20\)
+   - **Total cost for cloths:** \(5 \text{ packs} \times \$5/\text{pack} = \$25\)
+   - **Total weekly expenses:** \(\$20 + \$25 = \$45\)
+
+3. **Calculate weekly profit:**
+   - **Total weekly income:** \$92
+   - **Total weekly expenses:** \$45
+   - **Profit:** \(\$92 - \$45 = \$47\)
+
+**Final Answer:** \(\boxed{47}\)

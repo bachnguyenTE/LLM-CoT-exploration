@@ -1,0 +1,50 @@
+<｜User｜>
+Q: Four friends ordered four pizzas for a total of 64 dollars. If two of the pizzas cost 30 dollars, how much did each of the other two pizzas cost if they cost the same amount?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here: Four friends ordered four pizzas for a total of $64. If two of the pizzas cost $30, how much did each of the other two pizzas cost if they cost the same amount? Hmm, let me try to figure this out step by step.
+
+First, let me make sure I understand the problem correctly. There are four friends, and they ordered four pizzas. The total cost for all four pizzas is $64. Out of these four pizzas, two of them cost $30 each. So, each of those two pizzas is $30. The question is asking how much each of the remaining two pizzas costs, assuming they all cost the same amount.
+
+Alright, so let me break this down. We have four pizzas in total. Two of them cost $30 each, and the other two are unknown, but they cost the same. So, the total cost is the sum of the costs of all four pizzas.
+
+Let me write this out as an equation. Let me denote the cost of each of the unknown pizzas as x. So, the total cost would be the cost of the two known pizzas plus the cost of the two unknown pizzas. That would be:
+
+Total cost = (Cost of two known pizzas) + (Cost of two unknown pizzas)
+
+Plugging in the numbers we have:
+
+$64 = 2 * $30 + 2 * x
+
+Wait, hold on. Is that right? Let me think. Each of the two known pizzas is $30, so two of them would be 2 * 30. And each of the two unknown pizzas is x, so two of them would be 2 * x. So, yes, that seems correct.
+
+So, let me compute 2 * 30 first. 2 times 30 is 60. So, 2 * 30 = 60.
+
+So, substituting back into the equation:
+
+64 = 60 + 2x
+
+Wait, hold on, 2 * 30 is 60, right? So, 60 + 2x = 64.
+
+So, now, I need to solve for x. Let me subtract 60 from both sides to get:
+
+64 - 60 = 2x
+
+Which simplifies to:
+
+4 = 2x
+
+So, 2x = 4. Therefore, x = 4 / 2 = 2.
+
+So, x is 2. That means each of the other two pizzas cost $2 each.
+
+Wait, that seems a bit cheap, but let me check my calculations again to make sure I didn't make a mistake.
+
+Total cost is $64. Two pizzas cost $30 each, so 2 * 30 is 60. So, 60 + 2x = 64. Subtract 60 from both sides: 2x = 4. So, x = 2. Yeah, that seems correct.
+
+But just to make sure, let me think about it another way. If two pizzas are $30 each, that's $60. So, the remaining two pizzas must account for the rest of the total cost. So, 64 - 60 is 4. So, the two unknown pizzas together cost $4. Therefore, each pizza costs 4 divided by 2, which is 2. So, yes, that's correct.
+
+Alternatively, I can think about the average cost per pizza. There are four pizzas, total cost $64. So, the average cost per pizza is 64 divided by 4, which is 16. So, each pizza on average costs $16. But two of them are $30 each, which is $6 more than the average, and the other two are $2 each, which is $4 less than the average. So, the total difference is 6 - 4 = 2, which matches the total cost difference of 64 - 60 = 4. Wait, that doesn't add up. Hmm, maybe I need to think about it differently.
+
+Wait, maybe I confused something. Let me recast the problem. If two pizzas are $30 each, that's 2 * 30 = 60. The total is 64, so the remaining two pizzas must be 64 - 60 = 4. So, each of the two pizzas is 4 / 2 = 2. So, that's correct.
+
+Alternatively, maybe I can think about the total cost per pizza. So, 64 divided by 4 is 16. So, each pizza should cost $16 on average. But two of them are $30, which is $14 more than the average, and the other two are $2, which is $14 less than

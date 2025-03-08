@@ -1,0 +1,57 @@
+<｜User｜>
+Q: Teresa sells large stuffed animals for three times the price of small stuffed animals. Today, she sold twice as many small stuffed animals as large ones and earned $120 from the sales. Each small stuffed animal costs $4. How many small stuffed animals did she sell?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+1. Teresa sells large stuffed animals for three times the price of small stuffed animals.
+2. Today, she sold twice as many small stuffed animals as large ones.
+3. She earned a total of \$120 from the sales.
+4. Each small stuffed animal costs \$4.
+
+**Let’s define variables:**
+- Let \( L \) = number of large stuffed animals sold.
+- Let \( S \) = number of small stuffed animals sold.
+
+**From the problem:**
+- She sold **twice as many small stuffed animals as large ones**:
+  \[
+  S = 2L
+  \]
+  
+- The price of a large stuffed animal is three times the price of a small one. However, we are given the **cost of each small stuffed animal** directly as \$4, so we don't need to find the price of a large one.
+
+- Total earnings from sales:
+  \[
+  \text{Total} = \text{Price of small} \times S + \text{Price of large} \times L = 120
+  \]
+  But since we know the price of a small stuffed animal is \$4, and we don't have the price of a large one, we can proceed without it.
+
+**Now, let's set up the equation using the total earnings:**
+\[
+4S + (3 \times 4)L = 120
+\]
+But since \( S = 2L \), substitute \( S \) in the equation:
+\[
+4(2L) + 12L = 120
+\]
+\[
+8L + 12L = 120
+\]
+\[
+20L = 120
+\]
+\[
+L = \frac{120}{20} = 6
+\]
+
+**Number of large stuffed animals sold:** \( L = 6 \)
+
+**Number of small stuffed animals sold:** \( S = 2L = 2 \times 6 = 12 \)
+
+**Final Answer:**
+\[
+\boxed{12}
+\]

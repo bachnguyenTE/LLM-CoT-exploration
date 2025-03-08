@@ -1,0 +1,33 @@
+<｜User｜>
+Q: A treasure hunter found a buried treasure chest filled with gems. There were 175 diamonds, 35 fewer rubies than diamonds, and twice the number of emeralds than the rubies.   How many of the gems were there in the chest?
+A:<｜Assistant｜><think>
+</think>
+
+Let's determine the total number of gems in the treasure chest step by step.
+
+1. **Diamonds:**
+   - **Given:** 175 diamonds.
+
+2. **Rubies:**
+   - **Given:** There are 35 fewer rubies than diamonds.
+   - **Calculation:** 
+     \[
+     \text{Rubies} = \text{Diamonds} - 35 = 175 - 35 = 140
+     \]
+   - **Total Rubies:** 140.
+
+3. **Emeralds:**
+   - **Given:** There are twice the number of emeralds than the rubies.
+   - **Calculation:** 
+     \[
+     \text{Emeralds} = 2 \times \text{Rubies} = 2 \times 140 = 280
+     \]
+   - **Total Emeralds:** 280.
+
+4. **Total Gems:**
+   - **Summing up all gems:**
+     \[
+     \text{Total Gems} = \text{Diamonds} + \text{Rubies} + \text{Emeralds} = 175 + 140 + 280 = 600
+     \]
+
+**Final Answer:** \(\boxed{600}\)

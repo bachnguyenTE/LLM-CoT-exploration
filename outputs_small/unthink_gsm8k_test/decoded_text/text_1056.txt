@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Greg puts clean sheets on 4 twin beds and 1 king size bed every week.  His laundry machine will only allow him to wash 2 twin sets of sheets at a time and 1 king set of sheets at a time.  How many loads of laundry does he do in a year?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the number of sheets per week:**
+   - **Twin beds:** 4 beds × 2 sheets = 8 sheets
+   - **King bed:** 1 bed × 2 sheets = 2 sheets
+   - **Total sheets per week:** 8 + 2 = 10 sheets
+
+2. **Calculate the number of weeks in a year:**
+   - 1 year = 52 weeks
+
+3. **Find the total number of sheets per year:**
+   - Total sheets = 10 sheets/week × 52 weeks = 520 sheets
+
+4. **Determine the number of laundry loads:**
+   - **Twin sets:** 520 sheets ÷ 2 sheets per load = 260 loads
+   - **King set:** 2 sheets ÷ 2 sheets per load = 1 load
+   - **Total loads:** 260 + 1 = 261 loads
+
+**Final Answer:** \boxed{261}

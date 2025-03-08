@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Howard spends $8 dollars at the arcade on Monday. On Tuesday, he spends twice as much at the arcade as he did on Monday. On Wednesday, he spends 4 times as much at the arcade as he spent on Tuesday. If he originally had $100, how much money does he have left?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down Howard's spending step by step.
+
+1. **Monday:**
+   - Howard spends **\$8** at the arcade.
+
+2. **Tuesday:**
+   - He spends **twice** as much as he did on Monday.
+   - **Amount spent on Tuesday:** \( 2 \times \$8 = \$16 \)
+
+3. **Wednesday:**
+   - He spends **four times** as much as he did on Tuesday.
+   - **Amount spent on Wednesday:** \( 4 \times \$16 = \$64 \)
+
+4. **Total Spending:**
+   - **Total amount spent:** \( \$8 + \$16 + \$64 = \$88 \)
+
+5. **Money Left:**
+   - **Original amount:** \$100
+   - **Money left:** \( \$100 - \$88 = \$12 \)
+
+**Final Answer:** Howard has **\$12** left after spending at the arcade on all three days.

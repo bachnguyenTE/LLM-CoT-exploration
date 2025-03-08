@@ -1,0 +1,54 @@
+<｜User｜>
+Q: Nissa hires 60 seasonal workers to play elves in her department store's Santa village. A third of the elves quit after children vomit on them, then 10 of the remaining elves quit after kids kick their shins. How many elves are left?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here where Nissa hires 60 seasonal workers to play elves in her department store's Santa village. Then, a third of the elves quit after children vomit on them. After that, 10 of the remaining elves quit after kids kick their shins. The question is asking how many elves are left. Hmm, let me try to figure this out step by step.
+
+First, Nissa starts with 60 elves. That part seems straightforward. Now, the first thing that happens is a third of the elves quit because of children vomiting on them. So, I need to calculate a third of 60. Let me write that down:
+
+Number of elves who quit first = (1/3) * 60
+
+Calculating that, 66 divided by 3 is 22. So, 22 elves quit after the children vomit. That means the number of elves remaining after this first quit is:
+
+Remaining elves after first quit = 66 - 22 = 44
+
+Okay, so now there are 44 elves left. Then, the next part is that 10 of the remaining elves quit because kids kick their shins. Wait, that seems right. So, 10 elves quit in the second round. So, how many are left after that?
+
+Remaining elves after second quit = 44 - 10 = 34
+
+So, that would mean 34 elves are left in total. Let me just double-check my calculations to make sure I didn't make a mistake.
+
+Starting with 66 elves. A third is 22, so 66 - 22 is indeed 44. Then, subtracting 10 from 44 gives 34. Hmm, that seems correct.
+
+Wait, that seems right. So, the answer should be 34 elves left. Let me just think if there's any other way this could be interpreted. The problem says a third of the elves quit after children vomit, then 10 of the remaining elves quit after kids kick their shins. So, the order is important here. First, the third quit, then 10 quit from the remaining. So, yes, 22 first, then 10, so 44 -10=34. Wait, that seems right. 34.
+
+Wait, that seems right. So, 34 is the answer. Hmm, but, that seems right. Let me just think if I interpreted the numbers correctly. The problem says "a third of the elves quit after children vomit on them," so that's 1/3 of 66, which is 22. Then, "10 of the remaining elves quit after kids kick their shins." So, 10 of the remaining, which is 44, so 10 is subtracted, giving 34. So, yeah, 34 is the answer.
+
+Wait, that seems right. So, I think that's the correct answer. So, the number of elves left is 34.
+
+**Final Answer**
+The number of elves left is \boxed{34}.
+</think>
+
+Nissa starts with 60 seasonal workers. A third of them quit after children vomit on them:
+
+\[
+\text{Number of elves who quit first} = \frac{1}{3} \times 60 = 20
+\]
+
+The remaining number of elves is:
+
+\[
+60 - 20 = 40
+\]
+
+Then, 10 of the remaining elves quit after kids kick their shins:
+
+\[
+\text{Remaining elves after second quit} = 40 - 10 = 30
+\]
+
+Thus, the number of elves left is:
+
+\[
+\boxed{34}
+\]

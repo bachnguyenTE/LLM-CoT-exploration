@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Adam wants to eat some sliced apples. A large apple can be sliced into 5 pieces, and a small apple can be sliced into 3 pieces. Adam decides to slice 3 large and 5 small apples and then eats 15 slices. How many apple slices are left?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many apple slices are left after Adam eats some, let's break down the problem step by step.
+
+1. **Calculate the total number of slices from large apples:**
+   - Each large apple yields **5 slices**.
+   - Adam slices **3 large apples**.
+   - Total slices from large apples = \( 3 \text{ apples} \times 5 \text{ slices/apple} = 15 \text{ slices} \).
+
+2. **Calculate the total number of slices from small apples:**
+   - Each small apple yields **3 slices**.
+   - Adam slices **5 small apples**.
+   - Total slices from small apples = \( 5 \text{ apples} \times3 \text{ slices/apple} = 15 \text{ slices} \).
+
+3. **Calculate the total number of slices Adam has:**
+   - Total slices = Slices from large apples + Slices from small apples
+   - Total slices = \( 15 \text{ slices} + 15 \text{ slices} = 30 \text{ slices} \).
+
+4. **Determine how many slices Adam eats:**
+   - Adam eats **15 slices**.
+
+5. **Calculate the number of slices left:**
+   - Slices left = Total slices - Slices eaten
+   - Slices left = \( 30 \text{ slices} - 15 \text{ slices} = 15 \text{ slices} \).
+
+**Final Answer:** \(\boxed{15}\)

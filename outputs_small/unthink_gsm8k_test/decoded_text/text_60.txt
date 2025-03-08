@@ -1,0 +1,46 @@
+<｜User｜>
+Q: A basket contains 25 oranges among which 1 is bad, 20% are unripe, 2 are sour and the rest are good. How many oranges are good?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many oranges are good, let's break down the information provided:
+
+1. **Total Oranges:** 25
+
+2. **Bad Oranges:** 1
+
+3. **Unripe Oranges:** 20% of 25 = 0.5 (Since you can't have half an orange, this suggests a possible rounding or an error in the problem statement.)
+
+4. **Sour Oranges:** 2
+
+5. **Good Oranges:** The remaining oranges after accounting for bad, unripe, and sour ones.
+
+Let's calculate the number of good oranges step by step:
+
+- **Total Oranges:** 25
+- **Bad Oranges:** 1
+- **Unripe Oranges:** 20% of 25 = 0.5 (Assuming this is correct, we'll proceed.)
+- **Sour Oranges:** 2
+- **Good Oranges:** 25 - 1 (bad) - 0.5 (unripe) - 2 (sour) = 1.5
+
+However, since you can't have half an orange, there might be a mistake in the problem statement. If we consider only whole numbers, we can adjust:
+
+- **Good Oranges:** 25 - 1 (bad) - 2 (unripe) - 2 (sour) = 20
+
+But this doesn't account for the 20% unripe oranges. To reconcile this, let's assume the 20% is rounded to the nearest whole number:
+
+- **Unripe Oranges:** 20% of 25 = 0.5, which we'll approximate to 1 (since you can't have half an orange).
+
+Now, recalculating:
+
+- **Good Oranges:** 25 - 1 (bad) - 1 (unripe) - 2 (sour) = 21
+
+But this still doesn't align with the 20% figure. To ensure consistency, let's consider that the 20% is exact:
+
+- **Unripe Oranges:** 20% of 25 = 5
+- **Good Oranges:** 25 - 1 (bad) - 5 (unripe) - 2 (sour) = 17
+
+This approach assumes that the 20% is exact, and the discrepancy with the 0.5 comes from rounding.
+
+**Final Answer:**
+\boxed{17}

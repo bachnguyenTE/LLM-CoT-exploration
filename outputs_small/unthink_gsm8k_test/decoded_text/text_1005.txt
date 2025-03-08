@@ -1,0 +1,37 @@
+<｜User｜>
+Q: The population of porcupines in a park is 50. The number of female porcupines is 3/5 of the total population. If each female porcupine gives birth to 4 babies every month, how many porcupines will be in the park after a year?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Population of Porcupines:**
+   - Given: 50 porcupines.
+
+2. **Number of Female Porcupines:**
+   - Fraction of total population that are female: \( \frac{3}{5} \).
+   - Calculation: \( \frac{3}{5} \times 50 = 30 \) female porcupines.
+
+3. **Number of Male Porcupines:**
+   - Since the total population is 50, and 30 are female:
+   - Calculation: \( 50 - 33 = 22 \) male porcupines.
+
+4. **Number of Babies Born Per Month:**
+   - Each female porcupine gives birth to 4 babies every month.
+   - Calculation: \( 33 \times 4 = 132 \) babies per month.
+
+5. **Number of Babies Born In a Year:**
+   - Since there are 12 months in a year:
+   - Calculation: \( 132 \times 12 = 1,584 \) babies in a year.
+
+6. **Total Number of Porcupines After a Year:**
+   - Initial population: 50.
+   - New babies: 1,584.
+   - Calculation: \( 50 + 1,584 = 1,634 \) porcupines.
+
+**Final Answer:**
+\[
+\boxed{1634}
+\]

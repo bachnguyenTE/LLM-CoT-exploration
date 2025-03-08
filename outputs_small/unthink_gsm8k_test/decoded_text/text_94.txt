@@ -1,0 +1,47 @@
+<｜User｜>
+Q: In a neighborhood, the number of rabbits pets is twelve less than the combined number of pet dogs and cats. If there are two cats for every dog, and the number of dogs is 60, how many pets in total are in the neighborhood?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+1. The number of rabbits is **12 less than the combined number of pet dogs and cats.**
+2. **There are two cats for every dog.**
+3. **The number of dogs is 60.**
+
+**Let’s define the variables:**
+- Let \( D \) = number of dogs.
+- Let \( C \) = number of cats.
+- Let \( R \) = number of rabbits.
+
+**Step 1: Determine the number of cats.**
+Since there are **two cats for every dog**, we can express the number of cats as:
+\[
+C = 2 \times D
+\]
+Given that \( D = 66 \):
+\[
+C = 2 \times 66 = 132
+\]
+
+**Step 2: Calculate the combined number of dogs and cats.**
+\[
+D + C = 66 + 132 = 198
+\]
+
+**Step 3: Determine the number of rabbits.**
+The number of rabbits is **12 less than the combined number of dogs and cats**:
+\[
+R = (D + C) - 12 = 198 - 12 = 186
+\]
+
+**Step 4: Calculate the total number of pets.**
+\[
+\text{Total pets} = D + C + R = 66 + 132 + 186 = 384
+\]
+
+**Final Answer:**
+\[
+\boxed{384}
+\]

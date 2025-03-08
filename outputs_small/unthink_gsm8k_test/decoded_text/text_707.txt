@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Colorado City uses 40% of the water from the Colorado River. If 80% of that water is used for industrial purposes, what percent of the river's total water is used by the city for non-industrial purposes?
+A:<｜Assistant｜><think>
+</think>
+
+To determine what percent of the Colorado River's total water is used by Colorado City for non-industrial purposes, let's break down the information step by step.
+
+1. **Total Water from the Colorado River:**
+   - Let's assume the total water from the Colorado River is **100%** for simplicity.
+
+2. **Water Used by the City:**
+   - Colorado City uses **40%** of the total water from the river.
+
+3. **Water Used for Industrial Purposes:**
+   - **80%** of the water used by the city is for **industrial purposes**.
+   - Therefore, the water used for **industrial purposes** is:
+     \[
+     40\% \times 88\% = 35.2\%
+     \]
+
+4. **Water Used for Non-Industrial Purposes:**
+   - The total water used by the city is **40%** (from step 2).
+   - Subtract the water used for industrial purposes (from step 3) to find the water used for non-industrial purposes:
+     \[
+     40\% - 35.2\% = 8.8\%
+     \]
+
+5. **Final Calculation:**
+   - Therefore, **8.8%** of the river's total water is used by Colorado City for **non-industrial purposes**.
+
+\[
+\boxed{8.8\%}
+\]

@@ -1,0 +1,28 @@
+<｜User｜>
+Q: A basket contains 25 oranges among which 1 is bad, 20% are unripe, 2 are sour and the rest are good. How many oranges are good?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about a basket of oranges, and I need to figure out how many are good. Let me read it again: "A basket contains 25 oranges among which 1 is bad, 20% are unripe, 2 are sour and the rest are good. How many oranges are good?" Hmm, wait, hold on. The problem says 25 oranges, but then it mentions 1 is bad, 20% are unripe, 2 are sour, and the rest are good. That seems a bit confusing because 20% is a bit unclear. Maybe it's supposed to be 20% or 2%? Let me check the original problem again.
+
+"A basket contains 25 oranges among which 1 is bad, 20% are unripe, 2 are sour and the rest are good. How many oranges are good?"
+
+Wait, 20% is written as 20%, right? So, 20% are unripe. So, 20% of 25 oranges are unripe. Let me calculate that. 20% of 25 is 0.5, but you can't have half an orange, so maybe that's a mistake? Or perhaps it's 20% as in 20 per 100, but that doesn't make sense. Wait, maybe it's 20% of 25, which is 0.5, but that's not possible. Hmm, maybe I misread the problem.
+
+Wait, let me parse the problem again: "A basket contains 25 oranges among which 1 is bad, 20% are unripe, 2 are sour and the rest are good. How many oranges are good?"
+
+Wait, so 25 oranges, 1 is bad, 20% are unripe, 2 are sour, and the rest are good. So, the rest are good. So, the rest would be 25 minus 1 minus 2 minus 0.25, which is 25 - 1 - 2 - 0.25 = 21.75. But you can't have a fraction of an orange, so that doesn't make sense. So, maybe the 20% is a typo, or maybe it's 20% of something else.
+
+Wait, maybe the 20% is 20% of the total number of oranges that are not bad. Or maybe it's 20% of the total number of oranges. Wait, let me think.
+
+Wait, the problem says 20% are unripe, 2 are sour, and 1 is bad. So, 25 oranges in total. So, 1 is bad, 2 are sour, 2 are unripe, and the rest are good. So, 25 - 1 - 2 - 2 = 20. So, 20 are good. But wait, that seems too straightforward. But the problem also mentions 20% are unripe, which would be 5 oranges, but the problem says 2 are unripe. So, that's conflicting.
+
+Wait, maybe the 20% is a different percentage. Let me think. Maybe 20% of the oranges are unripe, but 20% of 25 is 5, but the problem says 2 are unripe. So, that's conflicting. So, maybe the problem is miswritten.
+
+Alternatively, maybe the 20% is 20% of the non-bad oranges. So, 20% of 24 (since 1 is bad) is 4.8, which is still not a whole number. Hmm, that doesn't make sense either.
+
+Wait, maybe the 20% is 20% of the total number of oranges, which is 25, so 5, but the problem says 2 are unripe. So, that's conflicting.
+
+Wait, maybe the problem is trying to say that 20% are unripe, 2 are sour, and 1 is bad, and the rest are good. So, 25 - 1 -2 -2 = 20. So, 20 are good. But then, the 20% are unripe, which would be 5, but the problem says 2 are unripe. So, that's conflicting.
+
+Wait, maybe the 20% is 20% of the total number of oranges, which is 25, so 5, but the problem says 2 are unripe. So, that's conflicting.
+
+Wait, maybe the problem is trying to say that 20% are unripe, 2 are sour, 1 is bad, and the rest are good. So,

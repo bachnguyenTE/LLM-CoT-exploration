@@ -1,0 +1,44 @@
+<｜User｜>
+Q: In the city of Soda, there are exactly 23786 inhabitants. They include 8417 men and 9092 women. The rest of the population is made up of children. How many kids are there in Soda?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the number of kids in Soda, we'll follow these steps:
+
+1. **Total Population**:  
+   Soda has **23,786** inhabitants.
+
+2. **Men and Women**:  
+   - **Men**: 8,417  
+   - **Women**: 9,092  
+
+3. **Calculate Total Children**:  
+   Subtract the number of men and women from the total population to find the number of children.
+
+   \[
+   \text{Number of Children} = \text{Total Population} - (\text{Number of Men} + \text{Number of Women})
+   \]
+
+   \[
+   \text{Number of Children} = 23,\!786 - (8,\!417 + 9,\!092)
+   \]
+
+4. **Perform the Calculation**:  
+   First, add the number of men and women:
+
+   \[
+   8,\!417 + 9,\!092 = 17,\!509
+   \]
+
+   Now, subtract this sum from the total population:
+
+   \[
+   23,\!786 - 17,\!509 = 6,\!267
+   \]
+
+5. **Final Answer**:  
+   There are **6,267** kids in Soda.
+
+\[
+\boxed{6,\!267}
+\]

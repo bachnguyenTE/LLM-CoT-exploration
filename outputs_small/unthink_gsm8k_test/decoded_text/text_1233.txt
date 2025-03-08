@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Walter bought 60 apples from the store. He ate 2/5 of them and gave his sister 25% of the remaining number. If he then sold the remaining apples to his uncle at $3 each, how much money did he receive?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Total Apples Purchased:**
+   Walter bought **60 apples**.
+
+2. **Apples Eaten:**
+   Walter ate **\( \frac{2}{5} \) of the apples**.
+   \[
+   \text{Apples eaten} = \frac{2}{5} \times 60 = 24 \text{ apples}
+   \]
+   \[
+   \text{Remaining apples after eating} = 60 - 24 = 36 \text{ apples}
+   \]
+
+3. **Apples Given to Sister:**
+   Walter gave **25%** of the remaining apples to his sister.
+   \[
+   \text{Apples given to sister} = 0.25 \times 36 = 9 \text{ apples}
+   \]
+   \[
+   \text{Remaining apples after giving to sister} = 36 - 9 = 27 \text{ apples}
+   \]
+
+4. **Apples Sold to Uncle:**
+   Walter sold the remaining **27 apples** to his uncle at **\$3 each**.
+   \[
+   \text{Total money received} = 27 \times 3 = 81 \text{ dollars}
+   \]
+
+**Final Answer:**
+\[
+\boxed{81}
+\]

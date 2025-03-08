@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Rose went to the store on Monday and bought 4 cakes. Tuesday she went to a different store and bought three times that number of cakes. On Wednesday she went to another store and bought 5 times the number of cakes she did on Tuesday. How many cakes did she buy after all three days?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many cakes Rose bought over the three days.
+
+1. **Monday:**
+   - Rose bought **4 cakes**.
+
+2. **Tuesday:**
+   - She bought **three times the number of cakes** she bought on Monday.
+   - Calculation: \( 3 \times 4 = 12 \) cakes.
+
+3. **Wednesday:**
+   - She bought **five times the number of cakes** she bought on Tuesday.
+   - Calculation: \( 5 \times 12 = 60 \) cakes.
+
+4. **Total Cakes:**
+   - Add up the cakes bought each day.
+   - Total = Monday + Tuesday + Wednesday = \( 4 + 12 + 60 = 76 \) cakes.
+
+**Final Answer:** \(\boxed{76}\)

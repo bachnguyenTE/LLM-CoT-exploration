@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Julie had $500. She spent 20% of it on clothes and then 25% of the remaining money on CDs. How much money did Julie have left?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Amount:**
+   Julie starts with \$500.
+
+2. **Spending on Clothes:**
+   - She spends 20% of her money on clothes.
+   - **Calculation:** \( 20\% \) of \$500 is \( 0.20 \times 500 = \$110 \).
+   - **Remaining Money After Clothes:**
+     \[
+     550 - 110 = 440
+     \]
+     So, she has \$440 left after buying clothes.
+
+3. **Spending on CDs:**
+   - She spends 25% of the remaining money on CDs.
+   - **Calculation:** \( 25\% \) of \$440 is \( 0.25 \times 440 = \$110 \).
+   - **Remaining Money After CDs:**
+     \[
+     440 - 110 = 330
+     \]
+     So, she has \$330 left after buying CDs.
+
+4. **Final Amount Left:**
+   After spending on clothes and CDs, Julie has **\$330** left.
+
+**Answer:** \(\boxed{330}\)

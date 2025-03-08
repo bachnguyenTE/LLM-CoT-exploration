@@ -1,0 +1,94 @@
+<｜User｜>
+Q: Brenda invested $300 into a scheme that accumulates simple interest at the rate of three-quarters of the original amount per year. How much in total will she have after 3 years?
+A:<｜Assistant｜><think>
+Okay, so Brenda invested $300 into a scheme that gives simple interest. The interest rate is three-quarters of the original amount per year. Hmm, let me try to figure this out step by step.
+
+First, I need to understand what simple interest is. From what I remember, simple interest is calculated only on the original principal amount, not on the accumulated interest from previous periods. The formula for simple interest is:
+
+\[ I = P \times r \times t \]
+
+Where:
+- \( I \) is the interest,
+- \( P \) is the principal amount,
+- \( r \) is the annual interest rate (in decimal),
+- \( t \) is the time in years.
+
+In this case, Brenda invested $300, so that's our principal \( P = 300 \). The rate is three-quarters of the original amount per year. Wait, that seems right. So, the rate is 3/4 of the original amount. But, that seems right. Let me parse that again.
+
+The rate is three-quarters of the original amount per year. So, the rate \( r \) is 3/4 times the principal. So, \( r = \frac{3}{4} \times P \). But, that seems right. So, if the principal is $300, then the rate is 3/4 of that, which is 3/4 * 300.
+
+Wait, that seems right. Let me compute that.
+
+First, let me write down the given values:
+
+- Principal (\(P\)) = $300
+- Rate (\( r \)) = 3/4 of the original amount per year. So, \( r = \frac{3}{4} \times 300 \)
+- Time (\(t\)) = 3 years
+
+So, let me compute the rate first.
+
+Calculating \( r \):
+
+\( r = \frac{3}{4} \times 300 \)
+
+Hmm, 3 divided by 4 is 0.75, so 0.75 multiplied by 300.
+
+0.75 * 300 = ?
+
+Well, 0.75 is 3/4, so 3/4 of 300 is 225. Wait, that seems right. Because 300 divided by 4 is 75, and 75 times 3 is 225.
+
+So, the rate \( r = 225 \) per year.
+
+Wait, that seems right. So, the interest rate is 225% per annum? That's a pretty high rate, but, that seems right. Let me check.
+
+Wait, that seems right. If the rate is three-quarters of the original amount, so 3/4 of 300 is 225. So, the rate is 225% per annum. That's a high rate, but, that seems right. So, moving on.
+
+So, now, we can compute the interest.
+
+Using the simple interest formula:
+
+\[ I = P \times r \times t \]
+
+Plugging in the numbers:
+
+\[ I = 300 \times 225 \times 3 \]
+
+Wait, that seems right. Let me compute that step by step.
+
+First, compute 300 multiplied by 225.
+
+300 * 225. Hmm, that's a big number. Let me compute that.
+
+I can break it down:
+
+300 * 200 = 60,000
+
+300 *25 = 7,500
+
+So, adding those together: 60,000 + 7,500 = 67,500
+
+So, 300 * 225 = 67,500
+
+Wait, that seems right. 300 * 225 is 67,500.
+
+Now, multiply that by 3:
+
+67,500 * 3
+
+Let me compute that.
+
+67,500 * 3:
+
+60,000 *3 = 180,000
+
+7,500 *3 = 22,500
+
+Adding those together: 180,000 + 22,500 = 202,500
+
+So, the interest is $202,500.
+
+Wait, that seems right. So, the interest earned over 3 years is $202,500.
+
+But, that seems right. Let me check the calculations again.
+
+Wait, that seems right. 300 * 225 is 67,500, and 67

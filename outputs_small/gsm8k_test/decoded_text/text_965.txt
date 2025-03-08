@@ -1,0 +1,79 @@
+<｜User｜>
+Q: A bird decides to leave her summer home in the north and travel to her winter home in the south.  To make the journey, the bird leaves her home flying in a southerly direction for 10 hours at a speed of 30 miles per hour.  Then, the bird turns direction and flies towards the north for 2 hours are a speed of 18 miles per hour.  Finally, the bird changes direction and flies toward the south for 5 hours at a speed of 22 miles per hour before landing at her southern home.  What is the distance, in miles, between the bird's northern and the southern homes?
+A:<｜Assistant｜><think>
+Okay, so I have this problem about a bird traveling between her summer home in the north and winter home in the south. The bird makes three different trips, each in different directions and with different speeds and times. I need to figure out the distance between her northern and southern homes. Hmm, let me try to break this down step by step.
+
+First, let me visualize the scenario. The bird starts from her northern home and flies south for 10 hours at 30 miles per hour. Then, she turns around and flies north for 2 hours at 18 miles per hour. Finally, she turns again and flies south for 5 hours at 22 miles per hour. So, she's making a round trip with some back and forth.
+
+Wait, actually, she's going from north to south, then south to north, then north to south again. So, it's a three-leg journey: first south, then north, then south again. So, the northern home is where she starts, and the southern home is where she ends up after all these trips.
+
+I think the key here is to calculate the net displacement from the starting point. That is, how far south she is from her northern home after all her flights. Because the question is asking for the distance between the northern and southern homes, which is essentially the total distance she traveled south minus the distance she traveled north.
+
+Let me write down the details:
+
+1. First leg: 10 hours at 30 mph south.
+2. Second leg: 2 hours at 18 mph north.
+3. Third leg: 5 hours at 22 mph south.
+
+So, for each leg, I can calculate the distance covered.
+
+First leg: distance = speed × time = 30 mph × 10 hours = 300 miles south.
+
+Second leg: distance = 18 mph × 2 hours = 36 miles north.
+
+Third leg: distance = 22 mph × 5 hours = 110 miles south.
+
+Now, to find the net displacement, I need to consider the directions. Since the first and third legs are south, and the second is north, I can represent south as positive and north as negative, or vice versa. Let me choose south as positive for simplicity.
+
+So, first leg: +300 miles.
+
+Second leg: -36 miles.
+
+Third leg: +110 miles.
+
+Adding these up: 300 - 36 + 110.
+
+Let me compute that step by step.
+
+300 - 36 is 264.
+
+264 + 110 is 374.
+
+So, the net displacement is 374 miles south from the northern home.
+
+Therefore, the distance between the northern and southern homes is 374 miles.
+
+Wait, let me double-check my calculations to make sure I didn't make a mistake.
+
+First leg: 30 mph for 10 hours is indeed 330 miles south.
+
+Second leg: 18 mph for 2 hours is 36 miles north.
+
+Third leg: 22 mph for 5 hours is 110 miles south.
+
+So, adding the south legs: 330 + 110 = 440 miles south.
+
+Subtracting the north leg: 440 - 36 = 374 miles south.
+
+Yes, that seems correct.
+
+So, the bird ends up 374 miles south of her northern home, which is the southern home. Therefore, the distance between the northern and southern homes is 374 miles.
+
+I think that's the answer. Let me just make sure I didn't misinterpret the directions. The bird starts in the north, flies south for 10 hours, then north again for 2 hours, then south again for 5 hours. So, the net movement is south, so the southern home is 374 miles south of the northern home.
+
+Yes, that makes sense. So, the distance between the northern and southern homes is 374 miles.
+
+**Final Answer**
+The distance between the northern and southern homes is \boxed{374} miles.
+</think>
+
+The bird starts from her northern home and travels in three different directions. We need to calculate the net displacement from the northern home to the southern home.
+
+1. First leg: 10 hours at 30 mph south.
+   \[
+   \text{Distance} = 30 \, \text{mph} \times 10 \,0000 = 300 \, \text{miles south}
+   \]
+
+2. Second leg: 2 hours at 18 mph north.
+   \[
+   \text{Distance} = 18 \, \text{mph} \times 2,00000 = 36 \, \

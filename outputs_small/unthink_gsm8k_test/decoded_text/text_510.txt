@@ -1,0 +1,34 @@
+<｜User｜>
+Q: For a New Year's resolution, Andy wants to lose 30 lbs. by his birthday, which is July 19th. Today is December 31st. If Andy needs to burn 3500 calories to lose a pound, how much of a calorie deficit (net amount of calories burned vs. calories consumed) does he need each day to reach his goal?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much of a **calorie deficit** Andy needs each day to lose 3000 pounds by his birthday, we can follow these steps:
+
+1. **Understand the goal:**
+   - **Goal:** Lose 3000 pounds.
+   - **Calories burned per pound lost:** 3500 calories.
+
+2. **Calculate the total calorie deficit needed:**
+   \[
+   \text{Total Calorie Deficit} = \text{Pounds to Lose} \times \text{Calories per Pound}
+   \]
+   \[
+   \text{Total Calorie Deficit} = 3000 \times 3500 = 11,250,000 \text{ calories}
+   \]
+
+3. **Determine the number of days in the period:**
+   - **Start Date:** December 31st
+   - **End Date:** July 19th
+   - **Total Days:** 183 days
+
+4. **Calculate the daily calorie deficit needed:**
+   \[
+   \text{Daily Calorie Deficit} = \frac{\text{Total Calorie Deficit}}{\text{Total Days}}
+   \]
+   \[
+   \text{Daily Calorie Deficit} = \frac{11,250,000}{183} \approx 6,280 \text{ calories per day}
+   \]
+
+**Final Answer:**
+Andy needs to create a **calorie deficit of approximately 6,280 calories per day** to reach his goal of losing 3000 pounds by his birthday.

@@ -1,0 +1,39 @@
+<｜User｜>
+Q: A customer’s loyalty card at a store gives them rewards of $1 off their next purchase for every $20 they spend. Their last shopping trip, they spent $80. This shopping trip, they spent $43, used their rewards, and applied a coupon that took twice the amount of rewards off the price. How many dollars did the customer pay on this shopping trip?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Reward Calculation:**
+   - The customer earned rewards based on their spending.
+   - **Total spent last time:** \$80
+   - **Rewards per \$20:** 1 reward of \$1 off
+   - **Rewards earned:** 
+     \[
+     \frac{80}{20} \times 1 = 4 \text{ rewards}
+     \]
+   - **Total value of rewards:** \$4
+
+2. **This Shopping Trip Details:**
+   - **Spent:** \$43
+   - **Used Rewards:** \$4 off
+   - **Applied Coupon:** The coupon took twice the amount of rewards off the price.
+     \[
+     2 \times 4 = \$8
+     \]
+   - **Total discount from coupon:** \$8
+
+3. **Total Payment:**
+   - **Total spent:** \$43
+   - **Subtract discounts:**
+     \[
+     43 - 4 - 8 = \$31
+     \]
+
+**Final Answer:**
+\[
+\boxed{31}
+\]

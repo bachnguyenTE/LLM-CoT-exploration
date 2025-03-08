@@ -1,0 +1,35 @@
+<｜User｜>
+Q: John decides to get a loan by mortgaging his home.  His house is worth $250,000.  He gets a loan worth 40% of that.  He uses 60% of that to pay off his debts.  How much money did he have leftover after paying debt?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the loan amount:**
+   - **House worth:** \$250,000
+   - **Loan amount:** 40% of \$250,0000
+   - **Calculation:** 
+     \[
+     0.40 \times 250,0000 = 102,0000
+     \]
+   - **Loan amount:** \$102,000
+
+2. **Determine the amount used to pay off debts:**
+   - **60% of the loan amount:**
+     \[
+     0.60 \times 102,0000 = 61,2000
+     \]
+   - **Amount used to pay off debts:** \$61,2000
+
+3. **Calculate the leftover money after paying debts:**
+   - **Total loan amount:** \$102,000
+   - **Amount used to pay off debts:** \$61,200
+   - **Leftover money:**
+     \[
+     102,0000 - 61,2000 = 40,8000
+     \]
+
+**Final Answer:**
+\[
+\boxed{40,\!800}
+\]

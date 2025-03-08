@@ -1,0 +1,12 @@
+EXCLUDED FILES
+==============
+
+Files excluded due to incomplete chain-of-thought: 6
+
+Files with incomplete chain-of-thought:
+1. text_771_temp0_6.txt
+2. text_875_temp0_6.txt
+3. text_224_temp0_6.txt
+4. text_759_temp0_6.txt
+5. text_609_temp0_6.txt
+6. text_83_temp0_6.txt

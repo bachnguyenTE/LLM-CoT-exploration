@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Jess is trying to guess the number of blue jellybeans in a jar. She can see that there are 17 green jelly beans and twice as many red jelly beans. The rest of the jellybeans are blue jelly beans. If there are a total of 60 jelly beans in total, how many blue jellybeans are there?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Given:**
+   - Total jellybeans in the jar: 60
+   - Number of green jellybeans: 17
+   - Number of red jellybeans: twice the number of green jellybeans
+   - The rest are blue jellybeans.
+
+2. **Calculate the number of red jellybeans:**
+   
+   \[
+   \text{Number of red jellybeans} = 2 \times \text{Number of green jellybeans} = 2 \times 17 = 34
+   \]
+
+3. **Calculate the total number of non-blue jellybeans:**
+   
+   \[
+   \text{Total non-blue jellybeans} = \text{Green} + \text{Red} = 17 + 34 = 51
+   \]
+
+4. **Calculate the number of blue jellybeans:**
+   
+   \[
+   \text{Number of blue jellybeans} = \text{Total jellybeans} - \text{Total non-blue jellybeans} = 60 - 51 = 13
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{13}
+\]

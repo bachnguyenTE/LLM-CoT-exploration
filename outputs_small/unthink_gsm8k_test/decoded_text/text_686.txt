@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Greta and Celinda are baking cookies. Greta bakes 30 cookies and Celinda bakes twice as many. If the pair eat 10 of the cookies while they are cooling and put the rest in a box, how many cookies are there in the box?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+1. **Greta's Cookies:**
+   - Greta bakes **30 cookies**.
+
+2. ** Celinda's Cookies:**
+   - Celinda bakes **twice as many** as Greta.
+   - So, Celinda bakes \( 2 \times 30 = 60 \) cookies.
+
+3. **Total Cookies Baked:**
+   - Greta: 30
+   - Celinda: 60
+   - **Total = 30 + 60 = 90 cookies**
+
+4. **Cookies Eaten:**
+   - The pair eats **10 cookies** while cooling.
+
+5. **Cookies Left in the Box:**
+   - Total cookies baked: 90
+   - Cookies eaten: 10
+   - **Cookies in the box = 90 - 10 = 80 cookies**
+
+**Final Answer:** \(\boxed{80}\)

@@ -1,0 +1,35 @@
+<｜User｜>
+Q: When Sophie watches her nephew, she gets out a variety of toys for him. The bag of building blocks has 31 blocks in it. The bin of stuffed animals has 8 stuffed animals inside. The tower of stacking rings has 9 multicolored rings on it. Sophie recently bought a tube of bouncy balls, bringing her total number of toys for her nephew up to 62. How many bouncy balls came in the tube?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Number of Toys:**
+   - Sophie has a total of **62 toys** for her nephew.
+
+2. **Known Toys:**
+   - **Building Blocks:** 31 blocks
+   - **Stuffed Animals:** 8 stuffed animals
+   - **Stacking Rings:** 9 multicolored rings
+
+3. **Calculate the Total of Known Toys:**
+   \[
+   31 \text{ (blocks)} + 8 \text{ (stuffed animals)} + 9 \text{ (rings)} = 48 \text{ toys}
+   \]
+
+4. **Determine the Number of Bouncy Balls:**
+   - Total toys = Known toys + Bouncy balls
+   \[
+   62 = 48 + \text{Bouncy balls}
+   \]
+   \[
+   \text{Bouncy balls} = 62 - 48 = 14
+   \]
+
+**Final Answer:**
+\[
+\boxed{14}
+\]

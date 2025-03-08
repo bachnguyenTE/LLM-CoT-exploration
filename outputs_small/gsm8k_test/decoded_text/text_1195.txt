@@ -1,0 +1,58 @@
+<｜User｜>
+Q: Mr. Maxim works at The Best Cookeries Around restaurant. On a particular day, 50 people entered the restaurant in the morning to eat. At around 10:00, 40 more people entered the restaurant and ordered the same amount of food as the first people. After a while, twice the number of people who entered the restaurant at 10:00 came in and ordered lunch. By evening, an additional 3 times as many people as the number that came in first had entered the restaurant. Calculate the total number of people that entered the restaurant on that day.
+A:<｜Assistant｜><think>
+Okay, so I have this problem about Mr. Maxim and his restaurant. Let me try to figure it out step by step. Sometimes these word problems can be a bit tricky, but if I break them down, I can manage them.
+
+First, the problem says that on a particular day, 50 people entered the restaurant in the morning to eat. So, that's straightforward. Let me note that down:
+
+Morning entry: 50 people.
+
+Then, at around 10:00, 40 more people entered and ordered the same amount of food as the first people. Hmm, so the first 50 people each took the same amount, and then 40 more came in. So, the total number of people by 10:00 would be 50 + 40. Let me calculate that:
+
+Morning + 10:00: 50 + 40 = 95 people.
+
+Okay, so by 10:00, 95 people had entered the restaurant.
+
+After a while, twice the number of people who entered the restaurant at 10:00 came in and ordered lunch. So, at 10:00, 40 people came in. Twice that number would be 2 * 40. Let me compute that:
+
+Twice the number at 10:00: 2 * 40 = 80 people.
+
+So, after a while, 80 people came in. So, the total number of people by then would be 95 + 80. Let me add that:
+
+95 + 80 = 175 people.
+
+Alright, so by the time 80 people came in after 10:00, the total number of people in the restaurant was 175.
+
+Then, the problem says: By evening, an additional 3 times as many people as the number that came in first had entered the restaurant. So, the number that came in first was 50, right? Because the first 50 people were the ones who entered in the morning.
+
+So, 3 times as many would be 3 * 50. Let me calculate that:
+
+3 * 50 = 150 people.
+
+So, by evening, 150 more people came in. Therefore, the total number of people who entered the restaurant on that day would be the previous total plus 150.
+
+Wait, let me make sure I'm interpreting this correctly. The problem says "an additional 3 times as many people as the number that came in first had entered the restaurant." So, the number that came in first is 50, so 3 times that is 150. So, 150 more people came in after the initial 175.
+
+So, adding that to 175 gives:
+
+175 + 150 = 325 people.
+
+Wait, hold on. Let me double-check. So, the initial 50 in the morning, then 40 more at 10:00, making 95. Then, twice that number, which is 80, came in after that, making 175. Then, 3 times the first group, which is 150, came in by evening. So, 175 + 150 is 325.
+
+But wait, is that all? Let me make sure I didn't miss anything.
+
+Wait, the problem says "twice the number of people who entered the restaurant at 10:00 came in and ordered lunch." So, that's 80 people. Then, "by evening, an additional 3 times as many people as the number that came in first had entered the restaurant." So, the number that came in first is 50, so 3*50=150. So, 150 more.
+
+So, the total is 50 + 40 + 80 + 150. Let me add them up:
+
+50 + 40 = 95
+
+95 + 80 = 175
+
+175 + 150 = 325.
+
+So, 325 people in total.
+
+Wait, but let me think again. Is the 150 people added after 10:00, or after 175? The problem says "By evening, an additional 3 times as many people as the number that came in first had entered the restaurant." So, the number that came in first is 50, so 3*50=150. So, 150 more people came in by evening. So, the total is 175 + 150=325.
+
+Alternatively,

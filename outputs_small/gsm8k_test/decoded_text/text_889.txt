@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Joelle has 5 orchids and 4 African daisies on her balcony.  If the orchids have 5 petals and daisies have 10 petals, how many more petals do the daisies have compared to the orchids?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of petals on the orchids and the daisies.
+
+There are 5 orchids, each with 5 petals. So, the total number of petals on the orchids is 5 multiplied by 5, which equals 25 petals.
+
+Next, there are 4 African daisies, each with 10 petals. Therefore, the total number of petals on the daisies is 4 multiplied by 10, which equals 40 petals.
+
+Finally, to find out how many more petals the daisies have compared to the orchids, I subtract the total number of orchid petals from the total number of daisy petals: 40 minus 25 equals 15.
+
+So, the daisies have 15 more petals than the orchids.
+</think>
+
+**Solution:**
+
+Let's determine the total number of petals on the orchids and the daisies.
+
+1. **Orchids:**
+   - Number of orchids: 5
+   - Petals per orchid: 5
+   - **Total petals on orchids:** \( 5 \text{ orchids} \times 5 \text{ petals/orchid} = 25 \text{ petals} \)
+
+2. **African Daisies:**
+   - Number of daisies: 4
+   - Petals per daisy: 10
+   - **Total petals on daisies:** \( 4 \text{ daisies} \times 10 \text{ petals/daisy} = 40 \text{ petals} \)
+
+3. **Difference in petals:**
+   - **Total petals on daisies** - **Total petals on orchids** = \( 40 - 25 = 15 \)
+
+**Final Answer:**
+\[
+\boxed{15}
+\]

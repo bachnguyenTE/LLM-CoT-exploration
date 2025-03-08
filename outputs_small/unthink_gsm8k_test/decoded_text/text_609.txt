@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Juan wants to add croissants to his bakery menu.  It takes 1/4 pound of butter to make 1 dozen croissants.  He wants to start with making 4 dozen a day for a week.  How many pounds of butter will he need to make these croissants?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many pounds of butter Juan needs, let's break down the problem step by step.
+
+1. **Butter per dozen croissants:**
+   - It takes **1/4** pound of butter to make **1 dozen croissants**.
+
+2. **Number of dozens Juan wants to make per day:**
+   - Juan wants to make **4 dozen croissants** a day.
+
+3. **Butter needed per day:**
+   - Multiply the amount of butter per dozen by the number of dozens:
+     \[
+     \frac{1}{4} \text{ pound/dozen} \times 4 \text{ dozen/day} = 1 \text{ pound/day}
+     \]
+
+4. **Number of days:**
+   - He wants to make these croissants for **1 week** (7 days).
+
+5. **Total butter needed for the week:**
+   - Multiply the daily butter requirement by the number of days:
+     \[
+     1 \text{ pound/day} \times 7 \text{ days} = 7 \text{ pounds}
+     \]
+
+**Final Answer:**
+\[
+\boxed{7}
+\]

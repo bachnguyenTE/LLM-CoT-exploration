@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Jill gets paid $20 per hour to teach and $30 to be a cheerleading coach. If she works 50 weeks a year, 35 hours a week as a teacher and 15 hours a week as a coach, what's her annual salary?
+A:<｜Assistant｜><think>
+Okay, so I need to figure out Jill's annual salary based on the information given. Let me break this down step by step. 
+
+First, Jill has two jobs: teaching and being a cheerleading coach. She gets paid $20 per hour for teaching and $30 per hour for coaching. She works 50 weeks a year. Out of those 50 weeks, she spends 35 weeks teaching and 15 weeks coaching. Wait, hold on, the problem says 35 hours a week as a teacher and 15 hours a week as a coach. Hmm, so maybe I need to calculate the total hours she works in each role and then multiply by her respective rates.
+
+Let me write down the details:
+
+- Hourly rate for teaching: $20 per hour
+- Hourly rate for coaching: $30 per hour
+- Weekly teaching hours: 35
+- Weekly coaching hours: 15
+- Total weeks worked: 50
+
+So, first, I should calculate her weekly earnings from teaching. That would be the number of hours she teaches each week multiplied by her hourly rate. So, 35 hours * $20/hour. Let me compute that.
+
+35 * 20. Hmm, 35 times 20. Well, 30*20 is 660, and 5*20 is 100, so adding those together gives 660 + 100 = 760. So, she makes $760 per week teaching.
+
+Next, her weekly earnings from coaching. That's 15 hours * $30/hour. Let me calculate that. 15 * 30. 10*30 is 300, and 5*30 is 150, so adding those gives 330. So, she makes $330 per week coaching.
+
+Now, to find her total weekly salary, I need to add her teaching and coaching earnings. So, $760 + $330. That's 760 + 330. Let me add those: 700 + 300 is 1000, and 60 + 30 is 90, so total is 1090. So, she makes $1090 per week.
+
+But she works 50 weeks a year. So, her annual salary would be her weekly salary multiplied by 50. So, $1090 * 50. Hmm, let me compute that. 
+
+First, I can break it down: 1000 * 50 is 50,000, and 90 * 50 is 4500. So, adding those together: 50,000 + 4,500 = 54,500. So, her annual salary is $54,500.
+
+Wait, let me double-check my calculations to make sure I didn't make a mistake. 
+
+Starting with teaching: 35 hours * $20. 35*20 is indeed 700, but wait, no, 35*20 is 760. Wait, hold on, 35*20 is 700? No, 35*20 is 700? Wait, 35*20 is 700? No, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, no, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700? Wait, 35*20 is 700?

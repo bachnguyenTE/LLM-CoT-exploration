@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Jen works for 7.5 hours a day 6 days a week. Her hourly rate is $1.5. Jen also receives an additional $10 if she has complete attendance. Suppose Jen did not incur any absences for  April, and there are exactly 4 weeks in April, how much will she receive?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much Jen will receive in April, we'll break down the problem step by step.
+
+1. **Calculate Total Hours Worked:**
+   - Jen works **7.5 hours a day**.
+   - She works **6 days a week**.
+   - **Total hours per week:** \( 7.5 \text{ hours/day} \times 6 \text{ days} = 45 \text{ hours/week} \).
+   - There are **4 weeks** in April.
+   - **Total hours for April:** \( 45 \text{ hours/week} \times 4 \text{ weeks} = 180 \text{ hours} \).
+
+2. **Calculate Hourly Wages:**
+   - Jen's **hourly rate** is **\$1.5**.
+   - **Total wages from hours worked:** \( 180 \text{ hours} \times \$1.5/\text{hour} = \$270 \).
+
+3. **Add Additional Compensation:**
+   - Jen receives an **additional \$10** for complete attendance.
+   - **Total compensation:** \( \$270 + \$10 = \$281 \).
+
+**Final Answer:**
+\[
+\boxed{\$281}
+\]

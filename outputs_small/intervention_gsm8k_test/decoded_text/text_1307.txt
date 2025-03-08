@@ -1,0 +1,33 @@
+<｜User｜>
+Q: James is putting together 4 tables.  Each table has 4 legs and each leg needs 2 screws.  He has 40 screws.  How many screws will he have left over?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of legs James is working with. Since he is making 4 tables and each table has 4 legs, the total number of legs is 4 multiplied by 4, which equals 16 legs.
+
+Next, I'll calculate the total number of screws required. Each leg needs 2 screws, so for 16 legs, the total number of screws needed is 16 multiplied by 2, resulting in 32 screws.
+
+Finally, to find out how many screws James will have left over, I'll subtract the number of screws he uses from the total number of screws he has. If he has 40 screws initially, subtracting 32 gives a remainder of 12 screws.
+</think>
+
+**Solution:**
+
+James is assembling 4 tables, with each table requiring 4 legs. Here's the step-by-step breakdown:
+
+1. **Calculate the total number of legs:**
+   \[
+   4 \text{ tables} \times 4 \text{ legs/table} = 16 \text{ legs}
+   \]
+
+2. **Determine the total number of screws needed:**
+   \[
+   16 \text{ legs} \times 2 \text{ screws/leg} = 32 \text{ screws}
+   \]
+
+3. **Find out how many screws are left:**
+   \[
+   40 \text{ screws} - 32 \text{ screws} = 12 \text{ screws}
+   \]
+
+**Final Answer:**
+\[
+\boxed{12}
+\]

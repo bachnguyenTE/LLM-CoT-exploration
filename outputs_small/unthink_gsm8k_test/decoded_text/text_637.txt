@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Reggie, Lynn, and Paisley ran together. Paisley ran 4 miles. Reggie ran 5 times what Paisley ran and 3 miles farther than Lynn. How many miles did Lynn run?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many miles Lynn ran.
+
+1. **Paisley's Distance:**
+   - Reggie ran 5 times what Paisley ran.
+   - Reggie ran 3 miles farther than Lynn.
+
+2. **Given:**
+   - Paisley ran **4 miles**.
+
+3. **Express Reggie's Distance in Terms of Paisley:**
+   - Reggie ran \( 5 \times \) (Paisley's distance) = \( 5 \times 4 = 20 \) miles.
+
+4. **Express Reggie's Distance in Terms of Lynn:**
+   - Reggie ran **3 miles farther** than Lynn.
+   - Let \( L \) be the distance Lynn ran.
+   - Therefore, Reggie's distance = \( L + 3 \).
+
+5. **Set Up the Equation:**
+   - From step 3, Reggie ran 22 miles.
+   - So, \( L + 3 = 22 \).
+
+6. **Solve for \( L \):**
+   - Subtract 3 from both sides: \( L = 22 - 3 \).
+   - \( L = 19 \).
+
+**Final Answer:** Lynn ran \(\boxed{19}\) miles.

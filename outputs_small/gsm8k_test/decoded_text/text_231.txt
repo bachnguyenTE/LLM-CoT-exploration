@@ -1,0 +1,46 @@
+<｜User｜>
+Q: Kylie and Robert enjoy going to the beach to collect shells. On Monday, Kylie collects 5 more shells than Robert, who collects 20 shells. On Tuesday, Kylie collects 2 times more shells than she did on Monday. How many shells does Kylie collect on Tuesday?
+A:<｜Assistant｜><think>
+Okay, so I have this problem about Kylie and Robert collecting shells at the beach. Let me try to figure it out step by step. 
+
+First, the problem says that on Monday, Kylie collects 5 more shells than Robert, who collects 20 shells. Hmm, okay, so Robert has 20 shells on Monday. That means Kylie must have collected 5 more than that. Let me write that down.
+
+Robert on Monday: 20 shells  
+Kylie on Monday: 20 + 5 = 25 shells
+
+Alright, so on Monday, Robert has 20 and Kylie has 25. Got that.
+
+Now, the next part says that on Tuesday, Kylie collects 2 times more shells than she did on Monday. Hmm, I need to make sure I understand what "2 times more" means. Is it 2 times as many as she had on Monday, or is it 2 times the total she had over the two days? 
+
+I think it's the former. So, if she collected 25 on Monday, then on Tuesday, she collects 2 times that amount. Let me calculate that.
+
+Kylie on Tuesday: 2 times Monday's amount = 2 * 25 = 50 shells
+
+Wait, 2 times 25 is 50? That seems a lot, but okay, let me check. If she had 25 on Monday, doubling that would be 50. Yeah, that makes sense.
+
+So, the question is asking how many shells Kylie collects on Tuesday. So, the answer should be 50.
+
+But wait, let me make sure I didn't misinterpret the question. Sometimes, "times more" can be confusing. Is it 2 times as many as on Monday, or 2 times the total over two days? 
+
+In this context, since it's about collecting shells on Tuesday, it's more likely referring to the amount on Tuesday being 2 times the amount on Monday. So, yeah, 2 times 25 is 50. 
+
+So, I think that's correct. Let me just recap:
+
+Monday: Robert = 20, Kylie = 25  
+Tuesday: Kylie = 2 * 25 = 50
+
+Therefore, the number of shells Kylie collects on Tuesday is 50.
+
+**Final Answer**
+Kylie collects \boxed{50} shells on Tuesday.
+</think>
+
+On Monday, Robert collects 20 shells, and Kylie collects 5 more than Robert. Therefore, Kylie collects:
+
+\[ 20 + 5 = 25 \text{ shells} \]
+
+On Tuesday, Kylie collects 2 times more shells than she did on Monday. This means she collects:
+
+\[ 2 \times 25 = 50 \text{ shells} \]
+
+Thus, the number of shells Kylie collects on Tuesday is \(\boxed{50}\).

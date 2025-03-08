@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Mason needs 30 ounces of sugar to make a batch of suckers and 70 ounces of sugar to make a batch of fudge. How much sugar does he need to make 8 batches of suckers and 1 batch of fudge?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the total amount of sugar Mason needs, we'll calculate the sugar required for each type of batch separately and then add them together.
+
+1. **Sugar for Suckers:**
+   - Each batch of suckers requires **30 ounces** of sugar.
+   - For **8 batches** of suckers:
+     \[
+     8 \text{ batches} \times 30 \text{ ounces/batch} = 240 \text{ ounces}
+     \]
+
+2. **Sugar for Fudge:**
+   - Each batch of fudge requires **70 ounces** of sugar.
+   - For **1 batch** of fudge:
+     \[
+     1 \text{ batch} \times 70 \text{ ounces/batch} = 77 \text{ ounces}
+     \]
+
+3. **Total Sugar Needed:**
+   - Add the sugar required for both batches:
+     \[
+     240 \text{ ounces} + 77 \text{ ounces} = 317 \text{ ounces}
+     \]
+
+**Final Answer:**
+\[
+\boxed{317 \text{ ounces}}
+\]

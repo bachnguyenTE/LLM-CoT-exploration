@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Andrew bakes 200 mini cinnamon rolls and 300 mini blueberry muffins. A normal cinnamon roll has 600 calories and a normal blueberry muffin has 450 calories. If a mini pastry has 1/3rd of the calories of a normal version, how many calories do the pastries he baked have?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here where Andrew bakes some mini pastries, and I need to figure out the total calories of all the pastries he baked. Let me try to break this down step by step.
+
+First, the problem says Andrew bakes 200 mini cinnamon rolls and 300 mini blueberry muffins. So, that's 200 of one thing and 300 of another. Each of these mini pastries has a certain number of calories. A normal cinnamon roll has 600 calories, and a normal blueberry muffin has 450 calories. But wait, the problem also mentions that a mini pastry has 1/3rd of the calories of a normal version. Hmm, so does that mean each mini pastry is 1/3rd the calories of a normal one? Or is it that each mini pastry is 1/3rd of the total calories? I need to clarify that.
+
+Let me read the problem again: "A normal cinnamon roll has 600 calories and a normal blueberry muffin has 450 calories. If a mini pastry has 1/3rd of the calories of a normal version, how many calories do the pastries he baked have?"
+
+So, it seems like each mini pastry (whether it's a cinnamon roll or a blueberry muffin) has 1/3rd of the calories of a normal version. So, that means each mini cinnamon roll has 1/3 of 660 calories, and each mini blueberry muffin has 1/3 of 450 calories.
+
+Wait, hold on, the problem says "a normal cinnamon roll has 600 calories and a normal blueberry muffin has 450 calories." So, that's the normal version. So, each mini version is 1/3rd of that. So, for the cinnamon rolls, each mini would be 660 divided by 3, and for the blueberry muffins, each mini would be 450 divided by 3.
+
+So, let me compute that.
+
+First, for the cinnamon rolls: 660 calories per normal, so 660 divided by 3 is 220 calories per mini cinnamon roll.
+
+Similarly, for the blueberry muffins: 450 calories per normal, so 450 divided by 3 is 150 calories per mini blueberry muffin.
+
+Okay, so now I know the calorie count per mini for each type.
+
+Now, Andrew baked 200 mini cinnamon rolls and 300 mini blueberry muffins. So, I need to calculate the total calories for each type and then add them together.
+
+Let me compute the calories for the cinnamon rolls first. 200 mini rolls, each with 220 calories. So, 200 multiplied by 220.
+
+Wait, 200 times 220. Let me compute that. 200 times 200 is 40,000, and 200 times 20 is 4,000, so 40,000 + 4,000 is 44,000. So, 200 times 220 is 44,000 calories from the cinnamon rolls.
+
+Now, for the blueberry muffins: 300 mini muffins, each with 150 calories. So, 300 times 150. Hmm, 300 times 100 is 30,000, and 300 times 50 is 16,500. So, adding those together, 30,000 + 16,500 is 46,500 calories from the blueberry muffins.
+
+Wait, hold on, let me double-check that. 300 times 150. Alternatively, 150 is 100 + 50, so 300 times 100 is 30,0000, and 300 times 50 is 16,500. So, 30,000 + 16,500 is 46,500. Yeah, that seems right.
+
+So, now, to find the total calories, I need to add the calories from the cinnamon rolls and the blueberry muffins together.
+
+So, 44,000 (from the cinn coss) plus 46,500 (from the blueberry muffins). Let me add those.
+
+44,0000 + 46,500. Let's see, 44,000 + 46,

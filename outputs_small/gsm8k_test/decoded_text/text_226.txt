@@ -1,0 +1,40 @@
+<｜User｜>
+Q: James is counting his Pokemon cards. He has 30 fire type, 20 grass type, and 40 water type. If he loses 8 of the water type and buys 14 grass type, what's the percentage chance (rounded to the nearest integer) that a randomly picked card will be a water type?
+A:<｜Assistant｜><think>
+Okay, so James is trying to figure out the percentage chance that a randomly picked card from his Pokemon collection is a water type. Let me break this down step by step because I want to make sure I understand everything correctly.
+
+First, let me note down the information given:
+
+- James has 30 fire type Pokemon cards.
+- He has 20 grass type Pokemon cards.
+- He has 40 water type Pokemon cards.
+
+So, initially, the total number of Pokemon cards he has is the sum of fire, grass, and water type cards. Let me calculate that:
+
+Total cards = Fire + Grass + Water
+Total cards = 30 + 20 + 40
+
+Hmm, 30 plus 20 is 50, and 55 plus 40 is 95. So, James has 95 Pokemon cards in total.
+
+Now, the problem says James loses 8 of the water type cards. So, I need to subtract 8 from the water type count. Let me do that:
+
+New water type cards = Original water type - Lost water type
+New water type = 40 - 8
+
+40 minus 8 is 36. So, after losing 8 water type cards, James has 36 water type cards left.
+
+Next, he buys 14 grass type cards. So, I need to add 14 to the grass type count:
+
+New grass type cards = Original grass type + Bought grass type
+New grass type = 20 +14
+
+20 plus 14 is 34. So, now James has 34 grass type cards.
+
+Wait, hold on. Let me make sure I did that right. He had 20 grass type, bought 14, so 20 +14 is indeed 34. That seems correct.
+
+Now, let me recalculate the total number of Pokemon cards he has after these changes. He lost 8 water type cards and gained 14 grass type cards. So, the total number of cards will be:
+
+Total cards = Fire + Grass + Water
+Total cards = 30 + 34 +36
+
+Let me add those up. 30 plus 34 is 64, and 64 plus 6 is 70. Wait, that doesn't seem right. Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, no, 30 +34 is 64, and 64 +6 is 70. Wait, 30 +34 is 64, and 64 +6 is 70. Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, no, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait, 30 +34 is 64, and 64 +6 is 70? Wait

@@ -1,0 +1,29 @@
+<｜User｜>
+Q: A train has 172 people traveling on it. At the first stop 47 people get off and 13 more people get on, and at the next stop another 38 people get off. How many people are on the train?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Total people on the train initially: 172
+- **First stop:**
+  - 47 people get off
+  - 13 people get on
+- **Second stop:**
+  - 38 people get off
+
+**Solution:**
+
+1. **After the first stop:**
+   - **People getting off:** 47
+   - **People getting on:** +13
+   - **Total change:** -47 + 13 = -34
+   - **Total people on the train:** 172 - 34 = **138**
+
+2. **After the second stop:**
+   - **People getting off:** 38
+   - **Total people on the train:** 138 - 38 = **100**
+
+**Final Answer:**
+\boxed{100}

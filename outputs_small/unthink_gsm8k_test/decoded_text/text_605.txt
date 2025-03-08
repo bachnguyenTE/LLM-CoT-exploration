@@ -1,0 +1,34 @@
+<｜User｜>
+Q: For four hours, Patrick sold 15 cups of lemonade per hour at a price of $0.50 per cup.  In the next two hours, he sold 10 cups of lemonade per hour at a price of $0.60 per cup.  How much money did Patrick earn, in dollars, from selling lemonade for 6 hours?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much money Patrick earned from selling lemonade over 6 hours, we'll break down his earnings into two parts based on the time and price he sold lemonade.
+
+1. **First 4 Hours:**
+   - **Cups Sold per Hour:** 15 cups
+   - **Price per Cup:** \$0.50
+   - **Total Earnings for 4 Hours:**
+     \[
+     15 \text{ cups/hour} \times \$0.50/\text{cup} \times 4 \text{ hours} = \$30.00
+     \]
+
+2. **Next 2 Hours:**
+   - **Cups Sold per Hour:** 10 cups
+   - **Price per Cup:** \$0.60
+   - **Total Earnings for 2 Hours:**
+     \[
+     10 \text{ cups/hour} \times \$0.60/\text{cup} \times 2 \text{ hours} = \$12.00
+     \]
+
+3. **Total Earnings:**
+   \[
+   \$30.00 + \$12.00 = \$42.00
+   \]
+
+**Final Answer:**
+\[
+\boxed{42.00}
+\]

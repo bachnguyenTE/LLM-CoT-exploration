@@ -1,0 +1,53 @@
+<｜User｜>
+Q: There are five phones on a phone plan. The main phone costs twice as much as each additional phone. If the main phone plan costs $20, how much does the whole phone plan cost?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about five phones on a phone plan. The main phone costs twice as much as each additional phone. The main phone plan costs $20, and I need to figure out the total cost for all five phones. Hmm, let me break this down step by step.
+
+First, let me make sure I understand the problem correctly. There are five phones in total. The main phone is the most expensive one, and each of the other four phones is cheaper than the main one. Specifically, the main phone costs twice as much as each additional phone. So, if I let the cost of an additional phone be, say, x dollars, then the main phone would cost 2x dollars. 
+
+Wait, that seems right. So, the main phone is twice as expensive as each of the other four. So, if I denote the cost of each additional phone as x, then the main phone is 2x. Got it.
+
+Now, the total cost for all five phones would be the cost of the main phone plus the cost of the four additional phones. So, that would be 2x + 4x. Let me write that down:
+
+Total cost = main phone cost + 4 additional phones
+Total cost = 2x + 4x
+
+Simplifying that, 2x + 4x is 6x. So, the total cost is 6x. But, that seems right. Wait, that seems right. So, if I can find the value of x, I can find the total cost.
+
+But, that seems right. Wait, that seems right. So, the main phone is twice as much as each additional phone. So, if the main phone is 2x, each additional phone is x. So, the total cost is 2x + 4x, which is 6x. So, if I can find x, I can find the total cost.
+
+But, that seems right. Wait, that seems right. So, the problem says the main phone plan costs $20. So, 2x = 20. So, x is 10. So, each additional phone is $10. So, the main phone is $20, and each of the four additional phones is $10.
+
+So, the total cost is 20 + 4*10. Let me compute that. 4*10 is 40, and 20 + 40 is 60. So, the total cost is $60. So, $60.
+
+Wait, that seems right. Let me double-check. So, main phone is $20, each additional is $10, four additional phones. So, 20 + 10 + 10 + 10 + 10. That's 20 + 40, which is 60. Yeah, that adds up.
+
+But, that seems right. So, the total cost is $60. So, the answer is $60.
+
+Wait, that seems right. Let me think again. So, main phone is twice as much as each additional phone. So, main phone is 2x, each additional is x. So, total cost is 2x + 4x = 6x. Given that main phone is $20, so 2x = 20, so x = 10. So, each additional is $10, so total is 6*10 = 60. So, yeah, that seems correct.
+
+Wait, that seems right. So, the answer is $60.
+
+But, that seems right. So, I think that's the correct answer.
+
+**Final Answer**
+The total cost of the phone plan is \boxed{60}.
+</think>
+
+The main phone costs twice as much as each additional phone. Let the cost of each additional phone be \( x \) dollars. Therefore, the main phone costs \( 2x \) dollars. Given that the main phone plan costs $20, we have:
+
+\[ 2x = 20 \]
+
+Solving for \( x \):
+
+\[ x = 10 \]
+
+Each additional phone costs $10. The total cost for the five phones is the cost of the main phone plus the cost of the four additional phones:
+
+\[ \text{Total cost} = 2x + 4x = 6x \]
+
+Substituting \( x = 10 \):
+
+\[ \text{Total cost} = 6 \times 10 = 60 \]
+
+Thus, the total cost of the phone plan is \(\boxed{60}\).

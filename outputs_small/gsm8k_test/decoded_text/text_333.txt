@@ -1,0 +1,52 @@
+<｜User｜>
+Q: Robert wants to buy a bookshelf and a sofa and has received two offers. Furniture United's offer includes a $1,350 advance payment and 6 monthly installments of $350 each. Cozy Homes' offer includes a $1,100 advance payment and 9 monthly installments of $250 each. What is the cost difference between the two offers?
+A:<｜Assistant｜><think>
+First, I need to calculate the total cost for each furniture offer by adding the advance payment to the sum of the monthly installments.
+
+For Furniture United:
+- Advance payment: $1,350
+- Monthly installments: 6 payments × $350 = $1800
+- Total cost: $1,350 + $1,800 = $3,150
+
+For Cozy Homes:
+- Advance payment: $1,100
+- Monthly installments: 9 payments × $250 = $2,250
+- Total cost: $1,100 + $2,250 = $3,350
+
+Next, I'll find the difference between the two total costs to determine the cost difference.
+</think>
+
+To determine the cost difference between the two furniture offers, let's break down each offer step by step.
+
+### Furniture United Offer:
+- **Advance PAYMENT:** \$1,350
+- **Monthly Installments:** 6 payments of \$350 each
+
+\[
+\text{Total Monthly Installments} = 6 \times \$350 = \$2,100
+\]
+
+\[
+\text{Total Cost} = \text{Advance PAYMENT} + \text{Total Monthly Installments} = \$1,350 + \$2,100 = \$3,450
+\]
+
+### Cozy Homes Offer:
+- **Advance PAYMENT:** \$1,100
+- **Monthly Installments:** 9 payments of \$250 each
+
+\[
+\text{Total Monthly Installments} = 9 \times \$250 = \$2,250
+\]
+
+\[
+\text{Total Cost} = \text{Advance PAYMENT} + \text{Total Monthly Installments} = \$1,100 + \$2,250 = \$3,350
+\]
+
+### Cost Difference:
+\[
+\text{Cost Difference} = \text{Furniture United Total Cost} - \text{Cozy Homes Total Cost} = \$3,450 - \$3,350 = \$100
+\]
+
+\[
+\boxed{\$100}
+\]

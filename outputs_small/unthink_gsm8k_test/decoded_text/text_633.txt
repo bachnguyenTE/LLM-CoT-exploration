@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Bob is 75 miles ahead of Tom, driving 55 miles per hour. Tom is driving 70 miles per hour. How long will it take Tom to catch up with Bob?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We need to determine how long it will take Tom to catch up with Bob. Let's break down the problem step by step.
+
+1. **Understand the Given Information:**
+   - **Bob's Position:** Bob is 75 miles ahead of Tom.
+   - **Bob's Speed:** 55 miles per hour (mph).
+   - **Tom's Speed:** 70 mph.
+
+2. **Determine the Relative Speed:**
+   - Since Tom is driving faster than Bob, the relative speed at which Tom is approaching Bob is the difference between their speeds.
+   - **Relative Speed = Tom's Speed - Bob's Speed**
+   - **Relative Speed = 70 mph - 55 mph = 15 mph**
+
+3. **Calculate the Time to Catch Up:**
+   - The time it takes for Tom to catch up to Bob can be found by dividing the initial distance between them by the relative speed.
+   - **Time = Distance / Relative Speed**
+   - **Time = 75 miles / 15 mph = 5 hours**
+
+4. **Final Answer:**
+   - It will take Tom **5 hours** to catch up with Bob.
+
+\boxed{5\text{ hours}}

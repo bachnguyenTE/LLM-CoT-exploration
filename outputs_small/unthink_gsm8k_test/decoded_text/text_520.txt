@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Martha is knitting winter wear for her 3 grandchildren. They're triplets, so they're all the same size. She wants to make a hat, scarf, sweater, mittens, and socks for each of them. It takes 2 skeins of wool to make a hat, 4 for a scarf, 12 for a sweater, 1 for a pair of mittens, and 2 for a pair of socks. How many skeins of wool will she need to buy?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many skeins of wool Martha needs to buy, let's break down the requirements step by step.
+
+1. **Identify the items and their quantities needed:**
+   - **Hat:** 1 hat
+   - **Sweater:** 1 sweater
+   - **Sofester:** 1 scarf
+   - **Mittens:** 1 pair
+   - **Socks:** 1 pair
+
+2. **Calculate the total number of items:**
+   \[
+   1 \text{ (hat)} + 1 \text{ (sweater)} + 1 \text{ (scarf)} + 1 \text{ (mittens)} + 1 \text{ (socks)} = 5 \text{ items}
+   \]
+
+3. **Determine the wool required per item:**
+   - **Hat:** 2 skeins
+   - **Sweater:** 12 skeins
+   - **Scarf:** 4 skeins
+   - **Mittens:** 1 skein
+   - **Socks:** 2 skeins
+
+4. **Calculate the total wool needed:**
+   \[
+   2 \text{ (hat)} + 12 \text{ (sweater)} + 4 \text{ (scarf)} + 1 \text{ (mittens)} + 2 \text{ (socks)} = 21 \text{ skeins}
+   \]
+
+**Final Answer:**
+\[
+\boxed{21}
+\]

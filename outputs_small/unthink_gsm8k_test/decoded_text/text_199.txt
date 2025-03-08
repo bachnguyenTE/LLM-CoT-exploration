@@ -1,0 +1,47 @@
+<｜User｜>
+Q: Mark is a copy-editor. He edits an equal number of sentences each week for two different publishers, who each pay him a different rate per sentence. Publisher B pays Mark twice what Publisher A pays. Mark edits a total number of 1000 sentences each week, and Publisher A pays him 5 cents per sentence. How much does Mark make in a week, in cents?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Define Variables:**
+   - Let \( x \) be the number of sentences Mark edits per week.
+   - Mark edits a total of **1000 sentences** each week.
+
+2. **Determine Sentence Distribution:**
+   - Mark edits **2 different publishers**.
+   - The total sentences edited per week are **1000**.
+
+3. **Sentence Distribution Between Publishers:**
+   - Let \( S_A \) be the number of sentences edited by Publisher A.
+   - Let \( S_B \) be the number of sentences edited by Publisher B.
+   - Therefore, \( S_A + S_B = 1000 \).
+
+4. **Sentence Distribution Within Each Publisher:**
+   - Mark edits an **equal number of sentences** each week for two different publishers.
+   - This implies that Mark edits the same number of sentences for both publishers.
+   - Therefore, \( S_A = S_B \).
+
+5. **Solve for \( S_A \) and \( S_B \):**
+   - Since \( S_A = S_B \) and \( S_A + S_B = 1000 \),
+   - \( 2S_A = 1000 \)
+   - \( S_A = 500 \)
+   - \( S_B = 500 \)
+
+6. **Calculate Pay for Each Publisher:**
+   - **Publisher A pays Mark 5 cents per sentence.**
+   - Pay for Publisher A: \( 500 \text{ sentences} \times 5 \text{ cents/sentence} = 2500 \text{ cents} \).
+   - **Publisher B pays twice as much as Publisher A.**
+   - Pay for Publisher B: \( 2 \times 2500 \text{ cents} = 5000 \text{ cents} \).
+
+7. **Total Pay for Mark in a Week:**
+   - Total Pay = Pay for Publisher A + Pay for Publisher B
+   - Total Pay = \( 2500 \text{ cents} + 5000 \text{ cents} = 7500 \text{ cents} \).
+
+**Final Answer:**
+\[
+\boxed{7500}
+\]

@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Felix notices that kids in the neighborhood are always getting things stuck in trees. Since he is an expert tree climber, he decided to start charging kids to get their stuff out. He charges based on how high he has to climb. Every branch he has to climb up costs $.25. During the week he made $105. On average, how many branches did he climb per day?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Felix charges kids based on the height of branches he has to climb. Each branch costs \$0.25. Over the course of the week, he made a total of \$105.
+
+To find out how many branches Felix climbed on average per day, follow these steps:
+
+1. **Calculate the total number of branches climbed:**
+   
+   \[
+   \text{Total branches} = \frac{\text{Total earnings}}{\text{Cost per branch}} = \frac{105}{0.25}
+   \]
+
+2. **Compute the total branches climbed:**
+   
+   \[
+   \frac{105}{0.25} = 420 \text{ branches}
+   \]
+
+3. **Determine the average branches climbed per day:**
+   
+   \[
+   \text{Average branches per day} = \frac{\text{Total branches}}{\text{Number of days in the week}} = \frac{420}{7} = 60 \text{ branches/day}
+   \]
+
+**Final Answer:**
+
+Felix climbed an average of \(\boxed{60}\) branches per day.

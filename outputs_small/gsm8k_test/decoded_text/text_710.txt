@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Marcus ordered 5 croissants at $3.00 apiece, 4 cinnamon rolls at $2.50 each, 3 mini quiches for $4.00 apiece and 13 blueberry muffins that were $1.00 apiece.  At check out, Marcus shows his loyalty card that gives him 10% off of his purchase.  What is Marcus' total bill?
+A:<｜Assistant｜><think>
+Okay, so Marcus ordered some items and wants to know his total bill after getting a 10% discount. Hmm, let me break this down step by step. First, I need to figure out the cost of each type of item he ordered and then add them all up. After that, I'll apply the 10% discount to the total. Let me start with the croissants.
+
+He ordered 5 croissants, each costing $3.000. So, to find the total for the croissants, I'll multiply 5 by $3.00. Let me do that: 5 times 3 is 15, so that's $15.00. Okay, so the croissants cost $15.00 in total.
+
+Next, the cinnamon rolls. He bought 4 of them, each at $2.50. Hmm, 4 times 2.50. Let me calculate that. 4 times 2 is 8, and 4 times 0.50 is 2. So, 8 plus 2 is $10.00. So, the cinnamon rolls add up to $10.00.
+
+Then, the mini quiches. He ordered 3 of them, each costing $4.00. So, 3 times 4 is 12. So, the mini quiches cost $12.00.
+
+Lastly, the blueberry muffins. He bought 13 of them, each at $1.00. So, 13 times 1 is 13. So, the muffins cost $13.00.
+
+Now, let me add up all these amounts to get the total before the discount. So, croissants are $15, cinnamon rolls are $10, mini quiches are $12, and muffins are $13. Let me add them one by one.
+
+First, $15 plus $10 is $25. Then, $25 plus $12 is $27. Wait, no, hold on. $12 is from the mini quiches, right? So, $25 plus $12 is $27. Then, $27 plus $13 is $30. Wait, no, the muffins are $13 each, so 13 muffins would be $3. So, $27 plus $3 is $30. So, the total before discount is $30.00.
+
+Wait, let me double-check that. 5 croissants at $3 each: 5*3=15. 4 cinnings at $2.50 each: 4*2.50=10. 3 mini quiches at $4 each: 3*4=12. 13 muffins at $1 each: 13*1=13. So, 15+10=25, 25+12=37, 37+13=50. Wait, that's $50.00. Wait, hold on, I think I messed up the addition earlier.
+
+Wait, 5 croissants: 5*3=15. 4 cinnings: 4*2.50=10. 3 mini quiches: 3*4=12. 13 muffins: 13*1=13. So, adding them up: 15+10=25, 25+12=37, 37+13=50. So, the total before discount is $50.00.
+
+Wait, so earlier I thought it was $30, but that was a mistake. Let me correct that. So, 5 croissants: 15, cinnings:10, quiches:12, muffins:13. So, 15+10=25, 25+12=37, 37+13=50. So, total before discount is $50.00.
+
+Now, Marcus has a loyalty card that gives him 10% off. So, I need to calculate 10% of $50.00 and subtract that from the total.
+
+10% of 50 is 0.50. So, 10% of 50 is 5. So, 10% of 50 is 5.50. So, 10% of 50 is 5.50. So, subtracting that from 50 gives 50 - 5.50 = 44.

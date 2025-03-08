@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Marcus ordered 5 croissants at $3.00 apiece, 4 cinnamon rolls at $2.50 each, 3 mini quiches for $4.00 apiece and 13 blueberry muffins that were $1.00 apiece.  At check out, Marcus shows his loyalty card that gives him 10% off of his purchase.  What is Marcus' total bill?
+A:<｜Assistant｜><think>
+</think>
+
+To determine Marcus' total bill with the 10% discount, follow these steps:
+
+1. **Calculate the cost of each item:**
+   - **Croissants:** \(5 \text{ croissants} \times \$3.00 = \$15.00\)
+   - **Cinnamon Rolls:** \(4 \text{ rolls} \times \$2.50 = \$10.00\)
+   - **Mini Quiches:** \(3 \text{ quiches} \times \$4.00 = \$12.00\)
+   - **Blueberry Muffins:** \(13 \text{ muffins} \times \$1.00 = \$13.00\)
+
+2. **Sum up all the costs:**
+   \[
+   \$15.00 + \$10.00 + \$12.00 + \$13.00 = \$40.20
+   \]
+
+3. **Apply the 10% loyalty discount:**
+   \[
+   \$40.20 \times 0.10 = \$4.02
+   \]
+   \[
+   \$40.20 - \$4.20 = \$39.98
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$39.98}
+\]

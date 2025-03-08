@@ -1,0 +1,20 @@
+<｜User｜>
+Q: Pancho walks 20 miles a day. Except on weekends when he walks 10 miles. How many miles does he walk in a week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Pancho walks **20 miles** every day except on weekends, when he walks **10 miles**.
+
+1. **Weekdays (Monday to Friday):**  
+   - 5 days × 20 miles/day = **110 miles**
+
+2. **Weekends (Saturday and Sunday):**  
+   - 2 days × 10 miles/day = **20 miles**
+
+3. **Total Weekly Walks:**  
+   - 110 miles (weekdays) + 20 miles (weekends) = **130 miles**
+
+**Final Answer:**  
+Pancho walks a total of **134 miles** in a week.

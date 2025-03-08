@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Ariadne has a shop selling hats of two different colors, red and green. Her sales from red hats were $400 in a particular month, half the total amount she earned from selling green hats. Calculate the total amount she made in two months if in the second month her sales were 3/4 of the total sales of the first month.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **First Month:**
+   - **Red Hats:** \$400
+   - **Green Hats:** Let’s denote the total sales from green hats as \( G \).
+   - According to the problem, the sales from red hats were half of the sales from green hats.
+     \[
+     400 = \frac{1}{2}G \quad \Rightarrow \quad G = 800
+     \]
+   - **Total Sales for the First Month:**
+     \[
+     400 + 800 = 1200
+     \]
+
+2. **Second Month:**
+   - It is given that the sales in the second month were \( \frac{3}{4} \) of the total sales of the first month.
+     \[
+     \text{Second Month Sales} = \frac{3}{4} \times 1200 = 915
+     \]
+
+3. **Total Sales Over Two Months:**
+   \[
+   1200 + 915 = 2115
+   \]
+
+**Final Answer:**
+\[
+\boxed{2115}
+\]

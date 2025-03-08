@@ -1,0 +1,47 @@
+<｜User｜>
+Q: Larry cooked dumplings for a group of friends.  There are 8 males, including Larry, and 6 females among them. Each male ate 1 more dumpling than each female. How many dumplings did Larry cook if each female ate 3 dumplings and there were no leftovers?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Identify the number of males and females:**
+   - **Males:** 8 (including Larry)
+   - **Females:** 6
+
+2. **Determine the dumpling consumption:**
+   - Each female ate **3 dumplings**.
+   - Each male ate **1 more dumpling** than each female.
+
+3. **Calculate dumplings eaten by males:**
+   - Since each male ate 1 more dumpling than each female:
+     \[
+     \text{Dumplings per male} = 3 + 1 = 4
+     \]
+
+4. **Calculate total dumplings eaten by females:**
+   - Number of females: 6
+   - Dumplings per female: 3
+   \[
+   \text{Total dumplings for females} = 6 \times 3 = 18
+   \]
+
+5. **Calculate total dumplings eaten by males:**
+   - Number of males: 8
+   - Dumplings per male: 4
+   \[
+   \text{Total dumplings for males} =8 \times 4 = 32
+   \]
+
+6. **Calculate the total dumplings cooked:**
+   - Add the dumplings eaten by males and females:
+   \[
+   \text{Total dumplings} = 32 + 18 = 50
+   \]
+
+**Final Answer:**
+\[
+\boxed{50}
+\]

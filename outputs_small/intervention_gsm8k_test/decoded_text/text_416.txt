@@ -1,0 +1,97 @@
+<｜User｜>
+Q: A herd consists of camels and dromedaries. There are 180 heads and 304 bumps. How many dromedaries are there if camels have two humps each and dromedaries have one hump each?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about camels and dromedaries. Let me try to figure it out step by step. 
+
+First, the problem says there are 180 heads and 304 bumps. Camels have two humps each, and dromedaries have one hump each. Also, camels have two legs, and dromedaries have four legs. But, that seems right. Wait, that seems right. So, the humps are related to the number of legs, but, that seems right. So, maybe the humps are just a distraction? Or maybe not. Hmm.
+
+Wait, that seems right. So, the problem is about camels and dromedaries. So, each camel has two humps, and each dromedary has one hump. So, the total number of humps is 304. But, that seems right. So, the heads are 180, which is the total number of camels and dromedaries, since each has one head. So, 180 heads, so 180 animals in total.
+
+So, let me denote the number of camels as C and the number of dromedaries as D. So, the total number of heads is C + D = 180. That's one equation.
+
+Now, the total number of bumps. Camels have two bumps each, and dromedaries have one bump each. So, the total number of bumps is 2C + D = 304. That's the second equation.
+
+So, now I have a system of two equations:
+
+1. C + D = 180
+2. 2C + D =304
+
+So, I can solve this system of equations to find the values of C and D.
+
+Let me subtract the first equation from the second equation to eliminate D. So, subtracting equation 1 from equation 2:
+
+(2C + D) - (C + D) = 304 - 180
+
+Simplify that:
+
+2C + D - C - D = 124
+
+So, that simplifies to:
+
+C = 124
+
+So, the number of camels is 124.
+
+Then, plugging back into equation 1, C + D =180, so 124 + D =180, so D =180 -124=56.
+
+So, the number of dromedaries is 56.
+
+Wait, that seems right. Let me check.
+
+So, 124 camels, each with two humps, so 124*2=248 humps.
+
+56 dromedaries, each with one hump, so 56*1=56 humps.
+
+Total humps:248 +56=304, which matches the given total.
+
+Total heads:124 +56=180, which also matches.
+
+So, that seems correct.
+
+But, that seems right. So, the answer is 56 dromedaries.
+
+Wait, that seems right. So, the answer is 56.
+
+But, that seems right. So, I think that's the answer.
+
+**Final Answer**
+The number of dromedaries is \boxed{56}.
+</think>
+
+Let \( C \) be the number of camels and \( D \) be the number of dromedaries. We know the following:
+
+1. The total number of heads is 180, so:
+   \[
+   C + D = 180
+   \]
+
+2. The total number of bumps is 304, so:
+   \[
+   2C + D = 304
+   \]
+
+We can solve this system of equations by subtracting the first equation from the second:
+
+\[
+(2C + D) - (C + D) = 304 - 180
+\]
+
+Simplifying this, we get:
+
+\[
+C = 124
+\]
+
+Substituting \( C = 124 \) back into the first equation:
+
+\[
+124 + D = 180
+\]
+
+Solving for \( D \):
+
+\[
+D = 180 - 124 = 56
+\]
+
+Thus, the number of dromedaries is \(\boxed{56}\).

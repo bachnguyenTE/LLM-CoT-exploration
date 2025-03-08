@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Lana is brewing cups of tea for her friends. She has 27 cups, and she divides these into 3 rows. In each row, she creates equal amounts of chamomile and mint tea cups. She then uses the remaining cups to brew a total of 15 cups of cinnamon tea. How many cups of mint tea are in each row?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many cups of mint tea are in each row.
+
+1. **Total Cups Available:**
+   - Lana has **27 cups** of tea.
+
+2. **Dividing into Rows:**
+   - She divides these into **3 rows**.
+   - **Equal amounts of chamomile and mint tea cups** in each row.
+
+3. **Remaining Cups for Cinnamon Tea:**
+   - After dividing into rows, **15 cups** are used for **cinnamon tea**.
+
+4. **Calculating Cups in Each Row:**
+   - **Total cups used for chamomile and mint tea:** 
+     \[
+     27 \text{ cups} - 15 \text{ cups} = 12 \text{ cups}
+     \]
+   - **Equal distribution between chamomile and mint tea:**
+     \[
+     \frac{12 \text{ cups}}{2} = 6 \text{ cups of each}
+     \]
+   - **Cups in each row:**
+     \[
+     \frac{6 \text{ cups}}{3 \text{ rows}} = 2 \text{ cups per row}
+     \]
+
+5. **Final Answer:**
+   - There are **2 cups of mint tea** in each row.
+
+\[
+\boxed{2}
+\]

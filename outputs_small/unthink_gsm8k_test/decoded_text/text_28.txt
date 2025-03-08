@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Henry made two stops during his 60-mile bike trip. He first stopped after 20 miles. His second stop was 15 miles before the end of the trip. How many miles did he travel between his first and second stops?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Henry's bike trip is 60 miles long. He makes two stops:
+
+1. **First Stop:** After 20 miles.
+2. **Second Stop:** 15 miles before the end.
+
+**Calculating the Distance to the Second Stop:**
+
+The total trip is 60 miles. If he stops 15 miles before the end, the distance to the second stop is:
+\[
+60 \text{ miles} - 15 \text{ miles} = 45 \text{ miles}
+\]
+
+**Determining the Distance Between the Two Stops:**
+
+He traveled 20 miles to the first stop and 45 miles to the second stop. The distance between the two stops is:
+\[
+45 \text{ miles} - 20 \text{ miles} = 25 \text{ miles}
+\]
+
+**Final Answer:**
+\[
+\boxed{25}
+\]

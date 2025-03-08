@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Jeff and Brad are trying to divide 100 dollars between them. Jeff gets 4 times as much as Brad. How much does Jeff get in dollars?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+Jeff and Brad are trying to divide \$100 between them. Jeff gets 4 times as much as Brad. How much does Jeff get in dollars?
+
+**Solution:**
+
+1. **Define Variables:**
+   - Let \( B \) represent the amount Brad gets.
+   - Since Jeff gets 4 times as much as Brad, Jeff's amount can be represented as \( 4B \).
+
+2. **Set Up the Equation:**
+   - The total amount they are dividing is \$100.
+   - Therefore, \( B + 4B = 100 \).
+
+3. **Combine Like Terms:**
+   - \( B + 4B = 5B \).
+   - So, \( 5B = 100 \).
+
+4. **Solve for \( B \):**
+   - Divide both sides by 5:
+     \[
+     B = \frac{100}{5} = 20
+     \]
+   - Brad gets \$20.
+
+5. **Find Jeff's Amount:**
+   - Jeff gets \( 4B \):
+     \[
+     4 \times 20 = 80
+     \]
+   - Jeff gets \$80.
+
+**Final Answer:**
+Jeff gets \(\boxed{80}\) dollars.

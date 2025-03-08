@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Thomas withdraws $1000 in 20 dollar bills from the bank account.  He loses 10 bills while getting home.  After that, he uses half of the remaining bills to pay for a bill.  Thomas then triples his money.  He then converts all his bills to 5 dollar bills.  How many 5 dollar bills does he have?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many \$5 bills Thomas has at the end.
+
+1. **Initial Withdrawal:**
+   - Thomas withdraws **\$1000** in \$20 bills.
+   - Number of \$20 bills = \( \frac{1000}{20} = 50 \) bills.
+
+2. **Bills Lost While Getting Home:**
+   - Thomas loses **10 bills**.
+   - Remaining bills after losing: \( 50 - 10 = 40 \) bills.
+
+3. **Using Half of the Remaining Bills:**
+   - Thomas uses **half of the remaining bills** to pay for a bill.
+   - Number of bills used = \( \frac{40}{2} = 20 \) bills.
+   - Remaining bills after using: \( 40 - 20 = 20 \) bills.
+
+4. **Tripling His Money:**
+   - Thomas triples his **remaining money**.
+   - Total money after tripling: \( 20 \times 3 = 60 \) bills.
+
+5. **Converting Bills to \$5 Bills:**
+   - Thomas converts all his bills to \$5 bills.
+   - Number of \$5 bills = \( \frac{60}{5} = 12 \) bills.
+
+**Final Answer:**
+\[
+\boxed{12}
+\]

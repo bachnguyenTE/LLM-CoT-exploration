@@ -1,0 +1,23 @@
+<｜User｜>
+Q: The restaurant has 170 normal chairs and 23 chairs for babies. If 20 of the normal chairs and 13 of the baby chairs were sent to the carpenter for repair, how many chairs does the restaurant have left?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many chairs the restaurant has left after sending some to the carpenter for repair, follow these steps:
+
+1. **Total Normal Chairs:** 170
+2. **Total Baby Chairs:** 23
+3. **Chairs Sent to Carpenters:**
+   - **Normal Chairs:** 20
+   - **Baby Chairs:** 13
+
+4. **Calculate Remaining Chairs:**
+   - **Remaining Normal Chairs:** \(170 - 20 = 158\)
+   - **Remaining Baby Chairs:** \(23 - 13 = 10\)
+
+5. **Total Chairs Left:**
+   \[
+   158 \text{ (Normal)} + 10 \text{ (Baby)} = 168
+   \]
+
+**Final Answer:** \(\boxed{168}\)

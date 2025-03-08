@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Mico and Marco wanted to get to know each other. They realized that the sum of their ages is 20. What will be the sum of their ages in 10 years?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's denote:
+- \( M \) as Mico's current age.
+- \( Ma \) as Marco's current age.
+
+According to the problem, the sum of their ages is 20:
+\[
+M + Ma = 20
+\]
+
+In 10 years, both Mico and Marco will be 10 years older. Therefore, the increase in their combined ages is:
+\[
+10 + 10 = 20 \text{ years}
+\]
+
+Adding this to their current total age:
+\[
+20 + 20 = 42
+\]
+
+**Answer:** \(\boxed{42}\)

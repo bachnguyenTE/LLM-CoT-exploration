@@ -1,0 +1,51 @@
+<｜User｜>
+Q: Shiloh is 44 years old today.  In 7 years, he will be three times as old as his nephew.  How old is his nephew today?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+Shiloh is currently 44 years old. In 7 years, he will be three times as old as his nephew. How old is his nephew today?
+
+**Solution:**
+
+1. **Define Variables:**
+   - Let \( N \) be the current age of Shiloh's nephew.
+
+2. **Current Ages:**
+   - Shiloh is 44 years old.
+   - His nephew is \( N \) years old.
+
+3. **Age in 7 Years:**
+   - Shiloh's age in 7 years: \( 44 + 7 = 51 \) years.
+   - Nephew's age in 7 years: \( N + 7 \) years.
+
+4. **Given Relationship:**
+   - In 7 years, Shiloh will be three times as old as his nephew.
+   - This translates to the equation:
+     \[
+     51 = 3 \times (N + 7)
+     \]
+
+5. **Solve for \( N \):**
+   \[
+   51 = 3(N + 7)
+   \]
+   \[
+   \frac{51}{3} = N + 7
+   \]
+   \[
+   17 = N + 7
+   \]
+   \[
+   N = 17 - 7
+   \]
+   \[
+   N = 10
+   \]
+
+**Final Answer:**
+\[
+\boxed{10}
+\]

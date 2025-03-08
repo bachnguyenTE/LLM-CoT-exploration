@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Kira bought 3 apples, 5 bananas and 6 oranges at the grocery store. Lola ate 2 pieces of the fruit. How many pieces are left?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+First, let's determine the total number of pieces of fruit Kira bought.
+
+- **Apples:** 3 pieces
+- **Bananas:** 5 pieces
+- **Oranges:** 6 pieces
+
+**Total pieces of fruit:**
+\[
+3 \text{ (apples)} + 5 \text{ (bananas)} + 6 \text{ (oranges)} = 14 \text{ pieces}
+\]
+
+Next, Lola ate 2 pieces of the fruit.
+
+**Fruit left after Lola ate:**
+\[
+14 \text{ (total pieces)} - 2 \text{ (eaten)} = 12 \text{ pieces}
+\]
+
+**Final Answer:**
+\[
+\boxed{12}
+\]

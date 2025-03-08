@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Mary has 30 sheep. She gets 1 kg of milk from half of them and 2 kg of milk from the other half every day. How much milk does she collect every day?
+A:<｜Assistant｜><think>
+First, I need to determine how many sheep Mary has. She has a total of 30 sheep.
+
+Next, she divides her sheep into two equal groups, each containing 15 sheep.
+
+She receives 1 kilogram of milk from each group of 15 sheep. Therefore, from each group, she collects 1 kg of milk.
+
+Finally, to find the total amount of milk she collects daily, I add the milk from both groups: 1 kg + 1 kg = 2 kg.
+</think>
+
+**Solution:**
+
+Mary has a total of **30 sheep**.
+
+1. **Divide the Sheep:**
+   - Mary divides her sheep into two equal groups.
+   - Each group has **15 sheep**.
+
+2. **Calculate Milk from Each Group:**
+   - From the first group of 15 sheep, she receives **1 kg** of milk.
+   - From the second group of 15 sheep, she receives **2 kg** of milk.
+
+3. **Total Milk Collected Daily:**
+   - **1 kg + 2 kg = 3 kg**
+
+**Final Answer:**
+\[
+\boxed{3\ \text{kg}}
+\]

@@ -1,0 +1,28 @@
+<｜User｜>
+Q: According to its nutritional info, a bag of chips has 250 calories per serving. If a 300g bag has 5 servings, how many grams can you eat if your daily calorie target is 2000 and you have already consumed 1800 calories?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total calories in the 300g bag:**
+   
+   - **Calories per serving:** 250 calories
+   - **Number of servings:** 5
+   - **Total calories:** \( 250 \,000 \times 5 = 1,250,000 \) calories
+
+2. **Calculate the remaining calories for the day:**
+   
+   - **Total daily calorie target:** 2000 calories
+   - **Calories already consumed:** 1,800 calories
+   - **Remaining calories:** \( 2,000 - 1,800 = 1,200 \) calories
+
+3. **Determine the number of grams of chips you can eat:**
+   
+   - **Calories per gram:** \( \frac{1,250,000}{300} \approx 3,833 \) calories per gram
+   - **Grams you can eat:** \( \frac{1,200}{3,833} \approx 0,316 \) grams
+
+**Final Answer:**
+\[
+\boxed{0,316\ \text{grams}}
+\]

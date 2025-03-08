@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Frankie and Binkie went bowling together.  Frankie's score was 15 better more than twice as high as Binkie's. If Binkie bowled a score of 90, what was Frankie's score?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Frankie and Binkie bowling scores. Let me try to figure it out step by step. 
+
+First, the problem says that Frankie's score was 15 better more than twice as high as Binkie's. Hmm, that wording is a bit tricky. Let me break it down. It mentions "15 better more than twice as high as Binkie's." Wait, that seems right. So, it's not saying 15 more, but, that seems right. Let me parse it again.
+
+Frankie's score is 15 better than twice Binkie's score. So, maybe it's like, twice Binkie's score plus 15? Or is it 15 more than twice Binkie's? Hmm, the wording is a bit confusing. Let me think.
+
+The original problem says: "Frankie's score was 15 better more than twice as high as Binkie's." So, "15 better" could mean 15 more, and "more than twice as high as Binkie's" could mean that twice Binkie's score plus 15. So, putting it together, it's twice Binkie's score plus 15. So, mathematically, that would be 2 times Binkie's score plus 15.
+
+Wait, that seems right. So, if Binkie's score is 90, then twice that would be 180, and then adding 15 would give 195. So, is Frankie's score 195? Let me check.
+
+Alternatively, maybe it's 15 more than twice Binkie's. So, 2 times Binkie's plus 15. Yeah, that seems to be the case. So, 2*90 +15. Let me compute that.
+
+2*90 is 180, plus 15 is 195. So, that would make Frankie's score 195. Hmm, that seems straightforward.
+
+Wait, that seems right. Let me make sure I'm interpreting the sentence correctly. "Frankie's score was 15 better more than twice as high as Binkie's." So, "15 better" could mean 15 more, but, that seems right. So, "15 better more than twice as high as Binkie's." So, "15 better" is 15 more, and "more than twice as high as Binkie's" is twice Binkie's plus 15. So, yeah, that would be 2*90 +15=195.
+
+Alternatively, if it was 15 more than twice Binkie's, that would be 2*90 +15=195 as well. So, either way, it's the same. So, I think that's correct.
+
+Wait, that seems right. So, the answer is 195. So, I think that's the answer.
+
+But, that seems right. Let me just think again. So, if Binkie's score is 90, twice that is 180, and 15 more than that is 195. So, yes, that's correct.
+
+Alternatively, if the problem had said "Frankie's score was 15 more than twice Binkie's," that would also be 195. So, either way, it's the same. So, I think that's correct.
+
+So, I think the answer is 195.
+
+**Final Answer**
+Frankie's score was \boxed{195}.
+</think>
+
+Frankie's score was 15 better more than twice as high as Binkie's. Binkie's score was 90. 
+
+First, we calculate twice Binkie's score:
+\[ 2 \times 90 = 180 \]
+
+Next, we add 15 to this result:
+\[ 180 + 15 = 195 \]
+
+Thus, Frankie's score was \boxed{195}.

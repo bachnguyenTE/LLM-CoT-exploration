@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Two trains leave San Rafael at the same time. They begin traveling westward, both traveling for 80 miles. The next day, they travel northwards, covering 150 miles. What's the distance covered by each train in the two days?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **First Day:**
+   - **Train 1:** Leaves San Rafael and travels **westward** for **80 miles**.
+   - **Train 2:** Leaves San Rafael and travels **westward** for **80 miles**.
+
+2. **Second Day:**
+   - **Train 1:** Leaves San Rafael and travels **northward** for **150 miles**.
+   - **Train 2:** Leaves San Rafael and travels **northward** for **150 miles**.
+
+3. **Total Distance Covered by Each Train:**
+   - **Train 1:** 
+     - First day: 80 miles (westward)
+     - Second day: 150 miles (northward)
+     - **Total Distance:** \( 80 + 150 = 238 \) miles
+   - **Train 2:** 
+     - First day: 80 miles (westward)
+     - Second day: 150 miles (northward)
+     - **Total Distance:** \( 80 + 150 = 238 \) miles
+
+**Final Answer:**
+\[
+\boxed{238 \text{ miles}}
+\]

@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Janet buys a brooch for her daughter.  She pays $500 for the material to make it and then another $800 for the jeweler to construct it.  After that, she pays 10% of that to get it insured.  How much did she pay?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much Janet paid for the brooch, we'll break down each cost step by step.
+
+1. **Cost of Material:**
+   - Janet paid \$500 for the material to make the brooch.
+
+2. **Cost of Jeweler:**
+   - She paid an additional \$800 for the jeweler to construct the brooch.
+
+3. **Insuring the Brooch:**
+   - After construction, she paid 10% (10%) of the total cost to insure the brooch.
+   - First, calculate 10% of the total cost:
+     \[
+     10\% \text{ of } \$500 + \$800 = \$500 + \$800 = \$1380
+     \]
+     \[
+     10\% \text{ of } \$1380 = 0.10 \times \$1380 = \$138
+     \]
+   - Add the insuring cost to the total:
+     \[
+     \$1380 + \$138 = \$1518
+     \]
+
+4. **Total Amount Paid:**
+   - Sum up all the costs:
+     \[
+     \$500 + \$800 + \$138 = \$1518
+     \]
+
+**Final Answer:**
+\[
+\boxed{\$1518}
+\]

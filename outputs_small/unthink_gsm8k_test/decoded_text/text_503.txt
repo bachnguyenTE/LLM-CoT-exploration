@@ -1,0 +1,39 @@
+<｜User｜>
+Q: The rug is 5 feet wider than the chair. The couch is 2 feet longer than twice the width of the rug. If the chair is 3 feet wide. How many feet long is the couch?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+1. The rug is 5 feet wider than the chair.
+2. The couch is 2 feet longer than twice the width of the rug.
+3. The width of the chair is 3 feet.
+
+**Step 1: Determine the width of the rug.**
+
+We know the rug is 5 feet wider than the chair. Since the chair is 3 feet wide:
+
+\[
+\text{Width of rug} = \text{Width of chair} + 5 \text{ feet} = 3 \text{ feet} + 5 \text{ feet} = 8 \text{ feet}
+\]
+
+**Step 2: Calculate the length of the couch.**
+
+The couch is 2 feet longer than twice the width of the rug. First, find twice the width of the rug:
+
+\[
+2 \times \text{Width of rug} = 2 \times 8 \text{ feet} = 16 \text{ feet}
+\]
+
+Then, add 2 feet to this value to get the length of the couch:
+
+\[
+\text{Length of couch} = 16 \text{ feet} + 2 \text{ feet} = 18 \text{ feet}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{18 \text{ feet}}
+\]

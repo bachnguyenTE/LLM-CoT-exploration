@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Every day, Wendi feeds each of her chickens three cups of mixed chicken feed, containing seeds, mealworms and vegetables to help keep them healthy.  She gives the chickens their feed in three separate meals. In the morning, she gives her flock of chickens 15 cups of feed.  In the afternoon, she gives her chickens another 25 cups of feed.  How many cups of feed does she need to give her chickens in the final meal of the day if the size of Wendi's flock is 20 chickens?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many cups of feed Wendi needs for the final meal, let's break down the information step by step.
+
+1. **Feed per Chicken per Day:**
+   - Each chicken receives **3 cups** of mixed feed (seeds, mealworms, vegetables) daily.
+
+2. **Total Feeds Given:**
+   - **Morning:** 15 cups
+   - **Afternoon:** 25 cups
+   - **Total Given in Two Meals:** \(15 + 25 = 40\) cups
+
+3. **Total Feeds for the flock:**
+   - **Number of Chickens:** 20
+   - **Total Daily Feed Requirement:** \(20 \text{ chickens} \times 3 \text{ cups/chicken} = 60\) cups
+
+4. **Feeds Given in Two Meals:**
+   - **Total Given:** 40 cups
+
+5. **Feeds Needed for the Final Meal:**
+   - **Remaining Feed:** \(60 - 40 = 20\) cups
+
+**Final Answer:** \(\boxed{20}\) cups

@@ -1,0 +1,26 @@
+<｜User｜>
+Q: If Chester eats 3 eggs a day for 30 days and then increases it to 5 eggs a day for 30 days, how many dozens of eggs will Chester need for 60 days?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Chester eats eggs for a total of 60 days. We'll break this down into two parts:
+
+1. **First 30 Days:**
+   - **Eggs per day:** 3
+   - **Total eggs for 30 days:** \( 3 \times 30 = 90 \) eggs
+
+2. **Next 30 Days:**
+   - **Eggs per day:** 5
+   - **Total eggs for 30 days:** \( 5 \times 30 = 150 \) eggs
+
+3. **Total Eggs Over 60 Days:**
+   - **Total eggs:** \( 90 + 150 = 246 \) eggs
+
+4. **Convert Total Eggs to Dozens:**
+   - **1 dozen = 12 eggs**
+   - **Total dozens:** \( \frac{246}{12} = 20.5 \) dozen
+
+**Final Answer:**
+\boxed{22.5}

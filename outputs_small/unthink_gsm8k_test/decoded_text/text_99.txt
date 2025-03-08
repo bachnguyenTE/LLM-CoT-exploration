@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Mary is an avid gardener. Yesterday, she received 18 new potted plants from her favorite plant nursery. She already has 2 potted plants on each of the 40 window ledges of her large country home. Feeling generous, she has decided that she will give 1 potted plant from each ledge to friends and family tomorrow. How many potted plants will Mary remain with?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Mary has 2 potted plants on each of 40 window ledges, so the total number of potted plants she currently has is:
+
+\[
+2 \text{ potted plants/ledge} \times 40 \text{ ledges} = 80 \text{ potted plants}
+\]
+
+She receives 18 new potted plants from the nursery:
+
+\[
+80 \text{ potted plants} + 18 \text{ potted plants} = 98 \text{ potted plants}
+\]
+
+Mary plans to give 1 potted plant from each of the 40 ledges to her friends and family:
+
+\[
+98 \text{ potted plants} - 40 \text{ potted plants} = 54 \text{ potted plants}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{54}
+\]

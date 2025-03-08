@@ -1,0 +1,45 @@
+<｜User｜>
+Q: Scarlett found an aquarium for $10.00 at a yard sale.  At the pet store, she bought 2 bags of rocks for $2.50 each and 3 pieces of coral at $2.00 apiece.  She bought 20 fish at $0.50 each and she needed fish food that cost $2.00.  How much did she spend?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the costs step by step.
+
+1. **Aquarium:**
+   - **Cost:** \$10.00
+   - **Total:** \$10.0
+
+2. **Pet Store:**
+   - **2 Bags of Rocks:**
+     - **Cost per bag:** \$2.50
+     - **Total for 2 bags:** 2 × \$2.50 = **\$5.00**
+   - **3 Pieces of Coral:**
+     - **Cost per piece:** \$2.00
+     - **Total for 3 pieces:** 3 × \$2.00 = **\$6.00**
+   - **Total for Pet Store:** \$5.00 + \$6.00 = **\$11.50**
+
+3. **Fish:**
+   - **20 Fish:**
+     - **Cost per fish:** \$0.50
+     - **Total for 20 fish:** 20 × \$0.50 = **\$11.00**
+
+4. **Fish Food:**
+   - **Cost:** \$2.00
+
+**Total Expenditure:**
+- **Aquarium:** \$10.00
+- **Pet Store:** \$11.50
+- **Fish:** \$11.00
+- **Fish Food:** \$2.00
+
+**Adding them up:**
+\[
+\$10.00 + \$11.50 + \$11.00 + \$2.00 = \$34.50
+\]
+
+**Final Answer:**
+\[
+\boxed{34.50}
+\]

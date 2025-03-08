@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Paul is driving a car twice a day: in the morning, and in the afternoon. He did that for 14 days. Each morning ride cost him about $6, and each afternoon ride, about $2. How much money did he spend on driving his car during these two weeks?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the number of rides:**
+   - Paul drives his car twice a day: once in the morning and once in the afternoon.
+   - He did this for 14 days.
+
+   So, the total number of rides is:
+   \[
+   2 \text{ rides/day} \times 14 \text{ days} = 28 \text{ rides}
+   \]
+
+2. **Calculate the cost for each type of ride:**
+   - Morning rides cost approximately \$6 each.
+   - Afternoon rides cost approximately \$2 each.
+
+3. **Calculate the total cost for morning rides:**
+   \[
+   28 \text{ rides} \times \$6/\text{ride} = \$168
+   \]
+
+4. **Calculate the total cost for afternoon rides:**
+   \[
+   28 \text{ rides} \times \$2/\text{ride} = \$56
+   \]
+
+5. **Add both costs to find the total expenditure:**
+   \[
+   \$168 + \$56 = \$124
+   \]
+
+**Final Answer:**
+\[
+\boxed{124}
+\]

@@ -1,0 +1,42 @@
+<｜User｜>
+Q: James loves to go swimming and has to swim across a 20-mile lake.  He can swim at a pace of 2 miles per hour.  He swims 60% of the distance.  After that, he stops on an island and rests for half as long as the swimming time.  He then finishes the remaining distance while going half the speed.  How long did it take him to get across the lake?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how long it took James to swim across the lake.
+
+1. **Total Distance of the Lake:**
+   - James needs to swim **20 miles**.
+
+2. **James's Swimming Pacing:**
+   - James swims at a **pace of 2 miles per hour**.
+
+3. **Distance Swum Initially:**
+   - James swims **60%** of the total distance.
+   - **60% of 20 miles** = \( 0.60 \times 20 = 13.2 \) miles.
+
+4. **Time to Swim the Initial 60% Distance:**
+   - **Time = Distance / Speed**
+   - \( \text{Time} = \frac{13.2 \text{ miles}}{2 \text{ mph}} = 6.6 \) hours.
+
+5. **Resting Time:**
+   - He rests for **half as long as the swimming time**.
+   - **Resting Time = 0.5 \times 6.6 = 3.3 \) hours.
+
+6. **Remaining Distance to Swim:**
+   - Total distance - Initial distance = \( 20 - 13.2 = 6.8 \) miles.
+
+7. **Speed During the Remaining Distance:**
+   - He swims **half the speed**, so **1 mph**.
+
+8. **Time to Swim the Remaining 6.8 Miles:**
+   - \( \text{Time} = \frac{6.8 \text{ miles}}{1 \text{ mph}} = 6.8 \) hours.
+
+9. **Total Time:**
+   - **Swimming Initial Distance** + **Resting Time** + **Swimming Remaining Distance**
+   - \( 6.6 \text{ hours} + 3.3 \text{ hours} + 6.8 \text{ hours} = 16.7 \text{ hours} \).
+
+**Final Answer:**
+\[
+\boxed{16.7 \text{ hours}}
+\]

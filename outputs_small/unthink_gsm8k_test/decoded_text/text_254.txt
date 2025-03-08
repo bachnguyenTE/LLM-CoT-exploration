@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Shelly's 3 kids spent all day at the water park.  Mitchel went down the water slide 30 times.  Anne went down the slide 30% less than Mitchel and Robert went down 4 times as much as Anne.  How many times did Robert go down the water slide?
+A:<｜Assistant｜><think>
+</think>
+
+Let's determine how many times Robert went down the water slide step by step.
+
+1. **Mitchel's Slides:**
+   - **Total slides:** 30 times.
+
+2. **Anne's Slides:**
+   - Anne went down the slide **30% less** than Mitchel.
+   - To find 30% of 30: 
+     \[
+     30\% \times 30 = 0.30 \times 30 = 10.5
+     \]
+   - Subtract this from 30 to find Anne's total:
+     \[
+     30 - 10.5 = 19.5
+     \]
+   - Since the number of slides must be a whole number, we'll consider 19.5 as the exact value for now.
+
+3. **Robert's Slides:**
+   - Robert went down **4 times** as much as Anne.
+   - Multiply Anne's total by 4:
+     \[
+     19.5 \times 4 = 78
+     \]
+
+**Final Answer:**  
+\boxed{78}

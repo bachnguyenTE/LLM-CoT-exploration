@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Henry is making cookies for a local baking competition. He wants to make twice as many as he did last year. When he finishes baking, he realizes he actually baked 15 more cookies than he meant to. He drops 5 of his cookies as he is putting them out to cool, and now has a total of 110 cookies. How many cookies did Henry bake last year?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many cookies Henry baked last year.
+
+1. **Let \( x \) be the number of cookies Henry intended to bake last year.**
+
+2. **Henry wants to make twice as many as last year, so he planned to bake \( 2x \) cookies.**
+
+3. **However, he actually baked **15 more cookies than he intended**. So, the total number of cookies he baked is:**
+   \[
+   2x + 15
+   \]
+
+4. **He then drops **5 cookies** while putting them out to cool. The remaining number of cookies is:**
+   \[
+   (2x +15) -5 = 2x
+   \]
+
+5. **According to the problem, after dropping the cookies, he has **110 cookies** left. So, we set up the equation:**
+   \[
+   2x = 110
+   \]
+
+6. **Solve for \( x \):**
+   \[
+   x = \frac{110}{2} = 55
+   \]
+
+**Therefore, Henry baked \(\boxed{55}\) cookies last year.**

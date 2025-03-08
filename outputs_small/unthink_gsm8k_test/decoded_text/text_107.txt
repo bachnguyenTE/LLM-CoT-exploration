@@ -1,0 +1,64 @@
+<｜User｜>
+Q: Frankie watches TV after he finishes his homework every night. On Monday and Tuesday, he watched a 1-hour episode of his favorite show each night. On Wednesday, he watched a few episodes of a 30-minute show. On Thursday, he finished homework early and watched a 1-hour episode and a 30-minute show. On Friday, he got to stay up late for the weekend, so he watched two 1-hour episodes. If he watched 7 hours of TV in all, how many 30-minute episodes did he watch on Wednesday?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down Frankie's TV watching schedule step by step to determine how many 30-minute episodes he watched on Wednesday.
+
+1. **Monday:**
+   - Frankie watched a 1-hour episode.
+   - **Total TV time on Monday:** 1 hour.
+
+2. **Tuesday:**
+   - Frankie watched another 1-hour episode.
+   - **Total TV time on Tuesday:** 1 hour.
+
+3. **Wednesday:**
+   - Frankie watched a few 30-minute shows.
+   - Let the number of 30-minute episodes be \( x \).
+   - **Total TV time on Wednesday:** \( 30x \) minutes.
+
+4. **Thursday:**
+   - Frankie watched a 1-hour episode and a 30-minute show.
+   - **Total TV time on Thursday:** 1 hour + 30 minutes = 90 minutes.
+
+5. **Friday:**
+   - Frankie watched two 1-hour episodes.
+   - **Total TV time on Friday:** 2 hours.
+
+6. **Total TV Time:**
+   - Frankie watched a total of 7 hours of TV.
+
+Now, let's convert all times to minutes for easier calculation:
+
+- **Monday:** 60 minutes
+- **Tuesday:** 60 minutes
+- **Wednesday:** \( 30x \) minutes
+- **Thursday:** 90 minutes
+- **Friday:** 120 minutes
+
+**Total TV time in minutes:**
+\[
+60 + 60 + 30x + 90 + 120 = 7 \times 60 = 420 \text{ minutes}
+\]
+
+**Setting up the equation:**
+\[
+60 + 60 + 30x + 90 + 120 = 420
+\]
+
+**Simplifying:**
+\[
+60 + 60 = 120 \\
+120 + 90 = 210 \\
+210 + 120 = 330 \\
+330 + 30x = 420 \\
+30x = 420 - 330 \\
+30x = 90 \\
+x = \frac{90}{30} = 3
+\]
+
+**Answer:**
+\[
+\boxed{3}
+\]

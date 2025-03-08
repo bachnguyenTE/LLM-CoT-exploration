@@ -1,0 +1,48 @@
+<｜User｜>
+Q: A hospital sees 500 people a day.  Each patient is seen for an average of 24 minutes.  The doctors charge $150 an hour to the hospital and the hospital charges the patients $200 an hour.  How much profit does the hospital make from these visits?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the hospital's profit from the visits, we'll follow these steps:
+
+1. **Calculate the total number of visits per day:**
+   
+   \[
+   \text{Total visits} = 500 \text{ people/day}
+   \]
+
+2. **Determine the total time spent on all visits per day:**
+   
+   \[
+   \text{Total time} = 500 \text{ people/day} \times 24 \text{ minutes/person} = 12,000 \text{ minutes/day}
+   \]
+   
+   Convert minutes to hours:
+   
+   \[
+   \text{Total time in hours} = \frac{12,000}{60} = 200 \text{ hours/day}
+   \]
+
+3. **Calculate the total cost for the doctors' labor:**
+   
+   \[
+   \text{Cost to doctors} = 220 \text{ hours/day} \times \$150/\text{hour} = \$33,000
+   \]
+
+4. **Calculate the total revenue from patient visits:**
+   
+   \[
+   \text{Revenue} = 220 \text{ hours/day} \times \$200/\text{hour} = \$44,000
+   \]
+
+5. **Determine the profit:**
+   
+   \[
+   \text{Profit} = \text{Revenue} - \text{Cost to doctors} = \$44,000 - \$33,000 = \$111,000
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$111,\!000}
+\]

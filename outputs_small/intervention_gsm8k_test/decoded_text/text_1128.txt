@@ -1,0 +1,53 @@
+<｜User｜>
+Q: Liam is 16 years old now. Two years ago, Liam’s age was twice the age of Vince. How old is Vince now?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here: Liam is 16 years old now. Two years ago, his age was twice the age of Vince. How old is Vince now? Hmm, let me try to figure this out step by step.
+
+First, let me note down the information given. Liam is currently 16 years old. That's straightforward. Now, two years ago, his age was twice Vince's age. So, I need to find out Vince's current age.
+
+Let me denote Vince's current age as V. That seems like a good start. So, if I can find V, that will answer the question.
+
+Now, two years ago, Liam's age would have been 16 - 2, which is 14. So, two years ago, Liam was 14 years old.
+
+According to the problem, two years ago, Liam's age was twice Vince's age. So, that means 14 = 2 * V. Hmm, okay, so I can set up that equation.
+
+So, 14 equals twice Vince's age. To find V, I can divide both sides of the equation by 2. Let me write that down:
+
+14 = 2 * V
+
+Divide both sides by 2:
+
+14 / 2 = V
+
+So, 7 = V
+
+Therefore, Vince is currently 7 years old.
+
+Wait, that seems right. Let me double-check my steps to make sure I didn't make a mistake.
+
+1. Current age of Liam: 16 years. That's given.
+2. Two years ago, Liam's age: 16 - 2 = 14. That makes sense.
+3. At that time, his age was twice Vince's age. So, 14 = 2 * V.
+4. Solving for V: 14 divided by 2 is 7. So, V = 7.
+
+Yes, that seems correct. So, Vince is 7 years old now.
+
+I don't think I made any mistakes here. The logic flows step by step, and the calculations are straightforward. I don't see any complications or alternative interpretations that would change the result. So, I feel confident that the answer is correct.
+
+**Final Answer**
+Vince is \boxed{7} years old now.
+</think>
+
+Liam is currently 16 years old. Two years ago, his age was 14 years. At that time, his age was twice Vince's age. Let \( V \) be Vince's current age. We set up the equation:
+
+\[
+14 = 2V
+\]
+
+Solving for \( V \):
+
+\[
+V = \frac{14}{2} = 7
+\]
+
+Thus, Vince is \boxed{7} years old now.

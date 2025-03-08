@@ -1,0 +1,61 @@
+<｜User｜>
+Q: Miss Maria is a middle school teacher, and she loves to collect sports cards. She has six decks with 25 basketball cards in each deck and five boxes with 40 baseball cards in each box. She keeps 50 cards and gives the remaining cards to her students. If her students got ten cards each, how many students does Miss Maria have?
+A:<｜Assistant｜><think>
+First, I need to calculate the total number of basketball cards Miss Maria has. She has six decks, each containing 25 basketball cards. So, I'll multiply 6 by 25 to find the total number of basketball cards.
+
+Next, I'll calculate the total number of baseball cards. She has five boxes, each with 40 baseball cards. I'll multiply 5 by 40 to get the total number of baseball cards.
+
+After finding the total number of basketball and baseball cards, I'll add them together to determine the overall total number of cards Miss Maria has.
+
+Then, I'll subtract the number of cards she keeps, which is 50, from the total number of cards to find out how many cards are left for her students.
+
+Finally, I'll divide the number of remaining cards by the number of cards each student receives, which is 10, to find out how many students Miss Maria has.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Calculate the total number of basketball cards:**
+   
+   - Miss Maria has **6 decks**.
+   - Each deck contains **25 basketball cards**.
+   
+   \[
+   \text{Total basketball cards} = 6 \times 25 = 150
+   \]
+
+2. **Calculate the total number of baseball cards:**
+   
+   - She has **5 boxes**.
+   - Each box contains **40 baseball cards**.
+   
+   \[
+   \text{Total baseball cards} = 5 \times 40 = 200
+   \]
+
+3. **Find the total number of cards:**
+   
+   \[
+   \text{Total cards} = \text{Total basketball cards} + \text{Total baseball cards} = 150 + 200 = 350
+   \]
+
+4. **Determine the number of cards left after keeping 50 cards:**
+   
+   \[
+   \text{Cards left} = \text{Total cards} - \text{Cards kept} = 350 - 50 = 300
+   \]
+
+5. **Calculate the number of students who received the cards:**
+   
+   - Each student receives **10 cards**.
+   
+   \[
+   \text{Number of students} = \frac{\text{Cards left}}{\text{Cards per student}} = \frac{300}{10} = 30
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{30}
+\]

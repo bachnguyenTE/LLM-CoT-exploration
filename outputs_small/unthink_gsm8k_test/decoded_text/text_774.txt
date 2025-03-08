@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Jack decides to visit a museum 150 miles from home.  He drives 75 mph there and back.  He spends 6 hours at the museum.  How long is he gone from home?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how long Jack is gone from home, we need to calculate the total time he spends traveling to and from the museum and add the time he spends at the museum.
+
+1. **Distance to the Museum:**
+   - Distance = 150 miles
+
+2. **Speed:**
+   - Speed = 75 mph
+
+3. **Time to Travel to the Museum:**
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}} = \frac{150 \text{ miles}}{75 \text{ mph}} = 2 \text{ hours}
+   \]
+
+4. **Time to Travel Back Home:**
+   - Since the distance and speed are the same, the time back is also 2 hours.
+
+5. **Total Travel Time:**
+   \[
+   2 \text{ hours (to)} + 2 \text{ hours (back)} = 4 \text{ hours}
+   \]
+
+6. **Time Spent at the Museum:**
+   - Time = 6 hours
+
+7. **Total Time Gone from Home:**
+   \[
+   4 \text{ hours (travel)} + 6 \text{ hours (at museum)} = 10 \text{ hours}
+   \]
+
+**Final Answer:**
+\[
+\boxed{10 \text{ hours}}
+\]

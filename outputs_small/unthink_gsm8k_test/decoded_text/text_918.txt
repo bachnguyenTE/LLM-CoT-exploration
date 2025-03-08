@@ -1,0 +1,36 @@
+<｜User｜>
+Q: There are 6 students playing tennis and twice that number playing volleyball. There are 16 boys and 22 girls playing soccer. If each student only participates in one group, how many students are there in total?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Number of Students Playing Tennis:**
+   - There are **6 students** playing tennis.
+
+2. **Number of Students Playing Volleyball:**
+   - It is mentioned that there are **twice the number of students playing tennis** playing volleyball.
+   - Therefore, the number of students playing volleyball is:
+     \[
+     2 \times 6 = 12 \text{ students}
+     \]
+
+3. **Number of Students Playing Soccer:**
+   - There are **16 boys** and **22 girls** playing soccer.
+   - So, the total number of students playing soccer is:
+     \[
+     16 + 22 = 38 \text{ students}
+     \]
+
+4. **Total Number of Students:**
+   - Since each student only participates in one group, we add up the students from all three sports:
+     \[
+     6 \text{ (tennis)} + 12 \text{ (volleyball)} + 38 \text{ (soccer)} = 56 \text{ students}
+     \]
+
+**Final Answer:**
+\[
+\boxed{56}
+\]

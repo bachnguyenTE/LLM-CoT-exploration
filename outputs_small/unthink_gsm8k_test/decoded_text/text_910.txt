@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Farmer Brown's farm is 200 acres, and Farmer Smith's farm is 100 acres more than twice that. How many acres do the two farms have, together?
+A:<｜Assistant｜><think>
+</think>
+
+Let's determine the total number of acres Farmer Brown and Farmer Smith have together.
+
+1. **Farmer Brown's Farm:**
+   - Given: 200 acres.
+
+2. **Farmer Smith's Farm:**
+   - The problem states that Farmer Smith's farm is **100 acres more than twice that of Farmer Brown's farm**.
+   - Let's denote Farmer Brown's farm as \( B \) and Farmer Smith's farm as \( S \).
+   - According to the problem:
+     \[
+     S = 2B + 100
+     \]
+   - Substituting the known value of \( B \):
+     \[
+     S = 2 \times 200 + 100 = 400 + 100 = 510 \text{ acres}
+     \]
+
+3. **Total Acres Together:**
+   - Add the acres of both farms:
+     \[
+     B + S = 200 + 510 = 711 \text{ acres}
+     \]
+
+**Final Answer:**  
+\boxed{711}

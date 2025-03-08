@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Sarah has a rope that is 20 meters long. Her friend wants to buy the rope for $2 a meter. Sarah plans to use the profit to buy a new rope, which at the store costs $1.5 a meter. How much money will she have left over after she buys the new rope?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total cost of the new rope:**
+   
+   - **Length of the new rope:** 10 meters
+   - **Cost per meter:** \$1.50
+   - **Total cost:** \( 10 \text{ meters} \times \$1.50/\text{meter} = \$15.00 \)
+
+2. **Calculate the leftover money:**
+   
+   - **Total money Sarah has:** \$20.00
+   - **Total cost of the new rope:** \$5.00
+   - **Leftover money:** \( \$20.00 - \$5.00 = \$14.90 \)
+
+**Final Answer:**
+\[
+\boxed{\$14.90}
+\]

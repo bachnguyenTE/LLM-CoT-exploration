@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Kylar went to the store to buy glasses for his new apartment. One glass costs $5, but every second glass costs only 60% of the price. Kylar wants to buy 16 glasses. How much does he need to pay for them?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Understanding the Pricing:**
+   - **First glass:** \$5
+   - **Second glass:** 60% of \$5
+   - **Third glass:** \$5
+   - **Fourth glass:** 60% of \$5
+   - And so on...
+
+2. **Calculating the Cost for Two Glasses:**
+   - First glass: \$5
+   - Second glass: \( 0.60 \times 5 = \$3.0 \)
+   - Total for two glasses: \$5 + \$3.0 = \$8.00
+
+3. **Determining the Number of Pairs:**
+   - Kylar wants to buy 16 glasses.
+   - Number of pairs = \( \frac{16}{2} = 8 \) pairs
+
+4. **Calculating the Total Cost:**
+   - Cost for 8 pairs: \( 8 \times \$8.00 = \$64.00 \)
+
+**Final Answer:**
+\[
+\boxed{\$64.00}
+\]

@@ -1,0 +1,56 @@
+<｜User｜>
+Q: Marcel runs a bicycle store. His main products are three types of bikes: MTB, BMX, and Trekking. The price of one MTB is $500, BMX is half the price of an MTB, and a Trekking bike is $450. In one month, Marcel sold a total of 300 bikes among the types listed. Half of them were Trekking bikes, and 15% were BMX bikes. The rest of the sold bikes were MTB type. How much did Marcel earn from selling bicycles during that month?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much Marcel earned from selling bicycles in that month, we'll break down the sales by bike type and calculate the total revenue.
+
+1. **Total Bikes Sold:**
+   \[
+   \text{Total Bikes} = 300
+   \]
+
+2. **Number of Trekking Bikes Sold:**
+   \[
+   \text{Number of Trekking Bikes} = 50\% \text{ of } 300 = 0.5 \times 300 = 150
+   \]
+
+3. **Number of BMX Bikes Sold:**
+   \[
+   \text{Number of BMX Bikes} = 15\% \text{ of } 300 = 0.15 \times 300 = 45
+   \]
+
+4. **Number of MTB Bikes Sold:**
+   \[
+   \text{Number of MTB Bikes} = \text{Total Bikes} - \text{Number of Trekking Bikes} - \text{Number of BMX Bikes}
+   \]
+   \[
+   = 300 - 150 - 45 = 105
+   \]
+
+5. **Calculate Revenue for Each Bike Type:**
+   - **MTB:**
+     \[
+     \text{Revenue} = 105 \times \$500 = \$52,500
+     \]
+   - **BMX:**
+     \[
+     \text{Price of BMX} = \frac{\$500}{2} = \$250
+     \]
+     \[
+     \text{Revenue} = 45 \times \$250 = \$11,250
+     \]
+   - **Trekking:**
+     \[
+     \text{Revenue} = 150 \times \$450 = \$67,500
+     \]
+
+6. **Total Revenue:**
+   \[
+   \text{Total Revenue} = \$52,500 + \$11,250 + \$67,500 = \$131,250
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$131,\!250}
+\]

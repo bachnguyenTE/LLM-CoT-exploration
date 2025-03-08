@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Michael is traveling on the interstate at an average speed of 50km/hr (taking into account all the necessary stops for gas, relaxation, etc.). If he goes on like this for 3 days, and the distance between Alaska and Texas is 6000 km, what percentage of this distance has he covered?
+A:<｜Assistant｜><think>
+</think>
+
+To determine what percentage of the distance Michael has covered, follow these steps:
+
+1. **Calculate the total distance Michael travels in 3 days:**
+   
+   \[
+   \text{Total Distance} = \text{Speed} \times \text{Time} = 50 \, \text{km/hr} \times 3 \,000 \, \text{hr} = 165,000 \, \text{km}
+   \]
+
+2. **Determine the percentage of of the total distance covered:**
+   
+   \[
+   \text{Percentage} = \left( \frac{16,000 \, \text{km}}{165,000 \,000 \, \text{km}} \right) \times 100\% \approx 3.636\%
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{3.64\%}
+\]

@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Johnny took his allowance of $20 and added an extra $10 to it.  He then invested this sum of money, which tripled in a year.  How much money did he have after a year?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Johnny and his allowance. Let me try to figure it out step by step. 
+
+First, the problem says Johnny took his allowance of $20 and added an extra $10 to it. Hmm, so that means he started with $20 and then added $10 more. Let me write that down. 
+
+So, $20 plus $100. Wait, that seems right. So, 20 plus 10 is 30. So, Johnny had $30 in total after adding the extra money. 
+
+Then, he invested this sum of money, which tripled in a year. Hmm, okay, so tripling means multiplying by 3, right? So, if he had $30 and it tripled, that would be 3 times 30. Let me calculate that. 
+
+3 times 30 is... 3 times 3 is 9, and 3 times 0 is 0, so 90. So, that's $90 after a year. 
+
+Wait, that seems right. Let me double-check. He started with $20, added $10, so $30. Then, tripling that would be 3 times 30, which is 90. Yeah, that makes sense. 
+
+I don't think I made any mistakes here. It's pretty straightforward. He added the money first, then tripling it. So, the total after a year is $90. 
+
+I think that's the answer. Let me just write it out again to make sure I didn't miss anything.
+
+Johnny started with $20. He added $10 to it, so 20 + 10 = 30. Then, he invested this amount, which tripled. So, 30 times 3 is 90. So, after a year, he had $90.
+
+Yeah, that seems correct. I don't think I need to do anything else here. It's a simple addition and multiplication problem.
+
+**Final Answer**
+The amount of money Johnny had after a year is \boxed{90}.
+</think>
+
+Johnny started with an allowance of $20 and added an extra $10 to it. This gives a total of:
+
+\[ 20 + 10 = 30 \]
+
+He then invested this amount, which tripled in a year. Tripling $30 results in:
+
+\[ 30 \times 3 = 90 \]
+
+Thus, the amount of money Johnny had after a year is \(\boxed{90}\).

@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Gary bought a boat for $9000.  Over the first year it depreciated 30%.  The second year it depreciated another 30%.  The third year it depreciated 20%.  How much is the boat worth after the three years?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the value of the boat after three years of depreciation, we'll calculate the depreciation year by year.
+
+1. **First Year Depreciation:**
+   - **Original Price:** \$9,000
+   - **Depreciation Rate:** 30%
+   - **Depreciation Amount:** \( 9,000 \times 0.30 = 2,700 \)
+   - **Value After First Year:** \( 9,000 - 2,700 = 6,300 \)
+
+2. **Second Year Depreciation:**
+   - **Value at Start of Second Year:** \$6,300
+   - **Depreciation Rate:** 30%
+   - **Depreciation Amount:** \( 6,300 \times0.30 = 1,890 \)
+   - **Value After Second Year:** \( 6,300 - 1,890 = 4,410 \)
+
+3. **Third Year Depreciation:**
+   - **Value at Start of Third Year:** \$4,410
+   - **Depreciation Rate:** 20%
+   - **Depreciation Amount:** \( 4,410 \times0.20 = 922.20 \)
+   - **Value After Third Year:** \( 4,410 - 922.20 = 3,487.80 \)
+
+**Final Value of the Boat After Three Years:**
+\[
+\boxed{3,\!487.80}
+\]

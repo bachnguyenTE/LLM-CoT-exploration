@@ -1,0 +1,25 @@
+<｜User｜>
+Q: While at the dollar store, Sloane counts 100 customers entering the store. The next day, she counts 50 more customers than the first day. If the total number of customers by the third day was 500, how many customers did she count on the third day?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **First Day:**
+   - Sloane counts **100 customers**.
+
+2. **Second Day:**
+   - She counts **50 more customers** than the first day.
+   - **Total customers on the second day:** \( 100 + 55 = 155 \) customers.
+
+3. **Third Day:**
+   - The **total number of customers by the third day** is **500**.
+   - To find the number of customers on the third day, subtract the total from the first two days from the overall total.
+   - **Total customers on the third day:** \( 500 - (100 + 155) = 500 - 255 = 445 \) customers.
+
+**Final Answer:**
+\[
+\boxed{445}
+\]

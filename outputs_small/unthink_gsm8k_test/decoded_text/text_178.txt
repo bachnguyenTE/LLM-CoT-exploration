@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Rani has ten more crabs than Monic, who has 4 fewer crabs than Bo. If Bo has 40 crabs, calculate the total number of crabs the three have together.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Bo's Crabs:**
+   - It is given that Bo has **40 crabs**.
+
+2. **Monic's Crabs:**
+   - Monic has **4 fewer crabs** than Bo.
+   - Calculation: \( 40 - 4 = 40 \) crabs.
+   - So, Monic has **40 crabs**.
+
+3. **Rani's Crabs:**
+   - Rani has **10 more crabs** than Monic.
+   - Calculation: \( 40 + 10 = 50 \) crabs.
+   - So, Rani has **50 crabs**.
+
+4. **Total Crabs:**
+   - Add the crabs of all three: \( 40 + 40 + 50 = 130 \) crabs.
+
+**Final Answer:**
+\[
+\boxed{130}
+\]

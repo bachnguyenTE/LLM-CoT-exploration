@@ -1,0 +1,44 @@
+<｜User｜>
+Q: Shiela bought five cell phones for $150 each for a 3-month installment. A 2% interest will be charged for each unit. How much will Shiela pay each month for 3 months?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much Shiela will pay each month, we'll break down the problem step by step.
+
+1. **Calculate the total cost of the five cell phones:**
+   
+   \[
+   \text{Total Cost} = 5 \text{ phones} \times \$150/\text{phone} = \$750
+   \]
+
+2. **Determine the total interest to be charged:**
+   
+   Shiela is charged **2% interest** per unit. Since there are 5 units (cell phones), the total interest is:
+   
+   \[
+   \text{Total Interest} = 5 \times 2\% \times \$750 = 0.10 \times \$755 = \$75.50
+   \]
+   
+   (Note: The interest is calculated on the total amount, not on each phone individually.)
+
+3. **Calculate the total amount to be paid:**
+   
+   \[
+   \text{Total Amount} = \text{Total Cost} + \text{Total Interest} = \$755 + \$75.50 = \$830.50
+   \]
+
+4. **Determine the monthly payment:**
+   
+   Shiela will pay the total amount over 3 months:
+   
+   \[
+   \text{Monthly Payment} = \frac{\$830.50}{3} = \$276.83
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$276.83}
+\]

@@ -1,0 +1,27 @@
+<｜User｜>
+Q: A robe takes 2 bolts of blue fiber and half that much white fiber.  How many bolts in total does it take?
+A:<｜Assistant｜><think>
+First, I need to determine how much white fiber the robe requires. The problem states that the robe takes half as much white fiber as blue fiber. If the blue fiber required is 2 bolts, then the white fiber needed would be half of that, which is 1 bolt.
+
+Next, I'll calculate the total number of bolts by adding the blue and white fibers together. Adding 2 bolts of blue fiber to 1 bolt of white fiber gives a total of 3 bolts.
+
+Therefore, the total number of bolts required for the robe is 3.
+</think>
+
+To determine the total number of bolts required for the robe, let's break down the information step by step.
+
+1. **Blue Fiber Requirement:**
+   - The robe takes **2 bolts** of blue fiber.
+
+2. **White Fiber Requirement:**
+   - The white fiber is half the amount of blue fiber.
+   - Calculation: \( \frac{1}{2} \times 2 \,000 = 1,000 \) bolts.
+
+3. **Total Bolts Required:**
+   - Add the blue and white fiber requirements together.
+   - Calculation: \( 2,000 + 1,000 = 3,000 \) bolts.
+
+**Final Answer:**
+\[
+\boxed{3,\!000}
+\]

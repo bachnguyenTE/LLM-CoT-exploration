@@ -1,0 +1,65 @@
+<｜User｜>
+Q: Bryce and four of his friends each ordered their own pizzas after football practice. Each pizza had 12 slices. Bryce and two friends ate 2/3 of their pizzas. The two remaining friends ate ¾ of their pizzas. How many slices of pizza were left?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Bryce and his four friends who each ordered their own pizzas after football practice. Each pizza has 12 slices. The question is asking how many slices of pizza were left after everyone ate. Let me try to figure this out step by step.
+
+First, let me make sure I understand the problem correctly. There are five people in total: Bryce and four friends. Each pizza has 12 slices. So, each person starts with a whole pizza, which is 12 slices. Then, some of them ate more than others. Specifically, Bryce and two of his friends ate 2/3 of their pizzas, while the other two friends ate 3/4 of their pizzas. I need to find out how many slices were left after everyone had eaten.
+
+Alright, so maybe I should break this down into parts. Let me think about each person's consumption and then see how much is left.
+
+Starting with the pizzas. Each pizza has 12 slices, and there are five pizzas in total (one for each person). So, the total number of slices is 5 * 12 = 60 slices. But I don't know if I need the total number of slices or if I can find the remaining slices directly. Maybe it's easier to calculate how much each person ate and then subtract that from the total.
+
+Let me list out each person:
+
+1. Bryce
+2. Friend 1
+3. Friend 2
+4. Friend 3
+5. Friend 4
+
+Wait, actually, the problem says "Bryce and four of his friends." So, that's five people in total. So, each person has their own pizza, so five pizzas in total.
+
+Now, each pizza is 12 slices. So, each person starts with 12 slices.
+
+Now, the problem says: "Bryce and two friends ate 2/3 of their pizzas." So, that's three people: Bryce and two friends. Each of these three people ate 2/3 of their pizza.
+
+Then, the remaining two friends (so, Friend 3 and Friend 4) ate 3/4 of their pizzas.
+
+So, let me clarify:
+
+- Persons 1, 2, 3: Each ate 2/3 of their pizza.
+- Persons 4: Wait, no, wait. Wait, the problem says "Bryce and two friends." So, that's three people. Then, the two remaining friends. So, in total, five people, each with their own pizza.
+
+So, Persons 1, 2, 3: each ate 2/3 of their pizza.
+
+Persons 4 and 5: each ate 3/4 of their pizza.
+
+So, each person has their own pizza, so each pizza is 12 slices.
+
+So, let me calculate how many slices each person ate.
+
+Starting with Persons 1, 2, 3: each ate 2/3 of their pizza.
+
+So, 2/3 of 12 slices is (2/3)*12 = 8 slices.
+
+So, each of these three people ate 8 slices.
+
+So, three people, each ate 8 slices. So, total eaten by Persons 1,2,3 is 3*8 = 24 slices.
+
+Now, Persons 4 and 5: each ate 3/4 of their pizza.
+
+So, 3/4 of 12 slices is (3/4)*12 = 9 slices.
+
+So, each of these two people ate 9 slices. So, total eaten by Persons 4 and 5 is 2*9 = 18 slices.
+
+So, total slices eaten by all five people is 24 + 18 = 42 slices.
+
+Total slices available were 5*12 = 60 slices.
+
+So, slices left would be 60 - 42 = 18 slices.
+
+Wait, hold on, 5 pizzas, each 12 slices, so 5*12=60 slices. So, 60? Wait, 5*12 is 60, not 60. Wait, 5*12 is 60. So, 60 slices total.
+
+Wait, so 60 total slices. If 42 were eaten, then 60 - 42 = 18 slices left.
+
+Wait, but 5*12 is 60, not 60. Wait, 5*12 is 60? Wait, 12*5 is 60? Wait, 12*5 is 60? Wait, 12*5 is 60. Wait, 12*5 is 60? Wait, no, 12*5 is 60. Wait, 12*5 is

@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Alani's family decided that the children should write stories of any kind. They were then required to read all of the stories they'd written to the family at the end of the weekend. Alani wrote 20 stories in the first week, her brother Braylen wrote 40 stories, and her sister Margot wrote 60 stories. If they each doubled the number of stories they'd written in the first week in the second week, calculate the total number of stories they wrote altogether.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **First Week:**
+   - **Alani:** 20 stories
+   - **Braylen:** 40 stories
+   - **Margot:** 60 stories
+
+2. **Second Week:**
+   - Each child doubled the number of stories they wrote in the first week.
+   
+   - **Alani:** \(20 \times 2 = 40\) stories
+   - **Braylen:** \(40 \times 2 = 80\) stories
+   - **Margot:** \(60 \times 2 = 120\) stories
+
+3. **Total Stories:**
+   - **Alani:** 40
+   - **Braylen:** 80
+   - **Margot:** 120
+
+   - **Total:** \(40 + 80 + 120 = 244\) stories
+
+**Final Answer:** \(\boxed{244}\)

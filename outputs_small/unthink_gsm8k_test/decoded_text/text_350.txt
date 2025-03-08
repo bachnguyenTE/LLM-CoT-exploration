@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Peyton scheduled after-work activities of a one hour yoga class on Monday, a cooking class that lasts three times as long as Monday’s yoga on Tuesday, a half-hour cheese-tasting event on Wednesday, a museum tour that takes half as long as the cooking class on Thursday, and two hours of errands on Friday. How many hours will all Peyton’s after-work activities take?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down Peyton's after-work activities step by step:
+
+1. **Monday Yoga:** 1 hour
+2. **Tuesday Cooking Class:** 3 times the Monday yoga duration  
+   \[
+   3 \times 1\ \text{hour} = 3\ \text{hours}
+   \]
+3. **Wednesday Cheese-Tasting Event:** Half an hour  
+   \[
+   \frac{1}{2}\ \text{hour}
+   \]
+4. **Thursday Museum Tour:** Half the duration of the cooking class  
+   \[
+   \frac{1}{2} \times 3\ \text{hours} = 1.5\ \text{hours}
+   \]
+5. **Friday Errands:** 2 hours
+
+**Total Time:**
+
+\[
+1\ \text{hour} + 3\ \text{hours} + \frac{1}{2}\ \text{hour} + 1.5\ \text{hours} + 2\ \text{hours} = 7.5\ \text{hours}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{7.5\ \text{hours}}
+\]

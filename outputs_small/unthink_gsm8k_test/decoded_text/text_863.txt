@@ -1,0 +1,45 @@
+<｜User｜>
+Q: Gretchen has some coins. There are 30 more gold coins than silver coins. If she had 70 gold coins, how many coins did Gretchen have in total?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Gretchen has some coins.
+- There are **30 more gold coins** than silver coins.
+- If she had **70 gold coins**, how many coins did Gretchen have in total?
+
+**Let’s define:**
+- Let \( S \) be the number of silver coins.
+- Let \( G \) be the number of gold coins.
+
+**From the problem:**
+1. There are 30 more gold coins than silver coins.
+   \[
+   G = S + 30
+   \]
+2. If she had **70 gold coins**, then:
+   \[
+   G = 70
+   \]
+
+**Step 1:** Substitute \( G = 70 \) into the first equation.
+\[
+70 = S + 30
+\]
+
+**Step2:** Solve for \( S \).
+\[
+S = 70 - 30 = 40
+\]
+
+**Step3:** Calculate the total number of coins.
+\[
+\text{Total coins} = G + S = 70 + 40 = 110
+\]
+
+**Final Answer:**
+\[
+\boxed{110}
+\]

@@ -1,0 +1,26 @@
+<｜User｜>
+Q: A salesman bought a case of 48 sneakers for $576. He sold 17 of them for $20 at a flash sale on Monday, and the rest were sold to a department store for $25 each throughout the rest of the week. How much money, in dollars, was the salesman's profit?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about a salesman who bought a case of 48 sneakers for $576. He sold 17 of them for $20 each on Monday, and then sold the rest to a department store for $25 each throughout the rest of the week. I need to figure out how much profit he made. Hmm, profit is usually calculated by subtracting the cost price from the total revenue, right? So, I think I need to calculate how much money he made in total and then subtract the original cost of $576.
+
+First, let me break down the problem. He bought 48 sneakers for $576. So, the cost per sneaker would be $576 divided by 48. Let me calculate that real quick. 576 divided by 48. Hmm, 48 times 12 is 576, so each sneaker cost him $12. Wait, is that right? 48 times 100 is 4800, which is way too high. Wait, no, 48 times 10 is 480, 48 times 12 is 576. Yeah, so each sneaker was $12. That seems low, but okay, maybe they're cheap.
+
+Now, he sold 17 of them for $20 each on Monday. So, let me calculate how much money he made from those 17 sneakers. 17 times 20. 17 times 20 is 340. So, he made $340 on Monday from those 17 sneakers.
+
+Then, he sold the rest to a department store. How many sneakers did he sell to the department store? He had 48 in total, sold 17, so 48 minus 17 is 31. So, 31 sneakers were sold to the department store. Each at $25, so 31 times 25. Let me compute that. 30 times 25 is 750, and 1 times 25 is 25, so 750 plus 25 is 775. So, he made $775 from the department store.
+
+Now, let me add up the total revenue. He made $340 on Monday and $775 on the department store. So, 340 plus 775. Let me add 340 + 700 first, which is 1040, and then add 75, so 1040 + 75 is 1115. So, total revenue is $1115.
+
+Now, the cost was $576. So, profit is total revenue minus cost. So, 1115 minus 576. Let me compute that. 1115 minus 500 is 615, and then minus 76 more. 615 minus 76. Hmm, 615 minus 70 is 545, and then minus 6 is 539. So, profit is $539.
+
+Wait, let me double-check my calculations to make sure I didn't make a mistake. So, 48 sneakers, each costing $12, so 48 times 12 is indeed 576. Correct.
+
+He sold 17 at $20 each: 17 times 20 is 340. Correct.
+
+He sold 31 at $25 each: 31 times 25 is 775. Wait, hold on, 31 times 25 is 775? Wait, 30 times 25 is 750, but 31 is 30 plus 1, so 30 times 25 is 750, and 1 times 25 is 25, so 750 +25 is 775. Yes, that's correct.
+
+Total revenue: 340 + 775. Let me add 340 + 700 is 1040, and then +75 is 1115. Correct.
+
+Total cost was 576. So, 1115 minus 576. Let me do this subtraction step by step. 1115 minus 500 is 615, then minus 76 is 539. So, $539 profit.
+
+Wait, but let me check if I did the subtraction correctly. 1115 minus 576. So, 1115 minus 5

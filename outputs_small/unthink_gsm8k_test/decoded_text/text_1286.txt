@@ -1,0 +1,28 @@
+<｜User｜>
+Q: James likes to check the coin return of the vending machine for change. One day he finds a quarter, two nickels, and 7 dimes. How much money in cents does James have?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much money James has in cents, we'll calculate the total value of each type of coin and then sum them up.
+
+1. **Quarter:** A quarter is worth 25 cents.
+   \[
+   1 \times 25\text{c} = 25\text{c}
+   \]
+
+2. **Nickels:** Each nickel is worth 5 cents. James has 2 nickels.
+   \[
+   2 \times 5\text{c} = 10\text{c}
+   \]
+
+3. **Dimes:** Each dime is worth 10 cents. James has 7 dimes.
+   \[
+   7 \times 10\text{c} = 70\text{c}
+   \]
+
+Now, add up all the values:
+\[
+25\text{c} + 10\text{c} + 70\text{c} = 105\text{c}
+\]
+
+**Final Answer:** James has a total of \(\boxed{105}\) cents.

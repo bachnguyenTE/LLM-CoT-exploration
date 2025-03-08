@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Manny signed up for Karate classes for $60. His parents tell him that if his classes end up costing more than $10 per class, then they won't sign him up again. If there are 10 total classes, how many can he miss before they don't sign him up again?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Manny has signed up for Karate classes for a total of **10 classes** and paid **\$60**. His parents have set a condition: if the cost per class exceeds **\$10**, he won't sign him up again. We need to determine how many classes Manny can miss before the cost per class exceeds **\$10**.
+
+1. **Calculate the current cost per class:**
+   
+   \[
+   \text{Current cost per class} = \frac{\$60}{10 \text{ classes}} = \$6
+   \]
+
+2. **Determine the maximum allowable cost per class:**
+   
+   \[
+   \text{Maximum allowable cost per class} = \$10
+   \]
+
+3. **Find the number of classes Manny can miss:**
+   
+   \[
+   \text{Number of classes he can miss} = \frac{\$60}{\$10 \text{ per class}} = 6 \text{ classes}
+   \]
+
+**Answer:** Manny can miss **6 classes** before his parents decide he won't sign him up again.

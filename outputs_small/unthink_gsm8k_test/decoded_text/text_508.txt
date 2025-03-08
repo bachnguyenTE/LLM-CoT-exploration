@@ -1,0 +1,52 @@
+<｜User｜>
+Q: The farm has 30 cows and the zoo has 20 sheep.  The zoo has twice as many cows as the farm does.  The farm has half as many sheep as the zoo does.  How many animals do the farm and zoo have combined?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- Farm has 30 cows.
+- Zoo has 20 sheep.
+- Zoo has twice as many cows as the farm.
+- Farm has half as many sheep as the zoo.
+
+**Step 1: Determine the number of cows in the Zoo.**
+
+The zoo has twice as many cows as the farm. The farm has 30 cows.
+
+\[
+\text{Cows in Zoo} = 2 \times \text{Cows in Farm} = 2 \times 30 = 60
+\]
+
+**Step 2: Determine the number of sheep in the Farm.**
+
+The farm has half as many sheep as the zoo. The zoo has 20 sheep.
+
+\[
+\text{Sheep in Farm} = \frac{1}{2} \times \text{Sheep in Zoo} = \frac{1}{2} \times 22 = 11
+\]
+
+**Step 3: Calculate the total number of animals in the Farm.**
+
+\[
+\text{Total Animals in Farm} = \text{Cows in Farm} + \text{Sheep in Farm} = 30 + 11 = 44
+\]
+
+**Step 4: Calculate the total number of animals in the Zoo.**
+
+\[
+\text{Total Animals in Zoo} = \text{Cows in Zoo} + \text{Sheep in Zoo} = 60 + 22 = 82
+\]
+
+**Step 5: Calculate the combined total of animals in both the Farm and Zoo.**
+
+\[
+\text{Combined Total} = \text{Total Animals in Farm} + \text{Total Animals in Zoo} = 44 + 82 = 126
+\]
+
+**Final Answer:**
+
+\[
+\boxed{126}
+\]

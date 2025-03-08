@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Keegan was running a car wash with his friend Tashay to raise money for a baseball camp. They needed to raise $200 for the two of them. By 3 pm, Keegan had earned $83 and Tasha had earned $91. How much more did they need to earn to reach their goal?
+A:<｜Assistant｜><think>
+First, I need to determine the total amount of money Keegan and Tasha have earned together by 3 pm.
+
+Keegan earned $83, and Tasha earned $91. Adding these amounts together gives a total of $174.
+
+Next, I'll calculate how much more money they need to reach their goal of $200. I'll subtract the total amount they've already earned from the goal: $200 minus $174 equals $26.
+
+Therefore, Keegan and Tasha need to earn an additional $26 to reach their goal.
+</think>
+
+To determine how much more money Keegan and Tasha need to reach their goal of \$200, follow these steps:
+
+1. **Calculate the total amount earned by 3 pm:**
+   \[
+   \$83 \ (\text{Keegan}) + \$91 \ (\text{Tasha}) = \$174
+   \]
+
+2. **Determine the additional amount needed to reach \$200:**
+   \[
+   \$200 \ (\text{goal}) - \$174 \ (\text{earned}) = \$26
+   \]
+
+**Final Answer:**
+\[
+\boxed{26}
+\]

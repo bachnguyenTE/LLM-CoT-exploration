@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Three people divided an amount of $1920. The second took $80 more than the first and the third took twice what the second took. Calculate the share of the first one.
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Total amount = \$1920
+- Let the share of the first person be \( x \).
+- The second person took \$80 more than the first, so their share is \( x + 80 \).
+- The third person took twice what the second took, so their share is \( 2(x + 80) \).
+
+**Setting up the equation:**
+\[
+x + (x + 80) + 2(x + 80) = 1920
+\]
+
+**Simplifying the equation:**
+\[
+x + x + 80 + 2x + 160 = 1920
+\]
+\[
+4x + 248 = 1920
+\]
+
+**Solving for \( x \):**
+\[
+4x = 1920 - 248
+\]
+\[
+4x = 1672
+\]
+\[
+x = \frac{1672}{4}
+\]
+\[
+x = 168
+\]
+
+**Answer:**
+The first person received \(\boxed{168}\) dollars.

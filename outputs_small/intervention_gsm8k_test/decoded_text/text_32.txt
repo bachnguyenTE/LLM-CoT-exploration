@@ -1,0 +1,29 @@
+<｜User｜>
+Q: John takes care of 10 dogs.  Each dog takes .5 hours a day to walk and take care of their business.  How many hours a week does he spend taking care of dogs?
+A:<｜Assistant｜><think>
+First, determine the total number of hours each dog spends per week. Since each dog takes 0.5 hours daily and there are 7 days in a week, multiply 0.5 by 7 to get 3.5 hours per dog per week.
+
+Next, calculate the total hours spent by all 10 dogs by multiplying the hours per dog by the number of dogs. Multiply 3.5 by 10 to get 35 hours in total per week.
+</think>
+
+**Solution:**
+
+John takes care of 10 dogs. Each dog requires **0.5 hours** per day to walk and take care of their business. To find out how many hours John spends taking care of dogs in a week, follow these steps:
+
+1. **Calculate the daily hours for all dogs:**
+   
+   \[
+   \text{Daily hours} = 10 \text{ dogs} \times 0.5 \text{ hours/dog} = 5 \text{ hours/day}
+   \]
+
+2. **Calculate the weekly hours:**
+   
+   \[
+   \text{Weekly hours} = 5 \text{ hours/day} \times 7 \text{ days/week} = 35 \text{ hours/week}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{35 \text{ hours}}
+\]

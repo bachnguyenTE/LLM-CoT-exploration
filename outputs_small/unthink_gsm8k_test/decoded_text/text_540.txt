@@ -1,0 +1,56 @@
+<｜User｜>
+Q: $18 is shared among 3 boys. The eldest added $5 to his share and added another $10 the following day. He later needed some money and spent $8 from his total so far. After saving some more, he was able to triple the amount he had left after spending the $8. How much does he have now?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how much money the boy has now.
+
+1. **Initial Sharing:**
+   - **Total money:** \$18
+   - **Number of boys:** 3
+
+   Let's denote the shares of the three boys as \( A \), \( B \), and \( C \).
+
+   Since the problem doesn't specify how the money was initially shared, we'll assume that the shares are equal. Therefore:
+   \[
+   A = B = C = \frac{18}{3} = \$6
+   \]
+
+2. **Eldest's Additional Money:**
+   - **Eldest's share after adding \$5:** 
+     \[
+     A + 5 = 6 + 5 = \$11
+     \]
+   - **Following day's additional money:** 
+     \[
+     11 + 10 = \$11
+     \]
+   - **Total so far:** 
+     \[
+     11 \text{ dollars}
+     \]
+
+3. **Spending:**
+   - **Spending \$8:** 
+     \[
+     11 - 8 = \$3
+     \]
+   - **Remaining money:** 
+     \[
+     \$3
+     \]
+
+4. **Saving More:**
+   - **Tripling the remaining money:** 
+     \[
+     3 \times 3 = \$9
+     \]
+   - **Total money now:** 
+     \[
+     9 \text{ dollars}
+     \]
+
+**Final Answer:**
+\[
+\boxed{9}
+\]

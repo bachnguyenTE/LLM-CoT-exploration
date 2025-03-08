@@ -1,0 +1,47 @@
+<｜User｜>
+Q: Stephen borrowed $300 from his sister and promised to return it with an additional 2% of the money he owed. For 11 months Stephen will give his sister $25 per month and the remaining amount, including the interest, will be paid on the twelfth month. How much will Stephen pay in the twelfth month?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Stephen Borrowed:**
+   Stephen borrowed **\$300** from his sister.
+
+2. **Interest on the Loan:**
+   Stephen promised to return the borrowed amount plus an additional **2%** interest.
+   
+   - **Interest Calculation:**
+     \[
+     \text{Interest} = 2\% \text{ of } \$300 = 0.02 \times 300 = \$6.00
+     \]
+   
+   - **Total Amount to be Paid Back:**
+     \[
+     \$300 + \$6.00 = \$336.00
+     \]
+
+3. **Stephen's Monthly Payments:**
+   Stephen will give **\$25** per month for **11 months**.
+   
+   - **Total Amount Paid in 11 Months:**
+     \[
+     11 \text{ months} \times \$25/\text{month} = \$275.00
+     \]
+   
+   - **Remaining Amount to be Paid on the 12th Month:**
+     \[
+     \$336.00 - \$275.00 = \$61.00
+     \]
+     
+     (Note: The extra **\$0.00** in the calculation is due to rounding in the interest calculation.)
+
+4. **Final Payment:**
+   Stephen will pay **\$61.00** on the **12th month**.
+
+**Final Answer:**
+\[
+\boxed{\$61.00}
+\]

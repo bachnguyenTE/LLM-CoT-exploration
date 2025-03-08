@@ -1,0 +1,35 @@
+<｜User｜>
+Q: As Sally walked to school, she was holding the strings to 25 red balloons, 7 green balloons, and 12 yellow balloons. Suddenly, a gust of wind caused 40% of the red balloons to burst.  The shockingly loud sound startled Sally, and she accidentally released half of the yellow balloons.  But as she neared the school grounds, she found 8 blue balloons caught in a tree, and she added 75% of them to her remaining clutch of balloons, which she carried into the school.  What number of balloons did she finally carry into the school?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many balloons Sally finally carried into the school.
+
+1. **Initial Balloons:**
+   - **Red Balloons:** 25
+   - **Green Balloons:** 7
+   - **Yellow Balloons:** 12
+
+2. **Effect of the Wind:**
+   - **Red Balloons:** 40% burst.
+     - **Bursted Red Balloons:** \( 40\% \) of 25 = \( 0.4 \times 25 = 10 \)
+     - **Remaining Red Balloons:** \( 25 - 10 = 15 \)
+   - **Yellow Balloons:** A random accident caused half to burst.
+     - **Bursted Yellow Balloons:** \( 50\% \) of 12 = \( 0.5 \times 12 = 6 \)
+     - **Remaining Yellow Balloons:** \( 12 - 6 = 6 \)
+
+3. **Additional Balloons:**
+   - **Blue Balloons:** 8 were caught in a tree.
+   - **Added Balloons:** 75% of the 8 blue balloons were added.
+     - **Added Balloons:** \( 75\% \) of 8 = \( 0.75 \times 8 = 6 \)
+     - **Total Blue Balloons After Addition:** \( 8 + 6 = 14 \)
+
+4. **Total Balloons Carried into School:**
+   - **Red Balloons:** 15
+   - **Green Balloons:** 7
+   - **Yellow Balloons:** 6
+   - **Blue Balloons:** 14
+
+   - **Total Balloons:** \( 15 + 7 + 6 + 14 = 42 \)
+
+**Final Answer:** \(\boxed{42}\)

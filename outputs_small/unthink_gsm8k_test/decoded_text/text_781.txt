@@ -1,0 +1,50 @@
+<｜User｜>
+Q: Four friends ordered four pizzas for a total of 64 dollars. If two of the pizzas cost 30 dollars, how much did each of the other two pizzas cost if they cost the same amount?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Cost of Pizzas:**
+   - Four friends ordered four pizzas for a total of **\$64**.
+
+2. **Cost of Two Pizzas:**
+   - Two of the pizzas cost **\$30**.
+
+3. **Cost of the Remaining Two Pizzas:**
+   - Since there are four pizzas in total and two of them cost **\$30**, the remaining two pizzas must also cost the same amount.
+   - Let’s denote the cost of each of the remaining two pizzas as **x**.
+
+4. **Setting Up the Equation:**
+   - The total cost of all four pizzas is the sum of the cost of the two pizzas we know about and the cost of the remaining two.
+   - Therefore, the equation is:
+     \[
+     30 + 2x = 64
+     \]
+   - Here, **30** represents the known cost of two pizzas, and **2x** represents the cost of the remaining two pizzas.
+
+5. **Solving for x:**
+   - Subtract **30** from both sides of the equation to isolate the term with **x**:
+     \[
+     2x = 64 - 30
+     \]
+     \[
+     2x = 34
+     \]
+   - Now, divide both sides by **2** to solve for **x**:
+     \[
+     x = \frac{34}{2}
+     \]
+     \[
+     x = 17
+     \]
+
+6. **Conclusion:**
+   - Each of the remaining two pizzas costs **\$17**.
+
+**Final Answer:**
+\[
+\boxed{17}
+\]

@@ -1,0 +1,45 @@
+<｜User｜>
+Q: A tomato vendor decides to switch who he buys his tomatoes for.  He sells 500 tomatoes a day.  He used to buy them for $.5 each but he gets a new vendor who sells them for $.4 each.  How much money does he save a week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the number of tomatoes sold per week:**
+   
+   - **Daily tomatoes sold:** 500
+   - **Days in a week:** 7
+   
+   \[
+   \text{Tomatoes per week} = 500 \times 7 = 3,500 \text{ tomatoes}
+   \]
+
+2. **Calculate the weekly cost with the old vendor:**
+   
+   - **Old price per tomato:** \$0.50
+   - **Total weekly cost:** 
+     
+     \[
+     3,500 \times 0.50 = 1,750 \text{ dollars}
+     \]
+
+3. **Calculate the weekly cost with the new vendor:**
+   
+   - **New price per tomato:** \$0.40
+   - **Total weekly cost:** 
+     
+     \[
+     3,500 \times 0.40 = 1,400 \text{ dollars}
+     \]
+
+4. **Determine the weekly savings:**
+   
+   \[
+   \text{Savings} = 1,750 - 1,400 = 350 \text{ dollars}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{350}
+\]

@@ -1,0 +1,20 @@
+<｜User｜>
+Q: A $2000 watch was put on sale so that Mr. Rogers bought it at 75% of its original price. He then sold the watch to his friend at 120% of the price that he bought it. What is the percentage discount obtained by Mr. Roger's friend from the original price?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Mr. Rogers and his watch. Let me try to figure it out step by step. 
+
+First, the watch originally costs $2000. Then, it was put on sale, and Mr. Rogers bought it at 75% of its original price. Hmm, okay, so 75% off means he paid 25% of the original price, right? Let me write that down.
+
+Original price = $2000  
+Sale price for Mr. Rogers = 75% of original price  
+So, that would be 0.75 * 2000. Let me calculate that. 0.75 times 2000. Hmm, 0.75 is the same as 3/4, so 3/4 of 2000. Let me do 2000 divided by 4 first, which is 550, and then multiply by 3, which is 1650. So, Mr. Rogers bought it for $1650. Okay, that seems right.
+
+Now, he sold the watch to his friend at 120% of the price he bought it. So, he sold it for 120% of $1650. Let me figure out what that is. 120% is the same as 1.20 in decimal form. So, 1.20 * 1650. Let me compute that. 
+
+First, 1.20 * 1000 is 1200, and 1.20 * 650 is... let me break it down. 1.20 * 600 is 792, and 1.20 * 50 is 60. So, adding those together: 792 + 60 = 852. So, 1.20 * 1650 is 1200 + 852 = 2052. So, he sold it for $2252? Wait, no, hold on. Wait, 1.20 * 1650. Let me do it another way. 1650 * 1.20. 1650 * 1 is 1650, 1650 * 0.20 is 330, so 1650 + 330 is 1980. Wait, that doesn't make sense because 1.20 is 120%, so 120% of 1650 is 1980? Wait, no, 10% of 1650 is 165, so 20% is 330, so 120% is 1650 + 330 = 1980. So, he sold it for $1980? Wait, that seems lower than the original price. Wait, no, 120% of 1650 is 1980, but 1650 is the price he bought it for, so 120% of that is 1980. Wait, I'm confused.
+
+Wait, no, 120% of 1650 is 1980, right? Because 10% is 165, so 20% is 330, so 100% is 1650, so 120% is 1650 + 330 = 1980. So, he sold it for $1980. Wait, but 120% of 1650 is 1980, but 120% of 1650 is 1980, but 120% of 1650 is 1980? Wait, no, 1650 * 1.20 is 1980. So, he sold it for $1980. Hmm, okay, that seems correct.
+
+So, now, the question is asking for the percentage discount obtained by Mr. Roger's friend from the original price. So, the original price was $2000, and he sold it for $1980. So, the discount is 2000 - 1980 = 220. So, he got a discount of $220 from the original price. So, the percentage discount is (220 / 2000) * 100%.
+
+Let me compute

@@ -1,0 +1,27 @@
+<｜User｜>
+Q: A marketing company pays its employees on a commission-based salary system. If you sell goods worth $1000, you earn a 30% commission. Sales over $1000 get you an additional 10% commission. Calculate the amount of money Antonella earned if she sold goods worth $2500.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To calculate Antonella's earnings based on her sales, we'll break down the commission structure step by step.
+
+1. **First $1,000:**
+   - **Commission:** 30%
+   - **Amount Earned:** \( 1,000 \times 0.30 = 300 \) dollars
+
+2. **Sales Over $1,000:**
+   - Antonella sold goods worth **$2,500**.
+   - **Amount Over $1,000:** \( 2,5000 - 1,000 = 1,500 \) dollars
+   - **Additional Commission:** 10%
+   - **Amount Earned:** \( 1,500 \times0.10 = 150 \) dollars
+
+3. **Total Earnings:**
+   - **Total = First $1,000 Commission + Amount Over $1,000 Commission**
+   - **Total = 300 + 150 = 450** dollars
+
+**Final Answer:**
+\[
+\boxed{450}
+\]

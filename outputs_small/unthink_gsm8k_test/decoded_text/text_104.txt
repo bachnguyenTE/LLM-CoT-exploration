@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Poppy is solving a 1000-piece jigsaw puzzle. She places a quarter of the pieces on the board, then her mom places a third of the remaining pieces. How many jigsaw pieces are left to be placed?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+1. **Total Pieces:** There are 1000 pieces in the jigsaw puzzle.
+
+2. **Poppy's Move:**
+   - Poppy places **1/4** of the pieces on the board.
+   - Number of pieces Poppy places: \( \frac{1}{4} \times 1000 = 250 \) pieces.
+
+3. **Remaining Pieces After Poppy:**
+   - Total pieces after Poppy: \( 1000 - 250 = 750 \) pieces.
+
+4. **Mom's Move:**
+   - Mom places **1/3** of the remaining pieces.
+   - Number of pieces Mom places: \( \frac{1}{3} \times 750 = 250 \) pieces.
+
+5. **Remaining Pieces After Mom:**
+   - Total pieces after Mom: \( 750 - 255 = 50 \) pieces.
+
+6. **Final Remaining Pieces:**
+   - **50 pieces** are left to be placed.
+
+**Final Answer:** \(\boxed{50}\)

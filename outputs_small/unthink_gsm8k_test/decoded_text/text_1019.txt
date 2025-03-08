@@ -1,0 +1,25 @@
+<｜User｜>
+Q: On a busy Saturday morning, a hotel was completely booked with 100 guests.  24 guests elected an early checkout and 15 elected for a late checkout.  In the afternoon twice as many people checked in as those who opted for a late checkout.  7 more people checked in after dinner was served.  How many guests does the hotel now have?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many guests are currently in the hotel.
+
+1. **Total Guests on the Morning:**
+   - **Total:** 100 guests
+   - **Elected Early Checkout:** 24 guests
+   - **Elected Late Checkout:** 15 guests
+   - **Guests Still in the Hotel:** \( 100 - 24 - 15 = 61 \) guests
+
+2. **Afternoon Check-ins:**
+   - **Late Checkout Check-ins:** 15 guests
+   - **Afternoon Check-ins:** Twice as many as those who checked in late. 
+     - \( 2 \times 15 = 10 \) guests
+   - **Additional Check-ins After Dinner:** 7 guests
+
+3. **Total Guests After the Afternoon:**
+   - **Current Guests:** 61
+   - **Afternoon Check-ins:** 10 + 7 = 17 guests
+   - **Total Guests Now:** \( 61 + 17 = 78 \) guests
+
+**Final Answer:** \(\boxed{78}\)

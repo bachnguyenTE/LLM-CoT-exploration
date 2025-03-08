@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Johnny is picking up the toys on the floor of his room.  He'd dumped a lego boxed set with 500 pieces on the floor, and another one that had 3 times more pieces than the 500 piece one, and another one that had 1/4 the number of pieces.  How many blocks does Johnny pick up if he picks up all the legos?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **First Lego Set:**
+   - **Number of pieces:** 500
+
+2. **Second Lego Set:**
+   - This set has **3 times more pieces** than the first one.
+   - Calculation: \( 500 \times 3 = 1500 \) pieces
+
+3. **Third Lego Set:**
+   - This set has **1/4 the number of pieces** as the first one.
+   - Calculation: \( \frac{500}{4} = 125 \) pieces
+
+4. **Total Number of Legos Johnny Picks Up:**
+   - Add up all the pieces from the three sets.
+   - Calculation: \( 500 + 1500 + 125 = 2175 \) pieces
+
+**Final Answer:**
+\[
+\boxed{2175}
+\]

@@ -1,0 +1,41 @@
+<｜User｜>
+Q: John is raising money for a school trip. He has applied for help from the school, which has decided to cover half the cost of the trip. How much money is John missing if he has $50 and the trip costs $300?
+A:<｜Assistant｜><think>
+First, determine the total cost of the trip, which is $300.
+
+Next, calculate the amount the school will cover, which is half of $300, so $150.
+
+Then, find out how much more money John needs by subtracting the amount he has ($50) from the school's contribution ($150). This results in $100 missing.
+</think>
+
+**Solution:**
+
+1. **Total Cost of the Trip:**
+   
+   The total cost of the school trip is given as:
+   
+   \[
+   \text{Total Cost} = \$300
+   \]
+
+2. **Amount Covered by the School:**
+   
+   The school has decided to cover half of the cost. Therefore, the amount covered by the school is:
+   
+   \[
+   \text{School Contribution} = \frac{1}{2} \times \$300 = \$150
+   \]
+
+3. **Amount John Still Needs:**
+   
+   John has already raised \$50. To find out how much more he needs, subtract the amount he has from the school's contribution:
+   
+   \[
+   \text{Amount Missing} = \$150 - \$50 = \$100
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$100}
+\]

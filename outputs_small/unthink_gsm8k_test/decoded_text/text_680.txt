@@ -1,0 +1,19 @@
+<｜User｜>
+Q: The elevator in Jack's building supports a maximum load of 700 kg. An adult weighs an average of 80 kg. If Jack rides the elevator with 8 other adults, by how much will they have exceeded the maximum load of the elevator?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total number of people in the elevator:**
+   - Jack + 8 adults = 9 people.
+
+2. **Calculate the total weight of the people:**
+   - Each adult weighs 80 kg.
+   - Total weight = 9 adults × 80 kg/adult = 720 kg.
+
+3. **Find the difference between the total weight and the maximum load:**
+   - Maximum load = 700 kg.
+   - Exceeded load = 720 kg - 700 kg = 22 kg.
+
+**Answer:** \(\boxed{22 \text{ kg}}\)

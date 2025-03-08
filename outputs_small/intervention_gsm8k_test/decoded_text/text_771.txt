@@ -1,0 +1,43 @@
+<｜User｜>
+Q: Bennet is a farmer. He sells 20 of his eggplants for $3 each. He has 25 ears of corn that he can sell as well. If Bennet wants to make a total of $135, how much should he sell each ear of corn for?
+A:<｜Assistant｜><think>
+First, calculate the total revenue from selling the eggplants. Bennet sells 20 eggplants at $3 each, which amounts to $6.
+
+Next, determine the remaining amount needed to reach $135. Subtract the $6 earned from eggplants from the total target: $135 - $6 = $129.
+
+Now, find out how much each ear of corn should be sold for. Bennet has 25 ears of corn, so divide the remaining amount by the number of ears: $129 ÷ 25 = $5.16.
+
+Therefore, Bennet should sell each ear of corn for $5.160 to reach his total goal of $135.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Calculate the total revenue from selling eggplants:**
+   
+   Bennet sells **20 eggplants** at **\$3 each**.
+   
+   \[
+   \text{Revenue from eggplants} = 20 \times \$3 = \$60
+   \]
+
+2. **Determine the remaining amount needed to reach \$135:**
+   
+   \[
+   \text{Remaining amount} = \$135 - \$60 = \$75
+   \]
+
+3. **Find out how much each ear of corn should be sold for:**
+   
+   Bennet has **25 ears of corn** to sell.
+   
+   \[
+   \text{Price per ear of corn} = \frac{\$75}{25 \text{ ears}} = \$3 \text{ per ear}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$3}
+\]

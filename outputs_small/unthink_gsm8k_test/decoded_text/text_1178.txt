@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Mike bought 5 face masks while Johnny bought 2 more than thrice as many as Mike. How many face masks did Johnny buy?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Problem Statement:**
+- Mike bought 5 face masks.
+- Johnny bought 2 more than thrice as many as Mike.
+
+**Solution:**
+
+1. **Determine how many face masks Mike bought:**
+   - Mike bought **5 face masks**.
+
+2. **Calculate how many face masks Johnny bought:**
+   - **Thrice as many as Mike** means \( 3 \times 5 = 15 \) face masks.
+   - **2 more than that** means \( 15 + 2 = 17 \) face masks.
+
+**Final Answer:**
+\[
+\boxed{17}
+\]

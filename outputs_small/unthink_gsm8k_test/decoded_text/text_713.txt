@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Mr Boarden is remodeling his bathroom. For every square foot, he needs 24 mosaic tiles. How many mosaic tiles would Mr Boarden need to cover two thirds of his 36 sq ft bathroom?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many mosaic tiles Mr. Boarden needs, follow these steps:
+
+1. **Calculate the area that needs to be covered:**
+   
+   Mr. Boarden wants to cover **two-thirds** of his **36 square feet** bathroom.
+   
+   \[
+   \text{Area to cover} = \frac{2}{3} \times 36 \, \text{sq ft} = 24 \, \text{sq ft}
+   \]
+
+2. **Determine the number of tiles needed per square foot:**
+   
+   Mr. Boarden needs **24 mosaic tiles** for every **1 square foot**.
+   
+   \[
+   \text{Tiles per sq ft} = 24
+   \]
+
+3. **Calculate the total number of tiles needed:**
+   
+   Multiply the area to be covered by the number of tiles per square foot.
+   
+   \[
+   \text{Total tiles} = 24 \, \text{sq ft} \times 24 \, \text{tiles/sq ft} = 576 \, \text{tiles}
+   \]
+
+**Final Answer:**
+
+Mr. Boarden would need \(\boxed{576}\) mosaic tiles to cover two-thirds of his bathroom.

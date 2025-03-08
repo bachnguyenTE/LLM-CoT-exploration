@@ -1,0 +1,126 @@
+<｜User｜>
+Q: I am three years younger than my brother, and I am 2 years older than my sister. My mom's age is one less than three times my brother's age. When you add all our ages, you get 87. How old am I?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about figuring out how old I am. Let me try to break it down step by step. Sometimes these word problems can be a bit tricky, but, that seems right. 
+
+First, let me list out all the information given:
+
+1. I am three years younger than my brother.
+2. I am two years older than my sister.
+3. My mom's age is one less than three times my brother's age.
+4. The sum of all our ages is 87.
+
+And the question is asking how old I am. Hmm, okay. So, I need to find my age. Let me see how to approach this.
+
+I think the best way is to assign variables to each of my siblings' ages and then set up equations based on the information given. That way, I can solve for the variables and find my age.
+
+Let me start by assigning variables:
+
+Let me denote:
+- My age as \( x \).
+- My brother's age as \( b \).
+- My sister's age as \( s \).
+- My mom's age as \( m \).
+
+Now, let's translate each piece of information into an equation.
+
+1. I am three years younger than my brother.
+   - That means my age is equal to my brother's age minus three.
+   - So, \( x = b - 3 \). Got that.
+
+2. I am two years older than my sister.
+   - Similarly, my age is equal to my sister's age plus two.
+   - So, \( x = s + 2 \). Okay.
+
+3. My mom's age is one less than three times my brother's age.
+   - That means my mom's age is three times my brother's age minus one.
+   - So, \( m = 3b - 1 \). Alright.
+
+4. The sum of all our ages is 87.
+   - So, \( x + b + s + m = 87 \). That's the total.
+
+Now, I have four equations:
+
+1. \( x = b - 3 \)
+2. \( x = s + 2 \)
+3. \( m = 3b -1 \)
+4. \( x + b + s + m = 87 \)
+
+Hmm, so I have four equations and four variables: x, b, s, m. That should be solvable.
+
+Let me see how to proceed. Maybe I can express all variables in terms of one variable and then substitute.
+
+Looking at equation 1: \( x = b -3 \). So, I can express x in terms of b. Similarly, equation 2: \( x = s + 2 \). So, x can also be expressed in terms of s. Maybe I can set these equal to each other or express s in terms of b.
+
+Wait, that seems right. Let me try that.
+
+From equation 1: \( x = b -3 \)
+From equation 2: \( x = s + 2 \)
+
+So, since both equal x, I can set them equal to each other:
+
+\( b -3 = s + 2 \)
+
+Let me solve for s in terms of b.
+
+Subtract 2 from both sides:
+
+\( b -3 -2 = s \)
+\( b -5 = s \)
+
+So, \( s = b -5 \). Got that.
+
+So, now I have expressions for both x and s in terms of b.
+
+So, x is \( b -3 \), and s is \( b -5 \).
+
+Now, let's look at equation 3: \( m = 3b -1 \). So, m is already in terms of b.
+
+So, now, let's substitute all these into equation 4.
+
+Equation 4: \( x + b + s + m =87 \)
+
+Substituting:
+
+\( (b -3) + b + (b -5) + (3b -1) =87 \)
+
+Let me simplify this step by step.
+
+First, expand all the terms:
+
+\( b -3 + b + b -5 + 3b -1 =87 \)
+
+Now, let's combine like terms.
+
+First, the b terms:
+
+b + b + b + 3b = 6b
+
+Now, the constants:
+
+-3 -5 -1 = -9
+
+So, putting it together:
+
+6b -9 =87
+
+Now, solve for b.
+
+Add 9 to both sides:
+
+6b =87 +9
+6b=96
+
+Divide both sides by 6:
+
+b=96/6
+b=16
+
+So, my brother is 16 years old.
+
+Now, let's find my age, which is x.
+
+From equation 1: \( x = b -3 \)
+So, x=16 -3=3
+
+Wait, that seems right. So, I

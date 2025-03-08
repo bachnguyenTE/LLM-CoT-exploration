@@ -1,0 +1,48 @@
+<｜User｜>
+Q: The Science Center hosted field trips Monday through Friday last week. On Monday, 32 classes visited. Twice as many visited on Tuesday and three times as many visited on Wednesday. Another 30 classes visited on Thursday and 25 visited on Friday. In all, how many classes visited the Science Center last week?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of classes that visited the Science Center last week, let's break down the information step by step.
+
+1. **Monday:**  
+   32 classes visited.
+
+2. **Tuesday:**  
+   Twice as many classes visited as on Monday.  
+   Calculation: \( 2 \times 32 = 64 \) classes.
+
+3. **Wednesday:**  
+   Three times as many classes visited as on Monday.  
+   Calculation: \( 3 \times 32 = 96 \) classes.
+
+4. **Thursday:**  
+   Another 30 classes visited.  
+   Calculation: 30 classes.
+
+5. **Friday:**  
+   25 classes visited.
+
+Now, let's add up all the classes that visited from Monday to Friday:
+
+\[
+32 \, 64, 96, 30, 25
+\]
+
+\[
+32 + 64 = 96
+\]
+
+\[
+96 + 96 = 162
+\]
+
+\[
+162 + 30 = 192
+\]
+
+\[
+192 + 25 = 217
+\]
+
+**Total classes that visited the Science Center last week:** \(\boxed{217}\)

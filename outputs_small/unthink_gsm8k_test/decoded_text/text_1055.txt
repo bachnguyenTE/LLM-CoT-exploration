@@ -1,0 +1,38 @@
+<｜User｜>
+Q: James has to buy insurance.  Since he had an accident it was 60% more than normal.  The normal cost is $120 a month.  How much does he pay a year?
+A:<｜Assistant｜><think>
+</think>
+
+Sure, let's break down the problem step by step to find out how much James pays for insurance annually.
+
+**Given:**
+- **Normal monthly cost:** \$120
+- **Accident:** 60% more than normal
+
+**Step 1: Calculate the monthly cost with the accident.**
+
+First, we need to find out how much the accident increases the monthly cost.
+
+\[
+\text{Increase} = 60\% \times \$120 = 0.60 \times \$120 = \$73.20
+\]
+
+Now, add this increase to the normal monthly cost to get the total monthly cost with the accident.
+
+\[
+\text{Total monthly cost} = \$120 + \$73.20 = \$193.20
+\]
+
+**Step 2: Calculate the annual cost.**
+
+There are 12 months in a year, so multiply the monthly cost by 12.
+
+\[
+\text{Annual cost} = \$193.20 \times 12 = \$2,318.40
+\]
+
+**Final Answer:**
+
+\[
+\boxed{\$2,\!318.40}
+\]

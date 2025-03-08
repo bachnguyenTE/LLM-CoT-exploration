@@ -1,0 +1,66 @@
+<｜User｜>
+Q: Reggie, Lynn, and Paisley ran together. Paisley ran 4 miles. Reggie ran 5 times what Paisley ran and 3 miles farther than Lynn. How many miles did Lynn run?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Reggie, Lynn, and Paisley running together. The question is asking how many miles Lynn ran. Let me try to break this down step by step.
+
+First, the problem says that Paisley ran 4 miles. That seems straightforward. So, I can note that down:
+
+Paisley's distance = 4 miles.
+
+Next, it says Reggie ran 5 times what Paisley ran. Hmm, okay. So, if Paisley ran 4 miles, then Reggie ran 5 times that distance. Let me write that out:
+
+Reggie's distance = 5 × Paisley's distance.
+
+Since we know Paisley ran 4 miles, that would be:
+
+Reggie's distance = 5 × 4 = 20 miles.
+
+Wait, hold on. 5 times 4 is 20? Yeah, that seems right. So, Reggie ran 20 miles.
+
+But then it also says that Reggie ran 3 miles farther than Lynn. Hmm, okay. So, Reggie's distance is 3 miles more than Lynn's. So, if I let Lynn's distance be some variable, say L, then Reggie's distance would be L + 3.
+
+But we already know Reggie's distance is 20 miles. So, setting up the equation:
+
+L + 3 = 20.
+
+So, to find L, we subtract 3 from both sides:
+
+L = 20 - 3 = 17.
+
+So, Lynn ran 17 miles.
+
+Wait, let me double-check that. If Lynn ran 17 miles, then Reggie ran 17 + 3 = 20 miles, which is 5 times what Paisley ran (since 4 × 5 = 20). That seems to add up.
+
+So, yeah, Lynn ran 17 miles.
+
+But just to make sure I didn't make any mistakes, let me go through it again.
+
+1. Paisley ran 4 miles.
+2. Reggie ran 5 times that, so 5 × 4 = 20 miles.
+3. Reggie ran 3 miles farther than Lynn, so if Reggie is 20, then Lynn is 20 - 3 = 17 miles.
+
+Yep, that all checks out. So, I think the answer is 17 miles.
+
+**Final Answer**
+Lynn ran \boxed{17} miles.
+</think>
+
+Paisley ran 4 miles. Reggie ran 5 times what Paisley ran, so:
+
+\[
+\text{Reggie's distance} = 5 \times 4 = 20 \text{ miles}
+\]
+
+Reggie ran 3 miles farther than Lynn. Let \( L \) be the distance Lynn ran. Then:
+
+\[
+L + 3 = 20
+\]
+
+Solving for \( L \):
+
+\[
+L = 20 - 3 = 17
+\]
+
+Thus, Lynn ran \boxed{17} miles.

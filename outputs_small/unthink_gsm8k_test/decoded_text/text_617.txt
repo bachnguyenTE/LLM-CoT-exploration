@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Prince is a butcher. He sells 15kg of meat every hour he works, and he works 10 hours a day. His friend Bill gives him a bull that weighs 750kg. How many days will it take Prince to sell the meat from Bill's bull?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine Prince's daily meat sales:**
+   
+   Prince sells **15 kg** of meat every hour.
+   
+   He works **10 hours** a day.
+   
+   \[
+   \text{Daily sales} = 15 \, \text{kg/hour} \times 10 \,000 \,000 \,000 \, \text{hours/day} = 150,000 \, \text{kg/day}
+   \]
+
+2. **Calculate the number of days needed to sell 750 kg:**
+   
+   \[
+   \text{Number of days} = \frac{750 \, \text{kg}}{150,000 \, \text{kg/day}} = 0.142857 \, \text{days}
+   \]
+   
+   To make it more understandable:
+   
+   \[
+   0.142857 \, \text{days} \times 24 \,000 \, \text{hours/day} \approx 3.4 \, \text{hours}
+   \]
+   
+   So, Prince will need approximately **3.4 hours** to sell the entire bull.
+
+**Final Answer:**
+\[
+\boxed{3.4 \text{ hours}}
+\]

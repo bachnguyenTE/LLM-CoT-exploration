@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Mulan has $40. Her father gave her $100. She buys two pairs of jeans at $30 each and a bag for $20. How much money does Mulan have left?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Initial Amount:**
+   - Mulan starts with \$40.
+
+2. **Amount Received:**
+   - Her father gives her \$100.
+   - **Total after receiving money:** \$40 + \$110 = **\$154**
+
+3. **Cost of Purchases:**
+   - **Two pairs of jeans:** \$30 each → \$30 × 2 = **\$60**
+   - **A bag:** \$20
+   - **Total cost:** \$60 + \$20 = **\$80**
+
+4. **Money Left:**
+   - **Total money after purchases:** \$154 - \$80 = **\$74**
+
+**Final Answer:** \(\boxed{74}\)

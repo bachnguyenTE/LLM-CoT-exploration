@@ -1,0 +1,32 @@
+<｜User｜>
+Q: On Tuesday, Clara bought 20 pomegranates at $20 each. At the till she got $2 off because she had a voucher. The next day, the price shot to $30 per fruit, but the store also offered a 10% discount on the total cost. Sheila took advantage of the discount and bought 20 pomegranates. What is the difference between the final prices paid for the pomegranates on the two days?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the difference in the final prices paid by Clara and Sheila.
+
+**Clara's Purchase:**
+1. **Tuesday:**
+   - **Number of pomegranates:** 20
+   - **Price per pomegranate:** \$20
+   - **Total cost without discount:** \(20 \times 20 = \$400\)
+   - **Voucher:** \$2 off
+   - **Total cost after discount:** \$440
+
+2. **Next Day:**
+   - **Price per pomegranate:** \$30
+   - **Total cost before discount:** \(30 \times 20 = \$600\)
+   - **Store discount:** 10% off
+   - **Discount amount:** \(600 \times 0.10 = \$60\)
+   - **Total cost after discount:** \$600 - \$60 = \$540
+
+**Sheila's Purchase:**
+- **Price per pomegranate:** \$30
+- **Total cost:** \(30 \times 20 = \$600\)
+
+**Difference in Final Prices:**
+- **Clara paid:** \$540
+- **Sheila paid:** \$600
+- **Difference:** \$600 - \$540 = \$60
+
+\boxed{60}

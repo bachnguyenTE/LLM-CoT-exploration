@@ -1,0 +1,36 @@
+<｜User｜>
+Q: In a race with 240 Asians, 80 were Japanese, and the rest were Chinese. If the number of boys on the Chinese team was 60, how many girls were on the Chinese team?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- Total number of participants in the race: 240
+- Number of Asians: 240
+  - Number of Japanese participants: 80
+  - Number of Chinese participants: \( 240 - 80 = 160 \)
+- Number of boys on the Chinese team: 60
+
+**Question:**
+How many girls were on the Chinese team?
+
+**Solution:**
+
+1. **Total number of participants on the Chinese team:**
+   \[
+   \text{Total Chinese participants} = 160
+   \]
+
+2. **Number of girls on the Chinese team:**
+   \[
+   \text{Number of girls} = \text{Total Chinese participants} - \text{Number of boys}
+   \]
+   \[
+   \text{Number of girls} = 160 - 60 = 100
+   \]
+
+**Answer:**
+\[
+\boxed{100}
+\]

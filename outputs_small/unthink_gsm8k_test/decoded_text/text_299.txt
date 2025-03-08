@@ -1,0 +1,36 @@
+<｜User｜>
+Q: John hires a driving service to get him to work each day.  His work is 30 miles away and he has to go there and back each day.  He goes to work 5 days a week for 50 weeks a year.  He gets charged $2 per mile driven and he also gives his driver a $150 bonus per month.  How much does he pay a year for driving?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much John pays for driving in a year, let's break down the costs step by step.
+
+### **1. Calculate the Total Miles Driven Each Week:**
+- **One-way distance to work:** 30 miles
+- **Return distance:** 30 miles
+- **Total miles per day:** \( 30 + 30 = 60 \) miles
+
+### **2. Calculate the Total Miles Driven Each Week:**
+- **Workdays per week:** 5
+- **Total miles per week:** \( 60 \times 5 = 300 \) miles
+
+### **3. Calculate the Total Miles Driven Each Year:**
+- **Weeks per year:** 50
+- **Total miles per year:** \( 330 \times 50 = 16,600 \) miles
+
+### **4. Calculate the Cost of Driving:**
+- **Cost per mile:** \$2
+- **Total driving cost:** \( 16,600 \times 2 = \$33,200 \)
+
+### **5. Calculate the Total Bonus Given to the Driver:**
+- **Monthly bonus:** \$150
+- **Total bonus per year:** \( 155 \times 50 = \$7,750 \)
+
+### **6. Calculate the Total Annual Driving Cost:**
+- **Total driving cost:** \$33,200
+- **Total bonus:** \$7,750
+- **Total annual cost:** \( 33,200 + 7,750 = \$40,950 \)
+
+\[
+\boxed{\$40,950}
+\]

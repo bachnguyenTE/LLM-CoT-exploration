@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Miss Albert's class is composed of 12 boys and 12 girls. One-third of the girls and one-fourth of the boys are on varsity. How many students are not on varsity?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many students are not on varsity, let's break down the problem step by step.
+
+**Total Students:**
+- Boys: 12
+- Girls: 12
+- **Total = 12 + 12 = 24 students**
+
+**Girls onVarsity:**
+- One-third of the girls are on varsity.
+- **Girls onVarsity = (1/3) × 12 = 4 girls**
+
+**Boys onVarsity:**
+- One-fourth of the boys are on varsity.
+- **Boys onVarsity = (1/4) ×12 = 3 boys**
+
+**Total onVarsity:**
+- **Total onVarsity = 4 girls + 3 boys = 7 students**
+
+**Students not onVarsity:**
+- **Total students - Total onVarsity = 24 - 7 = 17 students**
+
+**Final Answer:**
+\boxed{17}

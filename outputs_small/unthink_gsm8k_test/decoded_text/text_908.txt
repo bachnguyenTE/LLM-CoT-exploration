@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Dean has 30 marbles. He gives 1/5  of them to Jamie and gives 10 to Donald. How many marbles are left for Dean?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's determine how many marbles Dean has left after giving some to Jamie and Donald.
+
+1. **Total Marbles:** Dean starts with **30 marbles**.
+
+2. **Giving to Jamie:**
+   - Dean gives \( \frac{1}{5} \) of his marbles to Jamie.
+   - Number of marbles given to Jamie: \( \frac{1}{5} \times 30 = 6 \) marbles.
+
+3. **Giving to Donald:**
+   - Dean gives **10 marbles** to Donald.
+
+4. **Total Marbles Given Away:**
+   - Marbles given to Jamie: 6 marbles
+   - Marbles given to Donald: 10 marbles
+   - **Total given away:** \( 6 + 10 = 16 \) marbles
+
+5. **Marbles Left for Dean:**
+   - Total marbles initially: 30
+   - Marbles given away: 16
+   - **Marbles left:** \( 30 - 16 = 24 \) marbles
+
+**Final Answer:** \(\boxed{24}\)

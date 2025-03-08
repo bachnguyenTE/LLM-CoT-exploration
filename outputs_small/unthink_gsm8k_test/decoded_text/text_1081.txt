@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Frankie and Binkie went bowling together.  Frankie's score was 15 better more than twice as high as Binkie's. If Binkie bowled a score of 90, what was Frankie's score?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find Frankie's score.
+
+**Given:**
+- Binkie's score = 90
+- Frankie's score = 15 more than twice Binkie's score
+
+**Step 1:** Calculate twice Binkie's score.
+\[
+2 \times 90 = 180
+\]
+
+**Step 2:** Add 15 to the result to find Frankie's score.
+\[
+180 + 15 = 195
+\]
+
+**Final Answer:**
+\[
+\boxed{195}
+\]

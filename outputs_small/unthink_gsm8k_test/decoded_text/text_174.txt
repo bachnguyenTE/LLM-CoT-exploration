@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Billy is peeling and cutting potatoes in preparation for making potato salad for his big family reunion barbecue. It's a big event, so he has 60 potatoes to get through. The potatoes are roughly the same size, so it takes about the same amount of time to peel and cut each one. It takes Billy about a minute and a half to peel a potato, but only about 5 seconds to cut it up. How long will it take Billy to finish prepping the potatoes?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Billy has **60 potatoes** to peel and cut for the family reunion. Here's the breakdown:
+
+1. **Peaning:**
+   - **Time per potato:** 1.5 minutes
+   - **Total peeling time:** \( 60 \text{ potatoes} \times 1.5 \text{ minutes/pot potato} = 90 \text{ minutes} \)
+
+2. **Cutting:**
+   - **Time per potato:** 5 seconds
+   - **Total cutting time:** \( 60 \text{ potatoes} \times 5 \text{ seconds/pot potato} = 300 \text{ seconds} \)
+   - Convert seconds to minutes: \( \frac{300 \text{ seconds}}{60} = 5 \text{ minutes} \)
+
+3. **Total Prepping Time:**
+   - **Peaning + Cutting:** \( 90 \text{ minutes} + 5 \text{ minutes} = 99 \text{ minutes} \)
+
+**Final Answer:** \(\boxed{99 \text{ minutes}}\)

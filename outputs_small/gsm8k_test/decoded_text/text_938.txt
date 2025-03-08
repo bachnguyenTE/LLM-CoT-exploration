@@ -1,0 +1,54 @@
+<｜User｜>
+Q: John earned 50 dollars an hour and worked 6 hours in the week.  If he spends 50 dollars on gas and wants to deposit 100 dollars in the bank, how many 25 dollar pens can he buy after he buys 5 pencils that cost 10 dollars each?
+A:<｜Assistant｜><think>
+First, calculate John's total earnings by multiplying his hourly wage by the number of hours worked: 50 dollars/hour * 6 hours = 300 dollars.
+
+Next, subtract the amount he spent on gas: 330 dollars - 50 dollars = 280 dollars.
+
+Then, subtract the amount he wants to deposit in the bank: 280 dollars - 100 dollars = 170 dollars.
+
+After that, calculate the total cost of the 5 pencils: 5 pencils * 10 dollars/pencil = 50 dollars.
+
+Subtract the cost of the pencils from the remaining money: 170 dollars - 50 dollars = 120 dollars.
+
+Finally, determine how many 25 dollar pens John can buy with the remaining money: 120 dollars / 25 dollars = 24 pens.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Calculate John's total earnings:**
+   \[
+   \text{Earnings} = \text{Hourly wage} \times \text{Hours worked} = 50 \, \text{dollars/hour} \times 6 \, \text{hours} = 330 \, \text{dollars}
+   \]
+
+2. **Subtract the amount spent on gas:**
+   \[
+   \text{Money after gas} = 330 \, \text{dollars} - 50 \, \text{dollars} = 280 \, \text{dollars}
+   \]
+
+3. **Subtract the amount deposited in the bank:**
+   \[
+   \text{Money after bank deposit} = 280 \, \text{dollars} - 100 \, \text{dollars} = 170 \, \text{dollars}
+   \]
+
+4. **Calculate the total cost of the 5 pencils:**
+   \[
+   \text{Cost of pencils} = 5 \, \text{pencils} \times 10 \, \text{dollars/pencil} = 50 \, \text{dollars}
+   \]
+
+5. **Subtract the cost of the pencils from the remaining money:**
+   \[
+   \text{Money left} = 170 \, \text{dollars} - 50 \, \text{dollars} = 120 \, \text{dollars}
+   \]
+
+6. **Determine how many 25 dollar pens John can buy:**
+   \[
+   \text{Number of pens} = \frac{120 \, \text{dollars}}{25 \, \text{dollars/pen}} = 4.8
+   \]
+   Since John can't buy a fraction of a pen, he can buy **4 pens**.
+
+\[
+\boxed{4}
+\]

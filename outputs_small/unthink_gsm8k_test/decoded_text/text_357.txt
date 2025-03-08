@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Morgan's dad said that she had $90 budgeted for her birthday party. She wants to make sure she and her friends all get to play one round of mini-golf, have $5 in arcade tokens, and get to ride the go-karts twice. A round of mini-golf is $5. The Go-karts cost $10 a ride. How many friends can she invite?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many friends Morgan can invite to her birthday party, let's break down the costs and budget step by step.
+
+**Given:**
+- **Total budget:** \$90
+- **Costs:**
+  - Mini-golf round: \$5
+  - Arcade tokens: \$5
+  - Go-kart ride: \$10 per ride
+- **Goal:** Include herself in the party.
+
+**Steps:**
+
+1. **Calculate the total cost for mini-golf and arcade tokens:**
+   \[
+   \text{Total cost} = \$5 (\text{mini-golf}) + \$5 (\text{arcade tokens}) = \$10
+   \]
+
+2. **Subtract the total cost from the budget to find the remaining amount for go-kart rides:**
+   \[
+   \text{Remaining budget} = \$90 - \$10 = \$80
+   \]
+
+3. **Determine how many go-kart rides can be afforded with the remaining budget:**
+   \[
+   \text{Number of go-kart rides} = \frac{\$80}{\$10 \text{ per ride}} = 7.333...
+   \]
+   Since you can't have a fraction of a ride, Morgan can afford **7 go-kart rides**.
+
+4. **Calculate the number of friends she can invite:**
+   - **Total people needed:** 7 go-kart rides + herself = 8 people
+   - **Number of friends:** \(8 - 1 = 7\)
+
+**Final Answer:**
+\[
+\boxed{7}
+\]

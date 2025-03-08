@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Dylan needed chicken sausages and fish sausages to make sausage buns at a party. He bought 38 chicken sausages and 6 more fish sausages than chicken sausages. How many sausages did Dylan buy in all?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Dylan bought two types of sausages: chicken and fish.
+
+1. **Chicken Sausages:**
+   - He bought **38** chicken sausages.
+
+2. **Fish Sausages:**
+   - He bought **6** more fish sausages than chicken sausages.
+   - **Fish Sausages = Chicken Sausages + 6**
+   - **Fish Sausages = 38 + 6 = 44**
+
+3. **Total Sausages:**
+   - **Total Sausages = Chicken Sausages + Fish Sausages**
+   - **Total Sausages = 38 + 44 = 82**
+
+**Final Answer:**
+\boxed{82}

@@ -1,0 +1,35 @@
+<｜User｜>
+Q: On Tuesday, Peter wants to exercise for twice the amount of time he did on Monday and Sunday combined. On Sunday he exercised for 23 minutes. On Monday he exercised for 16 minutes. How many minutes does he have to exercise on Tuesday to reach his goal?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Monday's Exercise Time:**
+   - Peter exercised for **16 minutes**.
+
+2. **Sunday's Exercise Time:**
+   - Peter exercised for **23 minutes**.
+
+3. **Total Exercise Time on Monday and Sunday:**
+   - Combine Monday and Sunday's exercise times:
+     \[
+     16 \text{ minutes (Monday)} + 23 \text{ minutes (Sunday)} = 39 \text{ minutes}
+     \]
+
+4. **Tuesday's Goal:**
+   - Peter wants to exercise **twice** the amount of time he did on Monday and Sunday combined.
+   - Calculate twice the total:
+     \[
+     2 \times 39 \text{ minutes} = 78 \text{ minutes}
+     \]
+
+5. **Exercise Time Needed on Tuesday:**
+   - To reach his goal, Peter needs to exercise **78 minutes** on Tuesday.
+
+**Final Answer:**
+\[
+\boxed{78}
+\]

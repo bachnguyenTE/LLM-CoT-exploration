@@ -1,0 +1,44 @@
+<｜User｜>
+Q: Michael is replacing the carpet in his bedroom.  The new carpet he's chosen costs $12 per square foot, plus $2 per square foot for padding underneath.  His contractor charges $4 per square foot to remove the old carpet, and $34 per square foot to install the new carpet.  His bedroom measures 18 feet by 12 feet.  How much will it cost Michael to replace the carpet?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total cost for Michael to replace the carpet in his bedroom, we'll break down the costs into three main components: carpet replacement, padding, and contractor fees. Here's a step-by-step calculation:
+
+1. **Calculate the Area of the Bedroom:**
+   \[
+   \text{Area} = \text{Length} \times \text{Width} = 18\, \text{ft} \times 12\,0\text{ft} = 216\,00\, \text{sq ft}
+   \]
+
+2. **Determine the Cost of the New Carpet:**
+   \[
+   \text{Cost of New Carpet} = \text{Area} \times \text{Cost per Square Foot} = 216\, \text{sq ft} \times \$12/\text{sq ft} = \$2,616
+   \]
+
+3. **Calculate the Cost of Padding:**
+   \[
+   \text{Cost of Padding} = \text{Area} \times \text{Padding Cost per Square Foot} = 216\,00\, \text{sq ft} \times \$2/\text{sq ft} = \$432
+   \]
+
+4. **Determine the Contractor Fees:**
+   - **Removal Fee:**
+     \[
+     \text{Removal Fee} = \text{Area} \times \$4/\text{sq ft} = 216\, \text{sq ft} \times \$4/\text{sq ft} = \$864
+     \]
+   - **Installation Fee:**
+     \[
+     \text{Installation Fee} = \text{Area} \times \$34/\text{sq ft} = 216\, \text{sq ft} \times \$34/\text{sq ft} = \$7,344
+     \]
+
+5. **Calculate the Total Cost:**
+   \[
+   \text{Total Cost} = \text{Cost of New Carpet} + \text{Cost of Padding} + \text{Removal Fee} + \text{Installation Fee}
+   \]
+   \[
+   \text{Total Cost} = \$2,616 + \$432 + \$864 + \$7,344 = \$11,256
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$11,\!256}
+\]

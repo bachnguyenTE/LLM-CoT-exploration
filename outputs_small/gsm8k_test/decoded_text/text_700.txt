@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Hannah's city is having a big display of fireworks for the 4th of July. They're going to set off 15 boxes of 20 fireworks each. Hannah's house is at the right angle to see 40% of the city's fireworks. Hannah will also set off 3 boxes of 5 fireworks each in her backyard. How many fireworks will Hannah see in total?
+A:<｜Assistant｜><think>
+First, I need to calculate the total number of fireworks in the city's display. There are 15 boxes, each containing 20 fireworks. Multiplying these together gives 15 multiplied by 20, which equals 150 fireworks.
+
+Next, I'll determine how many fireworks Hannah will set off in her backyard. She has 3 boxes, each containing 5 fireworks. Multiplying these gives 3 multiplied by 5, which equals 15 fireworks.
+
+Finally, to find the total number of fireworks Hannah will see, I'll add the fireworks from the city display and her backyard. Adding 150 and 15 together results in a total of 165 fireworks.
+</think>
+
+To determine the total number of fireworks Hannah will see, let's break down the problem step by step.
+
+1. **Calculate the total number of fireworks in the city's display:**
+   
+   - **Number of boxes:** 15
+   - **Fireworks per box:** 20
+   
+   \[
+   \text{Total fireworks in display} = 15 \text{ boxes} \times 20 \text{ fireworks/box} = 300 \text{ fireworks}
+   \]
+
+2. **Determine the number of fireworks Hannah sets off in her backyard:**
+   
+   - **Number of boxes:** 3
+   - **Fireworks per box:** 5
+   
+   \[
+   \text{Fireworks in backyard} = 3 \text{ boxes} \times 5 \text{ fireworks/box} = 15 \text{ fireworks}
+   \]
+
+3. **Calculate the total number of fireworks Hannah will see:**
+   
+   \[
+   \text{Total fireworks seen} = \text{Fireworks in display} + \text{Fireworks in backyard} = 300 + 15 = 315 \text{ fireworks}
+   \]
+
+\[
+\boxed{315}
+\]

@@ -1,0 +1,45 @@
+<｜User｜>
+Q: Bill is ordering a new truck. He has decided to purchase a two-ton truck with several added features: a king cab upgrade, a towing package, leather seats, running boards, and the upgraded exterior light package.  The base price of the truck is $30,000, and the other features are at extra cost. The king cab is an extra $7,500, leather seats are one-third the cost of the king cab upgrade, running boards are $500 less than the leather seats, and the upgraded exterior light package is $1500.  What is the total cost of Bill's new truck, in dollars?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total cost of Bill's new truck, let's break down the costs step by step.
+
+1. **Base Price of the Truck:**
+   \[
+   \$30,\!000
+   \]
+
+2. **Additional Features:**
+   - **King Cab Upgrade:** \$7,500
+   - **Towing Package:** Extra cost
+   - **Leather Seats:** Extra cost
+   - **Running Boards:** \$500 less than the cost of leather seats
+   - **Upgraded Exterior Light Package:** \$1,500
+
+3. **Calculating Each Feature:**
+   - **King Cab Upgrade:** \$7,500
+   - **Leather Seats:** Let’s denote the cost of the king cab upgrade as \( K = \$7,500 \). The leather seats are one-third the cost of the king cab upgrade.
+     \[
+     \text{Leather Seats} = \frac{1}{3} \times K = \frac{1}{3} \times 7,\!500 = \$2,\!500
+     \]
+   - **Running Boards:** \$500 less than the cost of leather seats.
+     \[
+     \text{Running Boards} = \text{Leather Seats} - \$500 = 2,\!500 - 500 = \$2,\!000
+     \]
+   - **Upgraded Exterior Light Package:** \$1,500
+
+4. **Total Additional Costs:**
+   \[
+   \text{Total} = K + \text{Leather Seats} + \text{Running Boards} + \text{Light Package} = 7,\!500 + 2,\!500 + 2,\!000 + 1,\!500 = \$13,\!600
+   \]
+
+5. **Total Cost of the Truck:**
+   \[
+   \text{Total Cost} = \text{Base Price} + \text{Total Additional Costs} = 30,\!000 + 13,\!600 = \$43,\!600
+   \]
+
+**Final Answer:**
+\[
+\boxed{43600}
+\]

@@ -1,0 +1,25 @@
+<｜User｜>
+Q: A bakery has 40 less than seven times as many loaves of bread as Sam had last Friday. If Sam had seventy loaves of bread last Friday, how many loaves of bread does the bakery have?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Identify the number of loaves Sam had last Friday:**
+   - Sam had **70** loaves of bread last Friday.
+
+2. **Determine the relationship between the bakery's loaves and Sam's loaves:**
+   - The bakery has **40** less than seven times as many loaves of bread as Sam had last Friday.
+
+3. **Calculate seven times the number of loaves Sam had:**
+   - \( 7 \times 70 = 490 \) loaves.
+
+4. **Subtract the **40** loaves to find the bakery's total:**
+   - \( 490 - 40 = 450 \) loaves.
+
+**Final Answer:**
+\[
+\boxed{454}
+\]

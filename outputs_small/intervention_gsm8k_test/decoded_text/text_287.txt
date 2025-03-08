@@ -1,0 +1,57 @@
+<｜User｜>
+Q: A 76-star flag has three rows of 8 stars, two rows of 6 stars and the rest are 5-star rows. How many rows of 5 stars are there altogether on the flag?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of stars on the flag. The flag has three rows with 8 stars each, two rows with 6 stars each, and the remaining stars are 5-star rows.
+
+Calculating the total stars:
+- 3 rows × 8 stars = 24 stars
+- 2 rows × 6 stars = 12 stars
+- Let the number of 5-star rows be x.
+
+Adding these together: 24 + 12 + 5x = 36 stars.
+
+Solving for x:
+36 + 5x = 36
+5x = 36 - 36
+5x = 0
+x = 0
+
+Therefore, there are 0 rows of 5 stars on the flag.
+</think>
+
+To determine the number of rows of 5 stars on the flag, let's break down the information provided:
+
+1. **Total Stars Calculation:**
+   - **3 rows of 8 stars each:**  
+     \( 3 \times 8 = 24 \) stars
+   - **2 rows of 6 stars each:**  
+     \( 2 \times 6 = 12 \) stars
+   - **Let \( x \) be the number of rows of 5 stars:**  
+     \( x \times 5 \) stars
+
+2. **Total Stars on the Flag:**
+   \[
+   24 \, (\text{from 8-star rows}) + 12 \, \! (\text{from 6-star rows}) + 5x \, (\text{from 5-star rows}) = \text{Total Stars}
+   \]
+   \[
+   24 + 12 + 5x = 36
+   \]
+   \[
+   36 + 5x = 36
+   \]
+
+3. **Solving for \( x \):**
+   \[
+   5x = 36 - 36
+   \]
+   \[
+   5x = 0
+   \]
+   \[
+   x = 0
+   \]
+
+**Final Answer:**
+\[
+\boxed{0}
+\]

@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Marin and his neighbor Nancy each eat 4 apples a day. How many apples do they eat in 30 days?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many apples Marin and Nancy eat in 30 days, follow these steps:
+
+1. **Determine the total number of apples eaten by both in one day:**
+   
+   - Marin eats 4 apples a day.
+   - Nancy eats 4 apples a day.
+   
+   Total per day = 4 + 4 = 8 apples.
+
+2. **Calculate the total for 30 days:**
+   
+   Total apples = 8 apples/day × 30 days = 240 apples.
+
+**Final Answer:**
+\[
+\boxed{240}
+\]

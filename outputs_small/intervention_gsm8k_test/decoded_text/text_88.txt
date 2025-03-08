@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Marilyn's first record sold 10 times as many copies as Harald's. If they sold 88,000 copies combined, how many copies did Harald sell?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here: Marilyn's first record sold 10 times as many copies as Harald's. Together, they sold 88,000 copies. I need to find out how many copies Harald sold. Hmm, let me think about how to approach this.
+
+First, let me try to understand the problem. It says Marilyn sold 10 times as many as Harald. So if I let Harald's sales be a certain number, then Marilyn's would be 10 times that number. Then together, their sales add up to 88,000. So, I think I can set up an equation to solve this.
+
+Let me denote Harald's sales as H. Then, Marilyn's sales would be 10 times H, which is 10H. Together, their sales are H + 10H, which is 11H. And this total is 88,000. So, 11H = 88,000. Therefore, H = 88,000 divided by 11.
+
+Wait, that seems right. Let me write that down step by step to make sure I don't make a mistake.
+
+Let H be the number of copies Harald sold. Then Marilyn sold 10H copies. Together, H + 10H = 11H. This equals 88,000. So, 11H = 88,000. Therefore, H = 88,000 / 11.
+
+Now, I need to compute 88,000 divided by 11. Let me do that division. 11 goes into 88 how many times? 11 times 8 is 88, so that's 8 times. So, 88 divided by 11 is 8. Then, the next digit is 0, so 11 goes into 0 zero times, and bring down the next 0. 11 goes into 0 zero times, so we have 8000. Wait, that seems right. Wait, that seems right. Let me write it out.
+
+88,000 divided by 11.
+
+11 into 88 is 8, because 11*8=88. Subtract 88 from 88, you get 0. Bring down the next 0, making it 00. 11 into 0 is 0. Bring down the next 0, making it 00. 11 into 00 is 0. Bring down the last 0, making it 00. 11 into 00 is 0. So, the result is 8000.
+
+Wait, that seems right. So, 11 times 8000 is 88,000. So, H is 8000. So, Harald sold 8000 copies.
+
+Let me double-check that. If Harald sold 8000, then Marilyn sold 10 times that, which is 80,000. Together, 8000 + 80,000 is 88,000. That matches the total given. So, that seems correct.
+
+Wait, that seems right. So, the answer is 8000.
+
+But, that seems right. Let me think again. Maybe I can approach it another way to confirm.
+
+Suppose I let H be Harald's sales. Then Marilyn's sales are 10H. Together, H + 10H = 11H = 88,000. So, H = 88,000 /111. Which is 8000. So, same result.
+
+Alternatively, maybe I can think in terms of ratios. The ratio of Marilyn's sales to Harald's is 10:1. So, the total parts are 11. So, each part is 88,000 /11 = 8000. So, Harald's sales are 1 part, which is 8000. So, same answer.
+
+So, I think that's correct. So, Harald sold 8000 copies.
+
+Wait, that seems right. So, I think I can confidently say that Harald sold 8000 copies.
+
+**Final Answer**
+Harald sold \boxed{8000} copies.
+</think>
+
+Let \( H \) be the number of copies Harald sold. Then, Marilyn sold \( 10H \) copies. Together, their sales add up to 88,000. Therefore, we can set up the equation:
+
+\[

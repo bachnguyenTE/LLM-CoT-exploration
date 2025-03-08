@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Cynthia eats one serving of ice cream every night.  She buys cartons of ice cream with 15 servings of ice cream per carton at a cost of $4.00 per carton.  After 60 days, how much will she spend on ice cream?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Cynthia eats **1 serving** of ice cream every night. She buys **15 servings** per carton, costing **\$4.00** per carton.
+
+1. **Calculate servings needed for 60 days:**
+   \[
+   60 \text{ days} \times 1 \text{ serving/day} = 66 \text{ servings}
+   \]
+
+2. **Determine how many cartons she needs:**
+   \[
+   \frac{66 \text{ servings}}{15 \text{ servings/carton}} = 4.4 \text{ cartons}
+   \]
+   Since she can't buy a fraction of a carton, she needs to purchase **5 cartons**.
+
+3. **Calculate total cost:**
+   \[
+   5 \text{ cartons} \times \$4.00/\text{carton} = \$20.00
+   \]
+
+**Final Answer:**  
+\boxed{\$20.00}

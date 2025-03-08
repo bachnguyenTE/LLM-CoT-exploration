@@ -1,0 +1,45 @@
+<｜User｜>
+Q: A zookeeper is counting how many lions are in their enclosure. She counts 12 female lions, half as many male lions, and 14 lion cubs. How many lions are in the enclosure?
+A:<｜Assistant｜><think>
+First, I need to determine the number of male lions. The zookeeper counted 12 female lions, and there are half as many male lions. So, I'll calculate half of 12 to find the number of male lions.
+
+Next, I'll add the number of female lions and male lions together to get the total number of adult lions.
+
+Then, I'll consider the lion cubs. There are 14 lion cubs in the enclosure.
+
+Finally, I'll add the number of adult lions and lion cubs to find the total number of lions in the enclosure.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Number of Female Lions:**
+   \[
+   \text{Female Lions} = 12
+   \]
+
+2. **Number of Male Lions:**
+   \[
+   \text{Male Lions} = \frac{1}{2} \times \text{Female Lions} = \frac{1}{2} \times 12 = 6
+   \]
+
+3. **Total Number of Adult Lions:**
+   \[
+   \text{Total Adult Lions} = \text{Female Lions} + \text{Male Lions} = 12 + 6 = 18
+   \]
+
+4. **Number of Lion Cubs:**
+   \[
+   \text{Lion Cubs} = 14
+   \]
+
+5. **Total Number of Lions in the Enclosure:**
+   \[
+   \text{Total Lions} = \text{Total Adult Lions} + \text{Lion Cubs} = 18 + 14 = 32
+   \]
+
+**Final Answer:**
+\[
+\boxed{32}
+\]

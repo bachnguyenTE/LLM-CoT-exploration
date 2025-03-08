@@ -1,0 +1,23 @@
+<｜User｜>
+Q: A raspberry bush has 6 clusters of 20 fruit each and 67 individual fruit scattered across the bush. How many raspberries are there total?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the total number of raspberries on the bush, we'll break down the information provided:
+
+1. **Clusters:** There are **6 clusters**.
+   - Each cluster contains **20 fruit**.
+   - **Total fruit from clusters:** \( 6 \times 20 = 120 \) fruits.
+
+2. **Individual Fruits:** There are **67 individual fruits** scattered across the bush.
+
+3. **Total Raspberries:**
+   - Add the fruits from clusters and individual fruits together.
+   - **Total:** \( 120 + 67 = 187 \) raspberries.
+
+**Final Answer:**
+\[
+\boxed{187}
+\]

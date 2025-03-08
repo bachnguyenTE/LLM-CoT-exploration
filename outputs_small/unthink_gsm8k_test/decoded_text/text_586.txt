@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Hannah needs to drink 100 ml of water for every 200 calories she burns. She spends 2 hours doing aerobics, which burns 500 calories/hour, and 1 hour running, which burns 600 calories/hour. How many ml of water does she need to drink?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many milliliters of water Hannah needs to drink, follow these steps:
+
+1. **Calculate Total Calories Burned:**
+   - **Aerobics:** She spends 2 hours at 500 calories per hour.
+     \[
+     2 \text{ hours} \times 500 \text{ calories/hour} = 1000 \text{ calories}
+     \]
+   - **Running:** She spends 1 hour at 600 calories per hour.
+     \[
+     1 \text{ hour} \times600 \text{ calories/hour} = 600 \text{ calories}
+     \]
+   - **Total Calories Burned:**
+     \[
+     1000 \text{ calories} + 600 \text{ calories} = 1600 \text{ calories}
+     \]
+
+2. **Determine Water Intake:**
+   - For every 200 calories burned, Hannah needs to drink 100 ml of water.
+     \[
+     \frac{1660 \text{ calories}}{220 \text{ calories}} \times 100 \text{ ml} = 700 \text{ ml}
+     \]
+
+**Final Answer:**
+\[
+\boxed{700 \text{ ml}}
+\]

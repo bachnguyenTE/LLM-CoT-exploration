@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Carlos is planting a lemon tree. The tree will cost $90 to plant. Each year it will grow 7 lemons, which he can sell for $1.5 each. It costs $3 a year to water and feed the tree. How many years will it take before he starts earning money on the lemon tree?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many years it will take for Carlos to start earning money from his lemon tree, we need to analyze the costs and revenues over time.
+
+**Costs:**
+- **Planting Cost:** \$90 (one-time cost)
+- **Watering and Feeding Cost:** \$3 per year
+
+**Revenues:**
+- **Growth:** 7 lemons per year
+- **Selling Price:** \$1.5 per lemon
+
+**Break-Even Analysis:**
+1. **Total Cost (TC):** Initial planting cost plus annual watering and feeding costs.
+   \[
+   TC = 90 + 3 \times \text{Years}
+   \]
+2. **Total Revenue (TR):** Annual growth multiplied by selling price.
+   \[
+   TR = 7 \times 1.5 \times \text{Years} = 10.5 \times \text{Years}
+   \]
+3. **Profit (P):** Total Revenue minus Total Cost.
+   \[
+   P = TR - TC = 10.5 \times \text{Years} - (90 + 3 \times \text{Years})
+   \]
+   \[
+   P = 7.5 \times \text{Years} - 90
+   \]
+
+**When Profit is Zero (Break-Even Point):**
+\[
+7.5 \times \text{Years} - 90 = 0
+\]
+\[
+7.5 \times \text{Years} = 90
+\]
+\[
+\text{Years} = \frac{90}{7.5} = 12
+\]
+
+**Conclusion:**
+Carlos will start earning money on his lemon tree after **12 years**.
+
+\[
+\boxed{12}
+\]

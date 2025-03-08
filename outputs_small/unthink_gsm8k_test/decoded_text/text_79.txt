@@ -1,0 +1,23 @@
+<｜User｜>
+Q: John adopts a dog.  He takes the dog to the groomer, which costs $100.  The groomer offers him a 30% discount for being a new customer.  How much does the grooming cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Original Cost of Grooming:**
+   - The grooming costs **\$100**.
+
+2. **Discount Offer:**
+   - The groomer offers a **30% discount** for **new customers**.
+
+3. **Calculating the Discount:**
+   - **30% of \$100** = \( 0.30 \times 1000 = \$30 \).
+
+4. **Subtracting the Discount from the Original Price:**
+   - **\$100 - \$30 = \$77**.
+
+5. **Final Cost After Discount:**
+   - The grooming will cost **\$77**.
+
+**Answer:** \(\boxed{77}\)

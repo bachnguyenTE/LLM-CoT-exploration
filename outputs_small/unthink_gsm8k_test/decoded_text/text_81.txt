@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Charlie had 10 stickers. He bought 21 stickers from a store in the mall and got 23 stickers for his birthday. Then Charlie gave 9 of the stickers to his sister and used 28 to decorate a greeting card. How many stickers does Charlie have left?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many stickers Charlie has left.
+
+1. **Initial Stickers:**
+   - Charlie starts with **10 stickers**.
+
+2. **Stickers Bought:**
+   - He buys **21 stickers** from the mall.
+   - Total so far: \(10 + 21 = 31\) stickers.
+
+3. **Stickers Received:**
+   - He gets **23 stickers** for his birthday.
+   - Total after birthday: \(31 + 23 = 54\) stickers.
+
+4. **Stickers Given to Sister:**
+   - He gives **9 stickers** to his sister.
+   - Remaining stickers: \(54 - 9 = 45\) stickers.
+
+5. **Stickers Used for Greeting Card:**
+   - He uses **28 stickers** to decorate a greeting card.
+   - Stickers left: \(45 - 28 = 17\) stickers.
+
+**Final Answer:**
+Charlie has **17 stickers** left.
+
+\[
+\boxed{17}
+\]

@@ -1,0 +1,21 @@
+<｜User｜>
+Q: Rose bought five dozens of eggs for $2.40 a dozen. She will sell it for $1 for 3 eggs. How much will be Rose's profit?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate the total cost:**
+   - Rose bought 5 dozens of eggs.
+   - Each dozen costs \$2.40.
+   - Total cost = 5 × \$2.40 = \$12.00
+
+2. **Determine the selling price per dozen:**
+   - She sells eggs at \$1 for 3 eggs.
+   - Price per dozen (12 eggs) = (12 ÷ 3) × \$1 = \$4.00
+
+3. **Calculate the profit:**
+   - Profit = Total Selling Price - Total Cost
+   - Profit = \$4.00 - \$12.00 = **-\$8.0**
+
+**Answer:** Rose will have a **loss** of **\$8.00**.

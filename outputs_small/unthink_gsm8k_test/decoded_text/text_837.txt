@@ -1,0 +1,54 @@
+<｜User｜>
+Q: Erika is saving for a new laptop. The laptop she wants costs $600. The sales assistant told her that if she traded in her old laptop, the price of the new one would be reduced by $200. She thinks this is a good deal and agrees to do it. She already has some savings in her purse, and has also been paid $150 this week for her part-time job. Her mom agrees to give her $80 to help her. If Erika now only needs an extra $50 to buy the laptop, how much money does she have in her purse?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how much money Erika has in her purse.
+
+1. **Total Cost of the Laptop:**
+   \[
+   \$600
+   \]
+
+2. **Reduction in Price:**
+   \[
+   \$200 \text{ (discount from the new laptop)}
+   \]
+
+3. **Erika's Savings:**
+   - She already has some savings in her purse.
+   - She's been paid \$150 for her part-time job.
+   - Her mom is giving her an additional \$80.
+
+4. **Total Amount Erika has from her job and her mom:**
+   \[
+   \$150 + \$80 = \$235
+   \]
+
+5. **Erika's Current Savings:**
+   - Let's denote her current savings as \( S \).
+
+6. **Total Amount Erika has after receiving her part-time job money and her mom's gift:**
+   \[
+   S + \$235
+   \]
+
+7. **After the discount, Erika only needs an extra \$50 to buy the laptop.** This means:
+   \[
+   S + \$235 = \$600 - \$200
+   \]
+   \[
+   S + \$235 = \$400
+   \]
+
+8. **Solving for \( S \):**
+   \[
+   S = \$400 - \$235 = \$165
+   \]
+
+9. **Therefore, Erika has \$165 in her purse.**
+
+**Final Answer:**
+\[
+\boxed{165}
+\]

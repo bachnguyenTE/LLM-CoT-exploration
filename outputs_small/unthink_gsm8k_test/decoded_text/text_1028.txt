@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Tom buys a bedroom set for $3000.  He sells his old bedroom for $1000 and uses that to pay for part of the bedroom set.  He then has to pay 10% a month for the bedroom set.  How much does he have to pay per month?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to determine how much Tom has to pay per month.
+
+1. **Initial Cost of the Bedroom Set:**
+   - Tom buys a bedroom set for **\$3,000** (assuming a typo, it's likely \$3,000).
+
+2. **Selling His Old Bedroom:**
+   - Tom sells his old bedroom for **\$1,000**.
+   - **Amount Received:** \$1,000
+
+3. **Amount Left to Pay for the Bedroom Set:**
+   - Total cost: \$3,000
+   - Amount received: \$1,000
+   - **Remaining Amount to Pay:** \$3,000 - \$1,000 = **\$2,000**
+
+4. **Monthly Payment for the Bedroom Set:**
+   - Tom has to pay **10%** (10%) a month for the bedroom set.
+   - **Monthly Payment:** 10% of \$2,000
+   - **Calculation:** 0.10 × \$2,000 = **\$2,300**
+
+5. **Final Amount to Pay Per Month:**
+   - **Answer:** Tom has to pay **\$2,300** per month.
+
+\boxed{2300}

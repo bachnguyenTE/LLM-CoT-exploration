@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Mark is making a quadruple batch of brownies. The normal recipe calls for 3 cups of flour and 1 cup milk. If flour is sold in 2-cup bags and milk is sold in 2-cup bottles, how many more bags of flour than bottles of milk does Mark have to buy?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many more bags of flour Mark needs to buy compared to milk, follow these steps:
+
+1. **Calculate the number of flour bags needed:**
+   - **Total flour needed:** 3 cups
+   - **Flour per bag:** 2 cups
+   - **Number of flour bags:** \( \frac{3 \text{ cups}}{2 \text{ cups/bag}} = 1.5 \) bags
+
+2. **Calculate the number of milk bottles needed:**
+   - **Total milk needed:** 1 cup
+   - **Milk per bottle:** 2 cups
+   - **Number of milk bottles:** \( \frac{1 \text{ cup}}{2 \text{ cups/bottle}} = 0.5 \) bottles
+
+3. **Determine the difference:**
+   - **Flour bags needed:** 1.5
+   - **Milk bottles needed:** 0.5
+   - **Difference:** \( 1.5 - 0.5 = 1 \) bag
+
+**Final Answer:** Mark needs to buy **1 more bag of flour** than bottles of milk.

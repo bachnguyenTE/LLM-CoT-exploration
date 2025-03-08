@@ -1,0 +1,20 @@
+<｜User｜>
+Q: Chenny is 10 years old. Alyana is 4 years younger than Chenny. How old is Anne if she is 2 years older than Alyana?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here: Chenny is 10 years old. Wait, that seems right. Then Alyana is 4 years younger than Chenny. Hmm, so if Chenny is 10, then Alyana must be 10 minus 4, which is 6. That makes sense. Then Anne is 2 years older than Alyana. So if Alyana is 6, then Anne is 6 plus 2, which is 8. So Anne is 8 years old. Let me just double-check that. Chenny is 10, subtract 4 for Alyana, which is 6, then add 2 for Anne, so 8. Yeah, that seems right. I don't think I made any mistakes there. It's pretty straightforward. Maybe I should write it out step by step to make sure.
+
+First, Chenny's age: 10 years old. Then, Alyana is younger by 4 years. So subtract 4 from Chenny's age: 10 - 4 = 6. So Alyana is 6. Then, Anne is 2 years older than Alyana, so add 2 to Alyana's age: 6 + 2 = 8. So Anne is 8. Yeah, that seems correct. I don't think I need to complicate it more. It's just a matter of subtracting and adding numbers. Maybe I can visualize it with a timeline or something. Chenny is at 10, then Alyana is 4 years back to 6, and Anne is 2 years back from Alyana, so 4 years back from Chenny's 10, which is 6, then 2 more back is 8. Yeah, that works. I think I'm confident with that answer.
+
+**Final Answer**
+Anne is \boxed{8} years old.
+</think>
+
+Chenny is 10 years old. Alyana is 4 years younger than Chenny, so we subtract 4 from Chenny's age:
+
+\[ 10 - 4 = 6 \]
+
+Alyana is 6 years old. Anne is 2 years older than Alyana, so we add 2 to Alyana's age:
+
+\[ 6 + 2 = 8 \]
+
+Thus, Anne is \boxed{8} years old.

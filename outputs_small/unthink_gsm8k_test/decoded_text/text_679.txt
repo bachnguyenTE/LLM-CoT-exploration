@@ -1,0 +1,26 @@
+<｜User｜>
+Q: If 6 potatoes makes 36 hash browns, how many hash browns can you make out of 96 potatoes?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We are given that 6 potatoes make 36 hash browns. We need to find out how many hash browns can be made with 96 potatoes.
+
+1. **Determine the number of hash browns per potato:**
+
+   \[
+   \text{Hash browns per potato} = \frac{36 \text{ hash browns}}{6 \text{ potatoes}} = 6 \text{ hash browns per potato}
+   \]
+
+2. **Calculate the number of hash browns from 96 potatoes:**
+
+   \[
+   \text{Total hash browns} = 96 \text{ potatoes} \times 6 \text{ hash browns per potato} = 576 \text{ hash browns}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{576}
+\]

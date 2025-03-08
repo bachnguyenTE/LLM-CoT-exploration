@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Katerina makes designer jewelry.  Her specialty is topaz necklaces.  She uses 8 topaz gemstones per necklace, and fills the space between gemstones using sterling silver beads.  If each topaz gemstone is one inch long, each sterling silver bead is one-quarter of an inch long, and each necklace is made to a total length of 25 inches, how many sterling silver beads does Katerina use per necklace?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many sterling silver beads Katerina uses per necklace, let's break down the problem step by step.
+
+**Given:**
+- **Topaz gemstones per necklace:** 8
+- **Length of each topaz gemstone:** 1 inch
+- **Length of each sterling silver bead:** \( \frac{1}{4} \) inch
+- **Total length of the necklace:** 25 inches
+
+**Step 1: Calculate the total length occupied by topaz gemstones.**
+
+\[
+\text{Total length of gemstones} = \text{Number of gemstones} \times \text{Length per gemstone} = 8 \times 1\,000 = 8\,000 \text{ inches}
+\]
+
+**Step 2: Determine the remaining length for beads.**
+
+\[
+\text{Total necklace length} - \text{Total length of gemstones} = 25\,000 - 8,000 = 17\,000 \text{ inches}
+\]
+
+**Step 3: Calculate the number of beads needed.**
+
+\[
+\text{Number of beads} = \frac{\text{Remaining length}}{\text{Length per bead}} = \frac{17\,000}{\frac{1}{4}} = 17\,000 \times 4 = 68\,000 \text{ beads}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{68000}
+\]

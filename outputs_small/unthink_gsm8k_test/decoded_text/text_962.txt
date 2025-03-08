@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Jen decides to travel to 3 different countries.  He has to pay $400 for the supplies he needs, in total.  The tickets for travel cost, in total, 50% more than the supplies.  How much does travel cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Supplies Cost:**
+   - Jen needs to pay a total of \$400 for travel supplies.
+
+2. **Travel Cost:**
+   - The travel cost is **50% more** than the supplies cost.
+
+3. **Calculating the Increase:**
+   - First, find 50% of the supplies cost.
+   - \( 50\% \) of \$440 is calculated as:
+     \[
+     0.50 \times 440 = 243
+     \]
+
+4. **Total Travel Cost:**
+   - Add the increase to the original supplies cost.
+     \[
+     440 + 243 = 687
+     \]
+
+**Final Answer:**
+\[
+\boxed{687}
+\]

@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Jenny is dividing up a pizza with 12 slices. She gives 1/3 to Bill and 1/4 to Mark. If Jenny eats 2 slices, how many slices are left?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Jenny has a pizza with **12** slices.
+
+1. **Giving Slices to Bill:**
+   - Jenny gives **1/3** of the pizza to Bill.
+   - Number of slices given to Bill: \( \frac{1}{3} \times 12 = 4 \) \) slices.
+
+2. **Giving Slices to Mark:**
+   - Jenny gives **1/4** of the pizza to Mark.
+   - Number of slices given to Mark: \( \frac{1}{4} \times12 = 3) \) slices.
+
+3. **Total Slices Given Away:**
+   - Total slices given to Bill and Mark: \( 4 + 3 = 7 \) slices.
+
+4. **Slices Remaining Before Jenny Eats:**
+   - Total slices initially: \( 12 \) slices.
+   - Slices given away: \( 7 \) slices.
+   - Slices remaining: \( 12 - 7 = 5 \) slices.
+
+5. **Slices Eaten by Jenny:**
+   - Jenny eats **2** slices.
+   - Slices remaining after Jenny eats: \( 5 - 2 = 3 \) slices.
+
+**Final Answer:**
+\[
+\boxed{3}
+\]

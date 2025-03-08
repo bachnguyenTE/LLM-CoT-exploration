@@ -1,0 +1,24 @@
+<｜User｜>
+Q: A factory used to make tractors, but now makes silos. When they made tractors, they sold 10 tractors a day and made $100 per tractor. Now, they sell 5 silos a day, and make $220 per silo. What percentage more are they making per day now?
+A:<｜Assistant｜><think>
+</think>
+
+To determine what percentage more the factory is making per day now compared to before, follow these steps:
+
+1. **Calculate the daily earnings before the change:**
+   - **Tractors sold per day:** 10
+   - **Profit per tractor:** \$100
+   - **Daily profit before:** \(10\text{Tractors} \times \$100/\text{Tractor} = \$1,000\)
+
+2. **Calculate the daily earnings after the change:**
+   - **Silos sold per day:** 5
+   - **Profit per silo:** \$220
+   - **Daily profit after:** \(5\text{Silo} \times \$220/\text{Silo} = \$1,100\)
+
+3. **Determine the increase in daily profit:**
+   - **Increase:** \(\$1,100 - \$1,000 = \$100\)
+
+4. **Calculate the percentage increase:**
+   - **Percentage increase:** \(\frac{\$100}{\$1,000} \times 100\% = 1\%\)
+
+**Final Answer:** \(\boxed{1\%}\)

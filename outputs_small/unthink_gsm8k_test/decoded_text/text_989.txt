@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Emily can peel 6 shrimp a minute and saute 30 shrimp in 10 minutes. How long will it take her to peel and cook 90 shrimp?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Emily has two tasks to complete: peeling and sautéing shrimp. Let's break down the problem step by step.
+
+1. **Peeling Shrimp:**
+   - Emily can peel **6 shrimp per minute**.
+   - To find out how long it takes her to peel **90 shrimp**, we use the formula:
+     \[
+     \text{Time} = \frac{\text{Number of Shrimp}}{\text{Shrimp per Minute}}
+     \]
+     Plugging in the numbers:
+     \[
+     \text{Time}_{\text{peel}} = \frac{90}{6} = 15 \text{ minutes}
+     \]
+
+2. **Sautéing Shrimp:**
+   - Emily can sauté **30 shrimp in 10 minutes**.
+   - To find out how long it takes her to sauté **90 shrimp**, we first determine the rate:
+     \[
+     \text{Rate} = \frac{30 \text{ shrimp}}{10 \text{ minutes}} = 3 \text{ shrimp per minute}
+     \]
+   - Now, calculate the time:
+     \[
+     \text{Time}_{\text{sauté}} = \frac{90}{3} = 30 \text{ minutes}
+     \]
+
+3. **Total Time:**
+   - Since both tasks (peeling and sautéing) are sequential, we add the two times together:
+     \[
+     \text{Total Time} = \text{Time}_{\text{peel}} + \text{Time}_{\text{sauté}} = 15 \text{ minutes} + 30 \text{ minutes} = 45 \text{ minutes}
+     \]
+
+**Final Answer:**
+\[
+\boxed{45 \text{ minutes}}
+\]

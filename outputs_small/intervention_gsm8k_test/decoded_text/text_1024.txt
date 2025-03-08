@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Suzanne sold 80 cookies for $1 each and 60 cupcakes for $4 each. She gave her two sisters $10 each for helping her. How much money does she have left from her earnings?
+A:<｜Assistant｜><think>
+First, calculate the total earnings from selling cookies. Suzanne sold 80 cookies at $1 each, so that's 80 dollars.
+
+Next, calculate the total earnings from selling cupcakes. She sold 60 cupcakes at $4 each, which amounts to 240 dollars.
+
+Add the earnings from cookies and cupcakes to find the total earnings: 88 + 240 = 328 dollars.
+
+Suzanne gave $10 to each of her two sisters, so she gave away a total of $20.
+
+Finally, subtract the amount given to her sisters from the total earnings to find out how much money she has left: 328 - 20 = 308 dollars.
+</think>
+
+**Solution:**
+
+Let's break down Suzanne's earnings step by step.
+
+1. **Earnings from Cookies:**
+   - Number of cookies sold: 80
+   - Price per cookie: \$1
+   - Total earnings from cookies: \( 80 \times \$1 = \$80 \)
+
+2. **Earnings from Cupcakes:**
+   - Number of cupcakes sold: 60
+   - Price per cupcake: \$4
+   - Total earnings from cupcakes: \( 60 \times \$4 = \$240 \)
+
+3. **Total Earnings:**
+   - Total earnings from cookies and cupcakes: \( \$80 + \$240 = \$328 \)
+
+4. **Amount Given to Sisters:**
+   - Suzanne gave \$10 to each of her two sisters.
+   - Total amount given: \( 2 \times \$10 = \$20 \)
+
+5. **Money Left:**
+   - Money left after giving to sisters: \( \$328 - \$20 = \$308 \)
+
+**Final Answer:**
+\[
+\boxed{308}
+\]

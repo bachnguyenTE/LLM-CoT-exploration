@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Jim has a 20 pack of gum.  He chews 1 piece of gum for every 2 hours he's at school over a school day that lasts 8 hours.  He chews 1 piece on the way home from school and 1 stick after dinner.  He also gives half the gum he has remaining to his sister when she asks for some right before bed.  How many pieces of gum does Jim have left at the end of the day?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many pieces of gum Jim has left at the end of the day.
+
+1. **Total Gum in the Pack:**
+   - Jim has a **20-piece** pack of gum.
+
+2. **Gum Chewing Pattern:**
+   - **Every 2 hours at school:** Jim chews 1 piece of gum.
+   - **School day duration:** 8 hours.
+   - **Chewing Time Calculation:**
+     - Total time at school: 8 hours.
+     - Number of 2-hour intervals in 8 hours: \( \frac{8}{2} = 4 \) intervals.
+     - Pieces of gum chewed during school: \( 4 \times 1 = 4 \) pieces.
+
+3. **Additional Gum Chewing:**
+   - **On the way home:** 1 piece.
+   - **After dinner:** 1 stick.
+   - **Total additional gum:** \( 1 + 1 = 2 \) pieces.
+
+4. **Total Gum Chewed During the Day:**
+   - Gum chewed during school: 4 pieces.
+   - Gum chewed on the way home and after dinner: 2 pieces.
+   - **Total gum chewed:** \( 4 + 2 = 6 \) pieces.
+
+5. **Gum Remaining Before Giving to Sister:**
+   - Total gum in the pack: 20 pieces.
+   - Gum chewed: 6 pieces.
+   - **Gum remaining:** \( 20 - 6 = 14 \) pieces.
+
+6. **Giving Half to Sister:**
+   - **Amount given to sister:** \( \frac{14}{2} = 7 \) pieces.
+   - **Gum remaining after giving to sister:** \( 14 - 7 = 7 \) pieces.
+
+**Final Answer:**
+\[
+\boxed{7}
+\]

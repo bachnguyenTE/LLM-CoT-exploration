@@ -1,0 +1,35 @@
+<｜User｜>
+Q: The number of songs in a playlist is 300. If John has 20 such playlists, and each song is 10 hours long, how many hours will the 20 playlists last in total?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total number of songs:**
+   
+   - Each playlist has **300 songs**.
+   - John has **20 playlists**.
+   
+   \[
+   \text{Total songs} = 300 \, \text{Playlists} = 20
+   \]
+
+2. **Calculate the total number of songs across all playlists:**
+   
+   \[
+   \text{Total songs} = 300 \times 20 = 6,000 \text{ songs}
+   \]
+
+3. **Find the total duration of all songs:**
+   
+   - Each song is **10 hours long**.
+   
+   \[
+   \text{Total duration} = 6,000 \times 10 = 60,000 \text{ hours}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{60,\!000 \text{ hours}}
+\]

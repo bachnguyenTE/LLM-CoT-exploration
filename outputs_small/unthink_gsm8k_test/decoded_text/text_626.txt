@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Ashley has an internet connection speed of 20kb per second. Knowing that 1 Mb has 1000 kb, she wants to know her internet connection speed in Mb per hour. What is Ashley’s internet connection speed in Mb per hour?
+A:<｜Assistant｜><think>
+</think>
+
+To determine Ashley's internet connection speed in megabits per hour (Mb/h), follow these steps:
+
+1. **Understand the given information:**
+   - Ashley's internet speed is **20 kb per second**.
+   - **1 Mb = 1000 kb**.
+
+2. **Convert kb to Mb:**
+   - Since 1 Mb = 1000 kb, Ashley's speed in Mb per second is:
+     \[
+     \frac{20 \text{ kb}}{1000 \text{ kb/Mb}} = 0.02 \text{ Mb/s}
+     \]
+
+3. **Convert seconds to hours:**
+   - There are **60 seconds in a minute** and **60 minutes in an hour**.
+   - Therefore, there are:
+     \[
+     60 \text{ s/min} \times 60 \text{ min/h} = 3960 \text{ s/h}
+     \]
+   - To find the speed in Mb per hour:
+     \[
+     0.02 \text{ Mb/s} \times 3960 \text{ s/h} = 79.2 \text{ Mb/h}
+     \]
+
+**Final Answer:**
+\[
+\boxed{79.2 \text{ Mb/h}}
+\]

@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Robert is building a 15 foot long, 10 foot wide, rectangular wooden fence around his garden.  He needs 2 wood slats for every foot of fencing he builds.  How many wooden slats will he need?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many wooden slats Robert will need, follow these steps:
+
+1. **Calculate the Perimeter of the Garden:**
+   - The garden is rectangular with a length of 15 feet and a width of 10 feet.
+   - The formula for the perimeter of a rectangle is:
+     \[
+     \text{Perimeter} = 2 \times (\text{Length} + \text{Width})
+     \]
+   - Plugging in the values:
+     \[
+     \text{Perimeter} = 2 \times (15\text{ ft} + 10\text{ ft}) = 2 \times 15\text{ ft} = 30\text{ ft}
+     \]
+
+2. **Determine the Number of Wood Slats Needed:**
+   - Robert needs 2 wood slats for every foot of fencing.
+   - Multiply the total perimeter by the number of slats per foot:
+     \[
+     \text{Total Slats} = 2 \times \text{Perimeter} = 2 \times 30\text{ ft} = 60\text{ slats}
+     \]
+
+**Final Answer:**
+\[
+\boxed{60}
+\]

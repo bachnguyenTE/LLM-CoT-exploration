@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Alex is getting ready to attend an event that she has hosted and wants to make sure that she has enough seats for everyone. She invites 100 people via email and each invited person says that they will also invite 2 of their friends. She then calls 10 of her friends to invite them too and 8 of them say they will be bringing their spouses. How many seats will Alex need?
+A:<｜Assistant｜><think>
+Okay, so Alex is planning to attend an event and needs to figure out how many seats she'll need. She invited 100 people via email, and each of those invitees will invite 2 friends. Then she called 10 friends and invited them, and 8 of those friends said they'll bring their spouses. Hmm, let me break this down step by step.
+
+First, she starts by inviting 100 people via email. Each of these 100 invitees will invite 2 friends. So, I think that means each of those 100 people is going to add 2 more people. So, the number of friends invited by the email invitees would be 100 multiplied by 2. Let me write that down: 100 * 2 = 200. So, that's 220 friends? Wait, no, 100 times 2 is 200. Yeah, that's right. So, 200 friends.
+
+Then, she calls 10 of her friends and invites them. So, that's 10 more people. So, adding that to the previous number, we have 200 + 10 = 233 people so far.
+
+Next, she calls 8 of her friends and invites them. But these 8 friends say they'll be bringing their spouses. So, each of these 8 people is bringing one spouse. So, that's 8 more people. So, adding that to the total, we have 233 + 8 = 241 people.
+
+Wait, hold on, let me make sure I'm not missing anything here. So, the initial 100 people each invited 2 friends, so that's 200. Then, she called 10 friends and invited them, so that's 10. Then, she called 8 friends and invited their spouses, so that's 8. So, 200 + 10 +8 = 229. Wait, that doesn't seem right. Wait, 200 +10 is 210, plus 8 is 218. Hmm, maybe I messed up the initial calculation.
+
+Wait, no, the initial 100 people each invited 2 friends, so that's 200. Then, she called 10 friends and invited them, so that's 10. Then, she called 8 friends and invited their spouses, so that's 8. So, 200 +10 +8 = 218. So, total people invited are 218.
+
+But wait, hold on, the initial 100 people are already there, right? So, when she invites 200 friends, that's 200 new people. Then, she invites 10 more, so that's 210, and then invites 8 more, so that's 218. So, total people at the event would be the original 100 plus 218, which is 318.
+
+Wait, but hold on, is that all? Or is the 200 friends already including the original 100? Hmm, no, because each of the 100 invitees are separate. So, the 100 people each invited 2 friends, so that's 200 new friends. Then, she called 10 friends and invited them, so that's 10 more. Then, she called 8 friends and invited their spouses, so that's 8 more. So, total people invited are 200 +10 +8 = 229. So, total people at the event would be 100 +229 = 339.
+
+Wait, but hold on, the original 100 people are already there, so when she invites 200 friends, that's 200 new people. Then, she invites 10 more, so that's 210, and then invites 8 more, so that's 218. So, total people at the event would be 110 +218 = 329.
+
+Wait, I'm getting confused here. Let me try to structure this.
+
+1. Original invitations: 100 people via email. Each of these 100 invitees will invite 2 friends. So, 100 * 2 = 200 friends.
+
+2. Then, she calls 10 friends and invites them. So, 10 more people.
+
+3. Then, she calls 8 friends and invites their spouses. So, 8 more people.
+
+So, total people invited: 200 +10 +8 = 

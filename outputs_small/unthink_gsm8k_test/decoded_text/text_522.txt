@@ -1,0 +1,31 @@
+<｜User｜>
+Q: It's strawberry-picking time on Grandma Concetta's farm.  Tony can pick 6 quarts of strawberries per hour, while Bobby picks one less quart of strawberries per hour than Tony.  Kathy can pick twice as many strawberries per hour as Bobby, and Ricky picks two fewer quarts of strawberries per hour than does Kathy.  In total, how many quarts of strawberries can Tony, Bobby, Ricky, and Kathy pick per hour on Grandma Concetta's farm?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the total number of quarts of strawberries picked per hour by Tony, Bobby, Ricky, and Kathy.
+
+1. **Tony's Rate:**
+   - **Tony** can pick **6 quarts per hour**.
+
+2. **Bobby's Rate:**
+   - **Bobby** picks **1 quart less** than **Tony**.
+   - **Bobby's rate = 6 quarts/hour - 1 quart/hour = 5 quarts/hour**.
+
+3. **Kathy's Rate:**
+   - **Kathy** picks **twice as many** as **Bobby**.
+   - **Kathy's rate = 2 × 5 quarts/hour = 10 quarts/hour**.
+
+4. **Ricky's Rate:**
+   - **Ricky** picks **2 quarts less** than **Kathy**.
+   - **Ricky's rate = 10 quarts/hour - 2 quarts/hour = 8 quarts/hour**.
+
+5. **Total Rate:**
+   - **Total = Tony + Bobby + Kathy + Ricky**
+   - **Total = 6 quarts/hour + 5 quarts/hour + 10 quarts/hour + 8 quarts/hour**
+   - **Total = 29 quarts/hour**
+
+**Final Answer:**
+\[
+\boxed{29}
+\]

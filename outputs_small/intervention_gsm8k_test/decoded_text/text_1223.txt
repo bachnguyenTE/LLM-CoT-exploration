@@ -1,0 +1,36 @@
+<｜User｜>
+Q: To make a call from a payphone, you must pay $0.25 for each minute of your call. After 16 minutes, that price drops to $0.2 per minute. How much would a 36-minute call cost?
+A:<｜Assistant｜><think>
+First, I need to calculate the cost of the first 16 minutes. Since each minute costs $0.25, I'll multiply 16 minutes by $0.25 per minute.
+
+Next, after 16 minutes, the price per minute drops to $0.20. I'll calculate the cost for the remaining 20 minutes by multiplying 20 minutes by $0.20 per minute.
+
+Finally, I'll add the cost of the first 16 minutes to the cost of the remaining 20 minutes to find the total cost of a 36-minute call.
+</think>
+
+To determine the cost of a 36-minute call, let's break down the pricing step by step.
+
+### **Step 1: Calculate the Cost for the First 16 Minutes**
+- **Price per minute for the first 16 minutes:** \$0.25
+- **Number of minutes:** 16
+
+\[
+\text{Cost for first 16 minutes} = 16 \text{ minutes} \times \$0.25/\text{minute} = \$3.90
+\]
+
+### **Step 2: Calculate the Cost for the Remaining 20 Minutes**
+- **New price per minute after 16 minutes:** \$0.20
+- **Number of minutes:** 20
+
+\[
+\text{Cost for remaining 20 minutes} = 20 \text{ minutes} \times \$0.20/\text{minute} = \$4.000
+\]
+
+### **Step 3: Calculate the Total Cost of the 36-Minute Call**
+\[
+\text{Total Cost} = \text{Cost for first 16 minutes} + \text{Cost for remaining 20 minutes} = \$3.90 + \$4.00 = \$7.95
+\]
+
+\[
+\boxed{\$7.95}
+\]

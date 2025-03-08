@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Cody and Trevor had 12 sandwiches. Cody ate a third of the sandwiches, and Trevor ate a quarter of the sandwiches. How many sandwiches are left?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+Cody and Trevor had 12 sandwiches. Cody ate a third of the sandwiches, and Trevor ate a quarter of the sandwiches. How many sandwiches are left?
+
+**Solution:**
+
+1. **Total Sandwiches:**
+   - They started with **12 sandwiches**.
+
+2. **Cody's Consumption:**
+   - Cody ate **1/3** of the sandwiches.
+   - Calculation: \( \frac{1}{3} \times 12 = \frac{12}{3} = 4 \) sandwiches.
+
+3. **Trevor's Consumption:**
+   - Trevor ate **1/4** of the sandwiches.
+   - Calculation: \( \frac{1}{4} \times 12 = \frac{12}{4} = 3 \) sandwiches.
+
+4. **Total Eaten:**
+   - Total sandwiches eaten by both = 4 (Cody) + 3 (Trevor) = 7 sandwiches.
+
+5. **Sandwiches Left:**
+   - Total sandwiches - Total eaten = 12 - 7 = 5 sandwiches.
+
+**Final Answer:**
+\[
+\boxed{5}
+\]

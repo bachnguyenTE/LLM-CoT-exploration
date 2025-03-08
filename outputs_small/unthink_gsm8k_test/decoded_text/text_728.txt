@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Candy has 15 light blue spools of thread, 45 dark blue spools of thread, 40 light green spools of thread, and 50 dark green spools of thread. What percent of her spools are blue?
+A:<｜Assistant｜><think>
+</think>
+
+To determine what percent of Candy's spools are blue, follow these steps:
+
+1. **Identify the number of blue spools:**
+   - Light blue spools: 15
+   - Dark blue spools: 45
+   
+   **Total blue spools:** \(15 + 45 = 60\)
+
+2. **Calculate the total number of spools:**
+   - Light blue: 15
+   - Dark blue: 45
+   - Light green: 40
+   - Dark green: 50
+   
+   **Total spools:** \(15 + 45 + 40 + 50 = 150\)
+
+3. **Determine the percentage of blue spools:**
+   
+   \[
+   \text{Percentage of blue spools} = \left( \frac{\text{Total blue spools}}{\text{Total spools}} \right) \times 100
+   \]
+   
+   \[
+   \text{Percentage} = \left( \frac{60}{150} \right) \times 100 \approx 40.0\%
+   \]
+
+**Final Answer:** \(\boxed{40.0\%}\)

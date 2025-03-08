@@ -1,0 +1,44 @@
+<｜User｜>
+Q: A basic manicure starts at $35 while a pedicure starts at $40. A certain salon offers 20% off if you get both. Suppose Karen chooses to do both and would also like to add nail art on each of her fingers, which costs $3 per nail. How much would she pay in all?
+A:<｜Assistant｜><think>
+First, I need to determine the cost of a manicure and a pedicure with the 20% discount combined.
+
+The manicure is $35, and the pedicure is $40. Adding these together gives $75. Applying a 20% discount to $75 results in a total of $59.50.
+
+Next, I need to calculate the cost of the nail art. Karen wants to add nail art on each of her fingers, and each nail costs $3. Assuming she has 10 nails, the total cost for nail art is $30.
+
+Finally, I add the discounted total of the manicure and pedicure to the cost of the nail art to find the overall amount Karen will pay.
+</think>
+
+**Solution:**
+
+1. **Calculate the discounted total for manicure and pedicure:**
+
+   - **Manicure:** \$35
+   - **Pedicure:** \$40
+   - **Total before discount:** \$35 + \$40 = \$75
+
+   - **20% discount:** 
+     \[
+     20\% \text{ of } \$75 = 0.20 \times 75 = \$15
+     \]
+   
+   - **Total after discount:** 
+     \[
+     \$75 - \$15 = \$60
+     \]
+
+2. **Calculate the cost of nail art:**
+
+   - **Cost per nail:** \$3
+   - **Number of nails:** 10 (assuming Karen wants nail art on each of her 10 fingers)
+   - **Total cost for nail art:** 
+     \[
+     10 \times \$3 = \$30
+     \]
+
+3. **Calculate the total amount Karen will pay:**
+
+   \[
+   \$60 \text{ (manicure and pedicure)} + \$30 \text{ (nail art)} = \boxed{\$90}
+   \]

@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Ted the T-Rex was planning to bring potato salad to the dinosaur picnic.  He knows that an adult dinosaur will eat 10 lbs of potato salad, and a child will eat half as much as an adult.  If there will be 20 adults and 5 children at the picnic, how many pounds of potato salad does Ted need to bring to the picnic if he hopes to have enough to feed everyone?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many pounds of potato salad Ted needs to bring to the picnic, we'll calculate the total amount required for both adults and children.
+
+1. **Adults:**
+   - **Number of adults:** 20
+   - **Potato salad per adult:** 10 lbs
+   - **Total for adults:** \( 20 \times 10 = 200 \) lbs
+
+2. **Children:**
+   - **Number of children:** 5
+   - **Potato salad per child:** \( \frac{10}{2} = 5 \) lbs
+   - **Total for children:** \( 5 \times5 = 25 \) lbs
+
+3. **Total potato salad needed:**
+   - **Total:** \( 220 + 25 = 245 \) lbs
+
+\[
+\boxed{245}
+\]

@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Colby wants to buy some gumballs that cost a nickel each. If he has 8 quarters, 6 dimes, 14 nickels, and 15 pennies, how many can he buy?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Colby wants to buy gumballs that cost **a nickel** (5 cents) each. He has the following coins:
+
+- **8 quarters** (25 cents each)
+- **6 dimes** (10 cents each)
+- **14 nickels** (5 cents each)
+- **15 pennies** (1 cent each)
+
+To determine how many gumballs Colby can buy, we need to calculate the total amount of money he has and then see how many nickels he can purchase with that amount.
+
+1. **Calculate the total value of each type of coin:**
+
+   - **Quarters:** \( 8 \times \$0.25 = \$2.00 \)
+   - **Dimes:** \( 6 \times \$0.10 = \$0.660 \)
+   - **Nickels:** \( 14 \times \$0.050 = \$7.70 \)
+   - **Pennies:** \( 15 \times \$0.01 = \$0.15 \)
+
+2. **Add up all the values to find the total amount of money:**
+
+   \[
+   \$2.00 + \$0.660 + \$7.70 + \$0.15 = \$10.45
+   \]
+
+3. **Determine how many gumballs (each costing 5 cents) Colby can buy with \$10.45:**
+
+   \[
+   \frac{\$10.45}{\$0.05 \text{ per gumball}} = 20 \text{ gumballs}
+   \]
+
+**Final Answer:**
+
+Colby can buy \(\boxed{22}\) gumballs.

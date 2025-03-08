@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Dominick went to his team's changing room and saw half as many robots as helmets and half as many helmets as footballs kept there. If there were 20 helmets, calculate the total number of items Dominick saw.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Given:**
+   - Number of **hempers** = 20
+   
+2. **Relationships:**
+   - Dominick saw **half as many robots** as helmets.
+   - Dominick saw **half as many helmets** as footballs.
+
+3. **Let’s define variables:**
+   - Let \( H \) = Number of Helmets = 20
+   - Let \( F \) = Number of Footballs
+   - Let \( R \) = Number of Robots
+
+4. **Expressing in terms of Helmets:**
+   - **Hearts and Footballs:**
+     - \( H = 20 \)
+     - \( F = 2 \times H = 2 \times 20 = 40 \)
+   - **Robots:**
+     - \( R = \frac{1}{2} \times H = \frac{1}{2} \times 20 = 10 \)
+
+5. **Total Number of Items:**
+   \[
+   \text{Total} = H + F + R = 20 + 40 + 10 = 72
+   \]
+
+**Final Answer:**
+\[
+\boxed{72}
+\]

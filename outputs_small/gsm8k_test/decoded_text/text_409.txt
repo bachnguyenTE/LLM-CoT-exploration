@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Carolyn works for a delivery service company that hires on a contract basis. In May, they hired 40 employees, paying each employee $15 per hour for a 40-hour workweek. In June, 1/4 of the employees' contracts expired. Calculate the total amount of money the company paid to the employees in the two months.
+A:<｜Assistant｜><think>
+First, I need to determine the total number of employees in the company. Carolyn hired 40 employees in May.
+
+Next, I'll calculate the total number of employees who had their contracts expired in June. One-fourth of 40 employees is 10 employees.
+
+Each employee was paid $15 per hour for a 40-hour workweek, which amounts to $240 per week.
+
+To find the total payment for the employees who had their contracts expired, I'll multiply the number of expired employees by their weekly salary: 10 employees × $240 = $2400.
+
+Finally, I'll add the total payment from May to the total payment from June to get the overall total amount paid to the employees in the two months: $6000 + $2400 = $8400.
+</think>
+
+To determine the total amount of money Carolyn's delivery service company paid to its employees in May and June, let's break down the calculations step by step.
+
+### **Step 1: Calculate the Total Number of Employees**
+- **May:** Carolyn hired **40 employees**.
+- **June:** 
+  - **1/4 of the employees' contracts expired**.
+  - Number of expired employees = \( \frac{1}{4} \times 40 = 10 \) employees.
+
+### **Step 2: Calculate the Weekly Pay for Each Employee**
+- Each employee is paid **$15 per hour** for a **40-hour workweek**.
+- **Weekly Pay per Employee** = \( 15 \times 40 = \$600 \).
+
+### **Step 3: Calculate the Total Payment for the Expired Employees**
+- **Total Payment for 10 Employees** = \( 10 \times \$600 = \$6,000 \).
+
+### **Step 4: Calculate the Total Payment for All Employees in May**
+- **Total Employees in May** = 40.
+- **Total Payment for 40 Employees** = \( 40 \times \$600 = \$26,400 \).
+
+### **Step 5: Calculate the Total Payment for Both Months**
+- **Total Payment for May and June** = \( \$26,400 + \$6,000 = \$32,400 \).
+
+### **Final Answer**
+\[
+\boxed{32400}
+\]

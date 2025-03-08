@@ -1,0 +1,44 @@
+<｜User｜>
+Q: Melissa is summoned to jury duty. She spends 6 hours a day for 3 days listening to a court case. If Melissa is paid $15 per day but also has to pay $3 for parking each day, how much jury pay does she make per hour after expenses?
+A:<｜Assistant｜><think>
+First, calculate the total number of days Melissa spends on jury duty, which is 3 days.
+
+Next, determine the total payment she receives by multiplying the number of days by her daily rate: 3 days × $15/day = $15.
+
+Then, calculate the total parking fees by multiplying the number of days by the daily parking rate: 3 days × $3/day = $9.
+
+Subtract the total parking fees from the total payment to find the net payment: $15 - $9 = $6.
+
+Finally, divide the net payment by the total number of days to find the pay per hour: $6 ÷ 3 days = $2 per hour.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step to find out how much jury pay Melissa makes per hour after expenses.
+
+1. **Total Days on Jury Duty:**
+   - Melissa is summoned to jury duty for **3 days**.
+
+2. **Daily Payment:**
+   - Melissa is paid **\$15 per day**.
+
+3. **Total Payment:**
+   - **Total payment** = Number of days × Daily rate
+   - **Total payment** = 3 days × \$15/day = **\$15**
+
+4. **Parking Fees:**
+   - Melissa has to pay **\$3 for parking each day**.
+   - **Total parking fees** = Number of days × Daily parking rate
+   - **Total parking fees** = 3 days × \$3/day = **\$9**
+
+5. **Net Payment After Expenses:**
+   - **Net payment** = Total payment - Total parking fees
+   - **Net payment** = \$15 - \$9 = **\$6**
+
+6. **Pay per Hour:**
+   - **Pay per hour** = Net payment / Total number of days
+   - **Pay per hour** = \$6 / 3 days = **\$2 per hour**
+
+**Final Answer:**
+
+\boxed{\$2\ \text{per hour}}

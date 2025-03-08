@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Mrs. Tatiana owns a grocery store that sells different fruits and vegetables, which includes carrots. The price of carrots in the grocery store increases by 5% of the original price every year. What would be the price of carrots after three years if it was $120 initially? (Round to the nearest integer)
+A:<｜Assistant｜><think>
+First, I need to determine the price of carrots after each year, considering the 5% annual increase.
+
+Starting with the initial price of $120, I'll calculate the price after the first year by adding 5% of $120 to the original price.
+
+Next, I'll apply the same 5% increase to the new price obtained after the first year to find the price at the end of the second year.
+
+Finally, I'll apply the 5% increase again to the price from the second year to find the final price after three years.
+
+After calculating the price for each year, I'll round the final amount to the nearest integer to get the total price after three years.
+</think>
+
+**Solution:**
+
+We start with the initial price of carrots at **\$120**. The price increases by **5%** each year. To find the price after three years, we'll apply the 5% increase year by year.
+
+1. **After the first year:**
+   \[
+   \text{Price} = 120 + (120 \times 0.05) = 120 \times 1.05 = \$126.00
+   \]
+
+2. **After the second year:**
+   \[
+   \text{Price} = 126.00 + (126.00 \times 0.05) = 126.00 \times 1.05 = \$135.90
+   \]
+
+3. **After the third year:**
+   \[
+   \text{Price} = 135.90 + (135.90 \times 0.05) = 135.90 \times 1.05 = \$142.695
+   \]
+
+Rounding to the nearest integer, the final price after three years is:
+
+\[
+\boxed{142695}
+\]

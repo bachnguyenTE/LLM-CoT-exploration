@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Beatrice bought ten packets of crayons for her Art class. Six of the packets had eight pieces of colors each, and the other four packets had sixteen pieces of colors each. How many colors of crayons did Beatrice buy in all?
+A:<｜Assistant｜><think>
+First, I need to determine how many colors are in each type of packet. There are two types of packets: those with eight colors and those with sixteen colors.
+
+Beatrice bought six packets with eight colors each. To find the total number of colors in these packets, I multiply 6 by 8.
+
+Next, she bought four packets with sixteen colors each. I multiply 4 by 16 to find the total number of colors in these packets.
+
+Finally, I add the two totals together to find the overall number of colors Beatrice bought.
+</think>
+
+**Solution:**
+
+Beatrice bought two types of packets of crayons:
+
+1. **Six packets with eight colors each:**
+   \[
+   6 \text{ packets} \times 8 \text{ colors/packet} = 48 \text{ colors}
+   \]
+
+2. **Four packets with sixteen colors each:**
+   \[
+   4 \text{ packets} \times 16 \text{ colors/packet} = 64 \text{ colors}
+   \]
+
+**Total number of colors:**
+\[
+48 \text{ colors} + 64 \text{ colors} = \boxed{112} \text{ colors}
+\]
+
+**Final Answer:**
+\[
+\boxed{112}
+\]

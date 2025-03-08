@@ -1,0 +1,28 @@
+<｜User｜>
+Q: 3 trees each had 7 blue birds in them. 2 different trees each had 4 blue birds. 1 final tree had 3 blue birds. How many blue birds were in the trees in total?
+A:<｜Assistant｜><think>
+</think>
+
+To find the total number of blue birds in all the trees, we'll add the number of blue birds in each tree:
+
+1. **First set of trees:** Each of the 3 trees has 7 blue birds.
+   \[
+   3 \text{ trees} \times 7 \text{ birds/tree} = 21 \text{ birds}
+   \]
+
+2. **Second set of trees:** Each of the 2 trees has 4 blue birds.
+   \[
+   2 \text{ trees} \times 4 \text{ birds/tree} = 8 \text{ birds}
+   \]
+
+3. **Final tree:** This tree has 3 blue birds.
+   \[
+   1 \text{ tree} \times 3 \text{ birds/tree} = 3 \text{ birds}
+   \]
+
+4. **Total blue birds:**
+   \[
+   21 \text{ birds} + 8 \text{ birds} + 3 \text{ birds} = 32 \text{ birds}
+   \]
+
+**Final Answer:** \(\boxed{32}\)

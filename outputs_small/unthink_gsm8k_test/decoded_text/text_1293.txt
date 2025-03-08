@@ -1,0 +1,32 @@
+<｜User｜>
+Q: A company produces chocolate in bars. In one day, it can produce 5000 bars. The company sells all the produced bars for $2 per bar. How much money will the company receive for selling produced chocolate bars during two weeks?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much money the company will receive from selling its chocolate bars over two weeks, follow these steps:
+
+1. **Calculate the total number of chocolate bars produced in one week:**
+   
+   \[
+   \text{Total bars per week} = 5000 \text{ bars/day} \times 7 \text{ days} = 35,\!000 \text{ bars}
+   \]
+
+2. **Calculate the total number of chocolate bars produced in two weeks:**
+   
+   \[
+   \text{Total bars over two weeks} = 35,\!000 \text{ bars/week} \times 2 \text{ weeks} = 70,\!000 \text{ bars}
+   \]
+
+3. **Determine the total revenue from selling all the chocolate bars:**
+   
+   \[
+   \text{Total revenue} = 70,\!000 \text{ bars} \times \$2/\text{bar} = \$140,\!000
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$140,\!000}
+\]

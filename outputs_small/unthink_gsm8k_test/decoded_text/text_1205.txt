@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Bernie has 4 dogs. They each need a certain amount of exercise per day. The first needs to walk 1 mile. The second needs to walk 4 miles. The third needs to walk 3 miles. On average, they need to walk 3 miles per day. How many miles does the last dog need?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Number of Dogs:**
+   - Bernie has **4 dogs**.
+
+2. **Exercise Requirements:**
+   - **First dog:** Needs to walk **1 mile** per day.
+   - **Second dog:** Needs to walk **4 miles** per day.
+   - **Third dog:** Needs to walk **3 miles** per day.
+   - **Fourth dog:** Needs to walk **? miles** per day (this is what we need to find).
+
+3. **Total Daily Exercise for All Dogs:**
+   - The problem states that **on average**, the dogs need to walk **3 miles** per day.
+   - Since there are **4 dogs**, the total daily exercise required is:
+     \[
+     4 \text{ dogs} \times 3 \text{ miles/day} = 12 \text{ miles/day}
+     \]
+
+4. **Calculating the Exercise for the Fourth Dog:**
+   - **First dog:** 1 mile
+   - **Second dog:** 4 miles
+   - **Third dog:** 3 miles
+   - Let \( x \) be the miles the fourth dog needs to walk.
+   - Adding up the known and unknown values:
+     \[
+     1 + 4 + 3 + x = 12
+     \]
+   - Simplify:
+     \[
+     8 + x = 12
+     \]
+   - Solve for \( x \):
+     \[
+     x = 12 - 8 = 4
+     \]
+
+5. **Final Answer:**
+   - The last (fourth) dog needs to walk **4 miles** per day on average.
+
+\[
+\boxed{4}
+\]

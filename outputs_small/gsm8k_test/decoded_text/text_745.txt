@@ -1,0 +1,64 @@
+<｜User｜>
+Q: Mark decides to buy packs of old magic cards and open them to sell.  He buys 3 packs for $1800 each.  He gets 1 card that is worth $4000 and another card worth $1000.  There are 30 more cards worth an average of $50 each.  How much money profit did he make?
+A:<｜Assistant｜><think>
+Okay, so Mark is buying old magic cards and selling them. I need to figure out how much profit he made. Let me break down the problem step by step.
+
+First, Mark buys 3 packs of magic cards. Each pack costs $1800. So, to find the total cost he incurred, I should multiply the number of packs by the cost per pack. That would be 3 times $1800. Let me calculate that:
+
+3 * 1800 = ?
+
+Hmm, 3 times 1000 is 3000, and 3 times 800 is 2400. So adding those together: 3300 + 2400 = 5700. Wait, no, that doesn't seem right. Let me try another way. 1800 * 3: 1000*3=3000, 800*3=2400, so 3000 + 2400 = 5700. Yeah, that's correct. So Mark spent $5700 in total.
+
+Now, he opens the packs and gets some cards. He gets one card worth $4000 and another worth $1000. So, let me add those two amounts together to find out how much money he made from those two cards.
+
+$4000 + $1000 = $5000.
+
+He also gets 30 more cards, each worth an average of $50. So, to find the total value of these 30 cards, I can multiply 30 by $50.
+
+30 * 50 = ?
+
+Well, 30*50 is the same as 30*5*10, which is 150*10 = 1500. So, the total value of the 30 cards is $1500.
+
+Now, let me add up all the money he received from selling the cards. That would be the two high-value cards plus the 30 low-value cards.
+
+$5000 (from the two high-value cards) + $1500 (from the 30 low-value cards) = $6500.
+
+So, Mark made $6500 from selling the cards.
+
+But wait, he also bought the cards for $5700. So, to find his profit, I need to subtract the total cost from the total revenue.
+
+Profit = Total Revenue - Total Cost
+
+So, that would be $6500 - $5700.
+
+Let me calculate that: 6500 - 5700 = 800.
+
+So, Mark made an $800 profit.
+
+Wait, let me double-check my calculations to make sure I didn't make any mistakes.
+
+First, total cost: 3 packs * $1800 = $5700. That seems right.
+
+Total revenue: $4000 + $1000 + (30 * $50) = $5000 + $1500 = $6500. That also seems correct.
+
+Profit: $6500 - $5700 = $800. Yeah, that looks right.
+
+I don't think I missed anything here. Mark spent $5700 and got back $6500, so his profit is $800.
+
+**Final Answer**
+Mark made a profit of \boxed{800} dollars.
+</think>
+
+Mark buys 3 packs of magic cards, each costing $1800. The total cost is calculated as follows:
+
+\[ 3 \times 1800 = 5700 \]
+
+Mark sells two high-value cards worth $4000 and $1000, and 30 low-value cards each worth $50. The total revenue from these sales is calculated as follows:
+
+\[ 4000 + 1000 + (30 \times 50) = 5000 + 1500 = 6500 \]
+
+The profit is the total revenue minus the total cost:
+
+\[ 6500 - 5700 = 800 \]
+
+Thus, Mark made a profit of \boxed{800} dollars.

@@ -1,0 +1,62 @@
+<｜User｜>
+Q: Four children are playing together—Akbar, Alessandro, Helene, and Wilfred. Helene is twice as old as the average age of the group, and the total age of the children is 20. If Akbar is 3 years old and Alessandro is 4 years old, calculate the age of Wilfred.
+A:<｜Assistant｜><think>
+</think>
+
+To determine Wilfred's age, let's break down the information step by step.
+
+**Given:**
+- **Four children:** Akbar, Alessandro, Helene, and Wilfred.
+- **Helene's age:** Twice the average age of the group.
+- **Total age of the group:** 20 years.
+- **Ages of Akbar and Alessandro:** 3 years and 4 years, respectively.
+
+**Step 1: Calculate the total age of Akbar and Alessandro.**
+
+\[
+\text{Total age of Akbar and Alessandro} = 3\,0 + 4,0 = 7,0 \text{ years}
+\]
+
+**Step 2: Determine the combined age of Helene and Wilfred.**
+
+\[
+\text{Total age of all four} = 20,0 \text{ years}
+\]
+\[
+\text{Combined age of Helene and Wilfred} = 20,0 - 7,0 = 15,0 \text{ years}
+\]
+
+**Step 3: Let Helene's age be \( H \) and Wilfred's age be \( W \).**
+
+\[
+H + W = 15,0
+\]
+
+**Step 4: Helene's age is twice the average age of the group.**
+
+The average age of the group is:
+
+\[
+\text{Average age} = \frac{\text{Total age}}{4} = \frac{20,0}{4} = 5,0 \text{ years}
+\]
+
+Given that Helene's age is twice this average:
+
+\[
+H = 2 \times 5,0 = 10,0 \text{ years}
+\]
+
+**Step 5: Solve for Wilfred's age.**
+
+\[
+10,0 + W = 15,0
+\]
+\[
+W = 15,0 - 10,0 = 5,0 \text{ years}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{5}
+\]

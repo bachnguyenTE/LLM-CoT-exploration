@@ -1,0 +1,50 @@
+<｜User｜>
+Q: Together Lily, David, and Bodhi collected 43 insects. Lily found 7 more than David. David found half of what Bodhi found. How many insects did Lily find?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Total insects collected by Lily, David, and Bodhi: 43
+- Lily found 7 more insects than David.
+- David found half of what Bodhi found.
+
+**Let’s define variables:**
+- Let \( D \) represent the number of insects David found.
+- Then, Lily found \( D + 7 \) insects.
+- Since David found half of what Bodhi found, Bodhi found \( 2D \) insects.
+
+**Set up the equation:**
+\[
+D \ (\text{David}) + (D + 7) \ (\text{Lily}) + 2D \ (\text{Bodhi}) = 43
+\]
+
+**Simplify the equation:**
+\[
+D + D + 7 + 2D = 43
+\]
+\[
+4D + 7 = 43
+\]
+
+**Solve for \( D \):**
+\[
+4D = 43 - 7
+\]
+\[
+4D = 36
+\]
+\[
+D = \frac{36}{4} = 9
+\]
+
+**Find the number of insects Lily found:**
+\[
+\text{Lily} = D + 7 = 9 + 7 = 16
+\]
+
+**Final Answer:**
+\[
+\boxed{16}
+\]

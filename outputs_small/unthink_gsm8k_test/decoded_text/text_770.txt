@@ -1,0 +1,21 @@
+<｜User｜>
+Q: A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many more vanilla scents were sold compared to fruity scents, follow these steps:
+
+1. **Vanilla Sents Sold:**
+   - Number of vanilla scents available: 4
+   - Sells: 5 of each vanilla scent
+   - **Total vanilla sold:** \(4 \times 5 = 20\)
+
+2. **Fruity Sents Sold:**
+   - Number of fruity scents available: 8
+   - Sells: 2 of each fruity scent
+   - **Total fruity sold:** \(8 \times 2 = 16\)
+
+3. **Difference in Sales:**
+   - **Vanilla sold - Fruitful sold:** \(20 - 16 = 14\)
+
+**Final Answer:** \(\boxed{14}\)

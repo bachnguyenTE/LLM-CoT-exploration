@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Gary bought a boat for $9000.  Over the first year it depreciated 30%.  The second year it depreciated another 30%.  The third year it depreciated 20%.  How much is the boat worth after the three years?
+A:<｜Assistant｜><think>
+Okay, so Gary bought a boat for $9,000. Hmm, and it depreciates over three years. Let me see. First year it depreciates 30%, second year another 30%, and third year 20%. I need to figure out how much the boat is worth after those three years. 
+
+Alright, so depreciation means the value decreases each year. So, each year, the boat loses a certain percentage of its value. I think I need to calculate the value after each year step by step. Let me break it down.
+
+First, the initial value is $9,000. That's straightforward. Now, the first year it depreciates 30%. So, I need to find 30% of $9,000 and subtract that from the original price to get the value after the first year.
+
+Let me calculate 30% of 9000. To find a percentage, I can multiply the percentage (in decimal form) by the original amount. So, 30% is 0.30 in decimal. So, 0.30 * 9000. Let me compute that.
+
+0.30 * 9000. Hmm, 0.3 * 9000 is 2700, right? Because 0.3 is 30%, so 30% of 9000 is 2700. So, the first year depreciation is $2700. Therefore, the value after the first year is 9000 - 2700.
+
+Let me subtract that: 9000 - 2700. 9000 minus 2000 is 7000, and then minus another 700 is 7000. So, after the first year, the boat is worth $7000.
+
+Okay, moving on to the second year. It depreciates another 30%. So, now I need to find 30% of $7000 and subtract that from $7000.
+
+Again, 30% is 0.30 in decimal. So, 0.30 * 7000. Let me compute that. 0.3 * 7000 is 2100. So, the depreciation is $2100. Therefore, the value after the second year is 7000 - 2100.
+
+Subtracting that: 7000 - 2000 is 5000, and then minus another 100 is 4900. So, after the second year, the boat is worth $4900.
+
+Now, onto the third year. It depreciates 20%. So, I need to find 20% of $4900 and subtract that from $4900.
+
+20% is 0.20 in decimal. So, 0.20 * 4900. Let me calculate that. 0.2 * 4900 is 980. So, the depreciation is $980. Therefore, the value after the third year is 4900 - 980.
+
+Subtracting that: 4900 - 900 is 4000, and then minus another 80 is 3920. So, after the third year, the boat is worth $3920.
+
+Wait, let me double-check my calculations to make sure I didn't make any mistakes.
+
+First year: 30% of 9000 is 2700, so 9000 - 2700 is 6300? Wait, hold on, I thought it was 7000. Hmm, did I do that right?
+
+Wait, 30% of 9000. Let me recalculate that. 10% of 9000 is 900, so 30% is 2700. So, 9000 - 2700 is indeed 6300. Wait, so I think I made a mistake earlier. So, after the first year, it's 6300, not 7000. That's a big difference.
+
+Wait, so let me correct that. So, first year: 9000 - 2700 = 6300. Then, second year: 30% of 6300. Let me compute that. 10% of 6300 is 630, so 30% is 189

@@ -1,0 +1,32 @@
+<｜User｜>
+Q: John plans to save money from working.  He gets paid $2 per hour and works 5 hours a day for 4 days a week.  If he wants to save $80 how many weeks will it take him?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate John's daily earnings:**
+   
+   \[
+   \text{Daily Earnings} = \text{Hourly Rate} \times \text{Hours per Day} = \$2 \times 5 = \$10
+   \]
+
+2. **Determine his weekly earnings:**
+   
+   \[
+   \text{Weekly Earnings} = \text{Daily Earnings} \times \text{Days per Week} = \$10 \times 4 = \$40
+   \]
+
+3. **Find out how many weeks are needed to save \$80:**
+   
+   \[
+   \text{Number of Weeks} = \frac{\text{Total Savings Goal}}{\text{Weekly Earnings}} = \frac{\$80}{\$40} = 2.2 \text{ weeks}
+   \]
+
+   Since John can't work a fraction of a week, he will need **3 weeks** to save at least \$80.
+
+**Final Answer:**
+
+\[
+\boxed{3}
+\]

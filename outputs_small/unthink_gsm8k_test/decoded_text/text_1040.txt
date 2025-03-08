@@ -1,0 +1,24 @@
+<｜User｜>
+Q: On Monday the post office delivered 425 letters. On Tuesday they delivered 17 more than one-fifth as many as Monday. On Wednesday they delivered 5 more than twice as many as they delivered on Tuesday. How many letters did the post office deliver Monday - Wednesday?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many letters the post office delivered from Monday to Wednesday.
+
+**Monday:**
+- The post office delivered **425 letters**.
+
+**Tuesday:**
+- They delivered **17 more than one-fifth as many as Monday**.
+- **One-fifth of Monday's deliveries:** \( \frac{1}{5} \times 425 = 85 \) letters.
+- **Total Tuesday's deliveries:** \( 85 + 17 = 102 \) letters.
+
+**Wednesday:**
+- They delivered **5 more than twice as many as Tuesday**.
+- **Twice Tuesday's deliveries:** \( 2 \times 102 = 204 \) letters.
+- **Total Wednesday's deliveries:** \( 224 + 5 = 229 \) letters.
+
+**Total Letters Delivered from Monday to Wednesday:**
+- **Monday + Tuesday + Wednesday:** \( 425 + 102 + 229 = 756 \) letters.
+
+\boxed{756}

@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Sarah went to buy books from the store and spent $300 on the books. If each book was $15 and she gave an equal number of books to her 4 kids, how many books did each child get?
+A:<｜Assistant｜><think>
+First, I need to determine how many books Sarah bought in total. She spent $300 on books, and each book costs $15. To find the total number of books, I'll divide the total amount spent by the cost per book.
+
+Next, since Sarah wants to distribute the books equally among her 4 kids, I'll divide the total number of books by 4 to find out how many books each child gets.
+</think>
+
+**Solution:**
+
+Sarah spent a total of \$300 on books, with each book costing \$15. To find out how many books she bought, we divide the total amount by the cost per book:
+
+\[
+\text{Total number of books} = \frac{\$300}{\$15} = 60 \text{ books}
+\]
+
+Sarah wants to distribute these books equally among her 4 kids. To find out how many books each child gets, we divide the total number of books by the number of kids:
+
+\[
+\text{Books per child} = \frac{60 \text{ books}}{4 \text{ kids}} = 15 \text{ books per child}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{15}
+\]

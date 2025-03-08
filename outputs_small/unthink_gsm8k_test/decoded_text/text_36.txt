@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Terry eats 2 yogurts a day.  They are currently on sale at 4 yogurts for $5.00.  How much does he spend on yogurt over 30 days?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine Terry's daily yogurt consumption:**
+   
+   Terry eats **2** yogurts per day.
+
+2. **Calculate the total number of yogurts Terry eats in 30 days:**
+   
+   \[
+   \text{Total Yogurts} = 2 \, \text{yogurts/day} \times 30 \, \text{days} = 60 \, \text{yogurts}
+   \]
+
+3. **Understand the sale price:**
+   
+   - **Sale:** 4 yogurts for **\$5.00**.
+   - **Current Price:** Not specified, but we can assume it's the regular price.
+
+4. **Determine how many sets of 4 yogurts Terry needs for 60 yogurt:**
+   
+   \[
+   \text{Number of Sets} = \frac{60 \, \text{yogurts}}{4 \, \text{yogurts/set}} = 15 \, \text{sets}
+   \]
+
+5. **Calculate the total cost for 15 sets:**
+   
+   \[
+   \text{Total Cost} = 15 \, \text{sets} \times \$5.00/\text{set} = \$75.00
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$75.00}
+\]

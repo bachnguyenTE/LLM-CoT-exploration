@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Alice likes to count the puffs of clouds in the sky while she eats her lunch outside at school. On Monday she counts just 3 puffs of clouds. Each day after that through Friday, though, she sees double the number of clouds in the sky as the day before. At the end of the week, how many clouds will she have counted in the sky at lunch across all five days?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Alice counts the number of cloud puffs each day, doubling the count from the previous day. Let's break down her counts for each day of the week:
+
+1. **Monday:**  
+   Alice counts **3 puffs**.
+
+2. **Tuesday:**  
+   She sees double the number from Monday:  
+   \( 3 \times 2 = 6 \) puffs.
+
+3. **Wednesday:**  
+   Double the Tuesday count:  
+   \( 6 \times 2 = 12 \) puffs.
+
+4. **Thursday:**  
+   Double the Wednesday count:  
+   \( 12 \times 2 = 24 \) puffs.
+
+5. **Friday:**  
+   Double the Thursday count:  
+   \( 24 \times 2 = 48 \) puffs.
+
+To find the total number of clouds she counted throughout the week, add up the counts for each day:
+
+\[
+3 + 6 + 12 + 24 + 48 = 93
+\]
+
+**Final Answer:**  
+\boxed{93}

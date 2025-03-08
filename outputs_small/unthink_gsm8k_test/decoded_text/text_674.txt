@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Mrs. Jameson's bamboo in the backyard grows up to 30 inches a day. Today, its height is 20 feet. In how many days will its height be 600 inches?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We are given:
+- **Growth rate of Mrs. Jameson's bamboo:** 30 inches per day.
+- **Current height of the bamboo:** 20 feet.
+- **Desired height:** 600 inches.
+
+**Step 1:** Convert the current height from feet to inches to have consistent units.
+
+\[
+20 \text{ feet} \times 12 \text{ inches/foot} = 240 \text{ inches}
+\]
+
+**Step 2:** Determine the additional height needed to reach 600 inches.
+
+\[
+600 \text{ inches} - 240 \text{ inches} = 360 \text{ inches}
+\]
+
+**Step 3:** Calculate the number of days required for the bamboo to grow the additional 360 inches at a rate of 30 inches per day.
+
+\[
+\frac{360 \text{ inches}}{30 \text{ inches/day}} = 12 \text{ days}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{12}
+\]

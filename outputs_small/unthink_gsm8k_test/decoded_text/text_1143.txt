@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Tim grows 5 trees.  Each year he collects 6 lemons from each tree.  How many lemons does he get in a decade?
+A:<｜Assistant｜><think>
+</think>
+
+Sure, let's break down the problem step by step to find out how many lemons Tim gets in a decade.
+
+**Given:**
+- Tim grows **5 trees**.
+- Each year, he collects **6 lemons** from each tree.
+
+**Question:**
+How many lemons does Tim get in a **decade** (10 years)?
+
+**Solution:**
+
+1. **Calculate the number of lemons collected from one tree in a year:**
+   \[
+   6 \text{ lemons/tree/year}
+   \]
+
+2. **Calculate the total number of lemons collected from all trees in one year:**
+   \[
+   5 \text{ trees} \times 6 \text{ lemons/tree/year} = 30 \text{ lemons/year}
+   \]
+
+3. **Calculate the total number of lemons collected over 10 years (a decade):**
+   \[
+   30 \text{ lemons/year} \times 10 \text{ years} = 300 \text{ lemons}
+   \]
+
+**Final Answer:**
+\[
+\boxed{300}
+\]

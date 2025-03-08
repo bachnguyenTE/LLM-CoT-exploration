@@ -1,0 +1,43 @@
+<｜User｜>
+Q: Mary is two years younger than Joan, who is five years older than Jessa. If Jessa is 20 years old, what is the sum of the ages of the three girls?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Given:**
+   - Jessa is 20 years old.
+   - Joan is 5 years older than Jessa.
+   - Mary is 2 years younger than Joan.
+
+2. **Find:**
+   - The sum of the ages of Mary, Joan, and Jessa.
+
+3. **Step-by-Step Calculation:**
+
+   - **Jessen's Age:**
+     \[
+     \text{Jessen} = 20 \text{ years}
+     \]
+
+   - **Joan's Age:**
+     \[
+     \text{Joan} = \text{Jessen} + 5 = 20 + 5 = 25 \text{ years}
+     \]
+
+   - **Mary's Age:**
+     \[
+     \text{Mary} = \text{Joan} - 2 = 25 - 2 = 23 \text{ years}
+     \]
+
+4. **Sum of the Ages:**
+   \[
+   \text{Total} = \text{Mary} + \text{Joan} + \text{Jessen} = 23 + 25 + 20 = 68 \text{ years}
+   \]
+
+**Final Answer:**
+\[
+\boxed{68}
+\]

@@ -1,0 +1,30 @@
+<｜User｜>
+Q: A company pays each of its employees $600 in a month. The company has a policy of increasing the salaries of each of its employees by 10% of the initial salary every year for those who've stayed in the company for five years. If Sylvie just clocked 5 years in the company last December, what's her annual salary after three more years of service?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down Sylvie's salary increase step by step.
+
+1. **Initial Salary:**
+   - Sylvie is paid **\$600** per month.
+   - **Annual Salary = 12 months × \$600 = \$7,200**.
+
+2. **First Increase:**
+   - Sylvie has been with the company for **5 years**.
+   - **First increase:** 10% of the initial salary.
+   - **Increase = 10% of \$7,200 = 0.10 × \$7,200 = \$720**.
+   - **New Annual Salary after 1st increase = \$7,200 + \$720 = \$7,920**.
+
+3. **Second Increase:**
+   - Sylvie has been with the company for **5 + 3 = 8 years**.
+   - **Second increase:** 10% of the salary after the first increase.
+   - **Increase = 10% of \$7,920 = 0.10 × \$7,920 = \$871.20**.
+   - **New Annual Salary after 2nd increase = \$7,920 + \$871.20 = \$8,791.20**.
+
+4. **Final Annual Salary:**
+   - After 3 more years of service, Sylvie's annual salary is **\$8,791.20**.
+
+**Final Answer:**
+\boxed{\$8,\!791.20}

@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Solo has to read 4 pages from his Science textbook, 20 pages from his Social Studies textbook, 7 pages from his History textbook and 8 pages from his Geography textbook. Solo read 15 pages on Monday. If he has 4  more days to complete all his reading, how many pages does he need to read, on average, in one day?
+A:<｜Assistant｜><think>
+First, calculate the total number of pages Solo needs to read by adding the pages from each subject: 4 + 20 + 7 + 8 = 39 pages.
+
+Next, determine how many pages he has already read on Monday: 15 pages.
+
+Subtract the pages already read from the total pages to find out how many pages are left: 39 - 15 = 24 pages.
+
+Solo has 4 more days to complete his reading. To find the average number of pages he needs to read each day, divide the remaining pages by the number of days: 24 ÷ 4 = 6 pages per day.
+
+Therefore, Solo needs to read an average of 6 pages each day for the remaining 4 days.
+</think>
+
+**Solution:**
+
+To determine how many pages Solo needs to read on average each day for his remaining 4 days, follow these steps:
+
+1. **Calculate the Total Number of Pages:**
+   
+   \[
+   \text{Total Pages} = 4 \,20,7,8 = 4 + 20 + 7 + 8 = 39 \text{ pages}
+   \]
+
+2. **Subtract the Pages Already Read:**
+   
+   \[
+   \text{Pages Remaining} = 39 - 15 = 24 \text{ pages}
+   \]
+
+3. **Determine the Average Number of Pages per Day:**
+   
+   \[
+   \text{Average Pages per Day} = \frac{24}{4} = 6 \text{ pages}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{6}
+\]

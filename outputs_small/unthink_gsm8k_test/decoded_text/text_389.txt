@@ -1,0 +1,29 @@
+<｜User｜>
+Q: David and Dasha went to the carnival, where there are 9 rides.  Each ride costs 2 ride tickets at $2 per ticket.  You can also buy a ride bracelet for $30 which gives you 9 rides.  If David buys a ride bracelet and Dasha buys tickets, and they ride all 9 rides, how much money does David save?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much money David saves by choosing to buy a ride bracelet instead of purchasing tickets for all 9 rides, let's break down the costs step by step.
+
+**David's Options:**
+1. **Buy a ride bracelet:**
+   - **Cost:** \$30
+   - **Rides Included:** 9 rides
+
+2. **Buy tickets:**
+   - **Cost per ride ticket:** \$2
+   - **Total rides needed:** 9
+   - **Total cost for tickets:** \( 9 \text{ rides} \times \$2/\text{ride} = \$18 \)
+
+**Dasha's Options:**
+- **Cost:** \$18 (for 9 ride tickets)
+
+**Comparison:**
+- **David's Total Cost:** \$30 (bracelet)
+- **Dasha's Total Cost:** \$18 (tickets)
+
+**Savings:**
+- **Savings:** \( \$30 - \$18 = \$12 \)
+
+**Final Answer:**
+\boxed{12}

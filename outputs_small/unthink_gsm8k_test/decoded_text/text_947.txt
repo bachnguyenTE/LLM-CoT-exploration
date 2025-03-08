@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Jasmine's teacher gives stickers for reward. She was given 15 stickers for participating in class, but she lost 7 stickers during playtime. However, her teacher gave her another 5 stickers for helping her classmates. How many stickers does she have at the end?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Stickers:**
+   - Jasmine starts with **15 stickers**.
+
+2. **Stickers Lost:**
+   - She lost **7 stickers** during playtime.
+   - **Remaining stickers:** \( 15 - 7 = 8 \) stickers.
+
+3. **Stickers Received:**
+   - Her teacher gave her **5 more stickers** for helping her classmates.
+   - **Total stickers:** \( 8 + 5 = 13 \) stickers.
+
+**Final Answer:**
+\[
+\boxed{13}
+\]

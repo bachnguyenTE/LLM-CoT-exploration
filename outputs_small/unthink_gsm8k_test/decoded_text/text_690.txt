@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Rong has been saving 20 coins in his piggy bank every month. Neil has been saving 2/5 times more coins in his piggy bank per month than Rong. How many coins are they having ten years after they started their savings?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Rong's Savings:**
+   - Rong saves **20 coins** every month.
+   - Over **10 years**, that's **10 × 12 = 120 months**.
+   - Total coins saved by Rong = **20 coins/month × 120 months = 2400 coins**.
+
+2. **Neil's Savings:**
+   - Neil saves **2/5 times more** than Rong per month.
+   - **2/5 times more** means **2/5 of 20 coins**.
+   - **2/5 × 20 = 8 coins**.
+   - So, Neil saves **20 + 8 = 30 coins** per month.
+   - Total coins saved by Neil = **30 coins/month × 120 months = 3960 coins**.
+
+3. **Total Coins Saved Together:**
+   - **Rong's coins + Neil's coins = 2400 + 3960 = 6360 coins**.
+
+**Final Answer:**
+\boxed{6360}

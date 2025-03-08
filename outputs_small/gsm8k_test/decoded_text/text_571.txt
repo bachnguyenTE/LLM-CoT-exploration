@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Leah just got a new kitten. Spaying her cost $200, her 3 vaccines costs $20 each, and the kitten broke 4 vases that cost $12 each. How much has the kitten cost so far?
+A:<｜Assistant｜><think>
+First, I need to calculate the total cost of the spaying the kitten, which is $200.
+
+Next, I'll determine the cost of the vaccines. Since each vaccine costs $20 and there are 3 of them, the total cost for the vaccines is 3 multiplied by $20, which equals $60.
+
+Then, I'll calculate the cost of the broken vases. Each vase costs $12, and the kitten broke 4 of them, so the total cost for the vases is 4 multiplied by $12, resulting in $48.
+
+Finally, I'll add up all these costs to find the total cost so far. Adding $220, $60, and $48 gives a total of $268.
+</think>
+
+**Solution:**
+
+To determine the total cost of the kitten's recent expenses, we'll break down each cost category and then sum them up.
+
+1. **Spaying the Kitten:**
+   \[
+   \$200
+   \]
+
+2. **Vaccines:**
+   \[
+   3 \text{ vaccines} \times \$20 \text{ per vaccine} = \$60
+   \]
+
+3. **Broken Vases:**
+   \[
+   4 \text{ vases} \times \$12 \text{ per vase} = \$48
+   \]
+
+**Total Cost:**
+\[
+\$200 + \$60 + \$48 = \$268
+\]
+
+\[
+\boxed{\$268}
+\]

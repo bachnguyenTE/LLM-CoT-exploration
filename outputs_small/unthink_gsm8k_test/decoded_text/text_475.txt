@@ -1,0 +1,26 @@
+<｜User｜>
+Q: It takes 240 minutes of walking to break in a new pair of shoes. Jason wants to try out for the track team in three weeks. If he can walk 4 days a week to break in the new shoes, how long does he have to spend walking each day?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how long Jason needs to walk each day to break in the new shoes, follow these steps:
+
+1. **Total Walking Time:**  
+   It takes **240 minutes** of walking to break in the shoes.
+
+2. **Number of Days in Three Weeks:**  
+   There are **3 weeks × 7 days/week = 21 days**.
+
+3. **Walking Days Per Week:**  
+   Jason can walk **4 days** a week.
+
+4. **Total Walking Days in Three Weeks:**  
+   \( 4 \text{ days/week} × 3 \text{ weeks} = 12 \text{ days} \).
+
+5. **Walking Time Per Day:**  
+   \( \frac{240 \text{ minutes}}{12 \text{ days}} = 20 \text{ minutes/day} \).
+
+**Final Answer:**  
+\boxed{20}

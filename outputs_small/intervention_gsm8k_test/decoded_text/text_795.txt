@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Mike needed a new pair of jeans.  When he got to the mall he saw that his favorite jeans were advertised 25% off.  The original price of the jeans was $40.  How much money will Mike have left over if he pays with a $50.00 bill?
+A:<｜Assistant｜><think>
+First, I need to determine the discounted price of the jeans. The original price is $40, and the discount is 25%. To find the discount amount, I'll calculate 25% of $40.
+
+25% of 40 is 0.25 multiplied by 40, which equals $10.00.
+
+Next, I'll subtract the discount from the original price to find the discounted price.
+
+$40 minus $1.00 is $38.00.
+
+Mike pays with a $50 bill, so I'll subtract the discounted price from the amount he paid to find out how much he'll have left.
+
+$50 minus $38.00 equals $12.00.
+
+Therefore, Mike will have $12.00 left after purchasing the jeans.
+</think>
+
+**Solution:**
+
+1. **Calculate the discount amount:**
+   
+   The original price of the jeans is \$40, and the discount is 25%.
+
+   \[
+   \text{Discount} = 25\% \times \$40 = 0.25 \times 40 = \$10.00
+   \]
+
+2. **Determine the discounted price:**
+   
+   Subtract the discount from the original price.
+
+   \[
+   \text{Discounted Price} = \$40 - \$10 = \$38.00
+   \]
+
+3. **Calculate the change Mike receives:**
+   
+   Mike pays with a \$50 bill.
+
+   \[
+   \text{Change} = \$55 - \$38 = \$17.00
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$17.0}
+\]

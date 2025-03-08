@@ -1,0 +1,49 @@
+<｜User｜>
+Q: A bus has a capacity of 200 people. When it departed Chengli city, it had 20 people. On the first stop, 40 people entered the bus. On the second station, 3/4 of the total number of people who entered the bus at the first station entered the bus. If the number of passengers on the bus doubled at the third station, calculate the total number of people required to fill the remaining spaces on the bus.
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the total number of people required to fill the remaining spaces on the bus.
+
+1. **Initial Information:**
+   - **Bus Capacity:** 200 people
+   - **People on Board when Departs:** 20
+   - **First Stop:**
+     - **People Entering:** 40
+   - **Second Station:**
+     - **People Entering:** \( \frac{3}{4} \) of those who entered at the first station
+   - **Third Station:**
+     - **Passengers Doubled:** The number of passengers on the bus after the second stop
+
+2. **Calculations:**
+
+   - **First Stop:**
+     \[
+     \text{Total passengers after first stop} = 20 + 40 = 60
+     \]
+   
+   - **Second Station:**
+     \[
+     \text{People entering} = \frac{3}{4} \times 40 = 30
+     \]
+     \[
+     \text{Total passengers after second stop} = 60 + 30 = 90
+     \]
+   
+   - **Third Station:**
+     \[
+     \text{Passengers doubled} = 2 \times 90 = 180
+     \]
+     \[
+     \text{Total passengers after third stop} = 180
+     \]
+   
+   - **Remaining Spaces:**
+     \[
+     \text{Remaining spaces} = 200 - 180 = 20
+     \]
+   
+3. **Final Answer:**
+   \[
+   \boxed{20}
+   \]

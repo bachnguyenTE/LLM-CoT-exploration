@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Julia was preparing for a dinner party at her house, where she intended to serve stew.  She noticed that she was out of plastic spoons, so she bought a new package of spoons.  Later, her husband also bought a package of 5 new spoons and gave them to Julia.  While Julia was making the stew, she used three of the spoons to sample her stew.  Later, when she went to set the table, she had a total of 12 spoons.  How many spoons were in the package that Julia bought?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many spoons were in the package Julia initially bought.
+
+1. **Initial Purchase by Julia:**
+   - Let \( x \) be the number of spoons Julia bought.
+   - She used 3 spoons to sample her stew.
+
+2. **Purchase by Her Husband:**
+   - Her husband bought a package containing **5 new spoons** and gave them to Julia.
+   - Therefore, Julia received an additional 5 spoons.
+
+3. **Total Spoons When She Set the Table:**
+   - After using 3 spoons for sampling, Julia had a total of **12 spoons** left.
+
+4. **Calculating the Total Spoons Before Using Any:**
+   - Before using any spoons, Julia had \( 12 + 3 = 15 \) spoons.
+
+5. **Determining the Initial Purchase:**
+   - Julia initially bought \( x \) spoons.
+   - Her husband gave her 5 more spoons.
+   - Therefore, the total number of spoons Julia had before setting the table is \( x + 5 \).
+   - According to the previous step, \( x + 5 = 15 \).
+
+6. **Solving for \( x \):**
+   \[
+   x + 5 = 15 \\
+   x = 15 - 5 \\
+   x = 10
+   \]
+
+**Final Answer:**  
+\boxed{10}

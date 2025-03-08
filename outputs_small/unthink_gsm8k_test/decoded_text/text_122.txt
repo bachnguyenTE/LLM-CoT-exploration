@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Sadie slept 8 hours on Monday. For the next two days, she slept 2 hours less, each, because she had to complete some assignments. If the rest of the week she slept 1 hour more than those two days, how many hours did she sleep in total throughout the week?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many hours Sadie slept in total throughout the week.
+
+1. **Monday:**
+   - **Sleep hours:** 8 hours.
+
+2. **Tuesday and Wednesday:**
+   - Each day, Sadie slept **2 hours less** than the previous day.
+   - **Tuesday:** \(8 - 2 = 6\) hours.
+   - **Wednesday:** \(6 - 2 = 4\) hours.
+
+3. **Thursday to Sunday:**
+   - For the rest of the week (which is **5 days**), Sadie slept **1 hour more** than the previous two days.
+   - **Each day:** \(4 + 1 = 5\) hours.
+
+4. **Total Sleep Hours:**
+   - **Monday:** 8 hours.
+   - **Tuesday and Wednesday:** \(6 + 4 = 10\) hours.
+   - **Thursday to Sunday:** \(5 \times 5 = 25\) hours.
+   - **Total:** \(8 + 10 + 25 = 43\) hours.
+
+**Final Answer:** \(\boxed{43}\)

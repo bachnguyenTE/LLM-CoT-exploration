@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Jill and her friends watch 4 movies every Saturday and half the number of movies on Sunday than on Saturday. If they watch movies every weekend, how many movies can they watch in 4 weeks?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Jill and her friends watching movies. Let me try to figure it out step by step. 
+
+First, the problem says they watch 4 movies every Saturday. Hmm, so that's straightforward. Then it mentions they watch half the number of movies on Sunday compared to Saturday. So, if they watch 4 movies on Saturday, how many on Sunday? Let me calculate that. Half of 4 is 2, right? So, on Sunday, they watch 2 movies.
+
+Now, the question is asking how many movies they can watch in 4 weeks. So, I need to figure out the total number of movies watched over those 4 weekends. Each weekend consists of a Saturday and a Sunday, so that's 2 days. 
+
+Let me break it down. Each Saturday, they watch 4 movies. Each Sunday, they watch 2 movies. So, each weekend, the total number of movies they watch is 4 plus 2. Let me add those up: 4 + 2 equals 6. So, every weekend, they watch 6 movies.
+
+Now, since there are 4 weekends in total, I need to multiply the number of movies per weekend by 4. That would be 6 multiplied by 4. Let me do that multiplication: 6 times 4 is 24. So, altogether, over 4 weeks, they can watch 24 movies.
+
+Wait, that seems right. Let me double-check. Each Saturday: 4 movies. Each Sunday: 2 movies. So, 4 + 2 = 6 per weekend. 6 times 4 weeks is 24. Yeah, that makes sense.
+
+I don't think I missed anything here. The problem doesn't mention anything else, like holidays or anything else that might affect the number of movies they watch. So, I think 24 is the correct answer.
+
+**Final Answer**
+The total number of movies they can watch in 4 weeks is \boxed{24}.
+</think>
+
+Jill and her friends watch 4 movies every Saturday. On Sunday, they watch half the number of movies they watch on Saturday, which is 2 movies. 
+
+Each weekend consists of 1 Saturday and 1 Sunday, so the total number of movies watched each weekend is:
+\[ 4 \text{ (Saturday)} + 2 \text{ (Sunday)} = 6 \text{ movies} \]
+
+Over 4 weeks, the total number of movies watched is:
+\[ 6 \text{ movies/weekend} \times 4 \text{ weekends} = 24 \text{ movies} \]
+
+Thus, the total number of movies they can watch in 4 weeks is \boxed{24}.

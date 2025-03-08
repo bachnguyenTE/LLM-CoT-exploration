@@ -1,0 +1,53 @@
+<｜User｜>
+Q: John buys 10 bottles of scotch for a total cost of $600.  He also buys twice as many bottles of cognac that cost 50% more per bottle.  How much does he spend on everything?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the cost per bottle of scotch:**
+   - John buys 10 bottles of scotch for a total of \$600.
+   - **Cost per bottle of scotch:** 
+     \[
+     \frac{\$600}{10 \text{ bottles}} = \$60 \text{ per bottle}
+     \]
+
+2. **Determine the number of bottles of cognac:**
+   - John buys twice as many bottles of cognac as scotch.
+   - **Number of bottles of cognac:**
+     \[
+     2 \times 10 \text{ bottles} = 20 \text{ bottles}
+     \]
+
+3. **Determine the cost per bottle of cognac:**
+   - Cognac costs 50% more per bottle than scotch.
+   - **Cost per bottle of scotch:** \$60
+   - **Increase in cost for cognac:**
+     \[
+     50\% \text{ of } \$60 = 0.5 \times 60 = \$33
+     \]
+   - **Cost per bottle of cognac:**
+     \[
+     \$60 + \$33 = \$93 \text{ per bottle}
+     \]
+
+4. **Calculate the total cost for cognac:**
+   - **Total cost for 20 bottles of cognac:**
+     \[
+     20 \text{ bottles} \times \$93 \text{ per bottle} = \$1,860
+     \]
+
+5. **Calculate the total amount spent on everything:**
+   - **Total cost for scotch:** \$600
+   - **Total cost for cognac:** \$1,860
+   - **Total expenditure:**
+     \[
+     \$600 + \$1,860 = \$2,460
+     \]
+
+**Final Answer:**
+\[
+\boxed{\$2,\!460}
+\]

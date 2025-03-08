@@ -1,0 +1,58 @@
+<｜User｜>
+Q: It costs $194 per meter to repave a street. Monica's street is 150 meters long. How much more does it cost to repave Lewis' street, which is 490 meters long?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about repaving streets, and I need to figure out how much more it costs to repave Lewis' street compared to Monica's. Let me read it again to make sure I understand.
+
+It says that repaving a street costs $194 per meter. Monica's street is 150 meters long, and Lewis' street is 490 meters long. The question is asking how much more it costs to repave Lewis' street. Hmm, okay.
+
+First, I think I need to calculate the cost for both streets and then find the difference. That makes sense because if I know how much each costs, subtracting the smaller one from the larger one will give me the extra cost.
+
+So, let's start with Monica's street. It's 150 meters long, and the cost is $194 per meter. To find the total cost, I should multiply the length by the cost per meter. Let me write that down:
+
+Monica's cost = 150 meters * $194/meter
+
+Hmm, let me compute that. 150 times 194. Hmm, that might be a bit tricky. Maybe I can break it down. 150 times 200 would be 30,000, but since it's 194, which is 6 less than 200, I can do 150*200 minus 150*6.
+
+Wait, 150*200 is 30,000. Then 150*6 is 900. So, 30,000 minus 900 is 29,100. So, Monica's street costs $29,100.
+
+Wait, let me check that again because 150*194. Maybe I should do it step by step.
+
+194 can be broken down into 100 + 90 +4.
+
+So, 150*100 = 15,000
+
+150*90: Hmm, 150*90. Let's see, 150*90 is 13,500.
+
+150*4 is 600.
+
+So, adding those together: 15,000 + 13,500 = 18,500, plus 600 is 19,100. So, that's the same as before. So, Monica's street is $19,100.
+
+Wait, hold on, that doesn't seem right. 150*194. Let me do it another way.
+
+194 is 200 - 6. So, 150*200 is 30,000. Then subtract 150*6, which is 900. So, 30,000 - 900 is 29,100. Yeah, that's correct. So, Monica's street is $29,100.
+
+Okay, now moving on to Lewis' street. It's 490 meters long. So, the cost would be 490 meters * $194/meter.
+
+Hmm, 490 times 194. That's a bigger number. Let me think about how to compute that.
+
+Maybe I can break it down as well. 490 is 400 + 90. So, 400*194 + 90*194.
+
+First, 400*194. Let's compute that.
+
+400*100 is 40,000.
+
+400*90: 400*90 is 400*9*10, which is 3,600*10=36,000.
+
+So, 40,000 + 36,000 is 76,000.
+
+Wait, no, that's not right. Wait, 400*194 is 400*100 + 400*90 + 400*4.
+
+Wait, maybe I'm overcomplicating. Let me do 400*194.
+
+Alternatively, 400*194 = 400*194. Let me compute 400*194.
+
+Compute 400*100 = 44,000
+
+44,000 + 440*94.
+
+Wait, 440

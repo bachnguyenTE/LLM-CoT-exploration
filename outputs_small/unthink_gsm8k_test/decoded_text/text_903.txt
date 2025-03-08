@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Jo has been making face masks. She can make 4 small masks with 2 yards of material and 3 large masks with 2.25 yards of material. How much material would she need to make 20 small and 8 large masks for her class?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much material Jo needs to make 20 small and 8 large face masks, we'll break down the problem step by step.
+
+1. **Determine the material required per small and large mask:**
+
+   - **Small masks:** Jo uses 2 yards of material to make 4 small masks.
+     \[
+     \text{Material per small mask} = \frac{2 \text{ yards}}{4} = 0.5 \text{ yards per small mask}
+     \]
+   
+   - **Large masks:** Jo uses 2.25 yards of material to make 3 large masks.
+     \[
+     \text{Material per large mask} = \frac{2.25 \text{ yards}}{3} = 0.75 \text{ yards per large mask}
+     \]
+
+2. **Calculate the total material needed for 20 small masks:**
+   \[
+   20 \text{ small masks} \times 0.5 \text{ yards per small mask} = 10 \text{ yards}
+   \]
+
+3. **Calculate the total material needed for 8 large masks:**
+   \[
+   8 \text{ large masks} \times 0.75 \text{ yards per large mask} = 6 \text{ yards}
+   \]
+
+4. **Add the materials together to find the total required:**
+   \[
+   10 \text{ yards} + 6 \text{ yards} = 16 \text{ yards}
+   \]
+
+**Final Answer:**
+\[
+\boxed{16 \text{ yards}}
+\]

@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Three people invested $1200 in a joint savings account.  After Dylan's investment of 2/5 of the total amount, Frances invested 2/3 of the remaining amount.  Skyler's investment accounted for the rest. How much money was Skyler's investment?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how much Skyler invested.
+
+1. **Total Investment:**
+   - **Total amount invested by all three people:** \$1200
+
+2. **Dylan's Investment:**
+   - Dylan invested **2/5** of the total amount.
+   - **Dylan's investment:** \(\frac{2}{5} \times 1200 = \frac{2400}{5} = 480\) dollars.
+
+3. **Remaining Amount After Dylan's Investment:**
+   - **Remaining amount:** \(1200 - 480 = 720\) dollars.
+
+4. **Frances's Investment:**
+   - Frances invested **2/3** of the remaining amount.
+   - **Frances's investment:** \(\frac{2}{3} \times 720 = 480\) dollars.
+
+5. **Remaining Amount After Frances's Investment:**
+   - **Remaining amount:** \(720 - 480 = 240\) dollars.
+
+6. **Skyler's Investment:**
+   - Skyler invested the **remaining amount**.
+   - **Skyler's investment:** \$240.
+
+**Final Answer:**
+\[
+\boxed{240}
+\]

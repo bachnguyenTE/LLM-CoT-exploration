@@ -1,0 +1,14 @@
+<｜User｜>
+Q: Finn watches 11 tadpoles swimming in the pond.  Suddenly he sees 6 of them come out of hiding from under a lily pad ,then he sees 2 of them hide under a rock.  How many tadpoles can Finn see in the pond now?
+A:<｜Assistant｜><think>
+</think>
+
+Finn initially sees 11 tadpoles in the pond. 
+
+1. **First Observation:** He sees 6 tadpoles coming out of hiding under a lily pad.  
+   - **Total tadpoles in pond:** 11 - 6 = 5
+
+2. **Second Observation:** He sees 2 tadpoles hiding under a rock.  
+   - **Total tadpoles in pond:** 5 - 2 = 3
+
+**Final Answer:** \boxed{3}

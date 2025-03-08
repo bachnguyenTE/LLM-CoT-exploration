@@ -1,0 +1,35 @@
+<｜User｜>
+Q: A custodian has to clean a school with 80 classrooms. They have 5 days to get it done. It takes them 15 minutes per classroom. If they work an 8 hour day, what percentage of their day, on average, is spent cleaning classrooms?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine what percentage of their day the custodian spends cleaning classrooms, follow these steps:
+
+1. **Calculate the total time needed to clean all classrooms:**
+   
+   - **Number of classrooms:** 80
+   - **Time per classroom:** 15 minutes
+   
+   \[
+   \text{Total time} = 80 \text{ classrooms} \times 15 \text{ minutes/classroom} = 400 \text{ minutes}
+   \]
+
+2. **Convert the total cleaning time into hours:**
+   
+   \[
+   440 \text{ minutes} \div 60 \text{ minutes/hour} = 7.333\ldots \text{ hours}
+   \]
+
+3. **Determine the percentage of the day spent cleaning:**
+   
+   \[
+   \text{Percentage} = \left( \frac{7.333\ldots}{8} \right) \times 100\% \approx 91.67\%
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{91.67\%}
+\]

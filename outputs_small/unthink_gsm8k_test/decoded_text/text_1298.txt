@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Justin has a jar with many coins in it. The jar has 32 quarters, 95 dimes, 120 nickels, and 750 pennies. What is the total dollar amount in the jar?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total dollar amount in the jar, we'll calculate the value of each type of coin separately and then sum them up.
+
+1. **Quarters (25 cents each):**
+   \[
+   32 \text{ quarters} \times \$0.25 = \$8.00
+   \]
+
+2. **Dimes (10 cents each):**
+   \[
+   95 \text{ dimes} \times \$0.10 = \$10.00
+   \]
+
+3. **Nickels (5 cents each):**
+   \[
+   120 \text{ nickels} \times \$0.05 = \$6.00
+   \]
+
+4. **Pennies (1 cent each):**
+   \[
+   750 \text{ pennies} \times \$0.010 = \$7.50
+   \]
+
+**Total Value:**
+\[
+\$8.00 + \$10.00 + \$6.00 + \$7.50 = \$31.50
+\]
+
+\[
+\boxed{\$31.50}
+\]

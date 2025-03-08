@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Mike plays ping pong for 40 minutes.  In the first 20 minutes, he scores 4 points.  In the second 20 minutes, he scores 25% more points.  How many total points did he score?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Mike plays ping pong for a total of **40 minutes**. The scoring is broken down into two equal parts:
+
+1. **First 20 minutes:**
+   - Mike scores **4 points**.
+
+2. **Second 20 minutes:**
+   - He scores **25% more points** than in the first 20 minutes.
+   - **25% of 4 points** is calculated as:
+     \[
+     0.25 \times 4 = 1 \text{ point}
+     \]
+   - Therefore, in the second 20 minutes, Mike scores:
+     \[
+     4 + 1 = 5 \text{ points}
+     \]
+
+3. **Total points scored:**
+   - Adding both parts together:
+     \[
+     4 \text{ points} + 5 \text{ points} = 9 \text{ points}
+     \]
+
+**Final Answer:**
+\[
+\boxed{9}
+\]

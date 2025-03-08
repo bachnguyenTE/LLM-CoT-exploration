@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Toula went to the bakery and bought various types of pastries. She bought 3 dozen donuts which cost $68 per dozen, 2 dozen mini cupcakes which cost $80 per dozen, and 6 dozen mini cheesecakes for $55 per dozen. How much was the total cost?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total cost of the pastries that Toula bought, we'll calculate the cost of each type of pastry separately and then sum them up.
+
+1. **Donuts:**
+   - **Number of dozens:** 3
+   - **Cost per dozen:** \$68
+   - **Total cost for donuts:** \( 3 \times 68 = \$204 \)
+
+2. **Mini cupcakes:**
+   - **Number of dozens:** 2
+   - **Cost per dozen:** \$80
+   - **Total cost for cupcakes:** \( 2 \times80 = \$160 \)
+
+3. **Mini cheesecakes:**
+   - **Number of dozens:** 6
+   - **Cost per dozen:** \$55
+   - **Total cost for cheesecakes:** \( 6 \times55 = \$330 \)
+
+4. **Total cost:**
+   - **Sum of all costs:** \( 204 + 160 + 330 = \$700 \)
+
+**Final Answer:** \(\boxed{770}\)

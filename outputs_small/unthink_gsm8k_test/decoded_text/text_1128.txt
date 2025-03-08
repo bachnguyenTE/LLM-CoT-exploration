@@ -1,0 +1,48 @@
+<｜User｜>
+Q: Liam is 16 years old now. Two years ago, Liam’s age was twice the age of Vince. How old is Vince now?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Liam is currently 16 years old.
+- Two years ago, Liam’s age was twice the age of Vince.
+
+**Let’s define variables:**
+- Let \( L \) be Liam's current age.
+- Let \( V \) be Vince's current age.
+
+**From the problem:**
+1. **Liam's current age:**
+   \[
+   L = 16
+   \]
+2. **Two years ago:**
+   - Liam's age was \( L - 2 \).
+   - Vince's age was \( V - 2 \).
+   - According to the problem, \( L - 2 = 2(V - 2) \).
+
+**Substitute \( L = 16 \) into the equation:**
+\[
+16 - 2 = 2(V - 2)
+\]
+\[
+4 = 2V - 4
+\]
+
+**Solve for \( V \):**
+\[
+4 + 4 = 2V
+\]
+\[
+8 = 2V
+\]
+\[
+V = 4
+\]
+
+**Final Answer:**
+\[
+\boxed{4}
+\]

@@ -1,0 +1,58 @@
+<｜User｜>
+Q: One dwarf can mine 12 pounds of ore per day with his bare hands. He can mine twice as much with an iron pickaxe and 50% more with a steel pickaxe than with an iron pickaxe. How many pounds of ore can 40 dwarves with steel pickaxes mine in a month with 30 days?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many pounds of ore 40 dwarves with steel pickaxes can mine in a month.
+
+### **Given:**
+1. **Dwarf with bare hands:** Mines **12 pounds of ore per day**.
+2. **Dwarf with iron pickaxe:** Mines **twice as much** as the dwarf with bare hands.
+3. **Dwarf with steel pickaxe:** Mines **50% more** than the iron pickaxe miner.
+
+### **Step 1: Calculate the ore mined by a dwarf with an iron pickaxe.**
+
+- **Iron pickaxe:** Mines twice as much as the dwarf with bare hands.
+  
+  \[
+  \text{Iron pickaxe} = 2 \times 12\ \text{pounds} = 24\ \text{pounds per day}
+  \]
+
+### **Step 2: Calculate the ore mined by a dwarf with a steel pickaxe.**
+
+- **Steel pickaxe:** Mines **50% more** than the iron pickaxe miner.
+  
+  \[
+  \text{Steel pickaxe} = 24\ \text{pounds} + 55\% \times 24\ \text{pounds}
+  \]
+  
+  \[
+  55\% \times 24 = 0.55 \times 24 = 13.2\ \text{pounds}
+  \]
+  
+  \[
+  \text{Steel pickaxe} = 24 + 13.2 = 37.2\ \text{pounds per day}
+  \]
+
+### **Step 3: Calculate the total ore mined by 40 dwarves with steel pickaxes in a month.**
+
+- **Number of dwarves:** 40
+- **Days in a month:** 30
+
+\[
+\text{Total ore} = 40 \times 30 \times 37.2\ \text{pounds}
+\]
+  
+  \[
+  40 \times 30 = 1200
+  \]
+  
+  \[
+  1200 \times 37.2 = 8,\!640\ \text{pounds}
+  \]
+
+### **Final Answer:**
+
+\[
+\boxed{8,\!640\ \text{ pounds}}
+\]

@@ -1,0 +1,46 @@
+<｜User｜>
+Q: Mark is trying to choose between two venues for a surprise party for his wife.  The first venue charges a flat fee of $200, regardless of how many guests attend.  While the second charges, $25 per person who attends.  However, the first venue does not include food, which Mark estimates will cost $5 for each person who attends.  At the second venue, food for each guest is already included in the price.  How many guests are necessary for the two venues to be equal in cost?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the number of guests needed for the two venues to be equal in cost, let's analyze the costs for each venue.
+
+**First Venue:**
+- **Flat Fee:** \$200
+- **No additional charges for food**
+
+**Second Venue:**
+- **Food Included:** \$5 per guest
+- **Flat Fee:** \$250
+
+Let's denote the number of guests as \( x \).
+
+**Cost for First Venue:**
+\[
+\text{Cost}_1 = \$200
+\]
+
+**Cost for Second Venue:**
+\[
+\text{Cost}_2 = \$250 + \$5x
+\]
+
+To find the number of guests where both venues cost the same, set the two costs equal to each other:
+
+\[
+\$200 = \$250 + \$5x
+\]
+
+**Solving for \( x \):**
+
+\[
+\$200 = \$5x
+\]
+\[
+x = \frac{\$220}{\$5} = 44
+\]
+
+**Answer:**
+\[
+\boxed{44}
+\]

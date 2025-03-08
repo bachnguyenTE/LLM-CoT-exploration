@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Mrs. Cruz is looking for a house that will not go beyond her $400 000 budget. She saw a property that has a selling price of $350 000. On top of that, the buyer has to pay a brokerage fee which is 5% of the selling price, and also the transfer fee that is 12% of the selling price. How much more is the total price of the house than Mrs. Cruz's budget?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much more the total price of the house exceeds Mrs. Cruz's budget, we'll calculate the brokerage fee and transfer fee based on the selling price of the property.
+
+1. **Brokerage Fee:**
+   \[
+   \text{Brokerage Fee} = 5\% \times \$350,\!000 = 0.05 \times 350,\!000 = \$17,\!750
+   \]
+
+2. **Transfer Fee:**
+   \[
+   \text{Transfer Fee} = 12\% \times \$350,\!000 = 0.12 \times 350,\!000 = \$42,\!000
+   \]
+
+3. **Total Additional Fees:**
+   \[
+   \text{Total Fees} = \$17,\!750 + \$42,\!000 = \$59,\!750
+   \]
+
+4. **Total Price of the House:**
+   \[
+   \text{Total Price} = \$350,\!000 + \$59,\!750 = \$410,\!750
+   \]
+
+5. **Difference from Budget:**
+   \[
+   \text{Difference} = \$410,\!750 - \$400,\!000 = \$10,\!750
+   \]
+
+**Answer:** \(\boxed{\$10,\!750}\)

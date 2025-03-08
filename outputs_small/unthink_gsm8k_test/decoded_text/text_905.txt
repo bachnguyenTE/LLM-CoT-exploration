@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Harold sleeps for 10 hours a night.  He works 2 hours less than he sleeps and he walks his dog for an hour each day.  How much free time does Harold have left in his day?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Harold's Sleep Duration:**
+   - Harold sleeps for **10 hours** a night.
+
+2. **Harold's Work Hours:**
+   - Harold works **2 hours less than he sleeps.**
+   - Since he sleeps for 10 hours, he works for \(10 - 2 = 8\) hours.
+
+3. **Harold's Dog Walking Hours:**
+   - Harold walks his dog for **1 hour** each day.
+
+4. **Calculating Total Time Spent in a Day:**
+   - **Sleep:** 10 hours
+   - **Work:** 8 hours
+   - **Dog Walking:** 1 hour
+   - **Total Time Spent:** \(10 + 8 + 1 = 19\) hours
+
+5. **Calculating Free Time:**
+   - **Total Time in a Day:** 24 hours
+   - **Time Spent:** 19 hours
+   - **Free Time:** \(24 - 19 = 5\) hours
+
+**Final Answer:**
+\[
+\boxed{5\ \text{hours}}
+\]

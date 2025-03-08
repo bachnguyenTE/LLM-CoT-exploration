@@ -1,0 +1,20 @@
+<｜User｜>
+Q: Misha picks out 4 blouses from the 30% off rack.  The regular price for each blouse is $20.  How much is the total cost of the discounted blouses?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total cost of the discounted blouses, follow these steps:
+
+1. **Calculate the discount amount per blouse:**
+   - **Original price per blouse:** \$20
+   - **Discount:** 30% off
+   - **Discount amount:** \( 20 \times \frac{30}{100} = 20 \times 0.3 = \$6 \)
+
+2. **Determine the discounted price per blouse:**
+   - **Discounted price:** \( 20 - 6 = \$14 \)
+
+3. **Calculate the total cost for 4 blouses:**
+   - **Total cost:** \( 4 \times 14 = \$56 \)
+
+**Final Answer:**  
+The total cost of the discounted blouses is \(\boxed{56}\).

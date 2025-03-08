@@ -1,0 +1,27 @@
+<｜User｜>
+Q: A farmer extracts 5 liters of milk a day from a cow. Since he has 3 cows, how many more cows does he need to have to produce 25 liters of milk a day?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the total milk production per day:**
+   - The farmer has 3 cows.
+   - Each cow produces 5 liters of milk per day.
+   - Total milk production = Number of cows × Milk per cow per day
+   - Total milk production = 3 cows × 5 liters/cow/day = 15 liters/day
+
+2. **Determine the additional milk needed:**
+   - The farmer needs a total of 25 liters of milk per day.
+   - Additional milk needed = Total required milk - Current production
+   - Additional milk needed = 25 liters/day - 15 liters/day = 10 liters/day
+
+3. **Determine the number of additional cows needed:**
+   - Each additional cow produces 5 liters of milk per day.
+   - Number of additional cows = Additional milk needed / Milk per cow per day
+   - Number of additional cows = 10 liters/day ÷ 5 liters/cow/day = 2 cows
+
+**Final Answer:**
+The farmer needs to add \(\boxed{2}\) more cows to produce 25 liters of milk daily.

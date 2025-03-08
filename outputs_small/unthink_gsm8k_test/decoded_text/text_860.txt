@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Jennifer bought 12 oranges from the market, she gave her three daughters 2 oranges each, and her only boy got 3 oranges. How many oranges did she remain with?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Oranges Purchased:**
+   Jennifer bought **12 oranges**.
+
+2. **Oranges Given to Daughters:**
+   - **First Daughter:** 2 oranges
+   - **Second Daughter:** 2 oranges
+   - **Third Daughter:** 2 oranges
+
+   **Total Oranges Given to Daughters:**
+   \[
+   2 + 2 + 2 = 6 \text{ oranges}
+   \]
+
+3. **Oranges Given to Her Boy:**
+   - **Boy:** 3 oranges
+
+4. **Oranges Remaining:**
+   \[
+   12 \text{ (total)} - 6 \text{ (daughters)} - 3 \text{ (boy)} = 3 \text{ oranges}
+   \]
+
+**Final Answer:**
+\[
+\boxed{3}
+\]

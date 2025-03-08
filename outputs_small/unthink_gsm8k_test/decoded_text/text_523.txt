@@ -1,0 +1,34 @@
+<｜User｜>
+Q: The bakers at the Beverly Hills Bakery baked 200 loaves of bread on Monday morning. They sold 93 loaves in the morning and 39 loaves in the afternoon. A grocery store returned 6 unsold loaves. How many loaves of bread did they have left?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Bakers at Beverly Hills Bakery baked **200** loaves of bread on Monday morning.
+- They sold **93** loaves in the morning.
+- They sold **39** loaves in the afternoon.
+- A **grocery store** returned **6** unsold loaves.
+
+**Solution:**
+
+1. **Calculate the total number of loaves sold:**
+   \[
+   \text{Total sold} = \text{Morning sales} + \text{Afternoon sales} = 93 + 39 = 132 \text{ loaves}
+   \]
+
+2. **Determine the number of loaves remaining after sales:**
+   \[
+   \text{Remaining loaves after sales} = \text{Total baked} - \text{Total sold} = 200 - 132 = 68 \text{ loaves}
+   \]
+
+3. **Account for the loaves returned by the grocery store:**
+   \[
+   \text{Final remaining loaves} = \text{Remaining loaves after sales} - \text{Returned loaves} = 68 - 6 = 62 \text{ loaves}
+   \]
+
+**Final Answer:**
+\[
+\boxed{62}
+\]

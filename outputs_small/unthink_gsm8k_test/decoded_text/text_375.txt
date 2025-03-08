@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Mrs. Sherman made a dozen bread rolls for breakfast. After feeding her 6 children with one each, she broke each of the remaining rolls into 8 pieces and fed them to the chickens. How many pieces of rolls did she feed to the chickens?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Mrs. Sherman made a dozen bread rolls, which means she has **12 rolls**.
+
+1. **Feeding the Children:**
+   - She feeds her **6 children** with one roll each.
+   - **Rolls fed to children:** \( 6 \) rolls.
+
+2. **Remaining Rolls:**
+   - **Remaining rolls:** \( 12 - 6 = 6 \) rolls.
+
+3. **Feeding the Chickens:**
+   - She breaks each of the remaining **6 rolls** into **8 pieces**.
+   - **Total pieces for the chickens:** \( 6 \times 8 = 48 \) pieces.
+
+**Final Answer:**  
+\(\boxed{48}\)

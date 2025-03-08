@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Emma can make and upload 72 vlogs per month. But she was only able to make 18 vlogs for the first week, 21 vlogs for the second week, and 15 vlogs for the third week. How many vlogs should she do to complete the 72 vlogs per month?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Emma aims to make **72 vlogs** per month. In the first week, she made **18 vlogs**, and in the second week, **21 vlogs**, and in the third week, **15 vlogs**. To find out how many vlogs she needs to make in the fourth week to reach her goal, follow these steps:
+
+1. **Calculate the total vlogs made in the first three weeks:**
+   
+   \[
+   18 \text{ (first week)} + 21 \text{ (second week)} + 15 \text{ (third week)} = 54 \text{ vlogs}
+   \]
+
+2. **Subtract the total vlogs made from her monthly goal to find out how many she needs to make in the fourth week:**
+   
+   \[
+   72 \text{ (total goal)} - 54 \text{ (vlogs made)} = 18 \text{ vlogs}
+   \]
+
+**Answer:** Emma needs to make **18 vlogs** in the fourth week to complete her 72 vlogs per month.

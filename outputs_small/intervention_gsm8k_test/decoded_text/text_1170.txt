@@ -1,0 +1,80 @@
+<｜User｜>
+Q: A wall mural has four different colors of paint in it: red, white, purple, and yellow.  There are equal amounts of red, white, and purple paint in the mural. Half the mural is yellow. If the mural used 12 pints of paint in all, how many pints of red paint was used?
+A:<｜Assistant｜><think>
+Okay, so I have this problem about a wall mural with four different colors: red, white, purple, and yellow. The problem says that there are equal amounts of red, white, and purple paint. Hmm, that means red, white, and purple each have the same quantity. Then it says half the mural is yellow. The total amount of paint used is 12 pints. I need to find out how many pints of red paint were used.
+
+Let me try to break this down. First, let's think about the colors. There are four colors: red, white, purple, and yellow. The problem states that red, white, and purple have equal amounts. So, if I let the amount of red paint be R, then white and purple would also each be R. Yellow is half the mural, so that's half of the total paint.
+
+Wait, that seems right. So, if half the mural is yellow, then the other half is red, white, and purple combined. Since red, white, and purple each have equal amounts, that means each of them is a third of the non-yellow paint.
+
+Let me write this out step by step.
+
+Let R be the amount of red paint in pints.
+
+Since red, white, and purple have equal amounts, white is also R pints, and purple is also R pints.
+
+Yellow is half the total paint. The total paint is 12 pints, so half of that is 6 pints. So, yellow is 6 pints.
+
+Now, let's add up all the paint:
+
+Red + White + Purple + Yellow = Total paint
+
+Which is:
+
+R + R + R + 6 = 12
+
+So, that's 3R + 6 =12
+
+Now, let's solve for R.
+
+Subtract 6 from both sides:
+
+3R = 12 -6
+
+3R =6
+
+Divide both sides by 3:
+
+R =2
+
+So, each color, red, white, and purple, uses 2 pints of paint. Therefore, the amount of red paint used is 2 pints.
+
+Wait, that seems right. Let me double-check.
+
+If red is 2 pints, white is 2, purple is 2, and yellow is 6, then total paint is 2+2+2+6=12 pints. That adds up correctly.
+
+Also, half the mural is yellow, which is 6 pints, and the other half is 6 pints of red, white, and purple. Since red, white, and purple are equal, each is 2 pints. So, that makes sense.
+
+I think that's correct. So, the answer should be 2 pints of red paint.
+
+**Final Answer**
+The number of pints of red paint used is \boxed{2}.
+</think>
+
+Let \( R \) be the amount of red paint in pints. Since red, white, and purple have equal amounts, white and purple each also have \( R \) pints. Yellow is half the total paint, which is \( \frac{12}{2} = 6 \) pints.
+
+The total paint used is 12 pints. Therefore, we can write the equation:
+
+\[
+R + R + R + 6 = 12
+\]
+
+Simplifying this, we get:
+
+\[
+3R + 6 = 12
+\]
+
+Subtracting 6 from both sides:
+
+\[
+3R = 6
+\]
+
+Dividing both sides by 3:
+
+\[
+R = 2
+\]
+
+Thus, the number of pints of red paint used is \(\boxed{2}\).

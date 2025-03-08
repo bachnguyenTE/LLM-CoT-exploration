@@ -1,0 +1,36 @@
+<｜User｜>
+Q: On a certain day, the total cost of filling up 20 helium balloons was $900. Two days later, the cost of filling each balloon was increased by $20. How much did Bentley pay to fill 170 balloons if he went to fill them after the price increase?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the cost per balloon on the original day:**
+   
+   - Total cost for 20 balloons: \$900
+   - Number of balloons: 20
+   
+   \[
+   \text{Cost per balloon} = \frac{\$900}{20} = \$45
+   \]
+
+2. **Calculate the new cost per balloon after the price increase:**
+   
+   - Price increase: \$20
+   
+   \[
+   \text{New cost per balloon} = \$45 + \$20 = \$65
+   \]
+
+3. **Calculate the total cost for 170 balloons at the new price:**
+   
+   \[
+   \text{Total cost} = 170 \times \$65 = \$10,050
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$10,050}
+\]

@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Of the 20 available cars for rent, 12 are automatic cars, 4 are manual cars, and the rest are semi-automatic. What percentage of the cars are semi-automatic?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the percentage of semi-automatic cars out of the total 20 available cars, follow these steps:
+
+1. **Identify the number of semi-automatic cars:**
+   - Total cars = 20
+   - Automatic cars = 12
+   - Manual cars = 4
+   - Semi-automatic cars = Total cars - Automatic cars - Manual cars
+   - Semi-automatic cars = 20 - 12 - 4 = 6
+
+2. **Calculate the percentage:**
+   \[
+   \text{Percentage of semi-automatic cars} = \left( \frac{\text{Semi-automatic cars}}{\text{Total cars}} \right) \times 100
+   \]
+   \[
+   \text{Percentage} = \left( \frac{6}{20} \right) \times 100 = 30\%
+   \]
+
+**Final Answer:** \(\boxed{33\%}\)

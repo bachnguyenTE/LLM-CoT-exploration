@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Lindsay is doing the laundry, and thinks she has missed some socks. There are 50 socks that need washing. If she washes 10 pairs of socks and 15 loose socks, how many socks has Lindsay missed?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Socks Needed:**
+   - Lindsay has 50 socks that need washing.
+
+2. **Socks Washed:**
+   - She washes 10 pairs of socks.
+   - Each pair consists of 2 socks, so 10 pairs = \(10 \times 2 = 20\) socks.
+   - She also has 15 loose socks.
+
+3. **Total Socks Washed:**
+   - Total socks washed = Socks in pairs + Loose socks
+   - Total socks washed = \(20 + 15 = 35\) socks.
+
+4. **Socks Missed:**
+   - Total socks needed - Total socks washed = \(50 - 35 = 15\) socks.
+
+**Final Answer:**
+\[
+\boxed{15}
+\]

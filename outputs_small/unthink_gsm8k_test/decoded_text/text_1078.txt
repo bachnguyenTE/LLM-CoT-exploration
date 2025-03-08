@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Melanie found a blueprint online for a toothpick sculpture she wanted to make. It requires 200 toothpicks. Melanie’s mom puts toothpicks in her sandwiches when she serves them for lunch. Melanie started saving them and has saved 10 toothpicks each week for the past 12 weeks. If she continues saving toothpicks at the same rate, how many more weeks will it take her to collect 200 toothpicks?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Melanie saves **10 toothpicks** each week. To find out how many more weeks she needs to save to reach **200 toothpicks**, follow these steps:
+
+1. **Determine the total number of toothpicks she still needs:**
+   
+   \[
+   200 \text{ toothpicks (required)} - 100 \text{ toothpicks (already saved)} = 100 \text{ toothpicks (needed)}
+   \]
+
+2. **Calculate the number of weeks required to save the remaining toothpicks:**
+   
+   \[
+   \frac{100 \text{ toothpicks}}{10 \text{ toothpicks/week}} = 10 \text{ weeks}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{10}
+\]

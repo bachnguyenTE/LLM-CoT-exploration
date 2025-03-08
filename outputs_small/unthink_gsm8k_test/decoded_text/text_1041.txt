@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Molly is catering a birthday party for her sister and invited 16 people. 10 people want the chicken salad which is $6.50 per person and 6 people want the pasta salad at $6 per person. What is the total amount Molly will pay for the catering?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the total amount Molly will pay for catering, we'll calculate the cost for each type of salad separately and then sum them up.
+
+1. **Chicken Salad:**
+   - **Number of people:** 10
+   - **Cost per person:** \$6.50
+   - **Total cost for chicken salad:**  
+     \[
+     10 \text{ people} \times \$6.50/\text{person} = \$65.00
+     \]
+
+2. **Pasta Salad:**
+   - **Number of people:** 6
+   - **Cost per person:** \$6.00
+   - **Total cost for pasta salad:**  
+     \[
+     6 \text{ people} \times \$6.00/\text{person} = \$36.00
+     \]
+
+3. **Total Cost:**
+   - **Total cost for chicken salad:** \$65.00
+   - **Total cost for pasta salad:** \$36.00
+   - **Sum:**  
+     \[
+     \$65.00 + \$36.00 = \$101.00
+     \]
+
+**Final Answer:**  
+Molly will pay a total of \(\boxed{\$101.0}\) for the catering.

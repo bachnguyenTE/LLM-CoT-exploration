@@ -1,0 +1,36 @@
+<｜User｜>
+Q: John decides to do several activities while out on vacation.  He spends 6 hours boating and half that time swimming.  He also watched 3 different shows which were 2 hours each.  This was 30% of the time he spent.  He spent 40% of his time sightseeing.  How much time did he spend sightseeing?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how much time John spent sightseeing.
+
+1. **Boating Time:**
+   - John spent **6 hours** boating.
+
+2. **Swimming Time:**
+   - He spent **half** the time he spent boating swimming.
+   - **Swimming Time** = \( \frac{1}{2} \times 6 \) hours = **3 hours**
+
+3. **Watching Shows:**
+   - He watched **3 different shows**, each lasting **2 hours**.
+   - **Total Watching Time** = \( 3 \times 2 \) hours = **6 hours**
+
+4. **Total Time Spent:**
+   - **Total Time** = Boating Time + Swimming Time + Watching Time
+   - **Total Time** = \( 6 + 3 + 6 \) hours = **15 hours**
+
+5. **Showing 30% of His Time Was Watching Shows:**
+   - **30% of Total Time** = 6 hours
+   - Let \( T \) be the total time spent.
+   - \( 0.30T = 6 \) hours
+   - \( T = \frac{6}{0.30} \) hours ≈ **19.61 hours**
+
+6. **Sightseeing Time:**
+   - **Sightseeing Time** is **30%** of the total time.
+   - **Sightseeing Time** = \( 0.30 \times 19.61 \) \) hours ≈ **6.0 hours**
+
+**Final Answer:**
+\[
+\boxed{6\text{ hours}}
+\]

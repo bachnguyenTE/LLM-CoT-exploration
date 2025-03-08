@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Helen went on a trip through Germany. She booked a hotel for 3 nights and rode the bus 7 times during that trip. One night at the hotel was a cost of $80, and every bus trip was 10% of the price of one night at the hotel. How much did Helen pay for the hotel and bus travels during that trip?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Hotel Cost:**
+   - Helen booked a hotel for **3 nights**.
+   - The cost per night at the hotel is **\$80**.
+   - **Total cost for the hotel** = Number of nights × Cost per night
+     \[
+     3 \text{ nights} \times \$80/\text{night} = \$240
+     \]
+
+2. **Bus Cost:**
+   - Helen rode the bus **7 times**.
+   - Each bus trip costs **10%** of the hotel cost per night.
+     \[
+     10\% \text{ of } \$80 = 0.10 \times \$80 = \$8.80
+     \]
+   - **Total cost for bus trips** = Number of trips × Cost per trip
+     \[
+     7 \text{ trips} \times \$8.80/\text{trip} = \$61.60
+     \]
+
+3. **Total Cost:**
+   - **Total amount Helen paid** = Total hotel cost + Total bus cost
+     \[
+     \$240 + \$61.60 = \$301.60
+     \]
+
+**Final Answer:**
+\[
+\boxed{\$301.60}
+\]

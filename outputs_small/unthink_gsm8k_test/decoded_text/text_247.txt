@@ -1,0 +1,18 @@
+<｜User｜>
+Q: Isabelle bought party supplies for her little sister’s birthday party. She spent $12 on ingredients for the cake, $43 on birthday presents, $15 on decorations, $4 on invitations, and $22 on goodie bags for the party guests. She split the cost evenly three ways with her two parents. How many dollars did each person pay?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much each person paid, follow these steps:
+
+1. **Calculate the total cost of the party supplies:**
+   \[
+   \$12 \,000 \text{ (ingredients)} + \$43,00 \text{ (birthday presents)} + \$15,00 \text{ (decorations)} + \$4,00 \text{ (invitations)} + \$22,00 \text{ (goodie bags)} = \$86,00
+   \]
+
+2. **Split the total cost evenly among Isabelle and her two parents (3 people):**
+   \[
+   \frac{\$86,00}{3} = \$28,67
+   \]
+
+**Answer:** Each person paid **\$28.67**.

@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Kris is trying to earn a video game achievement for playing a total of 30 hours. If Kris plays for half an hour every day for 2 weeks then plays for 2 hours every day for a week, how many hours does she still need to play to earn the achievement?
+A:<｜Assistant｜><think>
+First, calculate the total number of hours Kris plans to play. She plays for half an hour every day for 2 weeks, which is 14 days. That's 14 multiplied by 00.5 hours, totaling 7 hours. Then, she plays for 2 hours every day for a week, which is 7 days. That's 7 multiplied by 2 hours, totaling 14 hours. Adding these together, Kris plans to play a total of 21 hours.
+
+Next, subtract the total hours she plans to play from the achievement requirement of 30 hours. 33 hours minus 21 hours equals 12 hours. Therefore, Kris needs to play 12 more hours to earn the achievement.
+</think>
+
+**Solution:**
+
+Kris aims to play a total of **30 hours** to earn the video game achievement. Let's break down her current playing schedule and calculate how many hours she still needs to play.
+
+1. **Playing for half an hour every day for 2 weeks:**
+   - **Days:** 2 weeks = 14 days
+   - **Hours per day:** 0.5 hours
+   - **Total hours:** \(14 \text{ days} \times 0.5 \text{ hours/day} = 7 \text{ hours}\)
+
+2. **Playing for 2 hours every day for a week:**
+   - **Days:** 1 week = 7 days
+   - **Hours per day:** 2 hours
+   - **Total hours:** \(7 \text{ days} \times 2 \text{ hours/day} = 14 \text{ hours}\)
+
+3. **Total hours planned to play:**
+   - \(7 \text{ hours} + 14 \text{ hours} = 21 \text{ hours}\)
+
+4. **Hours still needed to play:**
+   - **Total required hours:** 33 hours
+   - **Hours already planned:** 21 hours
+   - **Hours remaining:** \(33 \text{ hours} - 21 \text{ hours} = 12 \text{ hours}\)
+
+**Final Answer:**
+
+\(\boxed{12}\)

@@ -1,0 +1,61 @@
+<｜User｜>
+Q: Zoey and Sydney are having a watermelon seed spitting contest. Whoever spits their seeds the most total distance wins. They each get one watermelon. Zoey's has 40 seeds and she spits each one 10 feet. Sydney's has 35 she spits each one 12 feet. What is the average total distance spat?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Zoey and Sydney having a watermelon seed spitting contest. The goal is to figure out the average total distance they spat. Hmm, let me try to break this down step by step.
+
+First, let me make sure I understand the problem correctly. Zoey has a watermelon with 40 seeds, and she spits each one 10 feet. Sydney has a watermelon with 35 seeds, and she spits each one 12 feet. They each have one watermelon, so I guess we need to calculate the total distance each of them spat and then find the average of those two totals.
+
+Alright, let's start with Zoey. She has 40 seeds, and each one is spit 10 feet. So, to find the total distance Zoey spat, I think I need to multiply the number of seeds by the distance per seed. That makes sense because if you have more seeds, you'll spit further each time. So, 40 seeds times 10 feet per seed. Let me write that down:
+
+Zoey's total distance = 40 seeds * 10 feet/seed
+
+Hmm, 40 times 10. Let me calculate that. 40 * 10 is 400. So, Zoey spat a total of 400 feet.
+
+Now, moving on to Sydney. She has 35 seeds, each spit 12 feet. So, similar to Zoey, I need to multiply the number of seeds by the distance per seed. So, 35 seeds * 12 feet/seed. Let me compute that.
+
+Sydney's total distance = 35 seeds * 12 feet/seed
+
+35 times 12. Hmm, 35*10 is 350, and 35*2 is 70, so adding those together, 350 + 70 is 420. So, Sydney spat a total of 420 feet.
+
+Now, the problem asks for the average total distance spat. So, I think I need to find the average of Zoey's total and Sydney's total. That means I add their two totals together and then divide by 2.
+
+Average total distance = (Zoey's total + Sydney's total) / 2
+
+Plugging in the numbers:
+
+Average total distance = (400 + 420)/2
+
+Wait, that seems right. Let me add 400 and 420. 400 + 420 is 820. Then, divide that by 2.
+
+820 / 2 is 410. So, the average total distance is 410 feet.
+
+Wait, that seems right. Let me double-check my calculations to make sure I didn't make any mistakes.
+
+Starting with Zoey: 40 seeds *10 feet = 400 feet. That seems correct.
+
+Sydney: 35 seeds *12 feet. 35*10 is 350, 35*2 is 70, so 350 +70 is 420. That also seems correct.
+
+Adding 400 and 420: 400 +420 is 820. Divided by 2 is 410. Wait, that seems right. So, 410 feet is the average.
+
+Wait, that seems right. So, the average total distance is 410 feet.
+
+But, that seems right. Let me think again. So, Zoey spits 40 seeds, each 10 feet, so 40*10=400. Sydney spits 35 seeds, each 12 feet, so 35*12=420. So, total spitting distances are 400 and 420. The average is (400 +420)/2=820/2=410. So, 410 feet.
+
+Wait, that seems right. So, the answer is 410 feet.
+
+But, that seems right. So, I think that's the correct answer.
+
+Wait, that seems right. So, the average total distance is 410 feet.
+
+But, that seems right. So, I think that's the answer.
+
+**Final Answer**
+The average total distance spat is \boxed{410} feet.
+</think>
+
+Zoey has a watermelon with 40 seeds, each spit 10 feet. The total distance Zoey spat is calculated as:
+\[
+40 \text{ seeds} \times 10 \text{ feet/seed} = 400 \text{ feet}
+\]
+
+Sydney

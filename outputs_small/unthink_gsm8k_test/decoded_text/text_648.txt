@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Howie wants to buy cupcakes for everyone in his class as a special treat. He's not sure if people will want vanilla or chocolate cupcakes so he decides to get one of each for everyone. If he gets the same amount of 2 cupcakes for each himself, his teacher, and his 25 classmates, how many cupcakes should Howie buy?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Identify the total number of people:**
+   - Howie is buying cupcakes for himself.
+   - His **teacher**.
+   - **25 classmates**.
+
+   **Total people = 1 (Howie) + 1 (teacher) + 25 (classmates) = 27 people.**
+
+2. **Determine the number of cupcakes per person:**
+   - Howie wants **2 cupcakes** for himself.
+   - He wants **2 cupcakes** for his teacher.
+   - He wants **2 cupcakes** for each of his **25 classmates**.
+
+   **Total cupcakes per person = 2 + 2 + (25 × 2) = 2 + 2 + 50 = 56 cupcakes per person.**
+
+3. **Calculate the total number of cupcakes needed:**
+   - **Total cupcakes = Number of people × Cupcakes per person**
+   - **Total cupcakes = 27 × 56 = 1,512 cupcakes.**
+
+**Final Answer:**
+\[
+\boxed{1512}
+\]

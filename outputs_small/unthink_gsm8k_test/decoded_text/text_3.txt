@@ -1,0 +1,14 @@
+<｜User｜>
+Q: James decides to run 3 sprints 3 times a week.  He runs 60 meters each sprint.  How many total meters does he run a week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+James runs **3 sprints** a week, and each sprint is **60 meters** long. To find the total distance he runs in a week, multiply the number of sprints by the distance per sprint.
+
+\[
+\text{Total meters} = 3 \text{ sprints} \times 60 \text{ meters/sprint} = 180 \text{ meters}
+\]
+
+**Answer:** James runs a total of **180 meters** a week.

@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Mr. Smith has two farms, Farm X and Farm Y. He has 55 goats in Farm X and 45 goats in Farm Y. He sold 10 goats from Farm X and twice as many goats from Farm Y. How many goats are left in the two farms altogether?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Number of Goats:**
+   - **Farm X:** 55 goats
+   - **Farm Y:** 45 goats
+
+2. **Goats Sold:**
+   - **Farm X:** 10 goats (10 goats sold from Farm X)
+   - **Farm Y:** Twice as many as Farm X, so \(2 \times 10 = 20\) goats (20 goats sold from Farm Y)
+
+3. **Goats Remaining:**
+   - **Farm X:** \(55 - 10 = 45\) goats
+   - **Farm Y:** \(45 -20 = 25\) goats
+
+4. **Total Goats Left:**
+   - \(45 + 25 = 70\) goats
+
+**Final Answer:** \(\boxed{70}\)

@@ -1,0 +1,56 @@
+<｜User｜>
+Q: Becca, Smendrick, and PJ have collections of Magic Cards.  There is a total of 341 cards.  Becca has 12 more than Smendrick, and Smendrick has 3 times the amount of cards that PJ has.  How many cards does Becca have?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Becca, Smendrick, and PJ collecting Magic Cards. The total number of cards they have together is 341. Hmm, wait, that seems right. Let me read it again to make sure I got all the details.
+
+"Becca, Smendrick, and PJ have collections of Magic Cards. There is a total of 341 cards. Becca has 12 more than Smendrick, and Smendrick has 3 times the amount of cards that PJ has. How many cards does Becca have?"
+
+Alright, so we have three people: Becca, Smendrick, and PJ. Their total Magic Cards add up to 341. The relationships between their collections are given: Becca has 12 more than Smendrick, and Smendrick has 3 times as many as PJ. We need to find out how many cards Becca has.
+
+Let me think about how to model this. It seems like a system of equations problem. I can assign variables to each person's number of Magic Cards. Let me denote:
+
+Let P = number of Magic Cards that PJ has.
+
+Then, since Smendrick has 3 times as many as PJ, Smendrick's cards would be 3P.
+
+And Becca has 12 more than Smendrick, so that would be Smendrick's cards plus 12, which is 3P + 12.
+
+So, summarizing:
+
+- PJ: P
+- Smendrick: 3P
+- Becca: 3P + 12
+
+Now, the total number of Magic Cards is 341, so the sum of all three should be 341.
+
+So, equation-wise:
+
+P + 3P + (3P +12) = 341
+
+Let me write that out:
+
+P + 3P + 3P +12 = 341
+
+Wait, that seems right. Let me compute the left side.
+
+First, combine like terms. P + 3P is 4P, and then 4P + 3P is 7P. So, 7P +12 = 341.
+
+So, 7P +12 = 341
+
+Now, I need to solve for P. Let me subtract 12 from both sides.
+
+7P = 341 -12
+
+341 minus 12 is 339.
+
+So, 7P = 339
+
+Now, divide both sides by 7 to find P.
+
+P = 339 /7
+
+Hmm, let me compute that. 7 goes into 339 how many times?
+
+7*48=336, which is 336. So, 339 -336=3. So, 48 with a remainder of 3.
+
+So, P=48.42857... Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems

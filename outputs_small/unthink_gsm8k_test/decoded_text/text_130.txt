@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Nissa hires 60 seasonal workers to play elves in her department store's Santa village. A third of the elves quit after children vomit on them, then 10 of the remaining elves quit after kids kick their shins. How many elves are left?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total number of elves hired initially:**  
+   Nissa hires **60** seasonal workers to play elves.
+
+2. **First quit:**  
+   A third of the elves quit after children vomit on them.  
+   - **Number of elves who quit:**  
+     \[
+     \frac{1}{3} \times 60 = 20
+     \]
+   - **Number of elves remaining after the first quit:**  
+     \[
+     60 - 20 = 44
+     \]
+
+3. **Second quit:**  
+   Then, **10 of the remaining elves quit after kids kick their shins.**  
+   - **Number of elves who quit:**  
+     \[
+     10
+     \]
+   - **Number of elves remaining after the second quit:**  
+     \[
+     44 - 10 = 33
+     \]
+
+4. **Final number of elves left:**  
+   After both quits, **33** elves remain.
+
+\[
+\boxed{33}
+\]

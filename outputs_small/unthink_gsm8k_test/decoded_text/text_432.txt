@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Prince Thaddeus slew 100 dragons with his mighty sword, while Prince Arthur, using a spear, slew three quarters as many dragons as Prince Thaddeus.  Using a rusty iron axe, Prince Walter slew twice as many dragons as Prince Arthur.  But Prince Bruce, having forgot his sword at home, slew one-fifth as many dragons as Prince Walter using a nail file.  How many Dragons has Prince Bruce slain?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many dragons Prince Bruce has slain.
+
+1. **Prince Thaddeus:**
+   - He slew **100 dragons** with his mighty sword.
+
+2. **Prince Arthur:**
+   - He used a spear and slew **three quarters** as many dragons as Prince Thaddeus.
+   - **Three quarters of 100 dragons** is:
+     \[
+     \frac{3}{4} \times 100 = 75 \text{ dragons}
+     \]
+
+3. **Prince Walter:**
+   - He used a rusty iron axe and slew **twice** as many dragons as Prince Arthur.
+   - **Twice 75 dragons** is:
+     \[
+     2 \times 75 = 150 \text{ dragons}
+     \]
+
+4. **Prince Bruce:**
+   - He used a nail file and slew **one-fifth** as many dragons as Prince Walter.
+   - **One-fifth of 150 dragons** is:
+     \[
+     \frac{1}{5} \times 150 = 30.6 \text{ dragons}
+     \]
+   - However, since you can't have a fraction of a dragon, we'll consider this as **31 dragons** (rounding up).
+
+**Final Answer:**
+\[
+\boxed{31}
+\]

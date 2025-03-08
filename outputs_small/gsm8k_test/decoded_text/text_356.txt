@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Dean's mother gave him $28 to go to the toy store. Dean bought 6 toy cars and 5 teddy bears. Each toy car cost $2 and each teddy bear cost $1. His mother then feels generous and decides to give him an extra $10. How much money does Dean have left?
+A:<｜Assistant｜><think>
+First, I need to determine how much money Dean initially has. He received $28 from his mother.
+
+Next, I'll calculate the total cost of the toys he bought. He purchased 6 toy cars at $2 each, which amounts to 6 multiplied by $2, totaling $12. He also bought 5 teddy bears at $1 each, which costs 5 multiplied by $1, totaling $5.
+
+Adding the cost of the toys together, $12 plus $5 equals $17.
+
+Subtracting the total cost of the toys from the initial amount, $28 minus $17, results in a remaining balance of $11.
+
+Finally, Dean's mother gives him an additional $10, so the final amount of money he has is $11 plus $10, which equals $11.
+</think>
+
+**Solution:**
+
+1. **Initial Amount:**
+   - Dean received **\$28** from his mother.
+
+2. **Cost of Toys:**
+   - **6 toy cars:** Each toy car costs **\$2**.
+     \[
+     6 \text{ cars} \times \$2/\text{car} = \$12
+     \]
+   - **5 teddy bears:** Each teddy bear costs **\$1**.
+     \[
+     5 \text{ bears} \times \$1/\text{bear} = \$5
+     \]
+   - **Total cost of toys:**
+     \[
+     \$12 + \$5 = \$17
+     \]
+
+3. **Money Left After Purchasing Toys:**
+   - Subtract the total cost of toys from the initial amount.
+     \[
+     \$28 - \$17 = \$11
+     \]
+
+4. **After Mother Gives Extra Money:**
+   - Dean's mother gives him an additional **\$10**.
+     \[
+     \$11 + \$10 = \$11
+     \]
+
+5. **Final Amount of Money Dean Has:**
+   \[
+   \boxed{\$11}
+   \]

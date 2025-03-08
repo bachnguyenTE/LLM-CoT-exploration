@@ -1,0 +1,16 @@
+<｜User｜>
+Q: Charlie has boots that are five times the size of Sophie's. If Sophie wears size five boots, what is the average size of shoe worn by the two?
+A:<｜Assistant｜><think>
+</think>
+
+To find the average shoe size worn by Charlie and Sophie, follow these steps:
+
+1. **Determine the sizes:**
+   - Sophie wears size **5**.
+   - Charlie's boots are **five times** the size of Sophie's. So, Charlie's boots are \( 5 \times 5 = 25 \).
+
+2. **Calculate the average:**
+   - Add both sizes together: \( 5 + 25 = 30 \).
+   - Divide by the number of people: \( \frac{30}{2} = 15 \).
+
+**Final Answer:** \(\boxed{15}\)

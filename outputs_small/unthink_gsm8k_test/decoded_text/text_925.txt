@@ -1,0 +1,35 @@
+<｜User｜>
+Q: There are 10000 gallons of water in a pool. Using a water pump, Anthony and his father fill a tank with half the amount of water in the pool. They use water from the tank to water their vegetable garden. If the tank is emptied at a rate of 500 gallons of water per day, how many gallons of water will be remaining in the tank after 6 days?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the initial amount of water in the tank:**
+   
+   - The pool has **10,000 gallons** of water.
+   - Anthony and his father fill a tank with **half the amount** of water in the pool.
+   
+   \[
+   \text{Water in tank} = \frac{10,\!00}{2} = 5,\!00 \text{ gallons}
+   \]
+
+2. **Calculate the total water removed over 6 days:**
+   
+   - The **tank is emptied at a rate of 500 gallons per day**.
+   
+   \[
+   \text{Total water removed in 6 days} = 5,\!00 \text{ gallons/day} \times 6 \text{ days} = 30,\!00 \text{ gallons}
+   \]
+
+3. **Find the remaining water in the tank:**
+   
+   \[
+   \text{Remaining water} = 5,\!00 \text{ gallons} - 30,\!00 \text{ gallons} = 20,\!00 \text{ gallons}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{20,\!00}
+\]

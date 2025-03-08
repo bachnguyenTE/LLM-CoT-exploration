@@ -1,0 +1,20 @@
+<｜User｜>
+Q: Daisy bought a bag of potatoes that weighed 5 pounds. She also bought a bag of sweet potatoes that weighed 2 times as much as the potatoes and a bag of carrots that weighed 3 pounds fewer than the sweet potatoes. How many pounds of carrots did Daisy buy?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many pounds of carrots Daisy bought.
+
+1. **Potatoes:**
+   - Daisy bought a bag of potatoes that weighed **5 pounds**.
+
+2. **Sweet Potatoes:**
+   - The bag of sweet potatoes weighed **2 times** as much as the potatoes.
+   - Calculation: \( 2 \times 5\ \text{pounds} = 10\ \text{pounds} \).
+
+3. **Carrots:**
+   - The bag of carrots weighed **3 pounds fewer** than the sweet potatoes.
+   - Calculation: \( 10\ \text{pounds} - 3\ \text{pounds} = 7\ \text{pounds} \).
+
+**Final Answer:**  
+Daisy bought \(\boxed{7}\) pounds of carrots.

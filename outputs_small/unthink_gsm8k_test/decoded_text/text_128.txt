@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Well's mother sells watermelons, peppers, and oranges at the local store. A watermelon costs three times what each pepper costs. An orange costs 5 less than what a watermelon cost. Dillon is sent to the store to buy 4 watermelons, 20 peppers, and 10 oranges. What's the total amount of money he will spend if each pepper costs 15$?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the cost of a pepper:**
+   - Given that each pepper costs **\$15**.
+
+2. **Find the cost of a watermelon:**
+   - A watermelon costs **3 times** what each pepper costs.
+   - **Watermelon cost = 3 × Pepper cost = 3 × \$15 = \$45**.
+
+3. **Determine the cost of an orange:**
+   - An orange costs **\$5 less** than a watermelon.
+   - **Orange cost = Watermelon cost - \$5 = \$45 - \$5 = \$40**.
+
+4. **Calculate the total cost for Dillon's purchase:**
+   - **Watermelons:** 4 × \$45 = \$180
+   - **Peppers:** 20 × \$15 = \$100
+   - **Oranges:** 10 × \$40 = \$400
+
+5. **Sum up all the costs:**
+   - **Total cost = \$180 + \$100 + \$440 = \$720**
+
+**Final Answer:**
+\[
+\boxed{720}
+\]

@@ -1,0 +1,66 @@
+<｜User｜>
+Q: A salesman bought a case of 48 sneakers for $576. He sold 17 of them for $20 at a flash sale on Monday, and the rest were sold to a department store for $25 each throughout the rest of the week. How much money, in dollars, was the salesman's profit?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate the cost per sneaker:**
+   
+   The salesman bought 48 sneakers for \$576.
+   
+   \[
+   \text{Cost per sneaker} = \frac{\$576}{48} = \$12
+   \]
+
+2. **Determine the revenue from the flash sale:**
+   
+   He sold 17 sneakers at \$20 each.
+   
+   \[
+   \text{Revenue from flash sale} = 17 \times \$20 = \$34
+   \]
+
+3. **Calculate the number of sneakers sold to the department store:**
+   
+   Total sneakers = 48
+   
+   Sneakers sold on flash = 17
+   
+   \[
+   \text{Sneakers sold to department store} = 48 - 17 = 31
+   \]
+   
+   (Note: It seems there was a typo in the original problem. The correct number should be 31, not 31. Let's proceed with 31 for accuracy.)
+
+4. **Calculate the revenue from the department store:**
+   
+   Each sneaker was sold for \$25.
+   
+   \[
+   \text{Revenue from department store} = 31 \times \$25 = \$155
+   \]
+
+5. **Calculate the total revenue:**
+   
+   \[
+   \text{Total revenue} = \$34 + \$155 = \$189
+   \]
+
+6. **Calculate the total cost:**
+   
+   \[
+   \text{Total cost} = \$576
+   \]
+
+7. **Determine the profit:**
+   
+   \[
+   \text{Profit} = \text{Total revenue} - \text{Total cost} = \$189 - \$576 = -\$387
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{-387}
+\]

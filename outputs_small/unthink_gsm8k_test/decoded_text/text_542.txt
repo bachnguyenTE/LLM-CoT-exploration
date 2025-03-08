@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Verna loves to eat fruit. She bought three apples at $1.50 each, five oranges at $0.80 each, and six peaches at $0.75 each.  If she gave $20, how much change did she receive?
+A:<｜Assistant｜><think>
+</think>
+
+Let's calculate Verna's change step by step.
+
+1. **Calculate the cost of each type of fruit:**
+   - **Apples:** 
+     \[
+     3 \text{ apples} \times \$1.50/\text{apple} = \$4.50
+     \]
+   - **Oranges:**
+     \[
+     5 \text{ oranges} \times \$0.80/\text{orange} = \$4.00
+     \]
+   - **Peaches:**
+     \[
+     6 \text{ peaches} \times \$0.75/\text{peach} = \$4.50
+     \]
+
+2. **Add up the total cost:**
+   \[
+   \$4.50 + \$4.00 + \$4.50 = \$13.00
+   \]
+
+3. **Subtract the total cost from the amount Verna gave:**
+   \[
+   \$20.00 - \$13.00 = \$6.00
+   \]
+
+**Final Answer:**  
+\boxed{\$6.00}

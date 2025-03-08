@@ -1,0 +1,41 @@
+<｜User｜>
+Q: There are 66 fish in the fish tank. One-third of the fish have red stripes, and 5/11 of the remaining fish have blue stripes. Altogether, how many fish have red stripes and blue stripes?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Total number of fish in the tank: 66
+- One-third of the fish have red stripes.
+- \( \frac{5}{11} \) of the remaining fish have blue stripes.
+
+**Step 1: Calculate the number of fish with red stripes.**
+
+\[
+\text{Number of red-striped fish} = \frac{1}{3} \times 66 = 22
+\]
+
+**Step 2: Determine the number of remaining fish after accounting for red-striped fish.**
+
+\[
+\text{Remaining fish} = 66 - 22 = 44
+\]
+
+**Step 3: Calculate the number of fish with blue stripes from the remaining fish.**
+
+\[
+\text{Number of blue-striped fish} = \frac{5}{11} \times 44 = 20
+\]
+
+**Step 4: Find the total number of fish with both red and blue stripes.**
+
+\[
+\text{Total fish with red and blue stripes} = 22 + 20 = 42
+\]
+
+**Final Answer:**
+
+\[
+\boxed{42}
+\]

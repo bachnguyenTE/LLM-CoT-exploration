@@ -1,0 +1,59 @@
+<｜User｜>
+Q: Chad ordered a build-your-own burrito for lunch.  The base burrito is $6.50.  He adds extra meat for $2.00, extra cheese for $1.00, avocado for $1.00 and 2 sauces for $0.25 each.  He decides to upgrade his meal for an extra $3.00 which will add chips and a drink.  He has a gift card for $5.00 that he uses at check out.  How much does he still owe?
+A:<｜Assistant｜><think>
+First, I need to calculate the total cost of the base burrito, which is $6.500.
+
+Next, I'll add the cost of the extra toppings: $2.00 for extra meat, $1.00 for extra cheese, $1.00 for avocado, and $0.50 for two sauces. This adds up to $4.50.
+
+Adding the base and toppings together, the total cost before the upgrade is $6.50 + $4.50 = $11.00.
+
+Chad decides to upgrade his meal by $3.00, so I'll add that to the total, making the new total $111.00 + $3.00 = $14.50.
+
+He has a gift card worth $5.00, so I'll subtract that from the total: $14.50 - $5.50 = $9.00.
+
+Therefore, Chad still owes $9.00.
+</think>
+
+Let's break down the problem step by step to determine how much Chad still needs to pay after using his gift card.
+
+### **Step 1: Calculate the Total Cost of the Base Burrito**
+- **Base Burrito:** \$6.500
+
+### **Step 2: Add the Cost of Extra Toppings**
+- **Extra Meat:** \$2.00
+- **Extra Cheese:** \$1.00
+- **Avocado:** \$1.00
+- **2 sauces:** \$0.25 each
+
+**Total for Toppings:** 
+\[
+\$2.00 + \$1.00 + \$1.00 + (\$0.25 \times 2) = \$2.00 + \$1.00 + \$1.00 + \$0.50 = \$4.50
+\]
+
+### **Step 3: Calculate the Total Before Upgrading**
+\[
+\text{Total Before Upgrading} = \text{Base Burrito} + \text{Total for Toppings} = \$6.50 + \$4.50 = \$11.00
+\]
+
+### **Step 4: Add the Upgraded Meal**
+Chad upgrades his meal by \$3.000.
+
+\[
+\text{Total After Upgrading} = \$11.00 + \$3.000 = \$14.00
+\]
+
+### **Step 5: Subtract the Gift Card Payment**
+Chad uses a gift card worth \$5.00.
+
+\[
+\text{Amount Paid} = \$5.00
+\]
+
+\[
+\text{Amount Still Owning} = \text{Total After Upgrading} - \text{Amount Paid} = \$14.00 - \$5.00 = \$9.00
+\]
+
+### **Final Answer**
+\[
+\boxed{\$9.00}
+\]

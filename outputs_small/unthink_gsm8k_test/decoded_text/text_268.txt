@@ -1,0 +1,21 @@
+<｜User｜>
+Q: A real estate agent has spent $5 on each newspaper ad and spent $75 on each television ad. He bought 50 newspaper ads and 15 television ads. How much did the real estate agent spend on buying all the ads?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total amount the real estate agent spent on buying all the ads, we'll calculate the cost for each type of ad separately and then add them together.
+
+1. **Cost for Newspaper Ads:**
+   - **Number of Newspaper Ads:** 50
+   - **Cost per Newspaper Ad:** \$5
+   - **Total Cost for Newspaper Ads:** \( 50 \times \$5 = \$250 \)
+
+2. **Cost for Television Ads:**
+   - **Number of Television Ads:** 15
+   - **Cost per Television Ad:** \$75
+   - **Total Cost for Television Ads:** \( 15 \times \$75 = \$1,125 \)
+
+3. **Total Cost for All Ads:**
+   - **Total Cost:** \( \$250 + \$1,125 = \$1,375 \)
+
+**Final Answer:** \(\boxed{\$1,375}\)

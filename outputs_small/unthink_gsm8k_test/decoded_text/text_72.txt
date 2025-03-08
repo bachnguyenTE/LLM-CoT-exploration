@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Tommy is fundraising for his charity by selling brownies for $3 a slice and cheesecakes for $4 a slice. If Tommy sells 43 brownies and 23 slices of cheesecake, how much money does Tommy raise?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Tommy is raising money by selling brownies and cheesecakes. Here's how to calculate the total amount he raises:
+
+1. **Calculate the money from brownies:**
+   - **Price per brownie:** \$3
+   - **Number sold:** 43
+   - **Total from brownies:** \( 43 \times 3 = \$129 \)
+
+2. **Calculate the money from cheesecakes:**
+   - **Price per cheesecake:** \$4
+   - **Number sold:** 23
+   - **Total from cheesecakes:** \( 23 \times 4 = \$92 \)
+
+3. **Calculate the total money raised:**
+   - **Total from brownies:** \$129
+   - **Total from cheesecakes:** \$92
+   - **Total money raised:** \( 129 + 92 = \$221 \)
+
+**Final Answer:**
+\[
+\boxed{221}
+\]

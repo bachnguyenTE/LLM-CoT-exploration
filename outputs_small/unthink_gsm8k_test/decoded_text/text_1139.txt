@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Russell orders his favorite bagels online.  Each pack of bagels costs $10.00 and has 9 bagels in the pack.  If he orders 4 packs of bagels, he will receive a 10% discount.  After ordering 4 bags, how much will each single bagel cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total number of bagels ordered:**
+   - Each pack contains 9 bagels.
+   - Russell orders 4 packs.
+   \[
+   4 \text{ packs} \times 9 \text{ bagels/pack} = 36 \text{ bagels}
+   \]
+
+2. **Calculate the total cost before discount:**
+   - Each pack costs \$10.00.
+   - 4 packs cost:
+   \[
+   4 \times \$10.00 = \$40.00
+   \]
+
+3. **Apply the 10% discount:**
+   - **Discount amount:**
+   \[
+   10\% \text{ of } \$40.00 = 0.10 \times 40.00 = \$4.40
+   \]
+   - **Total cost after discount:**
+   \[
+   \$44.00 - \$4.40 = \$39.60
+   \]
+
+4. **Find the cost per bagel:**
+   - Total cost after discount: \$39.60
+   - Number of bagels: 36
+   \[
+   \frac{\$39.60}{36} = \$1.10 \text{ per bagel}
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$1.10}
+\]

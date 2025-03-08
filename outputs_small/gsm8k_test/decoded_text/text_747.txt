@@ -1,0 +1,66 @@
+<｜User｜>
+Q: A tomato vendor decides to switch who he buys his tomatoes for.  He sells 500 tomatoes a day.  He used to buy them for $.5 each but he gets a new vendor who sells them for $.4 each.  How much money does he save a week?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about a tomato vendor who wants to switch vendors. Let me try to figure out how much he saves in a week. Hmm, let's break it down step by step.
+
+First, the vendor sells 500 tomatoes a day. That's his daily production or sale volume. He used to buy them for $0.5 each, but now he's switching to a new vendor who sells them for $0.4 each. So, he's reducing the price per tomato. I need to find out how much he saves each week because of this switch.
+
+Alright, so let's start by calculating how much he used to spend each day. If he buys 500 tomatoes at $0.5 each, then his daily expenditure is 500 multiplied by 0.5. Let me write that down:
+
+500 * 0.5 = ?
+
+Hmm, 500 times 0.5. Well, 500 is the same as 500.00, so multiplying by 0.5 is the same as multiplying by 1/2, which is half. So, half of 500 is 250. So, he used to spend $250 each day.
+
+Now, with the new vendor, he's buying them for $0.4 each. So, his new daily expenditure would be 500 multiplied by 0.4. Let me calculate that:
+
+500 * 0.4 = ?
+
+Again, 500 times 0.4 is the same as 500 divided by 2.5, but wait, no, that's not right. Actually, 0.4 is the same as 4/10, so 500 * 4/10. Let me compute that.
+
+500 * 4 = 2000, and then divide by 10, which is 200. So, he now spends $200 each day.
+
+So, the difference between his old daily expenditure and the new one is 250 - 200 = $50 per day.
+
+Therefore, each day he saves $50. Now, the question is asking how much he saves in a week. Assuming a week is 7 days, so we need to multiply the daily savings by 7.
+
+So, 50 * 7 = 350.
+
+Therefore, he saves $350 a week.
+
+Wait, let me double-check my calculations to make sure I didn't make a mistake.
+
+First, 500 * 0.5: 500 * 0.5 is indeed 250. Then, 500 * 0.4: 500 * 0.4 is 200. The difference is 50. Then, 50 * 7 is 350. That seems correct.
+
+Alternatively, maybe I can think of it in terms of total savings per week. So, each day, he saves 50, so over 7 days, it's 50*7=350. Yeah, that makes sense.
+
+Is there another way to approach this? Maybe by calculating the total number of tomatoes sold in a week and then computing the savings based on the difference in price.
+
+Let's see, he sells 500 tomatoes a day, so in a week, that's 500*7=3500 tomatoes.
+
+Originally, he bought 3500 tomatoes at $0.5 each, so total cost was 3500*0.5=1750.
+
+With the new vendor, he buys the same 3500 tomatoes at $0.4 each, so total cost is 3500*0.4=1400.
+
+The difference is 1750 - 1400=350. So, same result.
+
+Therefore, he saves $350 a week.
+
+I think that's solid. I don't see any mistakes in my calculations. So, yeah, the answer should be $350.
+
+**Final Answer**
+The tomato vendor saves \boxed{350} dollars a week.
+</think>
+
+The tomato vendor sells 500 tomatoes a day. He used to buy them for $0.5 each, so his daily expenditure was:
+
+\[ 500 \times 0.5 = 250 \]
+
+With the new vendor, he buys them for $0.4 each, so his new daily expenditure is:
+
+\[ 500 \times 0.4 = 200 \]
+
+The daily savings is:
+
+\[ 250 - 200 = 50 \]
+
+To find the weekly savings, we multiply the daily savings by 

@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Carrie was given ten twenties and 140 quarters by her aunt to use for lunch. If she spent all the quarters and 3/5 of the twenties, calculate the total amount of money she paid for the lunch.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the total amount Carrie paid for lunch, we'll break down the problem into two parts: the cost of the twenties and the cost of the quarters.
+
+1. **Calculating the cost of the twenties:**
+   - Each twenty is worth **\$20**.
+   - Carrie spent **3/5** of the twenties.
+   - **Amount spent on twenties:** 
+     \[
+     \frac{3}{5} \times 20 = \frac{3}{5} \times 20 = 12
+     \]
+     So, she spent **\$12** on twenties.
+
+2. **Calculating the cost of the quarters:**
+   - Each quarter is worth **\$0.25**.
+   - Carrie spent all **140** quarters.
+   - **Amount spent on quarters:** 
+     \[
+     140 \times 0.25 = 35
+     \]
+     So, she spent **\$35** on quarters.
+
+3. **Calculating the total amount spent:**
+   \[
+   12 + 35 = 47
+   \]
+   
+**Final Answer:** \(\boxed{47}\)

@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Katina has $3000 in her savings account. If she removes $100 from the account every month, how much money will be remaining within the account after 2 years?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Katina has an initial amount of money in her savings account, and she removes a fixed amount every month. We need to determine how much money will remain after a certain period.
+
+**Given:**
+- **Initial amount (P):** \$3,0000
+- **Monthly withdrawal (R):** \$100
+- **Time (t):** 2 years
+
+**Steps to Calculate:**
+
+1. **Convert Time to Months:**
+   - 2 years = 2 × 12 = 24 months
+
+2. **Calculate Total Withdrawals:**
+   - Total withdrawals = Monthly withdrawal × Number of months
+   - Total withdrawals = \$100 × 24 = \$2,400
+
+3. **Calculate Remaining Amount:**
+   - Remaining amount = Initial amount - Total withdrawals
+   - Remaining amount = \$3,000 - \$2,400 = \$6,600
+
+**Final Answer:**
+\[
+\boxed{\$6,\!600}
+\]

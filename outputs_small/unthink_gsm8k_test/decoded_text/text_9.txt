@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Eliza's rate per hour for the first 40 hours she works each week is $10. She also receives an overtime pay of 1.2 times her regular hourly rate. If Eliza worked for 45 hours this week, how much are her earnings for this week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine Eliza's earnings for the week, we'll break down her work hours into regular hours and overtime hours.
+
+1. **Regular Hours:**
+   - **Hourly Rate:** \$10 per hour
+   - **Regular Hours Worked:** 40 hours
+   - **Earnings from Regular Hours:** 
+     \[
+     40 \text{ hours} \times \$10/\text{hour} = \$400
+     \]
+
+2. **Overtime Hours:**
+   - **Total Hours Worked:** 45 hours
+   - **Overtime Hours:** 
+     \[
+     45 \text{ hours} - 40 \text{ hours} = 5 \text{ hours}
+     \]
+   - **Overtime Pay Rate:** 
+     \[
+     1.2 \times \$10/\text{hour} = \$12/\text{hour}
+     \]
+   - **Earnings from Overtime Hours:** 
+     \[
+     5 \text{ hours} \times \$12/\text{hour} = \$60
+     \]
+
+3. **Total Earnings for the Week:**
+   \[
+   \$440 \text{ (Regular)} + \$60 \text{ (Overtime)} = \$504
+   \]
+
+**Final Answer:**
+\[
+\boxed{504}
+\]

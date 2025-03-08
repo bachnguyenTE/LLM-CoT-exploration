@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Brett is 14 years old. In four years his sister Angela will be three times as old as he is now. How old is Angela right now?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Brett is currently 14 years old.
+- In four years, Angela's age will be three times Brett's current age.
+
+**Let’s define:**
+- Let \( A \) be Angela's current age.
+
+**Step 1: Express Angela's age in four years.**
+- In four years, Angela will be \( A + 4 \) years old.
+
+**Step 2: Set up the equation based on the given information.**
+- In four years, Angela's age will be three times Brett's current age.
+- Brett's current age is 14, so three times that is \( 3 \times 14 = 12 \).
+- Therefore, the equation is:
+  \[
+  A + 4 = 12
+  \]
+
+**Step 3: Solve for \( A \).**
+\[
+A + 4 = 12 \\
+A = 12 - 4 \\
+A = 8
+\]
+
+**Final Answer:**
+Angela is currently \(\boxed{8}\) years old.

@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Bennet is a farmer. He sells 20 of his eggplants for $3 each. He has 25 ears of corn that he can sell as well. If Bennet wants to make a total of $135, how much should he sell each ear of corn for?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Earnings Desired:**
+   Bennet wants to make a total of **\$135**.
+
+2. **Earnings from Eggplants:**
+   - He sells **20 eggplants**.
+   - Each eggplant is sold for **\$3**.
+   - **Total earnings from eggplants = 20 eggplants × \$3/eggplant = \$60**.
+
+3. **Earnings Needed from Corn:**
+   - Total desired earnings: **\$135**
+   - Earnings from eggplants: **\$60**
+   - **Earnings needed from corn = \$135 - \$60 = \$75**
+
+4. **Number of Corn Ears:**
+   - Bennet has **25 ears of corn** to sell.
+
+5. **Price per Ear of Corn:**
+   - **Total earnings needed from corn = \$75**
+   - **Price per ear of corn = \$75 ÷ 25 ears = \$3 per ear**
+
+**Final Answer:**
+Bennet should sell each ear of corn for **\$3**.

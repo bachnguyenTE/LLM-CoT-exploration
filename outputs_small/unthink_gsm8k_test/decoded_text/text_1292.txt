@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Jackie grew 3" over the summer.  She is now 2" shorter than Anne, who is twice the size of Albert.  If Albert is 36" tall, how tall was Jackie before summer?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how tall Jackie was before summer.
+
+1. **Albert's Height:**
+   - Albert is given as **36 inches** tall.
+
+2. **Anne's Height:**
+   - Anne is **twice the size** of Albert.
+   - **Anne's height = 2 × Albert's height**
+   - **Anne's height = 2 × 36 inches = 72 inches**
+
+3. **Jackie's Height Before Summer:**
+   - Jackie is **2 inches shorter** than Anne.
+   - **Jackie's height before summer = Anne's height - 2 inches**
+   - **Jackie's height before summer = 72 inches - 2 inches = 70 inches**
+
+**Final Answer:**
+\[
+\boxed{70\text{ inches}}
+\]

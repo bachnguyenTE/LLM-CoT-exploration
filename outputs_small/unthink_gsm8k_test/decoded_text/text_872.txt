@@ -1,0 +1,46 @@
+<｜User｜>
+Q: Seven bottles of soda cost $21.00 while 4 bottles of water cost $8. If David wants to buy 3 bottles of soda and 2 bottles of water, how much will that cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+First, let's determine the cost per bottle for both soda and water.
+
+1. **Cost per bottle of soda:**
+   \[
+   \text{Total cost for 7 bottles} = \$21.00
+   \]
+   \[
+   \text{Cost per bottle} = \frac{\$21.00}{7} = \$3.00
+   \]
+
+2. **Cost per bottle of water:**
+   \[
+   \text{Total cost for 4 bottles} = \$8.00
+   \]
+   \[
+   \text{Cost per bottle} = \frac{\$8.00}{4} = \$2.00
+   \]
+
+Now, calculate the total cost for 3 bottles of soda and 2 bottles of water.
+
+3. **Cost for 3 bottles of soda:**
+   \[
+   3 \text{ bottles} \times \$3.00/\text{bottle} = \$9.00
+   \]
+
+4. **Cost for 2 bottles of water:**
+   \[
+   2 \text{ bottles} \times \$2.00/\text{bottle} = \$4.00
+   \]
+
+5. **Total cost:**
+   \[
+   \$9.00 + \$4.00 = \$13.00
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$13.00}
+\]

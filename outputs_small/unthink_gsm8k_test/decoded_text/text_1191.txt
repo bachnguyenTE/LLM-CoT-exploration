@@ -1,0 +1,25 @@
+<｜User｜>
+Q: May is getting her hair cut and colored. It costs $40 for the color and $30 per inch of haircut. If her hair started at 10 inches and ended at 8, how much did her cut and color cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the total cost of May's hair cut and color, we'll break down the costs step by step.
+
+1. **Color Cost:**
+   - The color costs a flat rate of \$400.
+
+2. **Haircut Cost:**
+   - The cost depends on the length of the hair. May's hair started at 10 inches and ended at 8 inches.
+   - **Change in length:** \( 10 \text{ inches} - 8 \text{ inches} = 2 \text{ inches} \)
+   - The cost per inch is \$30.
+   - **Total haircut cost:** \( 2 \text{ inches} \times \$30/\text{inch} = \$60 \)
+
+3. **Total Cost:**
+   - **Color cost + Haircut cost:** \( \$400 + \$60 = \$464 \)
+
+**Final Answer:**
+\[
+\boxed{\$464}
+\]

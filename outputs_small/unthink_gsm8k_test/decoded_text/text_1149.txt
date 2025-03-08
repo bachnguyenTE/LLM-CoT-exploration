@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Jen got 3 fish.  They each need $1 worth of food a day.  How much does she spend on food in the month of May?
+A:<｜Assistant｜><think>
+</think>
+
+Sure! Let's break down the problem step by step.
+
+**Problem Statement:**
+Jen got 3 fish. They each need \$1 worth of food a day. How much does she spend on food in the month of May?
+
+**Solution:**
+
+1. **Determine the number of people:**
+   - Jen has 3 fish.
+   - Each fish needs \$1 worth of food per day.
+   - Therefore, the total number of people (including Jen) is **3**.
+
+2. **Calculate daily food cost:**
+   - Each person needs \$1 per day.
+   - Total daily food cost = Number of people × Cost per person
+   - Total daily food cost = 3 × \$1 = **\$3**
+
+3. **Determine the number of days in May:**
+   - May has **31 days**.
+
+4. **Calculate monthly food cost:**
+   - Total monthly food cost = Total daily food cost × Number of days
+   - Total monthly food cost = \$3 × 31 = **\$93**
+
+**Final Answer:**
+\[
+\boxed{\$93}
+\]

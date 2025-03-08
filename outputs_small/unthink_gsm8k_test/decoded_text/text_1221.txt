@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Aiden is making his famous steakhouse-seasoned meatballs for a neighborhood cookout. He adds two tablespoons of his secret steakhouse seasoning for every pound of ground beef he uses. He gets sixteen meatballs from each pound of meat. If he wants to make 80 meatballs for the cookout, how much of his secret seasoning will he need?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the amount of ground beef needed to make 80 meatballs:**
+   
+   - Aiden gets **16 meatballs** from each **1 pound** of ground beef.
+   
+   - To find out how many pounds of ground beef are needed for **80 meatballs**, we can set up the equation:
+     
+     \[
+     \text{Pounds of ground beef} = \frac{\text{Number of meatballs needed}}{\text{Number of meatballs per pound}}
+     \]
+     
+     Plugging in the numbers:
+     
+     \[
+     \text{Pounds of ground beef} = \frac{80}{16} = 5.5 \text{ pounds}
+     \]
+     
+2. **Calculate the amount of seasoning needed:**
+   
+   - Aiden adds **2 tablespoons** of seasoning for every **1 pound** of ground beef.
+   
+   - For **5.5 pounds** of ground beef, the amount of seasoning required is:
+     
+     \[
+     \text{Tablespoons of seasoning} = 2 \times 5.5 = 11 \text{ tablespoons}
+     \]
+     
+3. **Final Answer:**
+   
+   Aiden will need **11 tablespoons** of seasoning to make 80 meatballs.
+
+\[
+\boxed{11 \text{ tablespoons}}
+\]

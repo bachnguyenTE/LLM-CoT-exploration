@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Greta wanted brownies for her birthday.  She made a batch for herself; one dozen cream cheese swirl brownies.  At her office, they threw her a party and sent her home with 1/2 a dozen brownies.  When she arrived home, her friends were there to throw her a surprise party and had 4 dozen brownies waiting.  During the party, 1 1/2 dozen brownies were eaten.  How many individual brownies did Greta have left over from the entire day?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many individual brownies Greta has left after the day.
+
+1. **Initial Brownies Made:**
+   - Greta made **1 dozen** cream cheese swirl brownies.
+   - **1 dozen = 12 brownies**
+   - **Total brownies made:** 12
+
+2. **Brownies Sent Home:**
+   - She was sent **1/2 a dozen** to her office.
+   - **1/2 dozen = 6 brownies**
+   - **Brownies left at home:** 12 - 6 = **6 brownies**
+
+3. **Brownies Arrived at Home:**
+   - There were **4 dozen** of brownies waiting.
+   - **4 dozen = 48 brownies**
+
+4. **Brownies Eaten During the Party:**
+   - **1 1/2 dozen** were eaten.
+   - **1 1/2 dozen = 18 brownies**
+
+5. **Total Brownies Greta Has:**
+   - Brownies left at home: 6
+   - Brownies arrived at home: 48
+   - **Total brownies available:** 6 + 48 = **54 brownies**
+
+6. **Brownies Left After Eating:**
+   - Brownies eaten: 18
+   - **Brownies left:** 54 - 18 = **36 brownies**
+
+**Final Answer:**
+\[
+\boxed{36}
+\]

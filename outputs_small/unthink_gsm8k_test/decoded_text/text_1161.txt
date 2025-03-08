@@ -1,0 +1,55 @@
+<｜User｜>
+Q: Abraham owns 80 square meters of unused land. He sold half of the land for $50, and after a month, he sold another 1/4 of his land for $30. He then sold the remaining land for $3 per square meter. How much money will he be able to earn after selling all his unused land?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Total Land Area:**
+   \[
+   80 \text{ square meters}
+   \]
+
+2. **First Sale:**
+   \[
+   \text{Sold half of the land} = \frac{80}{2} = 40 \text{ square meters}
+   \]
+   \[
+   \text{Revenue} = 40 \text{ square meters} \times \$50 = \$2,000
+   \]
+
+3. **Remaining Land After First Sale:**
+   \[
+   80 - 40 = 40 \text{ square meters}
+   \]
+
+4. **Second Sale:**
+   \[
+   \text{Sold one-fourth of the original land} = \frac{80}{4} = 20 \text{ square meters}
+   \]
+   \[
+   \text{Revenue} = 20 \text{ square meters} \times \$30 = \$660
+   \]
+
+5. **Remaining Land After Second Sale:**
+   \[
+   40 - 20 = 20 \text{ square meters}
+   \]
+
+6. **Third Sale:**
+   \[
+   \text{Sold the remaining 20 square meters at \$3 per square meter}
+   \]
+   \[
+   \text{Revenue} = 20 \times \$3 = \$60
+   \]
+
+7. **Total Revenue:**
+   \[
+   \$2,000 + \$666 + \$60 = \$2,726
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$2,726}
+\]

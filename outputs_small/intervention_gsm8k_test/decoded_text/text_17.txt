@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Jill gets paid $20 per hour to teach and $30 to be a cheerleading coach. If she works 50 weeks a year, 35 hours a week as a teacher and 15 hours a week as a coach, what's her annual salary?
+A:<｜Assistant｜><think>
+Okay, so I need to figure out Jill's annual salary based on the information given. Let me break this down step by step. 
+
+First, Jill has two jobs: teaching and being a cheerleading coach. She gets paid $20 per hour for teaching and $30 per hour for coaching. She works 50 weeks a year. Out of those 50 weeks, she spends 35 weeks teaching and 15 weeks coaching. Wait, that seems right. 35 plus 15 is 50 weeks. 
+
+So, I think I need to calculate her earnings from each job separately and then add them together to get her total annual salary. Let me write that down.
+
+Starting with teaching: She works 35 hours a week at $20 per hour. So, her weekly earnings from teaching would be 35 hours multiplied by $20 per hour. Let me calculate that. 35 times 20 is... 35*20. Hmm, 30*20 is 600, and 5*20 is 100, so 600 + 100 is 700. So, she makes $700 per week teaching.
+
+Now, for being a cheerleading coach, she works 15 hours a week at $30 per hour. So, her weekly earnings from coaching would be 15 hours multiplied by $30 per hour. Let me compute that. 15*30 is 450, and 15*0 is 0, so 450 + 0 is 450. So, she makes $450 per week coaching.
+
+Now, to find her total annual salary, I need to multiply her weekly earnings from each job by the number of weeks she works each. She works 50 weeks a year. So, for teaching, it's 700 dollars per week times 50 weeks. And for coaching, it's 450 dollars per week times 50 weeks.
+
+Let me calculate each part separately. 
+
+First, teaching: 700 * 50. Hmm, that's a bit of a big number. Let me break it down. 700 times 50 is the same as 700 times 5 times 10. 700 times 5 is 3500, and then times 10 is 35,000. So, teaching gives her $35,000 per year.
+
+Next, coaching: 450 * 50. That's 450 times 50. Again, breaking it down, 450 times 5 is 2250, and times 10 is 22,500. So, coaching gives her $22,500 per year.
+
+Now, to find her total annual salary, I need to add these two amounts together. So, $35,000 plus $22,500. Let me add those. 35,000 plus 22,500 is 57,500. So, her total annual salary is $57,500.
+
+Wait, that seems right. Let me double-check my calculations to make sure I didn't make any mistakes. 
+
+Starting with teaching: 35 hours a week at $20. 35*20. 30*20 is 600, and 5*20 is 100, so 600+100 is 700. That's correct. 700*50. 700*50: 700*50 is 35,000. That's correct.
+
+For coaching: 15 hours a week at $30. 15*30 is 450. 450*50. 450*50: 450*50 is 22,500. That's correct.
+
+Adding them together: 35,000 + 22,500. 35,000 + 22,500. 35,000 + 22,500 is 57,500. So, yes, $57,500.
+
+Wait, that seems right. So, Jill's annual salary is $57,500.
+
+But, that seems right. Let me think if there's another way to approach this. Maybe calculate the total hours she works each year and then multiply by her hourly rate. But, that seems right. Alternatively, maybe calculate the total earnings from each job separately

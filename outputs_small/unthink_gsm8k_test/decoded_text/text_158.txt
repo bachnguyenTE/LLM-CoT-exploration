@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Raphael went to buy some school supplies. He bought 4 pens which cost $1.5 each, 2 notebooks which cost $4 each, and a rim of bond paper which cost $20. How much did Raphael spend on everything?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much Raphael spent on school supplies, we'll calculate the cost of each item separately and then sum them up.
+
+1. **Cost of Pens:**
+   - Number of pens: 4
+   - Cost per pen: \$1.50
+   - Total cost for pens: \( 4 \times \$1.50 = \$6.00 \)
+
+2. **Cost of Notebooks:**
+   - Number of notebooks: 2
+   - Cost per notebook: \$4.00
+   - Total cost for notebooks: \( 2 \times \$4.00 = \$8.00 \)
+
+3. **Cost of Rim of Bond Paper:**
+   - Number of items: 1
+   - Cost per item: \$20.0
+   - Total cost for bond paper: \( 1 \times \$20.00 = \$20.00 \)
+
+4. **Total Spending:**
+   - Sum of all costs: \( \$6.00 + \$8.00 + \$20.00 = \$34.00 \)
+
+**Final Answer:**
+Raphael spent a total of \(\boxed{\$34.00}\) on everything.

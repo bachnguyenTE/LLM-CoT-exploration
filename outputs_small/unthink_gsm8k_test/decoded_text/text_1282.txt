@@ -1,0 +1,30 @@
+<｜User｜>
+Q: John invited 20 people to a birthday party.  Each guest will eat 2 hot dogs.  He already has 4 hot dogs left over from a previous party.  If a pack of hot dogs contains 6 hot dogs and costs $2, how much does he need to spend on hot dogs?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total number of hot dogs needed:**
+   
+   - John invited **20 people**.
+   - Each guest will eat **2 hot dogs**.
+   - **Total hot dogs needed = 20 guests × 2 hot dogs/guest = 40 hot dogs.**
+
+2. **Calculate the number of hot dogs needed to buy:**
+   
+   - John already has **4 hot dogs** left over.
+   - **Hot dogs to buy = 40 hot dogs - 4 hot dogs = 36 hot dogs.**
+
+3. **Determine how many packs of hot dogs John needs to buy:**
+   
+   - Each pack contains **6 hot dogs**.
+   - **Number of packs needed = 36 hot dogs ÷ 6 hot dogs/pack = 6 packs.**
+
+4. **Calculate the total cost:**
+   
+   - Each pack costs **\$2**.
+   - **Total cost = 6 packs × \$2/pack = \$12.**
+
+**Final Answer:**  
+John needs to spend **\$12** on hot dogs.

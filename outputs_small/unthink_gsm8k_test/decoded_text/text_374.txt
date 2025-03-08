@@ -1,0 +1,21 @@
+<｜User｜>
+Q: Mary has 30 sheep. She gets 1 kg of milk from half of them and 2 kg of milk from the other half every day. How much milk does she collect every day?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Mary has a total of **30 sheep**.
+
+- **First half of the sheep:** She gets **1 kg of milk** every day.
+- **Second half of the sheep:** She gets **2 kg of milk** every day.
+
+**Calculating the total milk collected daily:**
+
+\[
+\text{Total milk} = (\text{Milk from first half}) + (\text{Milk from second half}) = 1\, \text{kg} + 2\, \text{kg} = 3\, \text{kg}
+\]
+
+**Answer:**
+
+Mary collects **3 kg of milk** every day.

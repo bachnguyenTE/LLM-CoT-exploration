@@ -1,0 +1,47 @@
+<｜User｜>
+Q: Benny threw bologna at his balloons.  He threw two pieces of bologna at each red balloon and three pieces of bologna at each yellow balloon.  If Benny threw 58 pieces of bologna at a bundle of red and yellow balloons, and twenty of the balloons were red, then how many of the balloons in the bundle were yellow?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- Benny throws **2 pieces** of bologna at each red balloon.
+- Benny throws **3 pieces** of bologna at each yellow balloon.
+- Total bologna thrown: **58 pieces**.
+- Number of **red balloons**: **20** (twenty).
+
+**Let:**
+- \( r = 20 \) (number of red balloons).
+- \( y \) = number of yellow balloons (unknown).
+
+**Total bologna thrown:**
+\[
+\text{Total bologna} = (\text{Bologna per red balloon} \times \text{Number of red balloons}) + (\text{Bologna per yellow balloon} \times \text{Number of yellow balloons})
+\]
+\[
+58 = (2 \times 20) + (3 \times y)
+\]
+
+**Calculate the bologna from red balloons:**
+\[
+2 \times 20 = 40
+\]
+
+**Substitute back into the equation:**
+\[
+58 = 40 + 3y
+\]
+
+**Solve for \( y \):**
+\[
+58 - 40 = 3y \\
+18 = 3y \\
+y = \frac{18}{3} \\
+y = 6
+\]
+
+**Final Answer:**
+\[
+\boxed{6}
+\]

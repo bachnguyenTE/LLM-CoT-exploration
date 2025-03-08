@@ -1,0 +1,53 @@
+<｜User｜>
+Q: Adam has $100 and wants to spend it to open a rock stand. He can buy rocks for $5 each and sell them for $7 each. If he invests all his money in the rock stand but only sells 60% of his inventory, how much money does he lose?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Investment:**
+   Adam invests all his \$100 in the rock stand.
+
+2. **Cost of Rocks:**
+   - Each rock costs \$5.
+   - If he buys **x** rocks, his total cost is:
+     \[
+     5x = 100
+     \]
+     Solving for \(x\):
+     \[
+     x = \frac{100}{5} = 20 \text{ rocks}
+     \]
+
+3. **Selling Rocks:**
+   - He sells each rock for \$7.
+   - He sells **60%** of his inventory.
+   - Number of rocks sold:
+     \[
+     0.60 \times 20 = 13.2 \text{ rocks}
+     \]
+     Since he can't sell a fraction of a rock, we'll consider 13 rocks sold.
+
+4. **Revenue from Sales:**
+   - Revenue from selling 13 rocks:
+     \[
+     13 \times 7 = 91 \text{ dollars}
+     \]
+
+5. **Total Cost:**
+   - Adam initially invested \$100.
+
+6. **Profit/Loss:**
+   - Total revenue from sales: \$91
+   - Total cost: \$100
+   - **Loss:**
+     \[
+     100 - 91 = 9 \text{ dollars}
+     \]
+
+**Final Answer:**
+\[
+\boxed{9}
+\]

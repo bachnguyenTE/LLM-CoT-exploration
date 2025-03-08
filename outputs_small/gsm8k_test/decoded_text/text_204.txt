@@ -1,0 +1,43 @@
+<｜User｜>
+Q: Janet had 22 green pens and 10 yellow pens. Then she bought 6 bags of blue pens and 2 bags of red pens. There were 9 pens in each bag of blue and 6 pens in each bag of red. How many pens does Janet have now?
+A:<｜Assistant｜><think>
+First, I need to determine the number of green pens Janet originally had, which is 22.
+
+Next, I'll calculate the number of yellow pens by adding 10 to the green pens: 22 + 10 = 32 yellow pens.
+
+Then, I'll find out how many blue pens Janet bought by multiplying the number of bags by pens per bag: 6 bags × 9 pens per bag = 54 blue pens.
+
+Similarly, I'll calculate the number of red pens by multiplying the number of red bags by pens per bag: 2 bags × 6 pens per bag = 12 red pens.
+
+Finally, I'll add up all the pens: green + yellow + blue + red = 22 + 32 + 54 + 12 = 120 pens in total.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Green Pens:**
+   - Janet initially had **22 green pens**.
+
+2. **Yellow Pens:**
+   - She had **10 yellow pens**.
+   - **Total pens so far:** \(22 + 10 = 32\) pens.
+
+3. **Blue Pens:**
+   - She bought **6 bags** of blue pens.
+   - Each bag contains **9 pens**.
+   - **Total blue pens:** \(6 \times 9 = 54\) pens.
+
+4. **Red Pens:**
+   - She bought **2 bags** of red pens.
+   - Each bag contains **6 pens**.
+   - **Total red pens:** \(2 \times 6 = 12\) pens.
+
+5. **Total Pens:**
+   - **Green pens + Yellow pens + Blue pens + Red pens**
+   - \(22 + 32 + 54 + 12 = 120\) pens.
+
+**Final Answer:**
+\[
+\boxed{120}
+\]

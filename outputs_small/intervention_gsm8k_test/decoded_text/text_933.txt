@@ -1,0 +1,54 @@
+<｜User｜>
+Q: A charity group decides to do a yard sale.  10 people donate 5 boxes of stuff each.  They also have 10 boxes of stuff already.  They can fit 2 boxes worth of stuff per table.  If they already own 15 tables, how many new tables do they need?
+A:<｜Assistant｜><think>
+First, calculate the total number of boxes donated by the charity group. There are 10 people, each donating 5 boxes, so that's 10 multiplied by 5, which equals 50 boxes.
+
+Next, add the 10 boxes that were already already donated. This gives a total of 50 plus 10, which equals 60 boxes.
+
+Since each table can hold 2 boxes, divide the total number of boxes by 2 to find out how many tables are needed. So, 60 divided by 2 equals 30 tables.
+
+The charity group already has 15 tables. Subtracting this from the total number of tables needed gives 30 minus 15, which equals 18 new tables.
+
+Therefore, they need 18 new tables.
+</think>
+
+To determine how many new tables the charity group needs, let's break down the problem step by step.
+
+### **Step 1: Calculate the Total Number of Boxes Donated**
+
+- **Number of people donating:** 10
+- **Boxes donated per person:** 5
+
+\[
+\text{Total boxes donated} = 10 \text{ people} \times 5 \text{ boxes/person} = 50 \text{ boxes}
+\]
+
+### **Step 2: Add the Already Donated Boxes**
+
+- **Already donated boxes:** 10
+
+\[
+\text{Total boxes} = 50 \text{ boxes} + 10 \text{ boxes} = 60 \text{ boxes}
+\]
+
+### **Step 3: Determine the Number of Tables Needed**
+
+- **Boxes per table:** 2
+
+\[
+\text{Total tables needed} = \frac{60 \text{ boxes}}{2 \text{ boxes/table}} = 30 \text{ tables}
+\]
+
+### **Step 4: Subtract the Number of Tables Already Available**
+
+- **Tables already owned:** 15
+
+\[
+\text{New tables needed} = 30 \text{ tables} - 15 \text{ tables} = 15 \text{ tables}
+\]
+
+### **Final Answer**
+
+\[
+\boxed{15}
+\]

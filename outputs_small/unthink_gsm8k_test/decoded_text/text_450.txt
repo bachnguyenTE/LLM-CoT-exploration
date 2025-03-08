@@ -1,0 +1,49 @@
+<｜User｜>
+Q: You can buy a movie super ticket for $20 that includes rights to watch any movie and you get one popcorn with a soda for only $1 extra. Or you can buy a movie ticket for $12 and buy one popcorn and a soda at regular price. What's the regular price of popcorn if the soda costs $3 and you didn't buy the super ticket and ended up saving $2?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Define Variables:**
+   - Let \( P \) be the **regular price of popcorn**.
+   - The **regular price of soda** is given as \$3.
+
+2. **Super Ticket Option:**
+   - **Cost:** \$20 (includes a movie and one popcorn with a soda).
+   - **Total cost for super ticket:** \$20.
+
+3. **Regular Ticket Option:**
+   - **Cost per ticket:** \$12.
+   - **Cost for popcorn and soda:** \( P + 3 \).
+
+4. **Total Cost for Regular Tickets:**
+   - If you buy one ticket, one popcorn, and one soda, the total cost is:
+     \[
+     12 + P + 3 = 15 + P
+     \]
+
+5. **Savings:**
+   - You saved \$2 by not buying the super ticket.
+   - Therefore, the total cost without the super ticket is:
+     \[
+     20 + 2 = 22
+     \]
+
+6. **Set Up the Equation:**
+   - The total cost without the super ticket equals the total cost with the regular ticket:
+     \[
+     15 + P = 22
+     \]
+
+7. **Solve for \( P \):**
+   \[
+   P = 22 - 15 = 17
+   \]
+
+**Final Answer:**
+\[
+\boxed{17}
+\]

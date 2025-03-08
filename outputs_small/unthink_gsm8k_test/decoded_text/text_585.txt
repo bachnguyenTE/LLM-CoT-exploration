@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Tabitha agreed to pay John and Jill $10 an hour to help clean out her attic and basement.  Jill worked 2 hours on Saturday and 1 hour on Sunday.  John worked twice as long as Jill on Saturday and three times as long as Jill on Sunday.  How much more money did John earn compared to Jill?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how much more money John earned compared to Jill.
+
+### Step 1: Determine the hourly rate and total hours worked
+
+- **Hourly rate:** \$10 per hour
+- **Jill's hours:**
+  - Saturday: 2 hours
+  - Sunday: 1 hour
+- **John's hours:**
+  - Saturday: Twice as long as Jill → \(2 \times 2 = 4\) hours
+  - Sunday: Three times as long as Jill → \(3 \times 1 = 3\) hours
+
+### Step 2: Calculate the total earnings for each
+
+- **Jill's total earnings:**
+  \[
+  \text{Total} = (\text{Saturday} + \text{Sunday}) \times \text{Hourly rate} = (2 + 1) \times 10 = 3 \times 10 = \$30
+  \]
+  
+- **John's total earnings:**
+  \[
+  \text{Total} = (\text{Saturday} + \text{Sunday}) \times \text{Hourly rate} = (4 + 3) \times 10 = 7 \times 10 = \$70
+  \]
+
+### Step 3: Find the difference in earnings
+
+\[
+\text{Difference} = \text{John's earnings} - \text{Jill's earnings} = 70 - 30 = \$40
+\]
+
+\[
+\boxed{40}
+\]

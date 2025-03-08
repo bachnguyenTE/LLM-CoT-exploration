@@ -1,0 +1,52 @@
+<｜User｜>
+Q: Dave bought a large pack of french fries and ate fourteen before a hungry seagull stole the pack out of his hand. When the seagull landed, he gobbled down half the amount of french fries that Dave ate. Then three pigeons bullied him away from the food, and each pigeon ate three fries. Later, a raccoon stole two thirds of the remaining fries. Ants carried off a final french fry, leaving five behind. How many french fries were in the pack when Dave bought it?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many fries were in the large pack when Dave bought it.
+
+1. **Dave ate 14 fries before the seagull stole the pack.**
+   
+   - Let the total number of fries be \( x \).
+   - Fries remaining after Dave ate: \( x - 14 \).
+
+2. **The seagull stole the pack and gobbled down half the amount Dave ate.**
+   
+   - Dave ate 14 fries, so the seagull stole \( \frac{1}{2} \times 14 = 7 \) fries.
+   - Total fries after seagull stole: \( (x - 14) + 7 = x - 7 \).
+
+3. **Three pigeons bullied him away, and each pigeon ate three fries.**
+   
+   - Each pigeon ate 3 fries, so total fries eaten by pigeons: \( 3 \times 3 = 9 \) fries.
+   - Total fries after pigeons ate: \( (x - 7) - 9 = x - 16 \).
+
+4. **A raccoon stole two-thirds of the remaining fries.**
+   
+   - Remaining fries before raccoon stole: \( x - 16 \) (since \( x - 16 \) is after the raccoon stole two-thirds).
+   - Fries stolen by raccoon: \( \frac{2}{3}(x - 16) \).
+   - Remaining fries after raccoon stole: \( (x - 16) - \frac{2}{3}(x -16) = \frac{1}{3}(x -16) \).
+
+5. **An ants carried off a final french fry, leaving five behind.**
+   
+   - Fries carried by ants: 1 (the final one).
+   - Fries remaining after ants ate: \( \frac{1}{3}(x -16) - 1 = 5 \).
+
+6. **Set up the equation and solve for \( x \).**
+   
+   \[
+   \frac{1}{3}(x -16) - 1 = 5
+   \]
+   
+   \[
+   \frac{1}{3}(x -16) = 6
+   \]
+   
+   \[
+   x -16 = 18
+   \]
+   
+   \[
+   x = 34
+   \]
+
+**Final Answer:** \(\boxed{34}\)

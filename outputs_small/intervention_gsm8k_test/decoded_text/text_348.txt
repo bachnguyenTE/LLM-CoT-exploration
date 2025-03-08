@@ -1,0 +1,78 @@
+<｜User｜>
+Q: A factory used to make tractors, but now makes silos. When they made tractors, they sold 10 tractors a day and made $100 per tractor. Now, they sell 5 silos a day, and make $220 per silo. What percentage more are they making per day now?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about a factory that used to make tractors but, that seems right. Now they make silos. Let me try to figure out what's going on here.
+
+First, when they used to make tractors, they sold 10 tractors a day and made $100 per tractor. Hmm, so I need to calculate their daily earnings back then. That should be straightforward. If they sold 10 tractors and each one gave them $100, then their daily income was 10 times 100. Let me write that down:
+
+Daily earnings before = Number of tractors sold per day × Price per tractor
+= 10 × 100
+= $1000 per day.
+
+Okay, so they made $1000 a day before. Now, they're making silos. They sell 5 silos a day and make $220 per silo. I need to find out their new daily earnings. So, similar to before, it's the number of silos sold multiplied by the price per silo.
+
+Daily earnings now = Number of silos sold per day × Price per silo
+= 5 × 220
+= $1100 per day.
+
+Wait, that seems right. 5 times 220 is 1100. So, they make $1100 a day now.
+
+The question is asking for the percentage increase in their daily earnings. So, I need to find how much more they're making now compared to before, expressed as a percentage.
+
+To find the percentage increase, I remember the formula:
+
+Percentage increase = [(New value - Old value)/Old value] × 100%
+
+So, plugging in the numbers:
+
+Percentage increase = [(1100 - 1000)/1000] × 100%
+
+Let me compute the numerator first: 1100 minus 1000 is 100.
+
+So, 100 divided by 1000 is 0.1.
+
+Then, multiplying by 100% gives 10%.
+
+Wait, that seems right. So, they're making 10% more per day now.
+
+Let me double-check my calculations to make sure I didn't make a mistake.
+
+First, daily earnings before: 10 tractors × $100 = $1000. That's correct.
+
+Daily earnings now: 5 silos × $2220. Wait, that seems right. 5 times 220 is 1100. So, $1100.
+
+Difference: 1100 - 1000 = 100.
+
+Percentage increase: (100 / 1000) × 100% = 10%. Yeah, that seems correct.
+
+So, the answer should be 10%.
+
+**Final Answer**
+The factory is making \boxed{10\%} more per day now.
+</think>
+
+The factory used to make tractors and sold 10 tractors a day, making $100 per tractor. Their daily earnings before were calculated as follows:
+
+\[
+\text{Daily earnings before} = 10 \times 100 = 1000 \text{ dollars}
+\]
+
+Now, the factory makes silos and sells 5 silos a day, making $220 per silo. Their new daily earnings are calculated as follows:
+
+\[
+\text{Daily earnings now} = 5 \times 220 = 1100 \text{ dollars}
+\]
+
+To find the percentage increase in daily earnings, we use the formula for percentage increase:
+
+\[
+\text{Percentage increase} = \left( \frac{\text{New value} - \text{Old value}}{\text{Old value}} \right) \times 100\%
+\]
+
+Substituting the values:
+
+\[
+\text{Percentage increase} = \left( \frac{11100 - 1000}{1000} \right) \times 100\% = \left( \frac{100}{1000} \right) \times 100\% = 0.1 \times 100\% = 10\%
+\]
+
+Thus, the factory is making \boxed{10\%} more per day now.

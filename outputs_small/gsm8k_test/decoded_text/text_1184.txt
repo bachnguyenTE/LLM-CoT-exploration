@@ -1,0 +1,35 @@
+<｜User｜>
+Q: To heat during the winter, Ali ordered 850 kilos of coal. The coal is delivered in 50 kg bags, costing $18 per unit. How much does his order cost?
+A:<｜Assistant｜><think>
+First, determine the total number of units Ali needs by dividing the total weight of coal by the weight per unit.
+
+Next, calculate the total cost by multiplying the number of units by the cost per unit.
+
+Finally, present the total cost in the required format.
+</think>
+
+**Solution:**
+
+To determine the total cost of Ali's coal order, follow these steps:
+
+1. **Calculate the number of units:**
+   
+   Ali ordered **850 kilograms** of coal, and each unit (bag) weighs **50 kilograms**.
+   
+   \[
+   \text{Number of units} = \frac{\text{Total weight of coal}}{\text{Weight per unit}} = \frac{850\ \text{kg}}{50\ \text{kg/unit}} = 17\ \text{units}
+   \]
+
+2. **Calculate the total cost:**
+   
+   Each unit costs **\$18**.
+   
+   \[
+   \text{Total cost} = \text{Number of units} \times \text{Cost per unit} = 17 \times \$18 = \$306
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$306}
+\]

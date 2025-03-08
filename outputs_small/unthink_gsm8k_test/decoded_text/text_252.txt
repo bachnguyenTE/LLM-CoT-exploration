@@ -1,0 +1,44 @@
+<｜User｜>
+Q: Last night Rick killed ten wolves and 15 cougars while hunting. Today Rick killed three times as many wolves as cougars and three fewer cougars than the previous night. How many animals did Rick kill?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many animals Rick killed last night and today.
+
+### **Last Night's Kill:**
+1. **Wolves:** Rick killed **10 wolves**.
+2. **Cougars:** Let the number of cougars Rick killed last night be \( C \).
+
+So, the total number of animals Rick killed last night is:
+\[
+10 \text{ wolves} + C \text{ cougars} = 10 + C \text{ animals}
+\]
+
+### **Today's Kill:**
+1. **Cougars:** Today, Rick killed **three fewer** cougars than last night. Therefore, the number of cougars he killed today is:
+   \[
+   C - 3 \text{ cougars}
+   \]
+2. **Wolves:** Today, Rick killed **three times as many** wolves as he did yesterday. Therefore, the number of wolves he killed today is:
+   \[
+   3 \times 10 = 30 \text{ wolves}
+   \]
+   
+So, the total number of animals Rick killed today is:
+\[
+30 \text{ wolves} + (C - 3) \text{ cougars} = 30 + C - 3 = 27 + C \text{ animals}
+\]
+
+### **Total Animals Killed Over the Two Nights:**
+To find the total number of animals Rick killed, add the animals killed last night and today:
+\[
+(10 + C) + (27 + C) = 10 + C + 27 + C = 37 + 2C
+\]
+
+### **Final Answer:**
+The total number of animals Rick killed is:
+\[
+\boxed{37 + 2C}
+\]
+
+If you have a specific value for \( C \), you can substitute it into the equation to get the exact total.

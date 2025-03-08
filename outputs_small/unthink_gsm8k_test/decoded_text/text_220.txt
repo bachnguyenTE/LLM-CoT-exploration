@@ -1,0 +1,29 @@
+<｜User｜>
+Q: It takes Carmen 10 minutes to finish a crossword puzzle and 5 minutes to finish a sudoku puzzle.  Over the weekend she solved 3 crossword puzzles and 8 sudoku puzzles.  How much time did she spend playing these games?
+A:<｜Assistant｜><think>
+</think>
+
+It takes Carmen 10 minutes to finish a crossword puzzle and 5 minutes to finish a sudoku puzzle. Over the weekend, she solved 3 crossword puzzles and 8 sudoku puzzles. To find out how much time she spent playing these games, we can calculate the time spent on each type of puzzle and then add them together.
+
+**Step-by-Step Solution:**
+
+1. **Crossword Puzzles:**
+   - Time per crossword puzzle: 10 minutes
+   - Number of crossword puzzles solved: 3
+   - Total time for crossword puzzles: \( 10 \text{ minutes/puzzle} \times 3 \text{ puzzles} = 30 \text{ minutes} \)
+
+2. **Sudoku Puzzles:**
+   - Time per sudoku puzzle: 5 minutes
+   - Number of sudoku puzzles solved: 8
+   - Total time for sudoku puzzles: \( 5 \text{ minutes/puzzle} \times 8 \text{ puzzles} = 40 \text{ minutes} \)
+
+3. **Total Time Spent:**
+   - Add the time spent on crossword and sudoku puzzles:
+   \[
+   30 \text{ minutes} + 40 \text{ minutes} = 70 \text{ minutes}
+   \]
+
+**Final Answer:**
+\[
+\boxed{70\ \text{minutes}}
+\]

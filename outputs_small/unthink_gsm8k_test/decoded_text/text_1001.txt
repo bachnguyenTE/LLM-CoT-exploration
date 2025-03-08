@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Jordan wanted to surprise her mom with a homemade birthday cake.  From reading the instructions, she knew it would take 20 minutes to make the cake batter and 30 minutes to bake the cake.  The cake would require 2 hours to cool and an additional 10 minutes to frost the cake.  If she plans to make the cake all on the same day, what is the latest time of day that Jordan can start making the cake to be ready to serve it at 5:00 pm?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the latest time Jordan can start making the cake to be ready for her mom at **5:0 pm**, we need to consider the total time required for the entire process. Let's break it down step by step:
+
+1. **Frosting Time:** The cake needs **10 minutes** to frost.
+2. **Cooling Time:** The cake requires **2 hours** to cool.
+3. **Baking Time:** The cake takes **30 minutes** to bake.
+4. **Batter Making Time:** The batter preparation takes **20 minutes**.
+
+**Total Time Required:**
+\[
+20 \text{ minutes (batter)} + 30 \text{ minutes (bake)} + 10 \text{ minutes (frost)} = 60 \text{ minutes}
+\]
+
+**Reverse Calculation:**
+To find the latest start time, subtract the total preparation time from the desired finish time.
+
+\[
+5:00 \text{ pm} - 60 \text{ minutes} = 4:34 \text{ pm}
+\]
+
+**Final Answer:**
+\[
+\boxed{4:34 \text{ pm}}
+\]

@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Out of the 150 teachers on the school basketball court, 60% are history teachers. If the rest of the teachers on the court are math teachers, and each teacher sleeps for 6 hours a day, calculate the total time the math teachers collectively spend sleeping in one day.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the number of history teachers:**
+   
+   \[
+   60\% \text{ of } 150 = 0.60 \times 150 = 90 \text{ history teachers}
+   \]
+
+2. **Find the number of math teachers:**
+   
+   \[
+   \text{Total teachers} - \text{History teachers} = 150 - 90 = 60 \text{ math teachers}
+   \]
+
+3. **Calculate the total sleep time for all math teachers:**
+   
+   \[
+   \text{Each teacher sleeps } 6 \text{ hours} \\
+   \text{Total sleep time} = 60 \text{ math teachers} \times 6 \text{ hours} = 360 \text{ hours}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{360 \text{ hours}}
+\]

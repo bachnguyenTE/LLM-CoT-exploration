@@ -1,0 +1,44 @@
+<｜User｜>
+Q: Shelly's 3 kids spent all day at the water park.  Mitchel went down the water slide 30 times.  Anne went down the slide 30% less than Mitchel and Robert went down 4 times as much as Anne.  How many times did Robert go down the water slide?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Shelly's three kids going down the water slide at water park. Let me try to figure it out step by step. 
+
+First, the problem says that Shelly's three kids spent the whole day at the water park. That part seems straightforward, but, that seems right. The key details are about how many times each kid went down the slide. 
+
+It mentions that Mitchell went down the water slide 30 times. Okay, so Mitchell: 30 times. Then, Anne went down the slide 30% less than Mitchell. Hmm, so Anne went down fewer times than Mitchell. Robert went down 4 times as much as Anne. So, Robert's number of slide goes is four times Anne's number. The question is asking how many times Robert went down the slide. 
+
+Alright, so let me break this down. First, Mitchell went down 30 times. Let me write that down: Mitchell = 30. Then, Anne went down 30% less than Mitchell. So, I need to calculate 30 minus 30% of 30. 
+
+Wait, that seems right. So, 30% less than Mitchell's 30 times. So, first, I need to find 30% of 30, and then subtract that from 30 to get Anne's number. Let me compute that. 
+
+30% of 30 is... Well, 10% of 30 is 0.3, so 30% is 3 times that, which is 0.9. So, 30% of 30 is 9. So, 30 minus 9 is 21. So, Anne went down the slide 21 times. 
+
+Wait, that seems right. Let me double-check. 30 minus 30% of 30. 30% of 30 is 0.3 times 30, which is 9. So, 30 minus 9 is 21. Yeah, that's correct. So, Anne: 21 times. 
+
+Then, Robert went down 4 times as much as Anne. So, Robert's number is 4 times Anne's number. So, 4 times 21. Let me compute that. 4 times 20 is 80, and 4 times 1 is 4, so 80 plus 4 is 84. So, Robert went down the slide 84 times. 
+
+Wait, that seems right. Let me just go through it again to make sure I didn't make a mistake. 
+
+Mitchell: 30 times. Anne went down 30% less, so 30 minus 30% of 30. 30% of 30 is 9, so 30 minus 9 is 21. Then, Robert went down 4 times as much as Anne, so 4 times 21 is 84. 
+
+Hmm, that seems correct. Let me think if there's another way to approach this. Maybe using decimals instead of percentages. 
+
+30% is 0.3 in decimal. So, 30 times 0.3 is 9. So, 30 minus 9 is 21. Then, 21 times 4 is 84. Yeah, same result. 
+
+Alternatively, I can think of it as 30 times (1 - 0.3) for Anne, which is 30 times 0.7, which is 21. Then, 21 times 4 is 84. So, same answer. 
+
+I think that's solid. So, Robert went down the slide 84 times. 
+
+Wait, that seems right. Let me just visualize it. If Mitchell went down 30, which is 30, and Anne went down 30% less, so that's 21, and Robert went down 4 times as much as Anne, so 4 times 21 is 84. Yeah, that makes sense. 
+
+I don't think I made any mistakes here. So, I think the answer is 84. 
+
+**Final Answer**
+The number of times Robert went down the water slide is \boxed{84}.
+</think>
+
+Shelly's three kids spent the whole day at the water park. Mitchell went down the water slide 30 times. Anne went down the slide 30% less than Mitchell, and Robert went down 4 times as much as Anne. 
+
+First, we calculate the number of times Anne went down the slide:
+- Mitchell went down 30 times.
+- 30% of 30 is calculated as \( 30 \times 0.3 = 9 \

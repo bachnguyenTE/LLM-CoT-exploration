@@ -1,0 +1,32 @@
+<｜User｜>
+Q: There are 6 periods in the day for a normal student but John has to take 2 extra classes.  Each class is 40 minutes long.  He goes to class for 5 days a week.  He then spends 1/16 of his weekly minutes each on Saturday and Sunday as extra learning time.  How many hours a week does he spend learning?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many hours a week John spends learning, let's break down the problem step by step.
+
+1. **Calculate the total number of classes John has:**
+   - Normally, there are 6 periods.
+   - John has 2 extra classes.
+   - **Total classes = 6 + 2 = 8 classes.**
+
+2. **Determine the total time spent in class each week:**
+   - Each class is **40 minutes** long.
+   - John attends **5 days a week** in class.
+   - **Total class time = 8 classes × 40 minutes/class = 320 minutes.**
+
+3. **Convert the total class time into hours:**
+   - **Total class time in hours = 320 minutes ÷ 60 minutes/hour ≈ 5.333 hours.**
+
+4. **Calculate the extra learning time on Saturday and Sunday:**
+   - John spends **1/16 of his weekly minutes** on Saturday and Sunday.
+   - **Extra learning time = 5.333 hours × (1/16) ≈ 0.0555 hours.**
+
+5. **Find the total weekly learning time:**
+   - **Total weekly learning time = 5.333 hours + 0.0555 hours ≈ 5.388 hours.**
+
+6. **Convert the total time into hours:**
+   - **Total weekly learning time ≈ 5.388 hours.**
+
+**Final Answer:**
+\boxed{5.388} \text{ hours per week}

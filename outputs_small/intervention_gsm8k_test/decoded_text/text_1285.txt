@@ -1,0 +1,43 @@
+<｜User｜>
+Q: The recent floods in Mamou’s country have left many families without food or shelter. To help, Mamou has volunteered to distribute 1,360 meals to the affected families. She gave out 64 meals on Friday, 30 meals on Saturday, and 48 meals on Sunday. How many meals does she have left to distribute?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of meals that have been distributed so far.
+
+On Friday, 64 meals were given out.
+
+On Saturday, 30 meals were distributed.
+
+On Sunday, 48 meals were given out.
+
+Adding these together: 64 + 30 + 48 = 142 meals distributed.
+
+Next, I'll subtract the total distributed meals from the initial total number of meals available, which is 1,3600.
+
+So, 1,3600 - 142 = 1,2458 meals remaining.
+
+Therefore, Mamou has 12,458 meals left to distribute.
+</think>
+
+To determine how many meals Mamou has left to distribute, follow these steps:
+
+1. **Calculate the total number of meals distributed so far:**
+   
+   - **Meals on Friday:** 64
+   - **Meals on Saturday:** 30
+   - **Meals on Sunday:** 48
+
+   \[
+   \text{Total distributed} = 64 + 30 + 48 = 142
+   \]
+
+2. **Subtract the total distributed meals from the initial total:**
+   
+   \[
+   \text{Meals left} = 1,\!3600 - 142 = 12,\!458
+   \]
+
+3. **Final Answer:**
+
+\[
+\boxed{12,\!458}
+\]

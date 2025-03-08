@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Mattison is 60 inches tall. His two-story house is 7 times as high as he is. The floor to the ceiling on the first floor is thrice as high as he is. How high is the roof from the second floor's floor in inches?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+1. **Mattison's Height:**
+   - Mattison is **60 inches** tall.
+
+2. **Height of the Two-Story House:**
+   - The house is **7 times** as high as Mattison.
+   - **Height of the house** = \( 7 \times 60 \) inches = **420 inches**.
+
+3. **Floor to Ceiling on the First Floor:**
+   - The floor to ceiling height on the first floor is **3 times** Mattison's height.
+   - **First floor height** = \( 3 \times 60 \) inches = **180 inches**.
+
+4. **Calculating the Height from the Second Floor's Floor to the Roof:**
+   - The total height of the house is **420 inches**.
+   - Subtract the height of the first floor (180 inches) from the total height:
+     \[
+     420 \text{ inches} - 180 \text{ inches} = 240 \text{ inches}
+     \]
+   - Therefore, the height from the second floor's floor to the roof is **240 inches**.
+
+**Final Answer:**
+\[
+\boxed{240}
+\]

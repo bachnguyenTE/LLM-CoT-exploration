@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Jerome had 4 friends who came to visit him on a certain day. The first friend pressed on the doorbell 20 times before Jerome opened, the second friend pressed on the doorbell 1/4 times more than Jerome's first friend. The third friend pressed on the doorbell 10 times more than the fourth friend. If the fourth friend pressed on the doorbell 60 times, how many doorbell rings did the doorbell make?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+1. **First Friend:**
+   - Pressed **20 times**.
+
+2. **Second Friend:**
+   - Pressed **1/4 times more** than the first friend.
+   - Calculation: \(20 \times \frac{1}{4} = 5\)
+   - Total presses: \(20 + 5 = 25\)
+
+3. **Fourth Friend:**
+   - Pressed **60 times**.
+
+4. **Third Friend:**
+   - Pressed **10 times more** than the fourth friend.
+   - Calculation: \(60 \times 10 = 600\)
+
+5. **Total Doorbell Rings:**
+   - Sum of all presses: \(20 + 25 + 60 + 60 = 153\)
+
+**Final Answer:** \(\boxed{153}\)

@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Brandon's iPhone is four times as old as Ben's iPhone. Ben's iPhone is two times older than Suzy's iPhone. If Suzy’s iPhone is 1 year old, how old is Brandon’s iPhone?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+1. **Given:**
+   - Suzy’s iPhone is 1 year old.
+   - Ben’s iPhone is two times older than Suzy’s.
+   - Brandon’s iPhone is four times as old as Ben’s.
+
+2. **Calculate Ben’s iPhone Age:**
+   - Ben’s iPhone = 2 × Suzy’s iPhone
+   - Ben’s iPhone = 2 × 1 year
+   - Ben’s iPhone = 2 years
+
+3. **Calculate Brandon’s iPhone Age:**
+   - Brandon’s iPhone = 4 × Ben’s iPhone
+   - Brandon’s iPhone = 4 × 2 years
+   - Brandon’s iPhone = 8 years
+
+**Final Answer:**  
+\boxed{8}

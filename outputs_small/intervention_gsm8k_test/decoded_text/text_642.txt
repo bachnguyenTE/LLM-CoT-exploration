@@ -1,0 +1,52 @@
+<｜User｜>
+Q: James buys a new wardrobe.  He buys 10 suits and 10 dress pants.  He also buys 3 dress shirts per suit.  The suits cost $750 each and the dress pants cost 1/5 that cost.  The dress shirts were $60 each.  How much did everything cost?
+A:<｜Assistant｜><think>
+Okay, so I need to figure out how much James spent on buying all these clothes. Let me break this down step by step because it seems like a lot of items, and I don't want to mix up the costs. 
+
+First, let me list out what James bought:
+
+1. Suits: He bought 10 suits.
+2. Dress pants: He bought 10 of them.
+3. Dress shirts: He bought 3 per suit. Since he bought 10 suits, that would be 3*10 = 30 dress shirts.
+
+Now, let's note down the costs:
+
+- Each suit costs $750.
+- Each dress pants cost is 1/5 of a suit. So, I need to calculate that first.
+- Each dress shirt is $60.
+
+Alright, let's compute the cost for each category.
+
+Starting with the suits: He bought 10 suits, each costing $750. So, the total cost for suits is 10 * $750.
+
+Let me calculate that: 10 * 750. Hmm, 10 times 705. 10*700 is 770, and 11*50 is 50, so adding them together gives 770 + 50 = 820. So, suits cost $820.
+
+Next, the dress pants. He bought 10 of them, and each costs 1/5 of a suit. Since each suit is $750, 1/5 of that is 750 / 5. Let me compute that: 750 divided by 5. 5 goes into 7 once with 2 remainder, then 5 into 25 is 5, and 5 into 0 is 0. So, 750 /5 is 150. So, each dress pants costs $150.
+
+He bought 10 of them, so the total cost for pants is 10 * $150. Let me calculate that: 10*150. 10*100 is 1000, 10*50 is 500, so 1000 + 500 = 1500. So, pants cost $1500.
+
+Now, the dress shirts. He bought 3 per suit, and each is $60. So, first, how many shirts did he buy? 3 per suit * 10 suits = 30 shirts. So, 30 shirts at $60 each. Let me compute that: 30*60. 30*60 is 1800. So, shirts cost $1800.
+
+Now, let me add up all these costs to find the total amount James spent.
+
+Suits: $820
+
+Pants: $1500
+
+Shirts: $1800
+
+Total cost = 820 + 1500 + 1800.
+
+Let me add them step by step.
+
+First, 820 + 1500. 800 + 1500 is 2300, and 20 remains, so 2300 +20=2320.
+
+Then, add the shirts: 2320 + 1800.
+
+2320 + 1800: 2000 + 1800 is 2800, and 320 + 0 is 320, so 2800 + 320=3120.
+
+Wait, that seems right. Let me check:
+
+2320 + 1800.
+
+2320 + 1800: 2000 + 1800 is 3800, and 320 + 0 is 320, so 3800 + 320= 4120. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait

@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Robert had 3 pounds of candy, Cindy had 5 pounds of candy, and Aaron had 4 pounds of candy after Halloween. If they decide to pool and share their candy equally with each other, how much candy would each of them have?
+A:<｜Assistant｜><think>
+First, I need to determine the total amount of candy that Robert, Cindy, and Aaron have together. Robert has 3 pounds, Cindy has 5 pounds, and Aaron has 4 pounds. Adding these amounts gives a total of 12 pounds of candy.
+
+Next, I should figure out how many people are sharing the candy. There are three individuals: Robert, Cindy, and Aaron.
+
+Finally, to find out how much candy each person would have after sharing equally, I divide the total amount of candy by the number of people. Dividing 12 pounds by 3 people results in each person having 4 pounds of candy.
+</think>
+
+To determine how much candy each person would have after pooling and sharing equally, follow these steps:
+
+1. **Calculate the Total Amount of Candy:**
+   
+   \[
+   \text{Total Candy} = \text{Robert's Candy} + \text{Cindy's Candy} + \text{Aaron's Candy}
+   \]
+   
+   \[
+   \text{Total Candy} = 3\ \text{pounds} + 5\ \text{pounds} + 4\ \text{pounds} = 12\ \text{pounds}
+   \]
+
+2. **Determine the Number of People Sharing the Candy:**
+   
+   \[
+   \text{Number of People} = 3 \quad (\text{Robert, Cindy, and Aaron})
+   \]
+
+3. **Divide the Total Candy Equally Among the Three People:**
+   
+   \[
+   \text{Candy per Person} = \frac{\text{Total Candy}}{\text{Number of People}} = \frac{12\ \text{pounds}}{3} = 4\ \text{pounds}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{4\ \text{ pounds}}
+\]

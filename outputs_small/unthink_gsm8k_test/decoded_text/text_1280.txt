@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Steve put together a puzzle that took 10 hours of hard work to complete. Anna put together the same puzzle in 2 hours more than half Steve's time. How long did it take Anna to finish the difficult puzzle?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how long it took Anna to finish the puzzle.
+
+**Given:**
+- Steve took **10 hours** to complete the puzzle.
+- Anna took **2 hours more than half of Steve's time**.
+
+**Step 1: Calculate Half of Steve's Time**
+\[
+\text{Half of Steve's time} = \frac{10\ \text{hours}}{2} = 5\ \text{hours}
+\]
+
+**Step 2: Add 2 Hours to Half of Steve's Time**
+\[
+\text{Anna's time} = 5\ \text{hours} + 2\ \text{hours} = 7\ \text{hours}
+\]
+
+**Final Answer:**
+\[
+\boxed{7\ \text{hours}}
+\]

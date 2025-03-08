@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Carly wants to treat her friends. She orders five hamburgers at $4 each, ten packs of potato fries at $0.30 each pack, and five cans of fruit drinks at $2 each can.  How much change does Carly get back if she gives one fifty-dollar bill?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much change Carly gets back, follow these steps:
+
+1. **Calculate the total cost of the hamburgers:**
+   \[
+   5 \text{ hamburgers} \times \$4 \text{ each} = \$20
+   \]
+
+2. **Calculate the total cost of the potato fries:**
+   \[
+   10 \text{ packs} \times \$0.30 \text{ each} = \$0.0
+   \]
+   (Note: The total cost is \$0.00, which is \$0.)
+
+3. **Calculate the total cost of the fruit drinks:**
+   \[
+   5 \text{ cans} \times \$2 \text{ each} = \$10
+   \]
+
+4. **Add up all the costs:**
+   \[
+   \$20 \text{ (hamburgers)} + \$0.0 \text{ (potato fries)} + \$10 \text{ (fruit drinks)} = \$30
+   \]
+
+5. **Subtract the total cost from the amount Carly gave:**
+   \[
+   \$50 \text{ (fifty-dollar bill)} - \$30 = \$20
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$20}
+\]

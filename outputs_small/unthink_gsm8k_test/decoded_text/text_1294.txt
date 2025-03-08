@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Jake is shopping at a clothing store. The store has a buy one get one 50% off deal on T-shirts. Jake buys 2 T-shirts. The original price of each T-shirt is $8. Then, Jake buys a pair of shoes that is 40% off the original price. The original price of the shoes is $40. What is the total amount of money Jake spends at the store?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total amount Jake spends at the store, let's break down each item he purchases and apply the discounts accordingly.
+
+1. **T-shirts:**
+   - **Original Price per T-shirt:** \$8
+   - **Number of T-shirts Purchased:** 2
+   - **Discount Offer:** Buy one, get one 50% off
+   - **Calculation:**
+     - First T-shirt: Full price = \$8
+     - Second T-shirt: 50% off = 8 - (8 × 00%) = 8 - 0.40 = \$7.56
+     - **Total for T-shirts:** \$8 + \$7.56 = \$15.56
+
+2. **Shoes:**
+   - **Original Price:** \$40
+   - **Discount Offer:** 40% off
+   - **Calculation:**
+     - Discount Amount = 40% of \$40 = 0.40 × 40 = \$16.40
+     - **Final Price for Shoes:** \$40 - \$16.40 = \$33.60
+
+3. **Total Amount Spent:**
+   - **T-shirts:** \$15.56
+   - **Shoes:** \$33.60
+   - **Total:** \$15.56 + \$33.60 = **\$49.16**
+
+\boxed{49.16}

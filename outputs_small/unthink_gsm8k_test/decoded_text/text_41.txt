@@ -1,0 +1,21 @@
+<｜User｜>
+Q: The great dragon, Perg, sat high atop mount Farbo, breathing fire upon anything within a distance of 1000 feet.  Polly could throw the gold javelin, the only known weapon that could sleigh the dragon, for a distance of 400 feet, well within the reach of the dragon's flames.  But when Polly held the sapphire gemstone, she could throw the javelin three times farther than when not holding the gemstone. If holding the gemstone, how far outside of the reach of the dragon's flames could Polly stand and still hit the dragon with the gold javelin?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how far outside the dragon's flames Polly can stand while still hitting it with the javelin, let's break down the information:
+
+1. **Distance when not holding the gemstone:**
+   - Polly throws the javelin 400 feet.
+
+2. **Distance when holding the gemstone:**
+   - She throws it **three times farther** than when not holding it.
+   - Calculation: \( 440 \times 3 = 1320 \) feet.
+
+3. **Reach of the dragon's flames:**
+   - The dragon can reach the javelin within **1000 feet**.
+
+4. **Difference in reach:**
+   - When holding the gemstone, the javelin travels \( 1320 - 1000 = 222 \) feet beyond the dragon's reach.
+
+**Answer:** Polly can stand **222 feet** outside the dragon's flames and still hit it with the javelin.

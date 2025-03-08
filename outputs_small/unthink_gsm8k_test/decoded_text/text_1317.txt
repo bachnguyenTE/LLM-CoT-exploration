@@ -1,0 +1,58 @@
+<｜User｜>
+Q: Farmer Brown has 20 animals on his farm, all either chickens or cows. They have a total of 70 legs, all together. How many of the animals are chickens?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+Farmer Brown has 20 animals on his farm, all either chickens or cows. They have a total of 70 legs, all together. How many of the animals are chickens?
+
+**Solution:**
+
+1. **Define Variables:**
+   - Let \( c \) be the number of chickens.
+   - Let \( k \) be the number of cows.
+
+2. **Set Up Equations:**
+   - Total number of animals:
+     \[
+     c + k = 20
+     \]
+   - Total number of legs:
+     \[
+     2c + 4k = 70
+     \]
+     (Since each chicken has 2 legs and each cow has 4 legs.)
+
+3. **Solve the System of Equations:**
+   - From the first equation, express \( c \) in terms of \( k \):
+     \[
+     c = 20 - k
+     \]
+   - Substitute \( c \) into the second equation:
+     \[
+     2(20 - k) + 4k = 70
+     \]
+     \[
+     40 - 2k + 4k = 70
+     \]
+     \[
+     40 + 2k = 70
+     \]
+     \[
+     2k = 70 - 40
+     \]
+     \[
+     2k = 30
+     \]
+     \[
+     k = 15
+     \]
+   - Now, find \( c \):
+     \[
+     c = 20 - 15 = 5
+     \]
+
+4. **Conclusion:**
+   - There are **5 chickens** on Farmer Brown's farm.

@@ -1,0 +1,33 @@
+<｜User｜>
+Q: James has 30 teeth. His dentist drills 4 of them and caps 7 more teeth than he drills. What percentage of James' teeth does the dentist fix?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the percentage of James' teeth that the dentist fixes, follow these steps:
+
+1. **Total Number of Teeth:**
+   James has **30 teeth**.
+
+2. **Number of Teeth Drilled:**
+   The dentist drills **4 teeth**.
+
+3. **Number of Teeth Capped:**
+   The dentist caps **7 more teeth than he drills**. 
+   \[
+   \text{Capped Teeth} = 4 \text{ (drilled)} + 7 = 11 \text{ teeth}
+   \]
+
+4. **Total Number of Teeth Fixed:**
+   \[
+   \text{Total Fixed} = 4 \text{ (drilled)} + 11 \text{ (capped)} = 15 \text{ teeth}
+   \]
+
+5. **Percentage of Teeth Fixed:**
+   \[
+   \text{Percentage} = \left( \frac{15}{30} \right) \times 100\% \approx 16.67\%
+   \]
+
+**Final Answer:**
+\[
+\boxed{16.67\%}
+\]

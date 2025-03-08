@@ -1,0 +1,47 @@
+<｜User｜>
+Q: If Raymond does half as much laundry as Sarah, and Sarah does 4 times as much laundry as David, calculate the difference in the amount of laundry Raymond and David do if Sarah does 400 pounds of laundry.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Define Variables:**
+   - Let \( D \) represent the amount of laundry David does.
+   - According to the problem, **Sarah does 4 times as much laundry as David**. So, Sarah's laundry (\( S \)) can be expressed as:
+     \[
+     S = 4D
+     \]
+   - **Raymond does half as much laundry as Sarah**. Therefore, Raymond's laundry (\( R \)) is:
+     \[
+     R = \frac{1}{2}S
+     \]
+   
+2. **Given:**
+   - Sarah does **400 pounds of laundry** (\( S = 400 \) pounds).
+
+3. **Calculate Sarah's Laundry:**
+   \[
+   S = 400 \text{ pounds}
+   \]
+   
+4. **Calculate David's Laundry:**
+   \[
+   S = 4D \implies 400 = 4D \implies D = \frac{400}{4} = 100 \text{ pounds}
+   \]
+   
+5. **Calculate Raymond's Laundry:**
+   \[
+   R = \frac{1}{2}S = \frac{1}{2} \times 400 = 200 \text{ pounds}
+   \]
+   
+6. **Find the Difference Between Raymond and David:**
+   \[
+   \text{Difference} = R - D = 200 - 100 = 100 \text{ pounds}
+   \]
+   
+**Final Answer:**
+\[
+\boxed{100}
+\]

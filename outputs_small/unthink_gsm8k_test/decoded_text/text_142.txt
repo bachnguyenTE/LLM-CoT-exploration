@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Jordan plays video games for 2 hours every day. He also has a part-time job where he earns $10 an hour. How much money would Jordan earn in one week if he spent his video game time working instead?
+A:<｜Assistant｜><think>
+</think>
+
+Sure, let's break down the problem step by step.
+
+**Problem Statement:**
+Jordan plays video games for 2 hours every day. He also has a part-time job where he earns \$10 an hour. How much money would Jordan earn in one week if he spent his video game time working instead?
+
+**Solution:**
+
+1. **Determine the daily earnings from the part-time job:**
+   - Jordan earns \$10 per hour.
+   - He works 2 hours a day.
+   - **Daily earnings = 2 hours/day × \$10/hour = \$20/day**
+
+2. **Calculate the weekly earnings:**
+   - There are 7 days in a week.
+   - **Weekly earnings = \$20/day × 7 days = \$140/week**
+
+**Final Answer:**
+\[
+\boxed{\$140}
+\]

@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Rachel bought 23 cookies and Janet gave her 42 cookies. The other day her brother ate 44 of those cookies. How many cookies are left for Rachel?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of cookies Rachel has after receiving cookies from Janet and her brother eating some.
+
+Rachel initially has 23 cookies. She receives an additional 42 cookies from Janet, so I add those together: 23 + 42 = 65 cookies.
+
+Next, her brother eats 44 of the cookies. I subtract the number of cookies eaten from the total: 65 - 44 = 21 cookies.
+
+Therefore, Rachel has 21 cookies left.
+</think>
+
+**Solution:**
+
+1. **Initial Cookies Rachel Has:**
+   - Rachel starts with **23 cookies**.
+
+2. **Cookies Received from Janet:**
+   - Janet gives Rachel **42 cookies**.
+   - **Total cookies after receiving from Janet:**  
+     \[
+     23 + 42 = 65 \text{ cookies}
+     \]
+
+3. **Cookies Eaten by Rachel's Brother:**
+   - Rachel's brother eats **44 cookies**.
+   - **Cookies left after brother eats:**  
+     \[
+     65 - 44 = 21 \text{ cookies}
+     \]
+
+4. **Final Answer:**
+   \[
+   \boxed{21}
+   \]

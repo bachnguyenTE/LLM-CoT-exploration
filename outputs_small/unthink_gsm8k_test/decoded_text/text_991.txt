@@ -1,0 +1,51 @@
+<｜User｜>
+Q: Comet Halley orbits the sun every 75 years. Bill's dad saw the Comet when he was 30 years old. Bill saw the comet a second time when he was three times the age his father was when he saw the Comet. How old was Bill when he saw the Comet for the first time?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how old Bill was when he saw Comet Halley for the first time.
+
+1. **Comet Halley's Orbital Period:**
+   - Comet Halley orbits the sun every **75 years**.
+
+2. **Father's Age When Comet Was First Seen:**
+   - Let \( F \) be the father's age when Comet Halley was first seen.
+   - Since Comet Halley orbits every 75 years, the next time it will be seen is in **75 years**.
+
+3. **Bill's Ages When Comet Was Seen:**
+   - **First Time:** Bill was **30 years old** when Comet Halley was first seen.
+   - **Second Time:** Bill saw Comet Halley again when he was **three times the age** his father was when he first saw it.
+
+4. **Setting Up Equations:**
+   - Let \( B \) be Bill's age when he saw Comet Halley for the second time.
+   - According to the problem, \( B = 3F \).
+
+5. **Total Time Between Seeing the Comet Twice:**
+   - The first time was when the father was \( F \) years old.
+   - The second time was when the father was \( F + 75 \) years old.
+   - The difference in their ages is \( 75 \) years.
+
+6. **Relating Bill's Ages:**
+   - The first time: Bill was \( 30 \) years old.
+   - The second time: Bill was \( B \) years old.
+   - The difference in their ages is \( B - 30 = B - 30 \) years.
+
+7. **Equating the Two Expressions for the Age Difference:**
+   - \( B - 30 = 75 \)
+   - \( B = 75 + 30 \)
+   - \( B = 105 \)
+
+8. **Finding the Father's Age When Comet Was First Seen:**
+   - Since \( B = 3F \), and \( B = 105 \):
+   - \( 105 = 3F \)
+   - \( F = \frac{105}{3} \)
+   - \( F = 35 \)
+
+9. **Verifying the Ages:**
+   - First sighting: Father was \( 35 \) years old, Bill was \(30\).
+   - Second sighting: Father was \(35 + 75 = 110\) years old, Bill was \(105\).
+
+10. **Conclusion:**
+    - Bill was **30 years old** when he saw Comet Halley for the first time.
+
+**Final Answer:** \(\boxed{30}\)

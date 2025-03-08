@@ -1,0 +1,23 @@
+<｜User｜>
+Q: A local town is expanding and wants to build several new homes across the next three years. In the first year, they will build 12 homes. In the next year, they will build three times this many homes. In the third year, they will count how many homes they have built and double the amount. How many homes will the town have built over the next three years?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of homes the town will have built over the next three years, let's break down the problem year by year.
+
+1. **First Year:**
+   - **Homes built:** 12
+
+2. **Second Year:**
+   - The town builds **three times** the number of homes as the first year.
+   - Calculation: \( 3 \times 12 = 36 \) homes.
+
+3. **Third Year:**
+   - The town doubles the total number of homes built in the first two years.
+   - Total after two years: \( 12 + 36 = 18 \) homes.
+   - Calculation for third year: \( 2 \times 18 = 36 \) homes.
+
+4. **Total Homes Over Three Years:**
+   - Sum of homes built each year: \( 12 + 36 + 36 = 72 \) homes.
+
+**Final Answer:** \(\boxed{72}\)

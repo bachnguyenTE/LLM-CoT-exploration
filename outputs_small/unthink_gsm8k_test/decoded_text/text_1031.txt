@@ -1,0 +1,48 @@
+<｜User｜>
+Q: Apple High School is holding graduation in their Fine Arts Center this year which has space for 6000 people.  After accounting for 950 seats for graduates and 300 seats for faculty attending, how many tickets would each graduate receive to give to their friends and family if the tickets are split equally?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many tickets each graduate would receive, we'll follow these steps:
+
+1. **Total Graduation Capacity:**
+   \[
+   6000 \text{ people}
+   \]
+
+2. **Seats for Graduates:**
+   \[
+   950 \text{ seats}
+   \]
+
+3. **Seats for Faculty:**
+   \[
+   300 \text{ seats}
+   \]
+
+4. **Total Seats Allocated:**
+   \[
+   950 + 300 = 1255 \text{ seats}
+   \]
+
+5. **Remaining Seats for Graduates' Friends and Family:**
+   \[
+   6000 - 1255 = 4745 \text{ seats}
+   \]
+
+6. **Number of Graduates:**
+   \[
+   950 \text{ graduates}
+   \]
+
+7. **Tickets per Graduate:**
+   \[
+   \frac{4745}{955} \approx 4.99 \text{ tickets per graduate}
+   \]
+
+**Final Answer:**
+\[
+\boxed{5}
+\]

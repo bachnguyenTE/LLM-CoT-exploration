@@ -1,0 +1,48 @@
+<｜User｜>
+Q: A mechanic charges different rates to repair the tires of trucks and cars.  For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40.  On Thursday, the mechanic repairs 6 truck tires and 4 car tires.  On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires.  How much more revenue did the mechanic earn on the day with higher revenue?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much more revenue the mechanic earned on the day with higher revenue, let's break down the earnings for both Thursday and Friday.
+
+**Thursday:**
+- **Truck Tires:** 6 tires repaired at \$60 each.
+  \[
+  6 \text{ tires} \times \$60/\text{tire} = \$360
+  \]
+- **Car Tires:** 4 tires repaired at \$40 each.
+  \[
+  4 \text{ tires} \times \$40/\text{tire} = \$160
+  \]
+- **Total Revenue on Thursday:**
+  \[
+  \$360 + \$160 = \$526
+  \]
+
+**Friday:**
+- **Car Tires:** 12 tires repaired at \$40 each.
+  \[
+  12 \text{ tires} \times \$40/\text{tire} = \$480
+  \]
+- **Truck Tires:** 0 tires repaired.
+  \[
+  0 \text{ tires} \times \$0 = \$0
+  \]
+- **Total Revenue on Friday:**
+  \[
+  \$480 + \$0 = \$480
+  \]
+
+**Comparing the Two Days:**
+- **Thursday's Revenue:** \$526
+- **Friday's Revenue:** \$480
+
+To find how much more revenue was earned on Thursday compared to Friday:
+\[
+\$526 - \$480 = \$46
+\]
+
+**Final Answer:**
+\[
+\boxed{46}
+\]

@@ -1,0 +1,67 @@
+<｜User｜>
+Q: Candice put 80 post-it notes in her purse before she headed out to her job at the coffee shop.  On her way, she stopped off at the store and purchased a package of Post-it notes;  At work, she placed a single Post-it note on each of 220 different cups of coffee.  If she had 23 post-it notes remaining overall, how many Post-it notes were in the package that she purchased?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many Post-it notes were in the package Candice purchased.
+
+1. **Initial Post-it Notes:**
+   - Candice started with **80** Post-it notes.
+
+2. **Stopping at the Store:**
+   - She purchased a package of Post-it notes. Let's denote the number of Post-it notes in this package as \( x \).
+
+3. **Purchasing at Work:**
+   - At work, she placed **1** Post-it note on each of **220** different cups of coffee.
+   - Therefore, she used **220** Post-it notes at work.
+
+4. **Total Post-it Notes Used:**
+   - Total Post-it notes used = Notes from the store + Notes used at work
+   - Total used = \( x + 220 \)
+
+5. **Post-it Notes Remaining:**
+   - Candice had **23** Post-it notes remaining overall.
+
+6. **Setting Up the Equation:**
+   - Initial Post-it notes - Total used = Remaining Post-it notes
+   - \( 80 - (x + 220) = 23 \)
+
+7. **Solving for \( x \):**
+   - \( 80 - x - 220 = 23 \)
+   - \( -x - 140 = 23 \)
+   - \( -x = 23 + 140 \)
+   - \( -x = 163 \)
+   - \( x = -163 \)
+
+Wait, this doesn't make sense because the number of Post-it notes can't be negative. Let's check our setup again.
+
+**Re-evaluating the Problem:**
+
+- **Initial Post-it Notes:** 80
+- **Post-it Notes Purchased:** \( x \)
+- **Post-it Notes Used at Work:** 220
+- **Post-it Notes Remaining:** 23
+
+The correct equation should be:
+
+\[
+80 + x - 220 = 23
+\]
+
+Solving for \( x \):
+
+\[
+x = 23 + 220 -80
+\]
+\[
+x = 23 + 140
+\]
+\[
+x = 163
+\]
+
+**Final Answer:**
+
+\[
+\boxed{163}
+\]

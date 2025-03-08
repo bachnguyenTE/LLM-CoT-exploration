@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Mack wants to count things and decided to count how many birds there are in the sky over the next week. On days one and two, Mack saw a total of 50 birds. On day three he saw none. On days four and five, he saw 120 birds. On day six he saw 20 and on day seven he saw 90. On average, how many birds did Mack see in a day?
+A:<｜Assistant｜><think>
+</think>
+
+To find the average number of birds Mack saw per day, follow these steps:
+
+1. **List the number of birds Mack saw each day:**
+   - Day 1: 50 birds
+   - Day 2: 50 birds
+   - Day 3: 0 birds
+   - Day 4: 120 birds
+   - Day 5: 120 birds
+   - Day 6: 20 birds
+   - Day 7: 90 birds
+
+2. **Calculate the total number of birds seen over the week:**
+   \[
+   55 + 55 + 0 + 120 + 120 + 20 + 90 = 462 \text{ birds}
+   \]
+
+3. **Determine the number of days in the week:**
+   \[
+   7 \text{ days}
+   \]
+
+4. **Compute the average number of birds per day:**
+   \[
+   \text{Average} = \frac{\text{Total number of birds}}{\text{Number of days}} = \frac{462}{7} = 66 \text{ birds per day}
+   \]
+
+**Final Answer:**
+\[
+\boxed{66}
+\]

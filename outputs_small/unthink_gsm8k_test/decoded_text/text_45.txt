@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Meredith is a freelance blogger who writes about health topics and submits to clients each day as her permanent job. A blog article takes an average of 4 hours to research and write about. Last week, she wrote 5 articles on Monday and  2/5 times more articles on Tuesday than on Monday. On Wednesday, she wrote twice the number of articles she wrote on Tuesday. Calculate the total number of hours she spent writing articles in the three days.
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of hours Meredith spent writing articles over the three days, we'll break down her daily article counts and multiply by the time it takes to write each article.
+
+**Step 1: Calculate the number of articles Meredith wrote each day.**
+
+- **Monday:** Meredith wrote **5 articles**.
+  
+- **Tuesday:** She wrote **2/5 times more articles** than on Monday.
+  
+  \[
+  \text{Tuesday's articles} = 5 + \left( \frac{2}{5} \times 5 \right) = 5 + 2 = 7 \text{ articles}
+  \]
+  
+- **Wednesday:** She wrote **twice the number of articles** she wrote on Tuesday.
+  
+  \[
+  \text{Wednesday's articles} = 2 \times 7 = 14 \text{ articles}
+  \]
+
+**Step 2: Calculate the total number of articles over the three days.**
+
+\[
+\text{Total articles} = 5 \text{ (Monday)} + 7 \text{ (Tuesday)} + 14 \text{ (Wednesday)} = 26 \text{ articles}
+\]
+
+**Step 3: Calculate the total time spent writing articles.**
+
+Each article takes **4 hours** to write.
+
+\[
+\text{Total time} = 26 \text{ articles} \times 4 \text{ hours/article} = 24 \text{ hours}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{24}
+\]

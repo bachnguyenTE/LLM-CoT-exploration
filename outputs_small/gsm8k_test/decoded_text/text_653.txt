@@ -1,0 +1,68 @@
+<｜User｜>
+Q: Sally has realized she did not receive a full wage this week. Her bank account, which held $200 at the start of the week, now holds $420. She has received no other money into her bank account this week. If her weekly wage should be $300, how many dollars were withheld from Sally’s wage?
+A:<｜Assistant｜><think>
+Okay, so Sally didn't get a full wage this week, and now her bank account has more money than it started with. Let me try to figure out how much was withheld from her wage. Hmm, let's break this down step by step.
+
+First, the problem says that Sally's bank account held $200 at the start of the week. Wait, that doesn't look right. It should probably be $200, but maybe it's a typo. Let me check the original problem again. It says, "Sally has realized she did not receive a full wage this week. Her bank account, which held $200 at the start of the week, now holds $420. She has received no other money into her bank account this week. If her weekly wage should be $300, how many dollars were withheld from Sally’s wage?"
+
+Wait, so the starting amount is $200, which is $200? That seems like a typo. Maybe it's $200? Or is it $200? Hmm, maybe it's $200? Let me assume it's $200, but that would be $200, which is $200. That seems like a lot. Alternatively, maybe it's $200, which is $200. Hmm, I think it's more likely $200, but I'm not sure. Let me proceed with $200 as the starting amount.
+
+So, starting balance: $200
+
+Ending balance: $420
+
+She received no other money this week, so the only change in her bank account is due to the wage deduction.
+
+Her weekly wage should be $300. So, the total amount she should have earned is $300.
+
+But she didn't get that, so the amount she was paid was less than $300. The question is asking how many dollars were withheld from her wage. So, the amount she was paid is less than $300, and the difference is the amount withheld.
+
+Wait, but let me think about the starting and ending balance. If she started with $200, and ended with $420, that means she either earned some money or had some deposited, but in this case, she didn't receive any other money. So, the only change is due to the wage deduction.
+
+So, the total amount she should have earned is $300, but she only got $200 + some amount. Wait, no, she started with $200, and ended with $420, so the total she had in her account after deductions is $420.
+
+Wait, maybe I need to model this as:
+
+Starting balance: $200
+
+Ending balance: $420
+
+No other money was added, so the only change is due to the wage deduction.
+
+So, the total amount she should have earned is $300, but she only got $200 + (something). Wait, no, she didn't receive any other money, so the total she should have earned is $300, but she only had $200 at the start, and then she didn't receive any more money, so the total she had in her account after deductions is $420.
+
+Wait, maybe I need to think of it as:
+
+Her starting balance was $200.
+
+She didn't receive any more money, so the total she had in her account after deductions is $420.
+
+So, the amount she was paid is $420, but her weekly wage is supposed to be $300. So, the amount withheld is the difference between what she was paid and her supposed wage.
+
+Wait, but that might not be the right way to think about it. Let me try to model it.
+
+Let me denote:
+
+Starting balance: S = $200
+
+Ending balance: E = $420
+
+No additional money received, so the only change is due to the wage deduction.
+
+So, the total amount she should have earned is $300, but she only had $200 at the start, and then she didn't receive any more money, so the total she had in her account after deductions is $420.
+
+Wait, so the total amount she had in her account after deductions is $420, which is equal to her starting balance plus the amount she was paid minus the amount withheld.
+
+Wait, maybe the formula is:
+
+Ending balance = Starting balance + Amount paid - Amount withheld
+
+So, E = S + P - F
+
+Where P is the amount paid, and F is the amount withheld.
+
+We know E is $420, S is $200, P is $300, and we need to find F.
+
+So, plugging in the numbers:
+
+420 =

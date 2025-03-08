@@ -1,0 +1,23 @@
+<｜User｜>
+Q: A pet shop had 6 cages of rodents. 3 of the cages have 10 hamsters and the other 3 have 5 guinea pigs. How many rodents did the pet shop have in total?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We need to determine the total number of rodents in the pet shop. The pet shop has two types of cages:
+
+1. **Cages with Hamsters:**
+   - Number of cages: 3
+   - Number of hamsters per cage: 10
+   - Total hamsters: \( 3 \times 10 = 30 \)
+
+2. **Cages with Guinea Pigs:**
+   - Number of cages: 3
+   - Number of guinea pigs per cage: 5
+   - Total guinea pigs: \( 3 \times 5 = 15 \)
+
+3. **Total Rodents:**
+   - Total hamsters + Total guinea pigs = \( 30 + 15 = 45 \)
+
+**Answer:** \(\boxed{45}\)

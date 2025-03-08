@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Ellen decided to play a prank on her friend. She got a case of 12 sodas and shook 3 of them up. Then she took 1 unshaken soda for herself and left. Ellen's brother stopped by and took 1 of the shaken sodas and 2 of the unshaken sodas, then Ellen's friend came along. What is the likelihood, expressed as a percentage, that Ellen's friend gets sprayed with soda from a shaken can?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the likelihood that Ellen's friend gets sprayed with soda from a **shaken can**, let's break down the scenario step by step.
+
+1. **Total Sodas:**
+   - **Sodas:** 12
+   - **Shaken Sodas:** 3
+   - **Unshaken Sodas:** 12 - 3 = 9
+
+2. **Sodas Consumed:**
+   - **Ellen's Brother:**
+     - Takes **1** of the **shaken sodas**.
+     - Takes **2** of the **unshaken sodas**.
+     - **Total Consumed:** 1 + 2 = 3
+   - **Ellen's Friend:**
+     - **Unshaken Sodas Left:** 9 - 2 = 7
+     - **Shaken Sodas Left:** 3 - 1 = 2
+
+3. **Sodas Available for the Friend:**
+   - **Total Sodas Left:** 7 (unshaken) + 2 (shaken) = 9
+
+4. **Probability Calculation:**
+   - **Favorable Outcomes (Shaken Sodas):** 2
+   - **Total Possible Outcomes:** 9
+   - **Probability:** \( \frac{2}{9} \)
+
+5. **Convert to Percentage:**
+   - \( \frac{2}{9} \approx 0.2222 \)
+   - \( 0.2222 \times 100\% \approx 22.22\% \)
+
+**Final Answer:** \(\boxed{22.22\%}\)

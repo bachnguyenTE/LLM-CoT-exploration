@@ -1,0 +1,56 @@
+<｜User｜>
+Q: Mark took a test yesterday that consisted of 75 questions. He completed the test at a rate of 5 questions per hour. Today, he took another test of 100 questions at the same rate. If Mark had 8 hours to complete the first test and 6 hours to complete the second one, how many questions did he leave incomplete?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Mark taking two tests. Let me try to figure it out step by step. First, let me read the problem again to make sure I understand it.
+
+Mark took a test yesterday that had 75 questions. He completed it at a rate of 5 questions per hour. Today, he took another test with 100 questions, also at the same rate. He had 8 hours to complete the first test and 6 hours for the second one. The question is asking how many questions he left incomplete.
+
+Alright, so I need to find out how many questions Mark couldn't finish on both tests combined. Let me break this down.
+
+First, let's tackle yesterday's test. It had 75 questions, and Mark was doing them at a rate of 5 questions per hour. He had 8 hours to complete it. Hmm, so I need to figure out how many questions he actually finished in those 8 hours.
+
+To do that, I can use the formula: number of questions = rate × time. So, if his rate is 5 questions per hour, and he worked for 8 hours, then the number of questions he completed is 5 multiplied by 8. Let me write that down:
+
+Number of questions completed yesterday = 5 questions/hour × 8 hours = 40 questions.
+
+Wait, but the test had 75 questions. So, how many were left incomplete? That would be the total number of questions minus the ones he completed. So, 75 minus 40. Let me calculate that:
+
+75 - 40 = 35 questions.
+
+Okay, so he left 35 questions incomplete on yesterday's test.
+
+Now, moving on to today's test. It had 100 questions, and he was also doing them at the same rate of 5 questions per hour. But this time, he only had 6 hours to complete it. So, again, I can use the same formula to find out how many questions he completed today.
+
+Number of questions completed today = 5 questions/hour × 6 hours = 30 questions.
+
+Wait, hold on, 5 times 6 is 30? That seems low. Let me double-check that. 5 times 6 is indeed 30, right? So, he completed 30 questions in 6 hours.
+
+But today's test had 100 questions. So, how many were left incomplete? That would be 100 minus 30. Let me compute that:
+
+100 - 30 = 70 questions.
+
+So, he left 70 questions incomplete today.
+
+Now, to find the total number of questions he left incomplete, I need to add the incomplete ones from both tests together. That would be 35 from yesterday and 70 from today.
+
+Total incomplete questions = 35 + 70 = 105.
+
+Wait, 35 plus 70 is 105? Let me add that again: 35 + 70. 30 + 70 is 100, and then plus 5 is 105. Yeah, that's correct.
+
+So, Mark left a total of 105 questions incomplete over both tests.
+
+Let me just recap to make sure I didn't make any mistakes. Yesterday, he had 75 questions, completed 40 in 8 hours, so 35 incomplete. Today, 100 questions, completed 30 in 6 hours, so 70 incomplete. Total incomplete is 35 + 70 = 105. That seems right.
+
+I don't think I made any calculation errors here. The key was to calculate how many he actually completed each time and then subtract from the total. It's important to note that the time he had was different for each test, so the number of questions he could complete was different each day.
+
+Just to think about it another way, maybe I can calculate the time he took to complete each test and see if it makes sense. For yesterday's test, he had 8 hours and completed 40 questions. 40 divided by 5 is 8, so that checks out. For today's test, 6 hours and 30 questions. 30 divided by 5 is 6, so that also checks out.
+
+So, both times, the numbers add up correctly. Therefore, the incomplete questions are 35 and 70, totaling 105.
+
+I think that's solid. I don't see any mistakes in my reasoning. So, the answer should be 105 incomplete questions.
+
+**Final Answer**
+The number of questions Mark left incomplete is \boxed{105}.
+</think>
+
+Mark took a test yesterday with 75 questions, completing them at a rate of 5 questions per hour. He

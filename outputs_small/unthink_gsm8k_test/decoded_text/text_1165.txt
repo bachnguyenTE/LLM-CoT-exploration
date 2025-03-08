@@ -1,0 +1,31 @@
+<｜User｜>
+Q: John collects garbage from 3 different apartment complexes.  The first two have 200 apartments each and the last one is 60% bigger than the other two combined.  He collects garbage 3 times a week from each place and he gets paid $.40 per collection for each apartment.  How much money does he make in a week?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much money John makes in a week, let's break down the problem step by step.
+
+1. **Determine the size of the third apartment complex:**
+   - The first two complexes each have 200 apartments.
+   - Combined, they have \(200 + 200 = 400\) apartments.
+   - The third complex is 60% bigger than the combined size of the first two.
+   - Calculate 60% of 440 apartments: \(0.60 \times 440 = 264\) apartments.
+   - Total apartments in the third complex: \(440 + 264 = 708\) apartments.
+
+2. **Calculate the total number of apartments John collects from each complex:**
+   - **First complex:** 200 apartments.
+   - **Second complex:** 200 apartments.
+   - **Third complex:** 708 apartments.
+
+3. **Determine the total number of apartments collected in a week:**
+   - **First complex:** \(200 \times 3 = 600\) collections.
+   - **Second complex:** \(200 \times 3 = 600\) collections.
+   - **Third complex:** \(708 \times 3 = 2124\) collections.
+   - **Total collections per week:** \(600 + 600 + 2124 = 3384\) collections.
+
+4. **Calculate the total payment per week:**
+   - John is paid \$0.40 per collection.
+   - **Total payment:** \(3384 \times 0.40 = 1353.60\) dollars.
+
+**Final Answer:**  
+\boxed{1353.60}

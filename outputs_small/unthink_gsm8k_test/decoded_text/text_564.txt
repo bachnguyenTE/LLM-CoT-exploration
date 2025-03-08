@@ -1,0 +1,37 @@
+<｜User｜>
+Q: In the first week, Judy read for 15 minutes each night before going to sleep. In the second week, she read a total of 100 pages. If she can read 2 pages per 1.5 minutes, how many pages did she read in two weeks?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **First Week:**
+   - Judy reads for 15 minutes each night.
+   - Let’s assume she reads for 7 nights in a week.
+   - Total reading time in the first week: \( 15 \text{ minutes/night} \times 7 \text{ nights} = 105 \text{ minutes} \).
+
+2. **Second Week:**
+   - Judy reads a total of **100 pages**.
+   - Judy's reading speed is **2 pages per 1.5 minutes**.
+
+3. **Calculating Pages Read in the Second Week:**
+   - First, find out how many pages Judy can read in 1 minute:
+     \[
+     \text{Pages per minute} = \frac{2 \text{ pages}}{1.5 \text{ minutes}} = \frac{4}{3} \text{ pages per minute}
+     \]
+   - Now, calculate the total pages read in the second week:
+     \[
+     \text{Total pages} = \text{Pages per minute} \times \text{Total minutes} = \frac{4}{3} \times 105 = 140 \text{ pages}
+     \]
+
+4. **Total Pages Read in Two Weeks:**
+   - First week: 105 minutes
+   - Second week: 140 pages
+   - **Total pages read:** \( 105 + 140 = 245 \text{ pages} \)
+
+**Final Answer:**
+\[
+\boxed{245}
+\]

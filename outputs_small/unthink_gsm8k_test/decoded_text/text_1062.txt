@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Hannah slips on a banana peel and breaks her arm. The doctor charges her $200 for the cast, $300/hour for a 30-minute visit, $4/pill for 30 painkillers, and $6/hour for a mandatory minimum of 2 hours of parking. How much does the doctor's visit cost total?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total cost of the doctor's visit, let's break down each component step by step:
+
+1. **Cost of the Cast:**
+   - **Amount:** \$200
+   - **Total Cost:** \$200
+
+2. **Cost of the 300-Hour Visit:**
+   - **Duration:** 30 hours
+   - **Cost per Hour:** \$30
+   - **Total Cost:** \( 30 \times 30 = \$900 \)
+
+3. **Cost of Painkillers:**
+   - **Number of Painkillers:** 30
+   - **Cost per Painkiller:** \$4
+   - **Total Cost:** \( 4 \times 30 = \$120 \)
+
+4. **Cost of Parking:**
+   - **Duration:** 2 hours
+   - **Cost per Hour:** \$6
+   - **Total Cost:** \( 6 \times 2 = \$12 \)
+
+**Adding All Costs Together:**
+\[
+\$200 \ (\text{Cast}) + \$900 \ (\text{Visit}) + \$120 \ (\text{Painkillers}) + \$12 \ (\text{Parking}) = \$1254
+\]
+
+**Final Answer:**
+\[
+\boxed{1254}
+\]

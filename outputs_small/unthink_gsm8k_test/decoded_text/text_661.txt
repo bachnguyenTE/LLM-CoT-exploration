@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Roger goes to the store to buy some coffee.  The normal brand of coffee he buys cost $5 per pound.  He had to buy a more expensive brand that cost 20% more since his favorite brand was sold out.  He decides to buy a week's worth of coffee and he uses 1 pound of coffee per day.  He also decided to buy himself a donut for $2.  How much did everything cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the cost per pound of the more expensive brand of coffee:**
+   
+   - Original price per pound: \$5
+   - Increase: 20%
+   
+   \[
+   \text{Increased price} = 5 + (5 \times 0.20) = 5 + 1 = \$6 \text{ per pound}
+   \]
+
+2. **Calculate the total coffee needed for a week:**
+   
+   - Usage per day: 1 pound
+   - Days in a week: 7
+   
+   \[
+   \text{Total coffee needed} = 1 \times 7 = 7 \text{ pounds}
+   \]
+
+3. **Compute the total cost for the coffee:**
+   
+   \[
+   \text{Total coffee cost} = 7 \times 6 = \$42
+   \]
+
+4. **Add the cost of the donut:**
+   
+   \[
+   \text{Total cost} = \$42 + \$2 = \$44
+   \]
+
+**Final Answer:**
+\[
+\boxed{44}
+\]

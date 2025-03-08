@@ -1,0 +1,32 @@
+<｜User｜>
+Q: A plane travels 1200 miles in 3 hours. At the same rate, how many additional hours would it take to travel an additional 2000 miles?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many additional hours it would take for the plane to travel an additional 2000 miles at the same rate, follow these steps:
+
+1. **Calculate the plane's speed:**
+   
+   \[
+   \text{Speed} = \frac{\text{Distance}}{\text{Time}} = \frac{1200 \text{ miles}}{3 \text{ hours}} = 400 \text{ miles per hour}
+   \]
+
+2. **Determine the time required to travel an additional 2000 miles:**
+   
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}} = \frac{2200 \text{ miles}}{400 \text{ miles per hour}} = 5.5 \text{ hours}
+   \]
+
+3. **Express the time in hours and minutes:**
+   
+   \[
+   5.5 \text{ hours} = 5 \text{ hours and } 0.5 \times 60 = 5 \text{ hours and } 30 \text{ minutes}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{5.5 \text{ hours}}
+\]

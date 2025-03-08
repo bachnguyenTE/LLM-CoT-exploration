@@ -1,0 +1,34 @@
+<｜User｜>
+Q: James is in charge of running messages from the office to each teacher's classroom. If he delivers 66 messages to Ms. Thompson and 1/3 as many messages to Mr. Yu, how many messages does he deliver total?
+A:<｜Assistant｜><think>
+Okay, so James is running messages from the office to each teacher's classroom. He delivered 66 messages to Ms. Thompson and 1/3 as many messages to Mr. Yu. I need to find the total number of messages he delivered. Hmm, let me think about how to approach this.
+
+First, I know that James delivered 66 messages to Ms. Thompson. That's straightforward. Now, he delivered 1/3 as many messages to Mr. Yu. So, I need to calculate 1/3 of 66 messages. Let me write that down.
+
+So, the number of messages to Mr. Yu is (1/3) * 66. Let me compute that. 66 divided by 3 is... let's see, 6 divided by 3 is 2, and 6 divided by 3 is another 2, so 22. So, Mr. Yu received 22 messages.
+
+Now, to find the total number of messages delivered, I need to add the messages delivered to Ms. Thompson and Mr. Yu. That would be 66 plus 22. Let me add those together. 66 plus 22. Hmm, 60 plus 20 is 80, and 6 plus 2 is 8, so 88. So, the total number of messages delivered is 88.
+
+Wait, let me double-check my calculations to make sure I didn't make a mistake. 1/3 of 66 is indeed 22 because 66 divided by 3 is 22. Then, adding 66 and 22: 66 + 22. Let me add the units place first: 6 + 2 is 8, and 6 + 2 is 8, so that gives me 88. Yeah, that seems right.
+
+Alternatively, I can think of it as 66 + 22. 66 + 20 is 86, and then adding the remaining 2 gives me 88. Yep, that's consistent.
+
+So, I think I did this correctly. James delivered a total of 88 messages to Ms. Thompson and Mr. Yu.
+
+**Final Answer**
+The total number of messages James delivered is \boxed{88}.
+</think>
+
+James delivered 66 messages to Ms. Thompson. He delivered 1/3 as many messages to Mr. Yu. 
+
+First, we calculate the number of messages delivered to Mr. Yu:
+\[
+\frac{1}{3} \times 66 = 22
+\]
+
+Next, we find the total number of messages delivered by adding the messages delivered to Ms. Thompson and Mr. Yu:
+\[
+66 + 22 = 88
+\]
+
+Thus, the total number of messages James delivered is \boxed{88}.

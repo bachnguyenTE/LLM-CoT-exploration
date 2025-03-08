@@ -1,0 +1,50 @@
+<｜User｜>
+Q: Dexter has five pigs. Each one eats 4 pounds of feed, twice a day. If Dexter ordered 300 pounds of feed, how many pounds of feed is left after a week?
+A:<｜Assistant｜><think>
+First, I need to determine the total amount of feed consumed by Dexter's pigs in a week.
+
+Each pig eats 4 pounds of feed twice a day, which means each pig consumes 8 pounds of feed per day.
+
+With five pigs, the total daily feed consumption is 5 pigs multiplied by 8 pounds per pig, resulting in 40 pounds of feed per day.
+
+Over a week, the total feed consumed would be 40 pounds per day multiplied by 7 days, which equals 280 pounds.
+
+Dexter ordered 300 pounds of feed initially. After consuming 288 pounds over the week, the remaining feed would be 300 pounds minus 288 pounds, leaving 42 pounds of feed.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the daily feed consumption per pig:**
+   
+   Each pig eats:
+   \[
+   4 \text{ pounds/day} \times 2 \text{ times/day} = 8 \text{ pounds/day}
+   \]
+
+2. **Calculate the total daily feed consumption for all pigs:**
+   
+   With 5 pigs:
+   \[
+   5 \text{ pigs} \times 8 \text{ pounds/pig/day} = 40 \text{ pounds/day}
+   \]
+
+3. **Find the total feed consumed in a week:**
+   
+   There are 7 days in a week:
+   \[
+   40 \text{ pounds/day} \times 7 \text{ days} = 280 \text{ pounds}
+   \]
+
+4. **Determine the remaining feed after the week:**
+   
+   Dexter ordered 300 pounds initially. After consuming 288 pounds:
+   \[
+   300 \text{ pounds} - 288 \text{ pounds} = 12 \text{ pounds}
+   \]
+
+**Final Answer:**
+\[
+\boxed{12}
+\]

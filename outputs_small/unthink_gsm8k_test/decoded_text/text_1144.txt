@@ -1,0 +1,63 @@
+<｜User｜>
+Q: The ratio of men to women on a bus is 5:9. If the total number of passengers on the bus is 84, and 20 women alight from the bus at the next stop, how many women have remained on the bus?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We are given that the ratio of men to women on a bus is **5:9**. The total number of passengers on the bus is **84**. Additionally, **20 women alight from the bus** at the next stop. We need to determine how many women remain on the bus.
+
+1. **Understanding the Ratio:**
+   
+   The ratio **5:9** represents the number of men to women on the bus. This means for every **5** men, there are **9** women.
+
+2. **Total Parts in the Ratio:**
+   
+   The total number of parts in the ratio is:
+   \[
+   5 \text{ (men)} + 9 \text{ (women)} = 14 \text{ parts}
+   \]
+
+3. **Determining the Value of Each Part:**
+   
+   The total number of passengers is **84**. Each part of the ratio represents:
+   \[
+   \frac{84}{14} = 6
+   \]
+   
+   So, each part equals **6** passengers.
+
+4. **Calculating the Number of Women:**
+   
+   Since there are **9** parts for women:
+   \[
+   9 \text{ parts} \times 6 = 54 \text{ women}
+   \]
+
+5. **Calculating the Number of Men:**
+   
+   Similarly, for men:
+   \[
+   5 \text{ parts} \times 6 = 30 \text{ men}
+   \]
+
+6. **Verifying the Total Passengers:**
+   
+   Adding men and women:
+   \[
+   30 \text{ men} + 54 \text{ women} = 84 \text{ passengers}
+   \]
+   
+   This matches the given total, confirming our calculations are correct.
+
+7. **Determining the Remaining Women:**
+   
+   After **20 women** alight, the number of women remaining on the bus is:
+   \[
+   54 \text{ women} - 20 \text{ women} = 34 \text{ women}
+   \]
+
+**Final Answer:**
+\[
+\boxed{34}
+\]

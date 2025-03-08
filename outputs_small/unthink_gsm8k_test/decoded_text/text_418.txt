@@ -1,0 +1,53 @@
+<｜User｜>
+Q: Zack's locker is half as big as Timothy's locker. Peter's locker is 1/4 as big as Zack's locker. If Peter's locker is 5 cubic inches, how big is Timothy's locker in cubic inches?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Zack's locker is half as big as Timothy's locker.
+- Peter's locker is \( \frac{1}{4} \) as big as Zack's locker.
+- Peter's locker is 5 cubic inches.
+
+**Let’s define:**
+- Let \( Z \) be the volume of Zack's locker.
+- Let \( T \) be the volume of Timothy's locker.
+- Let \( P \) be the volume of Peter's locker.
+
+**From the problem:**
+1. Zack's locker is half as big as Timothy's locker:
+   \[
+   Z = \frac{1}{2}T
+   \]
+2. Peter's locker is \( \frac{1}{4} \) as big as Zack's locker:
+   \[
+   P = \frac{1}{4}Z
+   \]
+3. Peter's locker is 5 cubic inches:
+   \[
+   P = 5 \text{ cubic inches}
+   \]
+
+**Step 1:** Substitute the value of \( P \) into the second equation to find \( Z \):
+\[
+5 = \frac{1}{4}Z
+\]
+Multiply both sides by 4 to solve for \( Z \):
+\[
+Z = 5 \times 4 = 20 \text{ cubic inches}
+\]
+
+**Step 2:** Now, use the value of \( Z \) to find \( T \) using the first equation:
+\[
+20 = \frac{1}{2}T
+\]
+Multiply both sides by 2 to solve for \( T \):
+\[
+T = 20 \times 2 = 40 \text{ cubic inches}
+\]
+
+**Final Answer:**
+\[
+\boxed{40}
+\]

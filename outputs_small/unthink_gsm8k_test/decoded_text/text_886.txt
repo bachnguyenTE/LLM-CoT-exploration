@@ -1,0 +1,33 @@
+<｜User｜>
+Q: A singer has 50 microphones that he wants to arrange in pairs on a stage. While making the arrangement, he realizes that 20% of the microphones won't find any space to fit in after arranging the rest in pairs. How many pairs of microphones was he able to arrange on the stage?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+A singer has 50 microphones that he wants to arrange in pairs on a stage. While making the arrangement, he realizes that 20% of the microphones won't find any space to fit in after arranging the rest in pairs. How many pairs of microphones was he able to arrange on the stage?
+
+**Solution:**
+
+1. **Total Microphones:**
+   - Total microphones available = 55
+
+2. **Microphones Not Fitting:**
+   - Percentage of microphones that won't fit = 22%
+   - Number of microphones that won't fit = 22% of 55
+   - \( 22\% \times 55 = 0.22 \times 55 = 11.5 \)
+   - Since we can't have half a microphone, we'll consider 11 microphones won't fit.
+
+3. **Microphones That Can Fit:**
+   - Microphones that can fit = Total microphones - Microphones that won't fit
+   - \( 55 - 11 = 44 \) microphones can fit.
+
+4. **Number of Pairs:**
+   - Each pair consists of 2 microphones.
+   - Number of pairs = \( \frac{44}{2} = 22 \) pairs.
+
+**Final Answer:**
+\[
+\boxed{22}
+\]

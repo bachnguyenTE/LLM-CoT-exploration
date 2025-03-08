@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Joe has twice as many cars as Robert. He sells 20% of them and gives away twice as many cars as the number he sold to his mother. If Robert has 20 cars, how many cars does joe remain with after selling and giving some to his mother?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- Joe has twice as many cars as Robert.
+- Joe sells 20% of his cars.
+- Joe gives away twice as many cars as he sold to his mother.
+- Robert initially has 20 cars.
+
+**Let’s denote:**
+- Let \( R \) be the number of cars Robert has.
+- Let \( J \) be the number of cars Joe has.
+
+**Step 1: Determine Robert's initial number of cars.**
+Given that \( R = 20 \).
+
+**Step 2: Determine Joe's initial number of cars.**
+Since Joe has twice as many cars as Robert:
+\[
+J = 2 \times R = 2 \times 20 = 40
+\]
+So, Joe initially has **40 cars**.
+
+**Step 3: Calculate the number of cars Joe sells.**
+Joe sells 20% of his cars:
+\[
+\text{Cars sold} = 20\% \times J = 0.20 \times 40 = 8 \text{ cars}
+\]
+
+**Step 4: Calculate the number of cars Joe gives to his mother.**
+Joe gives away twice as many cars as he sold:
+\[
+\text{Cars given to mother} = 2 \times \text{Cars sold} = 2 \times 8 = 16 \text{ cars}
+\]
+
+**Step 5: Calculate the number of cars Joe remains with.**
+Subtract the cars sold and given to his mother from his initial count:
+\[
+\text{Cars remaining} = J - (\text{Cars sold} + \text{Cars given to mother}) = 40 - (8 + 16) = 40 - 24 = 20 \text{ cars}
+\]
+
+**Final Answer:**
+\[
+\boxed{20}
+\]

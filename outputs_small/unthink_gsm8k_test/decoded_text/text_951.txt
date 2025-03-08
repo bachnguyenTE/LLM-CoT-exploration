@@ -1,0 +1,23 @@
+<｜User｜>
+Q: The book is printed on paper that, when stacked, is 100 pages to the inch. Each paper is printed on both sides, with one page of the book printed on each side. How many pages are in the book, if it is 1.5 inches thick?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the number of pages in the book, we can use the given information:
+
+1. **Thickness per page**: 100 pages per inch.
+2. **Total thickness of the book**: 1.5 inches.
+
+Using the formula:
+
+\[
+\text{Number of pages} = \text{Thickness} \times \text{Pages per inch}
+\]
+
+Plugging in the values:
+
+\[
+\text{Number of pages} = 1.5 \, \text{inches} \times 100 \, \text{pages per inch} = 150 \,000 \, \text{pages}
+\]
+
+**Answer:** \boxed{150,000}

@@ -1,0 +1,40 @@
+<｜User｜>
+Q: While working at the restaurant, each of the forty customers who came into the restaurant gave Rafaela a $20 tip. Julieta received 10% less money in tips than Rafaela. How much money did Julieta and Rafaela receive as tips altogether?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Customers:**
+   - There are **40 customers** who gave tips.
+
+2. **Rafaela's Tips:**
+   - Each customer gave a **$20 tip**.
+   - **Total tips for Rafaela** = Number of customers × Tip per customer
+     \[
+     40 \text{ customers} × \$20/\text{customer} = \$900
+     \]
+
+3. **Julieta's Tips:**
+   - Julieta received **10% less** in tips than Rafaela.
+   - **Calculate 10% of Rafaela's tips:**
+     \[
+     10\% \text{ of } \$900 = 0.10 × \$900 = \$90
+     \]
+   - **Julieta's tips** = Rafaela's tips - 10% of tips
+     \[
+     \$900 - \$90 = \$810
+     \]
+
+4. **Total Tips Received by Both:**
+   - **Rafaela's tips + Julieta's tips**
+     \[
+     \$900 + \$810 = \$1711
+     \]
+
+**Final Answer:**
+\[
+\boxed{\$1711}
+\]

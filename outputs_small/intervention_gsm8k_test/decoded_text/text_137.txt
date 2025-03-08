@@ -1,0 +1,63 @@
+<｜User｜>
+Q: Rory orders 2 subs for $7.50 each, 2 bags of chips for $1.50 each and 2 cookies for $1.00 each for delivery.  There’s a 20% delivery fee added at check out and she wants to add a $5.00 tip.  What will her delivery order cost?
+A:<｜Assistant｜><think>
+First, calculate the cost of the subs by multiplying the number of subs by the cost per sub: 2 × $7.50 = $15.00.
+
+Next, calculate the cost of the chips by multiplying the number of bags by the cost per bag: 2 × $1.50 = $3.00.
+
+Then, calculate the cost of the cookies by multiplying the number of cookies by the cost per cookie: 2 × $1.00 = $2.00.
+
+Add these amounts together to find the total cost before the delivery fee: $15.00 + $3.00 + $2.00 = $20.20.
+
+Calculate the delivery fee by taking 20% of the total cost: 0.20 × $20.20 = $4.44.
+
+Add the delivery fee to the total cost: $20.20 + $4.44 = $24.64.
+
+Finally, add the tip to the total cost: $24.64 + $5.00 = $29.64.
+
+Therefore, Rory's delivery order will cost $29.64.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step to find the total cost of Rory's delivery order.
+
+1. **Calculate the cost of the subs:**
+   \[
+   2 \text{ subs} \times \$7.50 \text{ each} = \$15.00
+   \]
+
+2. **Calculate the cost of the chips:**
+   \[
+   2 \text{ bags} \times \$1.50 \text{ each} = \$3.00
+   \]
+
+3. **Calculate the cost of the cookies:**
+   \[
+   2 \text{ cookies} \times \$1.00 \text{ each} = \$2.00
+   \]
+
+4. **Add the costs together to find the total before delivery fee:**
+   \[
+   \$15.00 + \$3.00 + \$2.00 = \$20.00
+   \]
+
+5. **Calculate the delivery fee (20% of the total cost):**
+   \[
+   0.20 \times \$20.00 = \$4.00
+   \]
+
+6. **Add the delivery fee to the total cost:**
+   \[
+   \$20.00 + \$4.00 = \$24.00
+   \]
+
+7. **Add the tip to the total cost:**
+   \[
+   \$24.00 + \$5.00 = \$29.00
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$29.00}
+\]

@@ -1,0 +1,51 @@
+<｜User｜>
+Q: A pencil cost $0.50, and an eraser cost $0.25. If you bought 6 pencils and 8 erasers and paid $10, how much change would you get?
+A:<｜Assistant｜><think>
+First, I need to determine the total cost of the pencils and erasers.
+
+Each pencil costs $0.50, and you bought 6 pencils. So, the total cost for the pencils is 6 multiplied by $0.50, which equals $3.00.
+
+Each eraser costs $0.25, and you bought 8 erasers. Therefore, the total cost for the erasers is 8 multiplied by $0.25, which equals $2.00.
+
+Adding the total costs of the pencils and erasers together gives the overall amount spent: $3.00 + $2.00 = $5.00.
+
+Since you paid $10, the change you would receive is the difference between the amount paid and the total cost: $10.00 - $5.00 = $5.00.
+</think>
+
+**Solution:**
+
+1. **Calculate the total cost of the pencils:**
+   
+   - **Number of pencils:** 6
+   - **Cost per pencil:** \$0.50
+   
+   \[
+   \text{Total cost for pencils} = 6 \times \$0.50 = \$3.00
+   \]
+
+2. **Calculate the total cost of the erasers:**
+   
+   - **Number of erasers:** 8
+   - **Cost per eraser:** \$0.25
+   
+   \[
+   \text{Total cost for erasers} = 8 \times \$0.25 = \$2.00
+   \]
+
+3. **Calculate the total amount spent:**
+   
+   \[
+   \text{Total amount spent} = \$3.00 + \$2.00 = \$5.00
+   \]
+
+4. **Calculate the change received:**
+   
+   \[
+   \text{Change} = \$10.00 - \$5.00 = \$5.00
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$5.00}
+\]

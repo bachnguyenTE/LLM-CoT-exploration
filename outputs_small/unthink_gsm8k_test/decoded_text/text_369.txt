@@ -1,0 +1,32 @@
+<｜User｜>
+Q: 44 seniors need to receive awards.  Each senior receives a picture frame that costs $20.  Each picture frame needs to be etched with the logo for an additional 20% cost per frame.  2 of the seniors will also receive pins that are $5.  1/4 of the seniors are officers and they will need to receive cords that are $12 each.  How much will be spent on the senior gifts?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total cost of the senior gifts, let's break down the requirements step by step.
+
+1. **Total number of seniors:** 44
+
+2. **Cost per picture frame:** \$20
+
+3. **Additional cost for etching:** 20% of the frame cost.
+
+   - **Total cost per frame:** \$20 + (20% of \$20) = \$20 + \$4.80 = **\$24.80**
+
+4. **2 seniors will receive pins:** Each pin costs \$5.
+
+   - **Total cost for pins:** 2 × \$5 = **\$10.00**
+
+5. **1/4 of the seniors are officers:** Each officer needs a cord costing \$12.
+
+   - **Number of officers:** 44 × (1/4) = **11**
+   - **Total cost for cords:** 11 × \$12 = **\$132.00**
+
+6. **Calculate the total cost:**
+   - **Total cost for picture frames:** 44 × \$24.80 = **\$1,083.20**
+   - **Total cost for pins:** \$10.00
+   - **Total cost for cords:** \$132.00
+
+   - **Total expenditure:** \$1,083.20 + \$10.00 + \$132.00 = **\$1,325.20**
+
+**Final Answer:** \boxed{\$1,325.20}

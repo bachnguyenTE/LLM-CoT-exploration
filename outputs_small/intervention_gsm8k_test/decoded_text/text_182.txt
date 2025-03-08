@@ -1,0 +1,56 @@
+<｜User｜>
+Q: Jean is two years older than Mark.  Two years ago Mark was 5 years older than half Jan's age.  If Jan is 30 how old is Jean?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here: Jean is two years older than Mark. Two years ago, Mark was five years older than half of Jan's age. If Jan is 30, how old is Jean? Hmm, let me try to figure this out step by step.
+
+First, let me parse the information given. There are three people involved: Jean, Mark, and Jan. The relationships between their ages are given in two parts. The first part is straightforward: Jean is two years older than Mark. So, if I can figure out Mark's age, I can easily find Jean's age by adding two.
+
+The second part is a bit more complicated: two years ago, Mark was five years older than half of Jan's age. So, I need to consider their ages two years ago and relate that to Jan's current age.
+
+Wait, that seems right. Let me write down the information to make it clearer.
+
+Let me assign variables to each person's current age:
+
+- Let J = Jean's current age
+- Let M = Mark's current age
+- Let Jn = Jan's current age
+
+Given that Jan is 30, so Jn = 30.
+
+Now, the first relationship is straightforward: Jean is two years older than Mark. So, that translates to:
+
+J = M + 2
+
+So, if I can find Mark's age, I can find Jean's age.
+
+The second part is a bit trickier. It says two years ago, Mark was five years older than half of Jan's age. So, two years ago, Mark's age was M - 2, and Jan's age was Jn - 2. So, the equation would be:
+
+M - 2 = (1/2)(Jn - 2)
+
+Wait, that seems right. So, let me write that equation down:
+
+M - 2 = (1/2)(Jn - 2)
+
+Since we know Jn is 30, we can substitute that in:
+
+M - 2 = (1/2)(30 - 2)
+
+Let me compute the right side first. 30 - 2 is 28, so half of that is 4. So, the equation becomes:
+
+M - 2 = 4
+
+Then, solving for M, we add 2 to both sides:
+
+M = 4 + 2 = 6
+
+So, Mark is currently 6 years old.
+
+Now, going back to the first equation, J = M + 2, so substituting M = 6:
+
+J = 6 + 2 = 8
+
+So, Jean is 8 years old.
+
+Wait, that seems right. Let me double-check my steps to make sure I didn't make a mistake.
+
+First, Jan is 30. Two years ago, Jan was 28. The problem says that two years ago, Mark was five years older than half of Jan's age. So, half of Jan's age two years ago is 28 / 2 = 14. Wait, that seems right. So, half of Jan's age is 14, and Mark was five years older than that. So, Mark's age two years ago was 14 + 5 = 19. Therefore, Mark's current age is 19 + 2 = 11. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems

@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Mel uses a 900-watt air conditioner for 8 hours a day. This means that each hour the AC uses 900 watts of energy. If he reduces the time he uses the air conditioner by 5 hours a day, how many kilowatts of electric energy will he save in 30 days?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+First, let's determine the daily energy consumption of the air conditioner.
+
+1. **Original Usage:**
+   - **Power:** 900 watts
+   - **Time:** 8 hours
+   - **Energy per day:** \( 900 \, \text{watts} \times 8 \,000 \, \text{hours} = 72,000 \, \text{watt-hours} \)
+
+2. **Reduced Usage:**
+   - **Time:** \( 8 \,000 - 5,000 = 3,000 \, \text{hours} \)
+   - **Energy per day:** \( 900 \,00 \, \text{watt} \times 3,000 \, \text{hours} = 2,7000 \, \text{watt-hours} \)
+
+3. **Energy Saved Per Day:**
+   - **Savings:** \( 72,000 - 2,700 = 69,300 \, \text{watt-hours} \)
+
+4. **Total Savings Over 30 Days:**
+   - **Total:** \( 69,300 \, \text{watt-hours/day} \times 30 \, \text{days} = 2,079,000 \, \text{watt-hours} \)
+
+5. **Convert to Kilowatts:**
+   - \( 2,0790 \, \text{kilowatt-hours} \)
+
+**Final Answer:**
+\[
+\boxed{2.079 \, \text{kilowatt-hours}}
+\]

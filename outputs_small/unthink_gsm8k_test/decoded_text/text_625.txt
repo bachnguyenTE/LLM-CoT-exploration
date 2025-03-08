@@ -1,0 +1,20 @@
+<｜User｜>
+Q: Arianna plants a garden that has 10 rows of flowers with 20 flowers in each row. Currently, only 4/5 of the planted flowers have bloomed. How many flowers in Arianna's garden have bloomed?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Arianna has a garden with **10 rows of flowers**, and each row contains **20 flowers**. To find the total number of flowers in the garden, we multiply the number of rows by the number of flowers per row:
+
+\[
+\text{Total flowers} = 10 \text{ rows} \times 20 \text{ flowers/row} = 200 \text{ flowers}
+\]
+
+Currently, **\(\frac{4}{5}\)** of these flowers have bloomed. To find the number of bloomed flowers, we calculate:
+
+\[
+\text{Bloomed flowers} = \frac{4}{5} \times 200 = \frac{4 \times 200}{5} = \frac{800}{5} = 160
+\]
+
+**Answer:** \(\boxed{160}\)

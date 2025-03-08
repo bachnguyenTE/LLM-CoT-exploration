@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Baldur gets water from a well. He gets 5 pails of water every morning and 6 pails of water every afternoon. If each pail contains 5 liters of water, how many liters of water does he get every day?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Baldur gets water from a well in the morning and afternoon. Here's the breakdown:
+
+- **Morning:** 5 pails
+- **Afternoon:** 6 pails
+
+Each pail contains **5 liters** of water.
+
+**Total Water in the Morning:**
+\[
+5 \text{ pails} \times 5 \text{ liters/pail} = 25 \text{ liters}
+\]
+
+**Total Water in the Afternoon:**
+\[
+6 \text{ pails} \times 5 \text{ liters/pail} = 30 \text{ liters}
+\]
+
+**Total Water Every Day:**
+\[
+25 \text{ liters} + 30 \text{ liters} = 55 \text{ liters}
+\]
+
+**Final Answer:**
+\[
+\boxed{55 \text{ liters}}
+\]

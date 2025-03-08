@@ -1,0 +1,115 @@
+<｜User｜>
+Q: Morgan's dad said that she had $90 budgeted for her birthday party. She wants to make sure she and her friends all get to play one round of mini-golf, have $5 in arcade tokens, and get to ride the go-karts twice. A round of mini-golf is $5. The Go-karts cost $10 a ride. How many friends can she invite?
+A:<｜Assistant｜><think>
+Okay, so I need to figure out how many friends Morgan can invite to her birthday party. Let me read the problem again and break it down step by step.
+
+Morgan's dad said she has $90 budgeted for her birthday party. She wants to make sure she and her friends play one round of mini-golf, have $5 in arcade tokens, and ride the go-karts twice. 
+
+First, let me note down all the information given:
+
+- Total budget: $90
+- Amount for mini-golf: $5
+- Amount for arcade tokens: $5
+- Number of go-kart rides: 2, each costing $10
+
+Wait, that seems right. So, she wants to spend $5 on mini-golf, $5 on tokens, and $10 each for two go-kart rides. So, let me calculate the total amount she needs to spend on the party.
+
+Total expenses = Mini-golf + Arcade tokens + (Number of go-karts * Cost per go-kart)
+
+Plugging in the numbers:
+
+Total expenses = $5 + $5 + (2 * $10)
+
+Let me compute that:
+
+First, 2 * $10 is $20.
+
+Then, adding the other amounts: $5 + $5 + $20 = $30.
+
+So, she needs $30 for the party.
+
+But, that seems right. Let me double-check:
+
+- Mini-golf: $5
+- Arcade tokens: $5
+- Go-karts: 2 * $10 = $20
+Total: $5 + $5 + $20 = $30
+
+Yes, that adds up correctly.
+
+Now, she has a total budget of $90. So, the amount she can spend on her friends and herself is the total budget minus the expenses for mini-golf, arcade tokens, and go-karts.
+
+So, let's compute that:
+
+Amount available for herself and friends = Total budget - Total expenses
+
+Which is:
+
+$90 - $30 = $60
+
+Wait, that seems right. $90 minus $30 is $60.
+
+So, $60 is the amount she can spend on herself and her friends.
+
+But, that seems right. Let me think again.
+
+Wait, that seems right. So, she wants to spend $30 on mini-golf, tokens, and go-karts, so the remaining $60 is for herself and her friends.
+
+But, that seems right. So, now, how many friends can she invite?
+
+Wait, that seems right. So, the question is, how many friends can she invite? So, the total number of people she can invite is the number of friends plus herself.
+
+So, let me denote the number of friends as 'f'. So, the total number of people is f + 1 (including herself).
+
+Each person will get one mini-golf, one arcade token, and two go-kart rides.
+
+Wait, that seems right. So, each person will consume:
+
+- $5 for mini-golf
+- $5 for arcade tokens
+- 2 * $10 = $20 for go-karts
+
+So, each person will cost $5 + $5 + $20 = $30.
+
+Wait, that seems right. So, each person costs $30.
+
+But, that seems right. So, if each person costs $30, and she has $60 available, then the number of people she can invite is $60 divided by $30 per person.
+
+So, number of people = $60 / $30
+
+Let me compute that:
+
+60 divided by 30 is 2.
+
+So, that would mean she can invite 2 people, which is herself and one friend.
+
+Wait, that seems right. So, 2 people, each costing $30, so 2 * $30 = $60.
+
+So, that uses up all her budget.
+
+But, that seems right. So, she can invite 1 friend, making the total number of people 2.
+
+Wait, that seems right. So, the answer is 1 friend.
+
+Wait, that seems right. So, let me just recap.
+
+Total budget: $90
+
+Total expenses:
+
+- Mini-golf: $5
+- Arcade tokens: $5
+- Go-karts: 2 * $10 = $20
+Total: $5 + $5 + $20 = $30
+
+So, $30 is spent on mini-golf, tokens, and go-karts.
+
+Therefore, remaining budget: $90 - $30 = $60
+
+Each person (including herself) will cost $30.
+
+So, number of people = $60 / $30 = 2
+
+So, 2 people, which is herself and one friend.
+
+Therefore, the number of friends she can

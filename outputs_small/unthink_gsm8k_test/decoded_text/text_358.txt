@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Marisa gets $5 as pocket money every day from her parents. She buys 4 lollipops worth 25 cents each every day and saves the change in her piggy bank. How much money does she put in her piggy bank if she saves for 5 days?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate the total pocket money Marisa receives in 5 days:**
+   
+   \[
+   5 \text{ dollars/day} \times 5 \text{ days} = 25 \text{ dollars}
+   \]
+
+2. **Determine the cost of one lollipop:**
+   
+   \[
+   4 \text{ lollipops} \times \$0.25/\text{lollipop} = \$1.00
+   \]
+
+3. **Find the amount saved in one day:**
+   
+   \[
+   \$2.50 \text{ (pocket money)} - \$1.00 \text{ (lollipops)} = \$1.50 \text{ saved}
+   \]
+
+4. **Calculate the total savings over 5 days:**
+   
+   \[
+   \$1.50/\text{day} \times 5 \text{ days} = \$7.50
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$7.50}
+\]

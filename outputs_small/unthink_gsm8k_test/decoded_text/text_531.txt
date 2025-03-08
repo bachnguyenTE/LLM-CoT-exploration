@@ -1,0 +1,46 @@
+<｜User｜>
+Q: 48 people are riding a bus. On the first stop, 8 passengers get off, and 5 times as many people as the number who got off from the bus get into the bus. On the second stop 21, passengers get off and 3 times fewer passengers get on. How many passengers are riding the bus after the second stop?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Initial Number of Passengers:**
+- **Total passengers on the bus:** 48
+
+**First Stop:**
+1. **Passengers get off:**
+   - **8 passengers** get off the bus.
+   
+2. **Passengers get on:**
+   - **5 times as many people as the number who got off** from the bus get into the bus.
+   - **Number of passengers who got off:** 8
+   - **Number of passengers who get on:** \( 5 \times 8 = 40 \) passengers
+
+**Passengers Remaining After First Stop:**
+- **Passengers on the bus after first stop:** 
+  - **Initial passengers:** 48
+  - **Passengers get off:** -8
+  - **Passengers get on:** +40
+  - **Total passengers:** \( 48 - 8 + 40 = 80 \)
+
+**Second Stop:**
+1. **Passengers get off:**
+   - **21 passengers** get off the bus.
+   
+2. **Passengers get on:**
+   - **3 times fewer passengers** get on the bus.
+   - **Number of passengers who got off:** 21
+   - **Number of passengers who get on:** \( \frac{21}{3} = 7 \) passengers
+
+**Passengers Remaining After Second Stop:**
+- **Passengers on the bus after second stop:** 
+  - **Passengers on the bus after first stop:** 88
+  - **Passengers get off:** -21
+  - **Passengers get on:** +7
+  - **Total passengers:** \( 88 - 21 + 7 = 74 \)
+
+**Final Answer:**
+\[
+\boxed{74}
+\]

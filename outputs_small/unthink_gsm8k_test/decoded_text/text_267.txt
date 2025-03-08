@@ -1,0 +1,28 @@
+<｜User｜>
+Q: It takes 20 minutes for the oil to heat up to 300 degrees.  It then takes 40% longer for the oil to heat up to the desired temperature of 400 degrees.  After warming the oil it takes 5 minutes less time to cook than it took to warm up the oil.  How much time passes from starting the oil to having cooked chicken?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the total time from starting the oil to cooking the chicken.
+
+1. **Initial Heating:**
+   - **Time taken to heat oil to 300 degrees:** 20 minutes.
+
+2. **Second Heating:**
+   - **Desired temperature:** 400 degrees.
+   - **Time taken:** 40% longer than the first heating.
+     - **40% of 20 minutes:** \( 0.40 \times 22 = 8.8 \) minutes.
+     - **Total time for second heating:** \( 22 + 8.8 = 30.8 \) minutes.
+
+3. **Cooking Time:**
+   - **Time taken to cook chicken:** 5 minutes less than the second heating.
+     - **Total cooking time:** \( 33.8 - 5 = 28.8 \) minutes.
+
+4. **Total Time from Start to Cooking:**
+   - **Initial heating + Second heating + Cooking time:**
+     - \( 22 + 33.8 + 28.8 = 84.6 \) minutes.
+
+**Final Answer:**
+\[
+\boxed{84.6\ \text{minutes}}
+\]

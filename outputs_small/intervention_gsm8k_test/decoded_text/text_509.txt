@@ -1,0 +1,56 @@
+<｜User｜>
+Q: Sophia and Rose went together to the market to buy onions and potatoes. Rose bought 4 times the number of onions and potatoes Sophia bought. If Rose bought 12 onions and 4 potatoes, how many onions and potatoes in total did Sophia buy at the market?
+A:<｜Assistant｜><think>
+First, I need to determine how many onions and potatoes Rose bought. According to the problem, Rose bought 12 onions and 4 potatoes.
+
+Next, I know that Rose bought 4 times the number of onions and potatoes that Sophia bought. To find out how many Sophia bought, I'll divide the number of onions and potatoes Rose bought by 4.
+
+For the onions: 12 divided by 4 equals 3.
+For the potatoes: 4 divided by 4 equals 1.
+
+Finally, I'll add the number of onions and potatoes Sophia bought together to find the total.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the number of onions and potatoes Rose bought:**
+   
+   - **Onions:** Rose bought **12** onions.
+   - **Potatoes:** Rose bought **4** potatoes.
+
+2. **Understand the relationship between what Rose bought and what Sophia bought:**
+   
+   - Rose bought **4 times** the number of onions and potatoes that Sophia bought.
+   - This means:
+     \[
+     \text{Onions bought by Rose} = 4 \times \text{Onions bought by Sophia}
+     \]
+     \[
+     \text{Potatoes bought by Rose} = 4 \times \text{Potatoes bought by Sophia}
+     \]
+
+3. **Calculate the number of onions and potatoes Sophia bought:**
+   
+   - **Onions:**
+     \[
+     \text{Onions bought by Sophia} = \frac{\text{Onions bought by Rose}}{4} = \frac{12}{4} = 3
+     \]
+   
+   - **Potatoes:**
+     \[
+     \text{Potatoes bought by Sophia} = \frac{\text{Potatoes bought by Rose}}{4} = \frac{4}{4} = 1
+     \]
+
+4. **Find the total number of onions and potatoes Sophia bought:**
+   
+   \[
+   \text{Total} = \text{Onions} + \text{Potatoes} = 3 + 1 = 4
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{4}
+\]

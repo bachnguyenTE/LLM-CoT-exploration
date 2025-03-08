@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Gunther, the gorilla, had 48 bananas hidden under a fern branch.  When Gunther wasn't looking, Arnold, the chimpanzee, stole half of the bananas from the pile.  The next day, Gunther added another 25 bananas to his pile, but later that evening, Arnold stole another 12 of the bananas.  On the third day, Gunther added another 6 bananas to his pile and began counting bananas.  How many bananas did Gunther find were in the pile?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many bananas Gunther found in the pile.
+
+1. **Initial Bananas:**
+   - Gunther starts with **48 bananas** hidden under a fern branch.
+
+2. **First Theft by Arnold:**
+   - Arnold steals half of the bananas.
+   - **Stealing:** \( \frac{48}{2} = 24 \) bananas.
+   - **Remaining Bananas:** \( 48 - 24 = 24 \) bananas.
+
+3. **Second Addition by Gunther:**
+   - The next day, Gunther adds **25 bananas** to his pile.
+   - **Added Bananas:** \( 24 + 25 = 29 \) bananas.
+
+4. **Third Theft by Arnold:**
+   - Later that evening, Arnold steals **12 bananas**.
+   - **Stealing:** \( 29 - 12 = 17 \) bananas.
+
+5. **Final Addition by Gunther:**
+   - On the third day, Gunther adds **6 bananas** to his pile.
+   - **Added Bananas:** \( 17 + 6 = 23 \) bananas.
+
+6. **Total Bananas Found by Gunther:**
+   - After all the additions and subtractions, Gunther ends up with **23 bananas** in the pile.
+
+**Final Answer:**
+\[
+\boxed{23}
+\]

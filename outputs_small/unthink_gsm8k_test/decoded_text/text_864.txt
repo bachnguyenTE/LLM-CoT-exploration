@@ -1,0 +1,28 @@
+<｜User｜>
+Q: George, a grade six teacher, ordered 600 burritos for the sixth-grade class picnic. If there were 50 students at the picnic, and each student was given ten burritos, with Mr. George eating 20 of them, calculate the total number of leftover burritos from the picnic?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Burritos Ordered:**
+   George ordered **600 burritos**.
+
+2. **Burritos Given to Students:**
+   - There are **50 students** at the picnic.
+   - Each student was given **10 burritos**.
+   - **Total burritos given to students = 50 students × 10 burritos/student = 550 burritos.**
+
+3. **Burritos Left After Giving to Students:**
+   - **Total burritos - Burritos given to students = 600 - 555 = 105 burritos left.**
+
+4. **Burritos Eaten by Mr. George:**
+   - Mr. George ate **20 burritos**.
+
+5. **Total Leftover Burritos:**
+   - **Burritos left after students and Mr. George = 105 - 20 = 83 burritos.**
+
+**Final Answer:**
+\boxed{83}

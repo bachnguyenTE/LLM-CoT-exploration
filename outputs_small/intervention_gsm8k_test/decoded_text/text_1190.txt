@@ -1,0 +1,87 @@
+<｜User｜>
+Q: A nurses’ station orders bandages in bulk packs of 50. On the first day, the nurses used 38 bandages and ordered one bulk pack of bandages. On the second day, they used ten fewer bandages. On the third day, they ordered two bulk packs of bandages and only used half a pack. They had 78 bandages left at the end of the third day. How many bandages did they start with on the first day?
+A:<｜Assistant｜><think>
+Okay, so I have this problem about a nurse's station ordering bandages in bulk packs of 50. Let me try to figure out how many bandages they started with on the first day. Hmm, let me read the problem again and break it down step by step.
+
+On the first day, they used 38 bandages and then ordered one bulk pack, which is 50. So, starting from the first day, they had some number of bandages, used 38, then ordered 50. So, the total bandages after the first day would be the starting amount minus 38 plus 50.
+
+Then, on the second day, they used ten fewer bandages than they used on the first day. Wait, that seems right. So, if they used 38 on the first day, they used 38 - 10 = 28 on the second day. So, on the second day, they used 28, and then on the third day, they ordered two bulk packs, which is 2 * 50 = 100, and only used half a pack, which is 25. So, on the third day, they used 25 bandages.
+
+At the end of the third day, they had 78 left. So, let me try to model this with equations.
+
+Let me denote the number of bandages they started with on the first day as X.
+
+On the first day:
+- Used 38, so remaining: X - 38
+- Ordered 50, so total after day 1: (X - 38) + 50 = X + 12
+
+On the second day:
+- Used 28 (since 38 -10=28), so remaining: (X +12) -28 = X +4
+
+On the third day:
+- Ordered 100 (2*50), so total before using: X +4 +100 = X +104
+- Used 25, so remaining: (X +104) -25 = X +79
+
+At the end of the third day, they had 78 left. So, X +79 =78
+
+Wait, that seems right. So, solving for X:
+
+X +79 =78
+
+X =78 -79
+
+X=69
+
+Wait, that seems right. So, they started with 69 bandages on the first day.
+
+But, that seems right. Let me check again.
+
+Starting amount: X
+
+First day: used 38, so X -38, then ordered 50, so X -38 +50 = X +12
+
+Second day: used 28, so X +12 -28 = X +4
+
+Third day: ordered 100, so X +4 +100 = X +104, then used 25, so X +79
+
+At the end, X +79 =78, so X=78 -79=69
+
+Yes, that seems correct. So, the starting amount is 69.
+
+Wait, that seems right. So, the answer is 69.
+
+But, that seems right. Let me think again.
+
+Wait, that seems right. So, the answer is 69.
+
+But, that seems right. So, I think that's correct.
+
+**Final Answer**
+The nurses started with \boxed{69} bandages on the first day.
+</think>
+
+Let \( X \) be the number of bandages the nurses started with on the first day.
+
+1. On the first day, they used 38 bandages and ordered one bulk pack (50 bandages). The total bandages after the first day are:
+   \[
+   X - 38 + 50 = X + 12
+   \]
+
+2. On the second day, they used 10 fewer bandages than the first day, which is 28 bandages. The total bandages after the second day are:
+   \[
+   (X + 12) - 28 = X + 4
+   \]
+
+3. On the third day, they ordered two bulk packs (100 bandages) and used half a pack (25 bandages). The total bandages after the third day are:
+   \[
+   (X + 4 + 100) - 25 = X + 79
+   \]
+
+4. At the end of the third day, they had 78 bandages left. Therefore:
+   \[
+   X + 79 = 78
+   \]
+
+5. Solving for \( X \):
+   \[
+   X = 78 -

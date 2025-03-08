@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Mr. Jackson’s fourth-grade class has 27 students. He wants to give each student 2 glue sticks. The glue sticks come in packs of 8. How many packs will Mr. Jackson need to buy so every student can have 2 glue sticks, assuming he can only buy whole packs and he expects to have some extra glue sticks left over?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many packs of glue sticks Mr. Jackson needs to buy, let's break down the problem step by step.
+
+1. **Total Students:** There are 27 students in the class.
+
+2. **Glue Sticks per Student:** Each student will receive 2 glue sticks.
+
+3. **Total Glue Sticks Needed:** 
+   \[
+   27 \text{ students} \times 2 \text{ glue sticks/student} = 54 \text{ glue sticks}
+   \]
+
+4. **Glue Sticks per Pack:** Each pack contains 8 glue sticks.
+
+5. **Calculating Packs Needed:**
+   - Divide the total number of glue sticks needed by the number of glue sticks per pack:
+     \[
+     \frac{54 \text{ glue sticks}}{8 \text{ glue sticks/pack}} = 6.75 \text{ packs}
+     \]
+   - Since Mr. Jackson can only buy whole packs, he needs to round up to the next whole number.
+
+6. **Final Purchase:**
+   - **7 packs** of glue sticks.
+
+**Answer:** Mr. Jackson needs to buy \boxed{7} packs of glue sticks.

@@ -1,0 +1,19 @@
+<｜User｜>
+Q: Gerald works at a daycare that pays him $30 every day. He worked for an entire week and spent a total of $100. How much does he have left?
+A:<｜Assistant｜><think>
+</think>
+
+Gerald works at a daycare that pays him \$30 every day. He worked for an entire week and spent a total of \$100. To find out how much he has left, follow these steps:
+
+1. **Calculate the total earnings for the week:**
+   \[
+   \text{Daily Pay} \times \text{Days Worked} = \$30 \times 7 = \$210
+   \]
+
+2. **Subtract the total expenses from the total earnings:**
+   \[
+   \text{Total Earnings} - \text{Total Expenses} = \$210 - \$100 = \$110
+   \]
+
+**Final Answer:**  
+Gerald has \$110 left.

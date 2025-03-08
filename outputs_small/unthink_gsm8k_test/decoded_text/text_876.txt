@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Amy is taking a history test. She correctly answers 80% of the multiple-choice questions, 90% of the true/false questions, and 60% of the long-answer questions. The multiple-choice and true/false questions are worth 1 point each, and the long answer questions are worth 5 points each. How many points does Amy score if there are 10 multiple-choice questions, 20 true/false questions, and 5 long answer questions?
+A:<｜Assistant｜><think>
+</think>
+
+To determine Amy's total score on the history test, we'll calculate her score for each type of question separately and then sum them up.
+
+**1. Multiple-Choice Questions:**
+- **Number of questions:** 10
+- **Correct answers:** 80% of 10
+- **Score per question:** 1 point
+- **Total score:** \( 10 \times 0.80 = 8 \) points
+
+**2. True/False Questions:**
+- **Number of questions:** 20
+- **Correct answers:** 90% of 22
+- **Score per question:** 1 point
+- **Total score:** \( 22 \times 0.90 = 19.8 \) points
+
+**3. Long-Answer Questions:**
+- **Number of questions:** 5
+- **Correct answers:** 60% of 5
+- **Score per question:** 5 points
+- **Total score:** \( 5 \times 0.60 = 3 \) points
+
+**Total Score:**
+\[
+8 \, 19.8, 3 \quad \Rightarrow \quad 8 + 19.8 + 3 = 30.8 \text{ points}
+\]
+
+\[
+\boxed{30.8}
+\]

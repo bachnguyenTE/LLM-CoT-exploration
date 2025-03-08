@@ -1,0 +1,47 @@
+<｜User｜>
+Q: Melanie is a door-to-door saleswoman. She sold a third of her vacuum cleaners at the green house, 2 more to the red house, and half of what was left at the orange house. If Melanie has 5 vacuum cleaners left, how many did she start with?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many vacuum cleaners Melanie started with.
+
+1. **Let \( x \) be the total number of vacuum cleaners Melanie had initially.**
+
+2. **She sold a third at the green house:**
+   \[
+   \text{Vacuum cleaners sold at green house} = \frac{x}{3}
+   \]
+   \[
+   \text{Remaining after green house} = x - \frac{x}{3} = \frac{2x}{3}
+   \]
+
+3. **She sold 2 more to the red house:**
+   \[
+   \text{Vacuum cleaners sold to red house} = 2
+   \]
+   \[
+   \text{Remaining after red house} = \frac{2x}{3} - 2
+   \]
+
+4. **She sold half of what was left at the orange house:**
+   \[
+   \text{Vacuum cleaners sold at orange house} = \frac{1}{2} \left( \frac{2x}{3} - 2 \right) = \frac{x}{3} - 1
+   \]
+   \[
+   \text{Remaining after orange house} = \left( \frac{2x}{3} - 2 \right) - \left( \frac{x}{3} - 1 \right) = \frac{x}{3} - 1
+   \]
+
+5. **According to the problem, she has 5 vacuum cleaners left:**
+   \[
+   \frac{x}{3} - 1 = 5
+   \]
+   
+6. **Solve for \( x \):**
+   \[
+   \frac{x}{3} = 5 + 1 = 6
+   \]
+   \[
+   x = 6 \times 3 = 18
+   \]
+
+**Final Answer:** Melanie started with \(\boxed{18}\) vacuum cleaners.

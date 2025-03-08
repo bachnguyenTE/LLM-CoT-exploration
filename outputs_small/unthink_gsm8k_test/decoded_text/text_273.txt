@@ -1,0 +1,47 @@
+<｜User｜>
+Q: Terri is knitting a sweater with two sleeves, a collar, and a decorative rosette. The body of the sweater takes 900 stitches to complete, the collar takes a tenth of that number of stitches, and the rosette takes twice as many as the collar. The whole sweater is an 1800-stitch project. How many stitches does each sleeve take?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many stitches each sleeve takes.
+
+1. **Total Stitches in the Sweater:**
+   \[
+   1800 \text{ stitches}
+   \]
+
+2. **Stitches for the Body:**
+   \[
+   900 \text{ stitches}
+   \]
+
+3. **Stitches for the Collar:**
+   \[
+   \text{Collar} = \frac{1}{10} \times 900 = 90 \text{ stitches}
+   \]
+
+4. **Stitches for the Rosette:**
+   \[
+   \text{Rosette} = 2 \times 90 = 180 \text{ stitches}
+   \]
+
+5. **Total Stitches Used for Body, Collar, and Rosette:**
+   \[
+   900 + 90 + 180 = 1167 \text{ stitches}
+   \]
+
+6. **Stitches Remaining for Sleeves:**
+   \[
+   1800 - 1167 = 633 \text{ stitches}
+   \]
+
+7. **Stitches per Sleeve:**
+   \[
+   \text{Each Sleeve} = \frac{633}{2} = 316.5 \text{ stitches}
+   \]
+
+However, since you can't have half a stitch, it's likely that the numbers provided in the problem are rounded or approximate. Therefore, the final answer is:
+
+\[
+\boxed{316.5}
+\]

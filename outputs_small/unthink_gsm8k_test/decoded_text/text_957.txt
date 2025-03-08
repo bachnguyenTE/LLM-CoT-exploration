@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Shawna's father is five times as old as Shawna. Shawna is currently three times as old as Aliya. If Aliya is 3 years old, how old is Shawna's father?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Given:**
+   - Aliya is 3 years old.
+   - Shawna is currently three times as old as Aliya.
+   - Shawna's father is five times as old as Shawna.
+
+2. **Find:**
+   - Shawna's father's age.
+
+3. **Step 1: Determine Shawna's Age**
+   
+   Shawna is three times as old as Aliya.
+   
+   \[
+   \text{Shawna's age} = 3 \times \text{Aliya's age} = 3 \times 3 = 9 \text{ years old}
+   \]
+
+4. **Step 2: Determine Shawna's Father's Age**
+   
+   Shawna's father is five times as old as Shawna.
+   
+   \[
+   \text{Father's age} = 5 \times \text{Shawna's age} = 5 \times 9 = 45 \text{ years old}
+   \]
+
+5. **Final Answer:**
+   
+   Shawna's father is **45 years old**.
+
+\[
+\boxed{45}
+\]

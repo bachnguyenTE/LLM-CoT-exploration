@@ -1,0 +1,43 @@
+<｜User｜>
+Q: A new program had 60 downloads in the first month. The number of downloads in the second month was three times as many as the downloads in the first month, but then reduced by 30% in the third month. How many downloads did the program have total over the three months?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Downloads in the first month: 60
+- Downloads in the second month: 3 times the first month
+- Downloads in the third month: 30% less than the second month
+
+**Step 1: Calculate Downloads in the Second Month**
+
+The number of downloads in the second month is three times the downloads in the first month.
+
+\[
+\text{Downloads in second month} = 3 \times 60 = 180
+\]
+
+**Step 2: Calculate Downloads in the Third Month**
+
+The downloads in the third month are reduced by 30% from the second month.
+
+\[
+\text{Reduction} = 30\% \times 180 = 0.30 \times 180 = 54
+\]
+
+\[
+\text{Downloads in third month} = 180 - 54 = 126
+\]
+
+**Step3: Calculate Total Downloads Over Three Months**
+
+\[
+\text{Total downloads} = 60 + 180 + 126 = 372
+\]
+
+**Final Answer:**
+
+\[
+\boxed{372}
+\]

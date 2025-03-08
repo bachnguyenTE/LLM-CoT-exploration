@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Leo collects stickers. Two years ago, he had 100 stickers in his collection. Last year, Leo collected 50 stickers. This year, he collected twice the number of stickers as the previous year. How many stickers does Leo have in his collection?
+A:<｜Assistant｜><think>
+</think>
+
+Let's determine how many stickers Leo has in his collection step by step.
+
+1. **Two years ago:**  
+   Leo had **100 stickers**.
+
+2. **Last year:**  
+   Leo collected **50 stickers**.
+
+3. **This year:**  
+   Leo collected **twice the number of stickers** as last year.  
+   \[
+   2 \times 50 = 100 \text{ stickers}
+   \]
+
+4. **Total stickers in the collection:**  
+   Add the stickers from each year:  
+   \[
+   100 \text{ (two years ago)} + 50 \text{ (last year)} + 100 \text{ (this year)} = 260 \text{ stickers}
+   \]
+
+**Final Answer:**  
+\[
+\boxed{260}
+\]

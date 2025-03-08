@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Joe has $50 to buy an outfit for his new field trip. There is a 30% off sale at the clothing store. The shirt he picks out has a price of $25. He also picks out a pair of shorts for $35. Assuming that sales tax is included, how much money will Joe have left after the purchase?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate the total cost of the items before discount:**
+   
+   - **Shirt:** \$25
+   - **Shorts:** \$35
+   
+   \[
+   \text{Total before discount} = \$25 + \$35 = \$60
+   \]
+
+2. **Apply the 30% discount:**
+   
+   \[
+   \text{Discount amount} = 30\% \times \$60 = 0.30 \times 60 = \$19.80
+   \]
+   
+   \[
+   \text{Total after discount} = \$60 - \$19.80 = \$40.20
+   \]
+
+3. **Subtract the total cost from Joe's initial amount:**
+   
+   \[
+   \text{Money left} = \$50 - \$40.20 = \$9.80
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$9.80}
+\]

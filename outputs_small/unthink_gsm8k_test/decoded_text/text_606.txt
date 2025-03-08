@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Every 2 miles a car drives the tires rotate 725 times.  Jeremy drives 400 miles a month.  If each tire can undergo 10,440,000 rotations how many years before the tire needs to be replaced?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the number of tire rotations per mile:**
+   
+   - The car's tires rotate 725 times per mile.
+
+2. **Calculate the total number of rotations for 400 miles:**
+   
+   \[
+   \text{Total rotations} = 725 \, \text{rotations/mile} \times 400 \,000 \, \text{miles} = 290,000,000 \, \text{rotations}
+   \]
+
+3. **Determine the number of rotations needed for a replacement:**
+   
+   - Each tire can undergo 10,440,000 rotations before replacement.
+
+4. **Calculate the number of miles before replacement:**
+   
+   \[
+   \text{Miles before replacement} = \frac{10,440,000 \, \text{rotations}}{725 \, \text{rotations/mile}} \approx 14,400 \, \text{miles}
+   \]
+
+5. **Convert miles to years:**
+   
+   - There are 12 miles in a year (assuming 12 months).
+   
+   \[
+   \text{Years before replacement} = \frac{14,400 \, \text{miles}}{12 \, \text{miles/year}} = 1,200 \, \text{years}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{1,\!200 \text{ years}}
+\]

@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Kim sleepwalks, to monitor her sleeping hours, she installs a camera in her room. Kim usually goes to sleep at 10 p.m. and wakes up at 6 a.m. She is a sleepwalker. One day, after reviewing the cameras, she finds that she woke up that day and was sleepwalking from 2:15 to 2:38 am.  Also, that day she woke up 5 minutes earlier than usual to go to the bathroom. How many minutes did she sleep on her bed that day?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many minutes Kim slept on her bed that day, let's break down the information step by step.
+
+1. **Normal Sleep Time:**
+   - **Sleep start:** 10:00 p.m. (10:00 p.m.)
+   - **Sleep end:** 6:00 a.m.
+   - **Total Sleep duration:** 10:00 p.m. to 6:00 a.m. = **11 hours**
+
+2. **Additional Information:**
+   - **Early Wake:** 5 minutes earlier than usual to go to the bathroom.
+   - **Early Start:** 2:15 a.m. (2:15 a.m.)
+   - **Early End:** 2:38 a.m. (2:38 a.m.)
+
+3. **Calculate Total Sleep Time:**
+   - **Start Time:** 2:15 a.m.
+   - **End Time:** 2:38 a.m.
+   - **Total Sleep duration:** 2:38 a.m. - 2:15 a.m. = **23 minutes**
+
+4. **Final Answer:**
+   - **Total Sleep time on the bed:** \(\boxed{23}\) minutes

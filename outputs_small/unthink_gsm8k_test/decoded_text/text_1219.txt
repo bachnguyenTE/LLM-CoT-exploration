@@ -1,0 +1,30 @@
+<｜User｜>
+Q: John is a carpenter. For his friend Ali, he manufactured 4 wooden tables for $20 each and 2 roof frames for $10 each. How much does Ali have to pay John?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+John manufactures two types of items for his friend Ali:
+- **Wooden tables:** 4 tables at \$20 each.
+- **Roof frames:** 2 frames at \$10 each.
+
+**Step 1:** Calculate the total cost for the wooden tables.
+\[
+4 \text{ tables} \times \$20 \text{ per table} = \$80
+\]
+
+**Step 2:** Calculate the total cost for the roof frames.
+\[
+2 \text{ frames} \times \$10 \text{ per frame} = \$20
+\]
+
+**Step 3:** Add both amounts to find the total cost.
+\[
+\$80 + \$20 = \$100
+\]
+
+**Final Answer:**
+\[
+\boxed{\$100}
+\]

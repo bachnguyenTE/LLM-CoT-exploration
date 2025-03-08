@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Olivia uploaded 72 pictures to Facebook.  She put the same number of the pics into 8 albums.  3 of the albums were selfies only and 2 of the albums were portraits.  How many portraits and selfies did she have?
+A:<｜Assistant｜><think>
+First, Olivia uploaded a total of 72 pictures to Facebook and distributed them equally into 8 albums.
+
+To find out how many pictures are in each album, I'll divide the total number of pictures by the number of albums: 72 ÷ 8 = 9 pictures per album.
+
+Next, I need to determine how many of these pictures are portraits and how many are selfies. There are 2 albums designated for portraits and 3 albums for selfies.
+
+Since each album contains 9 pictures, the total number of portraits will be 2 albums multiplied by 9 pictures per album: 2 × 9 = 18 portraits.
+
+Similarly, the total number of selfies will be 3 albums multiplied by 9 pictures per album: 3 × 9 = 27 selfies.
+
+Therefore, Olivia has 18 portraits and 27 selfies.
+</think>
+
+To determine how many portraits and selfies Olivia had, let's break down the problem step by step.
+
+**Given:**
+- **Total pictures uploaded:** 72
+- **Number of albums:** 8
+- **Portraits in albums:** 3
+- **Portraits in albums:** 2
+
+**Step 1: Calculate the number of pictures per album.**
+
+Since Olivia distributed the 72 pictures equally into 8 albums, we can find the number of pictures per album by dividing the total number of pictures by the number of albums:
+
+\[
+\text{Pictures per album} = \frac{72}{8} = 9
+\]
+
+**Step 2: Determine the number of portraits and selfies.**
+
+- **Portraits:** There are 3 albums designated for portraits.
+  
+  \[
+  \text{Total portraits} = 3 \text{ albums} \times 9 \text{ pictures per album} = 27 \text{ portraits}
+  \]
+
+- **Portraits:** There are 2 albums designated for selfies.
+  
+  \[
+  \text{Total selfies} = 2 \text{ albums} \times 9 \text{ pictures per album} = 18 \text{ selfies}
+  \]
+
+**Final Answer:**
+
+Olivia had \(\boxed{27}\) portraits and \(\boxed{18}\) selfies.

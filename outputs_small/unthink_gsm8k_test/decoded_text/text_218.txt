@@ -1,0 +1,45 @@
+<｜User｜>
+Q: Adrian's age is three times the age of Harriet, and Harriet is half the age of Zack. Calculate the average age of the three in three years if Harriet is 21 years old now.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Given:**
+   - Harriet is 21 years old now.
+   - Adrian's age is three times Harriet's age.
+   - Harriet is half the age of Zack.
+
+2. **Find:**
+   - The average age of the three (Adrian, Harriet, and Zack) in **three years**.
+
+3. **Step 1: Determine Adrian's Age**
+   
+   - Harriet's current age = 21 years.
+   - Adrian's age = 3 × Harriet's age = 3 × 21 = **63 years**.
+
+4. **Step 2: Determine Zack's Age**
+   
+   - Harriet is half the age of Zack.
+   - Let Zack's age = Z.
+   - Given: Harriet's age = (1/2) × Z ⇒ 21 = (1/2) × Z ⇒ Z = 21 × 2 = **42 years**.
+
+5. **Step 3: Calculate Ages in Three Years**
+   
+   - **Adrian's age in 3 years** = 63 + 3 = **66 years**.
+   - **Harriet's age in 3 years** = 21 + 3 = **24 years**.
+   - **Zack's age in 3 years** = 42 + 3 = **45 years**.
+
+6. **Step 4: Calculate the Total Age**
+   
+   - Total age in three years = 66 + 24 + 45 = **135 years**.
+
+7. **Step 5: Calculate the Average Age**
+   
+   - Average age = Total age / Number of people = 135 / 3 = **45 years**.
+
+**Final Answer:**
+
+\boxed{45}

@@ -1,0 +1,71 @@
+<｜User｜>
+Q: Jon runs a triathlon.  It takes him 40 minutes for the swim, an hour and 20 minutes for the bike ride and 50 minutes for the run.  Compared to Jon, James finishes the swim 10% faster but takes 5 minutes longer on the bike.  If Jon won by 10 minutes, how long did it take James to do the run?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how long it took James to complete the run.
+
+### **Given:**
+1. **Jon's Times:**
+   - **Swim:** 40 minutes
+   - **Bike Ride:** 1 hour 20 minutes = 80 minutes
+   - **Run:** 50 minutes
+
+2. **James's Performance:**
+   - **Swim:** 10% faster than Jon
+   - **Bike Ride:** Takes 5 minutes longer than Jon
+   - **Run:** Time to be determined
+
+3. **Jon's Win Margin:** Jon won by 10 minutes.
+
+### **Step 1: Calculate Jon's Total Time**
+\[
+\text{Jon's Total Time} = 40\text{min} + 80\text{min} + 50\text{min} = 180\text{min}
+\]
+
+### **Step 2: Determine Jon's Speeds**
+Let's denote:
+- \( S_j \) = Jon's swim speed
+- \( B_j \) = Jon's bike speed
+- \( R_j \) = Jon's run speed
+
+From the given times:
+- **Swim:** \( S_j = \frac{40\text{min}}{40\text{min}} = 1 \) (unitless, as it's a ratio)
+- **Bike Ride:** \( B_j = \frac{80\text{min}}{80\text{min}} = 1 \)
+- **Run:** \( R_j = \frac{50\text{min}}{50\text{min}} = \frac{11}{1.1} \approx 0.9091 \)
+
+### **Step 3: Calculate James's Times**
+1. **Swim:**
+   - **10% Faster:** \( S_j' = 1 - 0.10 = 0.90 \)
+   - **Time:** \( T_j' = \frac{40\text{min}}{0.90} \approx 44.444\text{min} \)
+
+2. **Bike Ride:**
+   - **5 minutes Longer:** \( B_j' = 1 + \frac{5}{80} = 1.0625 \)
+   - **Time:** \( T_j' = \frac{80\text{min}}{1.0625} \approx 75.24\text{min} \)
+
+3. **Run:**
+   - **Time to be Determined:** Let's denote it as \( T_r' \)
+
+### **Step 4: Compare to Jon's Win Margin**
+Since Jon won by 10 minutes, James's total time is 10 minutes more than Jon's total time.
+
+\[
+\text{James's Total Time} = \text{Jon's Total Time} + 10\text{min} = 180\text{min}
+\]
+
+\[
+\text{James's Total Time} = T_j' + T_b' + T_r' = 44.444\text{min} + 75.24\text{min} + T_r' = 120.684\text{min} + T_r'
+\]
+
+\[
+120.684 + T_r' = 180\text{min}
+\]
+
+\[
+T_r' = 180 - 120.684 = 59.316\text{min}
+\]
+
+### **Final Answer:**
+\[
+\boxed{59\frac{1}{6}\text{minutes}}
+\]

@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Tom has 4 bedrooms in his house.  They measure 20 by 12 feet each.  The living room is 5 times bigger than one bedroom.  The rest of the house is 1000 square feet.  What is the total area, in square feet, of the house?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Tom's house, and I need to figure out the total area. Let me read it again and break it down step by step.
+
+Tom has 4 bedrooms, each measuring 20 by 12 feet. So, each bedroom is a rectangle, right? I think that means the length and width are 20 feet and 12 feet. I should probably calculate the area of one bedroom first.
+
+So, the area of a rectangle is length multiplied by width. That would be 20 feet times 12 feet. Let me do that multiplication. 20 times 12... Hmm, 20 times 10 is 20, and 20 times 2 is 44, so adding those together, 220 square feet. Wait, no, that doesn't seem right. Wait, 20 times 12 is actually 240 square feet. Let me check that again. 20 times 10 is 20, and 20 times 2 is 44, so 20 plus 44 is 64? No, wait, that's not right either. Maybe I'm confusing the multiplication.
+
+Wait, 20 times 10 is 20, and 20 times 2 is 44, so 20 + 44 is 64. Hmm, but that doesn't make sense because 20 times 12 is 240. Wait, no, 20 is 20, 12 is 12. So, 20 times 10 is 200, and 20 times 2 is 44, so 200 + 44 is 244. Wait, I'm getting confused. Maybe I should just do 20 times 12.
+
+Let me write it out:
+
+20
+times 12
+--------
+20*2=40, but wait, no, 20*10 is 200, and 20*2 is 44, so 200 + 44 is 244. Yeah, so each bedroom is 244 square feet. Okay, that makes sense.
+
+So, each bedroom is 244 square feet. There are 4 bedrooms, so the total area of the bedrooms is 4 times 244. Let me calculate that.
+
+4 times 200 is 800, and 4 times 44 is 176, so 800 + 176 is 976. So, the total area of the bedrooms is 976 square feet.
+
+Now, the problem says the living room is 5 times bigger than one bedroom. So, one bedroom is 244, so 5 times that would be 5*244. Let me compute that.
+
+5*200 is 1000, and 5*44 is 220, so 1000 + 220 is 1220. So, the living room is 1220 square feet.
+
+Then, the rest of the house is 1000 square feet. So, to find the total area of the house, I need to add up the areas of the bedrooms, the living room, and the remaining 1000 square feet.
+
+So, that would be 976 (bedrooms) + 1220 (living room) + 1000 (rest of the house). Let me add them up step by step.
+
+First, 976 + 1220. Let me add 976 + 1200 first, which is 2176, and then add 20 more, so 2196. Then, add 1000 to that. 2196 + 1000 is 3196.
+
+Wait, let me check that again. 976 + 1220. 976 + 1200 is 2176, and then +20 is 2196. Then, 2196 + 1000. 2000 + 1000 is 3000, and 196 + 0 is 196, so 3396? Wait, no, that can't be right. Wait, 2196 + 1100 is 3296, and then +0 is 3296. Wait, no, 2196 + 1100 is 330

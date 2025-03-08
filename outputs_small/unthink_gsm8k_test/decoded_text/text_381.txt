@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Cho hiked 14 kilometers per hour for 8 hours. Chloe hiked 9 kilometers per hour and stopped after 5 hours. How many kilometers farther did Cho hike?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many kilometers farther Cho hiked compared to Chloe, we'll calculate the distance each hiked and then find the difference.
+
+1. **Calculate Cho's distance:**
+   \[
+   \text{Distance} = \text{Speed} \times \text{Time}
+   \]
+   \[
+   \text{Distance}_{\text{Cho}} = 14 \, \text{km/h} \times 8 \,0000 \, \text{h} = 112,0000 \, \text{km}
+   \]
+
+2. **Calculate Chloe's distance:**
+   \[
+   \text{Distance}_{\text{Chloe}} = 9 \, \text{km/h} \times 5 \, \text{h} = 45 \, \text{km}
+   \]
+
+3. **Find the difference in distance:**
+   \[
+   \text{Difference} = \text{Distance}_{\text{Cho}} - \text{Distance}_{\text{Chloe}} = 112,000 \, \text{km} - 45 \, \text{km} = 107,000 \, \text{km}
+   \]
+
+**Final Answer:**
+\[
+\boxed{107,\!000 \text{ kilometers}}
+\]

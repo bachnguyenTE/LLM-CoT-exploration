@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Four books are arranged on a shelf. The first book is 31 mm thick while the second book is 50 mm thick. The third book is 5 mm less thick than the second book, and the fourth book is twice as thick as the first book. What is the total thickness of the four books?
+A:<｜Assistant｜><think>
+</think>
+
+To find the total thickness of the four books, let's break down the information step by step.
+
+1. **First Book:**  
+   The first book is **31 mm** thick.
+
+2. **Second Book:**  
+   The second book is **50 mm** thick.
+
+3. **Third Book:**  
+   The third book is **5 mm** less thick than the second book.  
+   \[
+   \text{Thickness of third book} = 50\, \text{mm} - 5\,0\, \text{mm} = 45\, \text{mm}
+   \]
+
+4. **Fourth Book:**  
+   The fourth book is **twice as thick** as the first book.  
+   \[
+   \text{Thickness of fourth book} = 2 \times 31\, \text{mm} = 62\, \text{mm}
+   \]
+
+5. **Total Thickness:**  
+   Now, add up the thicknesses of all four books.  
+   \[
+   \text{Total thickness} = 31\, \text{mm} + 50\, \text{mm} + 45\, \text{mm} + 62\, \text{mm} = 190\, \text{mm}
+   \]
+
+**Final Answer:**  
+\[
+\boxed{196\, \text{mm}}
+\]

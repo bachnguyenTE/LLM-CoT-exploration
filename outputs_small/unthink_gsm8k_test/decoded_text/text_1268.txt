@@ -1,0 +1,27 @@
+<｜User｜>
+Q: A tower is made out of 4 blue blocks, twice as many yellow blocks, and an unknown number of red blocks. If there are 32 blocks in the tower in total, how many red blocks are there?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Number of blue blocks = 4
+- Number of yellow blocks = 2 × (number of blue blocks) = 2 × 4 = 8
+- Let the number of red blocks = \( R \)
+- Total number of blocks = 32
+
+**Step 1:** Calculate the total number of blue and yellow blocks.
+\[
+\text{Total blue and yellow blocks} = 4 \text{ (blue)} + 8 \text{ (yellow)} = 12
+\]
+
+**Step 2:** Subtract the total number of blue and yellow blocks from the total number of blocks to find the number of red blocks.
+\[
+R = 32 \text{ (total)} - 12 \text{ (blue and yellow)} = 20
+\]
+
+**Final Answer:**
+\[
+\boxed{20}
+\]

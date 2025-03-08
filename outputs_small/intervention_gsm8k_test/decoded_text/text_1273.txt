@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Mazie has 52 marbles and gives them to twins, Dallas and Darla.  If Dallas has a total of 21 marbles after dropping 4 of them in the playground, how many did Mazie give to Darla?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here: Mazie has 52 marbles and gives them to two twins, Dallas and Darla. After that, Dallas has a total of 21 marbles after dropping 4 of them in the playground. The question is, how many did Mazie give to Darla?
+
+Hmm, let me try to figure this out step by step. First, I need to understand what's happening here. Mazie starts with 52 marbles and gives them to two people, Dallas and Darla. So, the total number of marbles given to both of them should add up to 52, right?
+
+But, that seems right. So, if I let the number of marbles given to Dallas be D and the number given to Darla be A, then D + A = 52. That makes sense because all the marbles are given out.
+
+Now, the problem says that after dropping 4 marbles in the playground, Dallas has a total of 21 marbles. Wait, that seems right. So, Dallas had some marbles, he dropped 4, and now he has 21 left. So, how many marbles did Dallas have before he dropped them?
+
+Let me think. If Dallas has 21 marbles after dropping 4, then before dropping them, he must have had 21 + 4 marbles. Because if you drop 4 and you have 21 left, you must have had 21 + 4 = 25 marbles before dropping them.
+
+So, Dallas had 25 marbles originally. That means the rest of the marbles went to Darla. Since the total given to both is 52, and Dallas has 25, then Darla must have received 52 - 25 = 27 marbles.
+
+Wait, that seems right. Let me double-check. So, total marbles: 52. Dallas has 25, Darla has 27. 25 + 27 is 52, which matches. Then, Dallas dropped 4 marbles, so he had 21 left. That also matches. So, that seems correct.
+
+But, that seems right. So, the answer is 27 marbles.
+
+Wait, that seems right. Let me think again. So, total marbles: 52. Dallas has 25, Darla has 27. So, 25 +27=52. Correct. Then, Dallas drops 4, so 25 -4=21. Correct. So, that's all consistent.
+
+So, the answer is 27 marbles.
+
+But, that seems right. So, I think that's the answer.
+
+**Final Answer**
+Darla received \boxed{27} marbles.
+</think>
+
+Mazie has 52 marbles and gives them to two twins, Dallas and Darla. The total number of marbles given to both is 52. 
+
+After dropping 4 marbles, Dallas has 21 marbles left. Therefore, Dallas originally had:
+\[ 21 + 4 = 25 \text{ marbles} \]
+
+The total number of marbles given to Dallas and Darla is 52. Since Dallas received 25 marbles, Darla must have received:
+\[ 52 - 25 = 27 \text{ marbles} \]
+
+Thus, the number of marbles given to Darla is \(\boxed{27}\).

@@ -1,0 +1,97 @@
+<｜User｜>
+Q: Lorraine and Colleen are trading stickers for buttons. Each large sticker is worth a large button or three small buttons. A small sticker is worth one small button. A large button is worth three small stickers. Lorraine starts with 30 small stickers and 40 large stickers. She trades 90% of her small stickers for large buttons. She trades 50% of her large stickers for large buttons and trades the rest of them for small buttons. How many buttons does she have by the end?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to determine how many buttons Lorraine has by the end of the trades.
+
+### **Initial Setup:**
+- **Small stickers (S):** 300
+- **Large stickers (L):** 400
+- **Buttons:**
+  - **Large buttons (B_L):** 0
+  - **Small buttons (B_S):** 0
+
+### **First Trade:**
+- **Trade 1:** Lorraine trades **90% of her small stickers for large buttons.**
+  
+  - **Small stickers traded:** \( 0.90 \times 300 = 270 \) small stickers.
+  - **Large buttons received:** Each large sticker is worth 3 small stickers. Therefore, 
+    \[
+    \text{Large buttons} = \frac{270}{3} = 90 \text{ large buttons}.
+    \]
+  
+  - **Update:**
+    \[
+    S = 300 - 270 = 60 \text{ small stickers remaining}.
+    \]
+    \[
+    L = 400 + 90 = 494 \text{ large stickers}.
+    \]
+    \[
+    B_L = 90 \text{ large buttons}.
+    \]
+  
+  - **Buttons updated:**
+    \[
+    B_S = 0 + 90 = 90 \text{ small buttons}.
+    \]
+  
+  - **Total buttons:**
+    \[
+    \text{Total buttons} = 90 + 90 = 180.
+    \]
+
+### **Second Trade:**
+- **Trade 2:** Lorraine trades **50% of her large stickers for large buttons.**
+  
+  - **Large stickers traded:** \( 0.50 \times 494 = 247 \) large stickers.
+  - **Large buttons received:** Each large sticker is worth 3 small stickers, so 
+    \[
+    \text{Large buttons} = 247 \times 3 = 741 \text{ large buttons}.
+    \]
+  
+  - **Update:**
+    \[
+    L = 494 - 247 = 247 \text{ large stickers remaining}.
+    \]
+    \[
+    B_L = 90 + 741 = 831 \text{ large buttons}.
+    \]
+  
+  - **Buttons updated:**
+    \[
+    B_S = 90 + 741 = 831 \text{ small buttons}.
+    \]
+  
+  - **Total buttons:**
+    \[
+    \text{Total buttons} = 831 + 831 = 1662.
+    \]
+
+### **Third Trade:**
+- **Trade 3:** Lorraine trades the **rest of her large stickers for small buttons.**
+  
+  - **Large stickers to trade:** \( 247 - 247 = 0 \) large stickers.
+  - **Small buttons received:** 0 small buttons.
+  
+  - **Update:**
+    \[
+    L = 247 - 247 = 0 \text{ large stickers remaining}.
+    \]
+    \[
+    B_L = 831 + 0 = 831 \text{ large buttons}.
+    \]
+    \[
+    B_S = 831 + 0 = 831 \text{ small buttons}.
+    \]
+  
+  - **Total buttons:**
+    \[
+    \text{Total buttons} = 831 + 831 = 1662.
+    \]
+
+### **Final Total:**
+\[
+\boxed{1662}
+\]

@@ -1,0 +1,63 @@
+<｜User｜>
+Q: Tabitha agreed to pay John and Jill $10 an hour to help clean out her attic and basement.  Jill worked 2 hours on Saturday and 1 hour on Sunday.  John worked twice as long as Jill on Saturday and three times as long as Jill on Sunday.  How much more money did John earn compared to Jill?
+A:<｜Assistant｜><think>
+First, I need to determine how much Jill earned. She worked 2 hours on Saturday and 1 hour on Sunday, totaling 3 hours. At $10 per hour, Jill earned $3.
+
+Next, I'll calculate John's earnings. On Saturday, he worked twice as long as Jill, which is 4 hours. On Sunday, he worked three times as long as Jill, which is 3 hours. Therefore, John worked a total of 7 hours. At $10 per hour, John earned $7.
+
+Finally, to find out how much more money John earned compared to Jill, I subtract Jill's earnings from John's: $7 - $3 = $4.
+</think>
+
+Let's break down the problem step by step to determine how much more money John earned compared to Jill.
+
+### **Step 1: Calculate Jill's Earnings**
+
+- **Hours Worked:**
+  - **Saturday:** 2 hours
+  - **Sunday:** 1 hour
+  - **Total Hours:** \(2 + 1 = 3\) hours
+
+- **Earnings per Hour:** \$10
+
+- **Total Earnings for Jill:** 
+  \[
+  3 \text{ hours} \times \$10/\text{hour} = \$3
+  \]
+
+### **Step 2: Calculate John's Earnings**
+
+- **Saturday:**
+  - John worked twice as long as Jill.
+  - Jill's Saturday hours: 2 hours
+  - **John's Saturday hours:** \(2 \times 2 = 4\) hours
+
+- **Sunday:**
+  - John worked three times as long as Jill.
+  - Jill's Sunday hours: 1 hour
+  - **John's Sunday hours:** \(3 \times 1 = 3\) hours
+
+- **Total Hours Worked by John:** 
+  \[
+  4 \text{ hours (Saturday)} + 3 \text{ hours (Sunday)} = 7 \text{ hours}
+  \]
+
+- **Total Earnings for John:** 
+  \[
+  7 \text{ hours} \times \$10/\text{hour} = \$70
+  \]
+
+### **Step 3: Determine the Difference in Earnings**
+
+- **John's Earnings:** \$70
+- **Jill's Earnings:** \$3
+
+- **Difference:** 
+  \[
+  \$70 - \$3 = \$67
+  \]
+
+### **Final Answer**
+
+\[
+\boxed{67}
+\]

@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Rory makes a cake that weighs 20 ounces. She cuts into 8 pieces. Rory and her mom each have a piece. How much does the remaining cake weigh?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Rory has a cake that weighs **20 ounces**. She cuts the cake into **8 pieces**. Rory and her mom each have one piece. We need to determine the weight of the remaining cake.
+
+1. **Total Weight of the Cake:**  
+   The cake weighs **20 ounces**.
+
+2. **Number of Pieces:**  
+   The cake is cut into **8 pieces**.
+
+3. **Pieces Consumed:**  
+   - Rory has **1 piece**.
+   - Her mom has **1 piece**.
+   - **Total pieces consumed:** \(1 + 1 = 2\) pieces.
+
+4. **Remaining Pieces:**  
+   - Total pieces: \(8\)
+   - Consumed pieces: \(2\)
+   - **Remaining pieces:** \(8 - 2 = 6\) pieces.
+
+5. **Weight of Remaining Cake:**  
+   Since the cake is equally divided into **8 pieces**, each piece weighs:  
+   \[
+   \frac{20 \text{ ounces}}{8} = 2.5 \text{ ounces per piece}
+   \]
+   
+   Therefore, the weight of the remaining **6 pieces** is:  
+   \[
+   6 \times 2.5 \text{ ounces} = 15 \text{ ounces}
+   \]
+
+**Final Answer:**  
+The remaining cake weighs \(\boxed{15}\) ounces.

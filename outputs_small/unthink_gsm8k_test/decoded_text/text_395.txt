@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Erica made 20 Valentine's cards to pass out.  Her dad brought her 2 boxes of pre-made Valentine's cards that had 15 cards each.  She passed out 24 to her classmates, 5 to her family and received 17 from family and friends.  How many Valentine's Day cards does Erica now have?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Cards Erica Made:**
+   - Erica initially made **20** Valentine's cards.
+
+2. **Cards from Her Dad:**
+   - Her dad brought her **2 boxes** of pre-made cards.
+   - Each box contains **15 cards**.
+   - **Total cards from dad:** \( 2 \times 15 = 30 \) cards.
+
+3. **Total Cards Before Passing Out:**
+   - **Initial cards:** 20
+   - **Cards from dad:** 30
+   - **Total:** \( 20 + 30 = 50 \) cards.
+
+4. **Cards Passed Out:**
+   - **To classmates:** 24 cards
+   - **To family:** 5 cards
+   - **Received from family and friends:** 17 cards
+
+   - **Total passed out:** \( 24 + 5 + 17 = 46 \) cards.
+
+5. **Cards Remaining with Erica:**
+   - **Total cards:** 50
+   - **Cards passed out:** 46
+   - **Cards remaining:** \( 50 - 46 = 44 \) cards.
+
+**Final Answer:**
+\[
+\boxed{44}
+\]

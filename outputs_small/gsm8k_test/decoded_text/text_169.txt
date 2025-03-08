@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Pancho walks 20 miles a day. Except on weekends when he walks 10 miles. How many miles does he walk in a week?
+A:<｜Assistant｜><think>
+First, identify the number of weekdays and weekends in a week. There are 5 weekdays and 2 weekend days.
+
+Next, calculate the miles Pancho walks during weekdays. He walks 20 miles each day, so for 5 days, that's 20 multiplied by 5, which equals 100 miles.
+
+Then, calculate the miles he walks during weekends. He walks 10 miles each day, so for 2 days, that's 10 multiplied by 2, which equals 20 miles.
+
+Finally, add the miles from weekdays and weekends together to find the total miles walked in a week. 100 miles plus 20 miles equals 122 miles.
+</think>
+
+**Solution:**
+
+Pancho walks a certain number of miles each day, both on weekdays and weekends. To find the total miles he walks in a week, follow these steps:
+
+1. **Determine the number of weekdays and weekends in a week:**
+   - **Weekdays:** 5 days
+   - **Weekends:** 2 days
+
+2. **Calculate the miles walked during weekdays:**
+   \[
+   \text{Miles on weekdays} = 20 \, \text{miles/day} \times 5 \, \text{days} = 100 \, \text{miles}
+   \]
+
+3. **Calculate the miles walked during weekends:**
+   \[
+   \text{Miles on weekends} = 10 \, \text{miles/day} \times 2, \text{days} = 20 \, \text{miles}
+   \]
+
+4. **Add the miles from weekdays and weekends to get the total for the week:**
+   \[
+   \text{Total miles in a week} = 100 \, \text{miles} + 20 \, \text{miles} = 122 \, \text{miles}
+   \]
+
+**Final Answer:**
+\[
+\boxed{122}
+\]

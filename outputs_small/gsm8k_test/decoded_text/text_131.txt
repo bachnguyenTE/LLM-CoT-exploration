@@ -1,0 +1,26 @@
+<｜User｜>
+Q: The expenditure of Joseph in May was $500. In June, his expenditure was $60 less. How much was his total expenditure for those two months?
+A:<｜Assistant｜><think>
+First, I need to determine Joseph's expenditure in June. Since his expenditure in May was $500 and it was $60 less in June, I subtract $60 from $500 to find out how much he spent in June.
+
+Next, I'll add the expenditure from May and June together to find the total expenditure over the two months.
+</think>
+
+**Solution:**
+
+Let's determine Joseph's total expenditure for May and June.
+
+1. **Expenditure in May:**
+   \[
+   \text{Expenditure in May} = \$500
+   \]
+
+2. **Expenditure in June:**
+   \[
+   \text{Expenditure in June} = \$500 - \$60 = \$434
+   \]
+
+3. **Total Expenditure for Two Months:**
+   \[
+   \text{Total Expenditure} = \$500 + \$434 = \boxed{\$934}
+   \]

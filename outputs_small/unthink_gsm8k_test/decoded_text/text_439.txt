@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Wayne and Bernadette are movie stars heading to the premiere of their latest film. Bernadette wants to arrive 5 minutes before Wayne. Wayne is staying at a hotel close to the premiere theater, and Bernadette is staying at her high-rise apartment in the same city. The drive from Bernadette’s apartment takes four times as long as the drive from Wayne’s hotel. If it takes Wayne four minutes to be driven to the theater, how much earlier should Bernadette leave than Wayne to get to the theater first?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to determine how much earlier Bernadette should leave than Wayne to get to the theater first.
+
+1. **Wayne's Drive:**
+   - **Time taken by Wayne:** 4 minutes.
+   - **Distance:** Since Wayne is staying at a hotel close to the theater, the drive is relatively short.
+
+2. **Bernadette's Drive:**
+   - **Time taken by Bernadette:** The problem states that the drive from Bernadette’s apartment takes **four times** as long as the drive from Wayne’s hotel.
+   - **Let’s denote the time taken by Wayne as \( T_W \) and by Bernadette as \( T_B \).**
+     \[
+     T_B = 4 \times T_W
+     \]
+   - **Given \( T_W = 4 \) minutes:**
+     \[
+     T_B = 4 \times 4 = 16 \text{ minutes}
+     \]
+
+3. **Determining the Lead Time:**
+   - Wayne arrives in 4 minutes.
+   - Bernadette arrives in 16 minutes.
+   - **The difference in arrival times:**
+     \[
+     16 \text{ minutes} - 4 \text{ minutes} = 2 \text{ minutes}
+     \]
+
+4. **Conclusion:**
+   - Bernadette needs to leave **2 minutes earlier** than Wayne to arrive at the theater first.
+
+\[
+\boxed{2 \text{ minutes}}
+\]

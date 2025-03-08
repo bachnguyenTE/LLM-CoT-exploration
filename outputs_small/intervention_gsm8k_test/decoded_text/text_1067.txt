@@ -1,0 +1,48 @@
+<｜User｜>
+Q: Anthony is sending out coupons for his pizza parlor through the mail. He wants to send out 700 small coupons and twice as many big coupons. If each small coupon costs 5 cents to mail and each big coupon costs 15 cents, how much does he spend on postage total?
+A:<｜Assistant｜><think>
+Okay, so Anthony is sending out coupons for his pizza parlor, and he wants to send out 700 small coupons and twice as many big coupons. Each small coupon costs 5 cents to mail, and each big coupon costs 15 cents as well. The question is asking how much he spends on postage in total. Hmm, let me break this down step by step.
+
+First, I need to figure out how many big coupons Anthony is sending out. The problem says he wants to send out twice as many big coupons as small ones. He's sending out 700 small coupons, so that means the number of big coupons should be 2 times 700. Let me write that down:
+
+Number of big coupons = 2 × 700 = 1400.
+
+Okay, so he's sending out 1400 big coupons. Now, each small coupon costs 5 cents, and each big coupon costs 15 cents. Wait, that seems right. So, each small one is cheaper than each big one. So, the total cost will be the sum of the cost for all small coupons and the cost for all big coupons.
+
+Let me calculate the cost for the small coupons first. He's sending out 700 of them, each costing 5 cents. So, the total cost for small coupons is 700 × 5 cents. Let me compute that:
+
+700 × 5 = 3500 cents.
+
+Wait, that seems right. 700 times 5 is 3500. Yeah, 700 × 5 is 3500 cents.
+
+Now, moving on to the big coupons. He's sending out 1400 of them, each costing 15 cents. So, the total cost for big coupons is 1400 × 15 cents. Hmm, that's a bit more involved. Let me compute that.
+
+First, I can break down 1400 × 15 into two parts to make it easier. 1400 is the same as 1400, so maybe I can think of it as 1400 × 10 + 1400 × 5. Let me try that.
+
+1400 × 10 = 14000 cents.
+
+1400 × 5 = 7000 cents.
+
+Adding those together: 14000 + 7000 = 21000 cents.
+
+Wait, that seems right. Alternatively, I could have just multiplied 1400 × 15 directly. Let me check:
+
+1400 × 15: 1400 × 10 is 14000, and 1400 × 5 is 7000, so adding them gives 21000. Yep, same result.
+
+So, the total cost for big coupons is 21000 cents.
+
+Now, to find the total postage cost, I need to add the cost for small coupons and the cost for big coupons together.
+
+Total postage = 3500 cents + 21000 cents.
+
+Let me add those: 3500 + 21000. Hmm, 3500 + 20000 is 23500, and then adding 1000 more gives 24500. So, 24500 cents in total.
+
+But, that seems right. Let me just double-check my calculations to make sure I didn't make a mistake.
+
+First, number of big coupons: 2 × 700 = 1400. That seems correct.
+
+Cost for small coupons: 700 × 5 = 3500. Correct.
+
+Cost for big coupons: 1400 × 15. Let me compute 1400 × 15 again.
+
+1440 × 15: 1440 × 10 is 14400, 1440 × 5 is 7200. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that

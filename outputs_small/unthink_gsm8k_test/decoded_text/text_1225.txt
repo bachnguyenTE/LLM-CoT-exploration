@@ -1,0 +1,59 @@
+<｜User｜>
+Q: Carly is making cupcakes and brownies for her art class. She makes 2 less than three times as many brownies as cupcakes. If Carly's class has five people and each person gets two treats, how many cupcakes did Carly make?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Define Variables:**
+   - Let \( C \) \) represent the number of cupcakes Carly made.
+   - Let \( B \) represent the number of brownies.
+
+2. **Set Up the Relationship:**
+   - According to the problem, Carly makes **2 less than three times as many brownies as cupcakes**.
+   - This can be written as:
+     \[
+     B = 3C - 2
+     \]
+
+3. **Determine the Total Number of Treats:**
+   - Each person in the class gets **2 treats**.
+   - There are **5 people** in the class.
+   - Therefore, the total number of treats is:
+     \[
+     \text{Total Treats} = 5 \times 2 = 10
+     \]
+
+4. **Express Total Treats in Terms of Cupcakes and Brownies:**
+   - The total number of treats is the sum of cupcakes and brownies:
+     \[
+     C + B = 10
+     \]
+
+5. **Substitute the Expression for \( B \) into the Total Treats Equation:**
+   - From step 2, \( B = 3C - 2 \).
+   - Substitute into the equation:
+     \[
+     C + (3C - 2) = 10
+     \]
+
+6. **Solve for \( C \):**
+   - Combine like terms:
+     \[
+     4C - 2 = 10
+     \]
+   - Add 2 to both sides:
+     \[
+     4C = 12
+     \]
+   - Divide both sides by 4:
+     \[
+     C = 3
+     \]
+
+**Final Answer:**
+\[
+\boxed{3}
+\]

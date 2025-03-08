@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Pamela reapplies an ounce of sunscreen every hour she's outside.  Her sunscreen comes in 8-ounce bottles.  While on vacation, if she will be outside 4 hours a day over 8 days, how many bottles of sunscreen will she need to pack?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total sunscreen Pamela will use during her vacation:**
+   
+   - **Sunscreen usage per hour:** 1 ounce
+   - **Hours outside per day:** 4 hours
+   - **Days of vacation:** 8 days
+
+   \[
+   \text{Total sunscreen usage} = 1 \, \text{ounce/hour} \times 4 \,000 \, \text{hours} = 40,00 \, \text{ounces}
+   \]
+
+2. **Calculate the number of bottles needed:**
+   
+   - **Bottle size:** 8 ounces
+   - **Total sunscreen needed:** 40,00 ounces
+
+   \[
+   \text{Number of bottles} = \frac{40,00 \, \text{ounces}}{8 \, \text{ounces/bottle}} = 5 \, \text{bottles}
+   \]
+
+**Final Answer:**
+
+Pamela will need to pack \(\boxed{5}\) bottles of sunscreen.

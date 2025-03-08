@@ -1,0 +1,60 @@
+<｜User｜>
+Q: Terri is knitting a sweater with two sleeves, a collar, and a decorative rosette. The body of the sweater takes 900 stitches to complete, the collar takes a tenth of that number of stitches, and the rosette takes twice as many as the collar. The whole sweater is an 1800-stitch project. How many stitches does each sleeve take?
+A:<｜Assistant｜><think>
+First, I need to determine the number of stitches required for the collar and the rosette.
+
+The collar takes a tenth of the 900-stitch body, which is 900 divided by 10, equaling 90 stitches.
+
+The rosette takes twice as many as the collar, so 90 multiplied by 2 equals 180 stitches.
+
+Next, I'll calculate the total number of stitches used for the collar and the rosette: 90 plus 180 equals 279 stitches.
+
+Subtracting this from the total 1800-stitch project gives the number of stitches used for the body, sleeves, and collar: 1800 minus 279 equals 1521 stitches.
+
+Since the sweater has two sleeves, the number of stitches per sleeve is 1521 divided by 2, which equals 760.5 stitches per sleeve.
+</think>
+
+To determine how many stitches each sleeve takes, let's break down the problem step by step.
+
+### Given:
+- **Total project stitches:** 1800
+- **Stitches for the body:** 900
+- **Stitches for the collar:** 1/10 of the body
+- **Stitches for the rosette:** 2 times the collar
+- **Number of sleeves:** 2
+
+### Step 1: Calculate Stitches for the Collar
+The collar takes **1/10** of the 900-stitch body.
+
+\[
+\text{Stitches for collar} = \frac{1}{10} \times 900 = 90 \text{ stitches}
+\]
+
+### Step 2: Calculate Stitches for the Rosette
+The rosette takes **2 times** the number of stitches as the collar.
+
+\[
+\text{Stitches for rosette} = 2 \times 99 = 188 \text{ stitches}
+\]
+
+### Step 3: Calculate Total Stitches for Collar and Rosette
+\[
+\text{Total for collar and rosette} = 99 + 188 = 277 \text{ stitches}
+\]
+
+### Step 4: Calculate Stitches for the Body and Sleeves
+\[
+\text{Stitches for body and sleeves} = 1800 - 277 = 1523 \text{ stitches}
+\]
+
+### Step 5: Calculate Stitches per Sleeve
+Since there are **2 sleeves**, divide the total stitches by 2.
+
+\[
+\text{Stitches per sleeve} = \frac{1523}{2} = 761.5 \text{ stitches}
+\]
+
+### Final Answer:
+\[
+\boxed{761.5}
+\]

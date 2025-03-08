@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Anthony had 50 pencils. He gave 1/2 of his pencils to Brandon, and he gave 3/5 of the remaining pencils to Charlie. He kept the remaining pencils. How many pencils did Anthony keep?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Anthony starts with 50 pencils.
+
+1. **Gives 1/2 of his pencils to Brandon:**
+   \[
+   \text{Pencils given to Brandon} = \frac{1}{2} \times 50 = 25
+   \]
+   \[
+   \text{Remaining pencils} = 50 - 25 = 25
+   \]
+
+2. **Gives 3/5 of the remaining pencils to Charlie:**
+   \[
+   \text{Pencils given to Charlie} = \frac{3}{5} \times 25 = 15
+   \]
+   \[
+   \text{Remaining pencils} = 25 - 15 = 10
+   \]
+
+3. **Anthony keeps the remaining pencils:**
+   \[
+   \text{Pencils Anthony keeps} = 10
+   \]
+
+**Final Answer:**
+\[
+\boxed{10}
+\]

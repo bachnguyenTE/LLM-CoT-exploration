@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Dylan attended a wedding where there were 100 guests in the reception. Each guest brought a plate of 15 cookies. The bride decided to give 1/2 of the cookies to the church next door as a thank you for helping in the wedding reception. If each person in the church next door got 15 cookies, how many people were in the church next door?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Total Cookies Brought to the Reception:**
+   
+   - There are **100 guests** at the reception.
+   - Each guest brought **15 cookies**.
+   
+   \[
+   \text{Total cookies} = 100 \text{ guests} \times 15 \text{ cookies/guest} = 500 \text{ cookies}
+   \]
+
+2. **Cookies Given to the Church:**
+   
+   - The **bride** decided to give **1/2** of the cookies to the church.
+   
+   \[
+   \text{Cookies given to church} = \frac{1}{2} \times 550 = 275 \text{ cookies}
+   \]
+
+3. **Number of People in the Church:**
+   
+   - Each person in the church received **15 cookies**.
+   
+   \[
+   \text{Number of people} = \frac{275 \text{ cookies}}{15 \text{ cookies/person}} = 15 \text{ people}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{15}
+\]

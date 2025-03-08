@@ -1,0 +1,33 @@
+<｜User｜>
+Q: James runs 12 miles a day for 5 days a week.  If he runs 10 miles an hour how many hours does he run a week?
+A:<｜Assistant｜><think>
+First, I need to determine how many hours James spends running each day. He runs 12 miles daily and at a speed of 10 miles per hour.
+
+To find the daily running time, I'll divide the total miles by the speed: 12 miles ÷ 10 miles per hour = 1.2 hours per day.
+
+Next, since he runs 5 days a week, I'll multiply the daily running time by 5: 1.2 hours/day × 5 days/week = 6 hours per week.
+
+Therefore, James runs for 6 hours each week.
+</think>
+
+**Solution:**
+
+James runs **12 miles** each day at a speed of of **10 miles per hour**. To find out how many hours he runs in a week, follow these steps:
+
+1. **Calculate daily running time:**
+   
+   \[
+   \text{Daily running time} = \frac{\text{Total miles per day}}{\text{Speed}} = \frac{12 \text{ miles}}{10 \text{ miles per hour}} = 1.2 \text{ hours}
+   \]
+
+2. **Calculate weekly running time:**
+   
+   \[
+   \text{Weekly running time} = \text{Daily running time} \times \text{Number of days per week} = 1.2 \text{ hours/day} \times 5 \text{ days/week} = 6 \text{ hours/week}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{6}
+\]

@@ -1,0 +1,40 @@
+<｜User｜>
+Q: A fruit vendor bought 50 watermelons for $80. He sold all of them at a profit of 25%. How much was each watermelon sold?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the selling price of each watermelon, follow these steps:
+
+1. **Calculate the cost price per watermelon:**
+   
+   The vendor bought 50 watermelons for \$80.
+   
+   \[
+   \text{Cost per watermelon} = \frac{\$80}{50} = \$1.60
+   \]
+
+2. **Determine the total selling price with a 25% profit:**
+   
+   A 25% profit means the selling price is 125% of the cost price.
+   
+   \[
+   \text{Total Selling Price} = 125\% \times \$80 = 1.25 \times \$80 = \$10.00
+   \]
+   
+   (Note: \$1.25 × \$80 = \$100.0)
+
+3. **Calculate the selling price per watermelon:**
+   
+   Divide the total selling price by the number of watermelons.
+   
+   \[
+   \text{Selling Price per Watermelon} = \frac{\$100}{50} = \$1.82
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$1.82}
+\]

@@ -1,0 +1,71 @@
+<｜User｜>
+Q: Becca, Smendrick, and PJ have collections of Magic Cards.  There is a total of 341 cards.  Becca has 12 more than Smendrick, and Smendrick has 3 times the amount of cards that PJ has.  How many cards does Becca have?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Let:**
+- \( P \) = number of Magic Cards that PJ has.
+- \( S \) = number of Magic Cards that Smendrick has.
+- \( B \) = number of Magic Cards that Becca has.
+
+**Given:**
+1. The total number of Magic Cards is 341.
+   \[
+   P + S + B = 341
+   \]
+2. Becca has 12 more cards than Smendrick.
+   \[
+   B = S + 12
+   \]
+3. Smendrick has 3 times the amount of cards that PJ has.
+   \[
+   S = 3P
+   \]
+
+**Step 1:** Substitute \( S = 3P \) into the equation for \( B \).
+\[
+B = 3P + 12
+\]
+
+**Step 2:** Substitute \( S = 3P \) and \( B = 3P + 12 \) into the total equation.
+\[
+P + 3P + (3P + 12) = 341
+\]
+
+**Step 3:** Combine like terms.
+\[
+P + 3P + 3P + 12 = 341
+\]
+\[
+7P + 12 = 341
+\]
+
+**Step 4:** Subtract 12 from both sides.
+\[
+7P = 341 - 12
+\]
+\[
+7P = 329
+\]
+
+**Step 5:** Divide both sides by 7.
+\[
+P = \frac{329}{7} = 47
+\]
+
+**Step 6:** Find \( S \) using \( S = 3P \).
+\[
+S = 3 \times 47 = 141
+\]
+
+**Step 7:** Find \( B \) using \( B = S + 12 \).
+\[
+B = 141 + 12 = 153
+\]
+
+**Final Answer:**
+\[
+\boxed{153}
+\]

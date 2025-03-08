@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Mary and John got married last weekend.  There were 20 private cars and 12 buses parked outside the church.  After the ceremony, each bus carried 35 people and each car carried 3 people. How many people were inside the church?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of people inside the church, let's break down the information provided:
+
+1. **Number of Private Cars:** There are 20 private cars parked outside the church.
+
+2. **Number of Buses:** There are 12 buses parked outside the church.
+
+3. **Capacity of Each Vehicle:**
+   - Each **bus** carried **35 people**.
+   - Each **car** carried **3 people**.
+
+4. **Total People in Vehicles:**
+   - **Buses:** \( 12 \text{ buses} \times 35 \text{ people/bus} = 420 \text{ people} \)
+   - **Cars:** \( 20 \text{ cars} \times 3 \text{ people/car} = 60 \text{ people} \)
+
+5. **Total People Inside the Church:**
+   - **Total people in vehicles:** \( 420 \text{ people} + 60 \text{ people} = 486 \text{ people} \)
+
+**Final Answer:** \(\boxed{486}\)

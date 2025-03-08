@@ -1,0 +1,31 @@
+<｜User｜>
+Q: John injured his back and needs to go to physical therapy.  He went to physical therapy for 6 weeks.  Each week he went twice for 2 hours at a time.  If the sessions cost $125 per hour how much did the physical therapy cost?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of hours John spent at physical therapy. He attended twice a week for 6 weeks, so that's 2 times 6, which equals 12 sessions.
+
+Next, I'll calculate the total cost by multiplying the number of sessions by the cost per hour. Each session costs $125, so 12 sessions multiplied by $125 per hour gives a total cost of $1,500.
+</think>
+
+**Solution:**
+
+1. **Determine the total number of sessions:**
+   
+   John attended the physical therapy twice a week for 6 weeks.
+   
+   \[
+   \text{Total sessions} = 2 \, \text{hours/session} \times 6 \text{ weeks} = 12 \text{ sessions}
+   \]
+
+2. **Calculate the total cost:**
+   
+   Each session costs \$125.
+   
+   \[
+   \text{Total cost} = 12 \text{ sessions} \times \$125/\text{session} = \$1,500
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$1,\!500}
+\]

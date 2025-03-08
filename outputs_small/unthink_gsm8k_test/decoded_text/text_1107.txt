@@ -1,0 +1,36 @@
+<｜User｜>
+Q: How many girls are in the school if 40% of a school population is made up of 240 boys?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the number of girls in the school, we can follow these steps:
+
+1. **Understand the given information:**
+   - 40% of the school population are boys.
+   - The number of boys is 240.
+
+2. **Set up the equation:**
+   Let \( T \) represent the total number of students in the school.
+   \[
+   0.40 \times T = 240
+   \]
+
+3. **Solve for \( T \):**
+   \[
+   T = \frac{240}{0.40} = 576
+   \]
+
+4. **Calculate the number of girls:**
+   Since 40% are boys, the remaining 56% are girls.
+   \[
+   \text{Number of girls} = 0.56 \times 576 = 322.56
+   \]
+   However, since the number of students must be a whole number, we round to the nearest whole number:
+   \[
+   \text{Number of girls} = 323
+   \]
+
+**Final Answer:**
+\[
+\boxed{323}
+\]

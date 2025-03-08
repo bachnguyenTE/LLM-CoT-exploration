@@ -1,0 +1,43 @@
+<｜User｜>
+Q: John runs 60 miles a week. He runs 3 days a week.  He runs 3 hours the first day and half as much the other two days he runs.  How fast does he run?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+John runs a total of **60 miles** in one week. He runs **3 days** a week. 
+
+- **First day:** He runs **3 hours**.
+- **Second and third days:** He runs half as much as the first day.
+
+Let's break down the total miles and find out how fast he runs.
+
+1. **Total Miles:**
+   \[
+   \text{Total Miles} = 60 \text{ miles}
+   \]
+
+2. **First Day:**
+   \[
+   \text{First Day Miles} = 3 \text{ hours}
+   \]
+
+3. **Second and Third Days:**
+   \[
+   \text{Each of the other two days} = \frac{3}{2} = 1.5 \text{ hours}
+   \]
+
+4. **Total Miles Run:**
+   \[
+   \text{Total Miles} = \text{First Day} + 2 \times \text{Other Days} = 3 + 2 \times 1.5 = 3 + 3 = 6 \text{ miles}
+   \]
+
+5. **Miles per Hour:**
+   \[
+   \text{Speed} = \frac{\text{Total Miles}}{\text{Total Hours}} = \frac{6}{3} = 2 \text{ miles per hour}
+   \]
+
+**Final Answer:**
+\[
+\boxed{2 \text{ miles per hour}}
+\]

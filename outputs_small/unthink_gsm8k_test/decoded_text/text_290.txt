@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Ali is a superstar counter. He has won 22 medals for counting super fast. His friend Izzy is also a really good counter and has 5 less medals than Ali. Together they have 10 times less medals than have been given out for counting. How many medals have been given out for counting?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many medals have been given out for counting.
+
+1. **Ali's Medals:**
+   - Ali has won **22 medals**.
+
+2. **Izzy's Medals:**
+   - Izzy has **5 less medals** than Ali.
+   - **Izzy's Medals = Ali's Medals - 5 = 22 - 5 = 17 medals**.
+
+3. **Total Medals Together:**
+   - **Total Medals = Ali's Medals + Izzy's Medals = 22 + 17 = 39 medals**.
+
+4. **Understanding "10 times less":**
+   - The phrase "together they have 10 times less medals than have been given out" is a bit ambiguous. It could mean:
+     - **Total Medals = (1/10) × Total Medals Given Out**
+     - Or, **Total Medals Given Out = Total Medals Together × 10**
+
+5. **Calculating Total Medals Given Out:**
+   - If "10 times less" means **Total Medals Given Out = Total Medals Together × 10**:
+     - **Total Medals Given Out = 39 × 10 = 390 medals**.
+
+**Final Answer:**
+\[
+\boxed{390}
+\]

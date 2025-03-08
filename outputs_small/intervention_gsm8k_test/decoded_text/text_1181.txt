@@ -1,0 +1,108 @@
+<｜User｜>
+Q: Wendy is five times as old as Colin will be seven years from now. In 25 years, Colin will be a third as old as Wendy is now. How old is Colin now?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Wendy and Colin's ages. Let me try to figure it out step by step. Sometimes these age problems can be a bit tricky, but, that seems right. Let me read the problem again to make sure I understand it.
+
+"Wendy is five times as old as Colin will be seven years from now. In 25 years, Colin will be a third as old as Wendy is now. How old is Colin now?"
+
+Alright, so we have two pieces of information here. The first one is about their current ages, and the second one is about their ages in the future. I need to find Colin's current age.
+
+Let me break it down. Let's assign variables to their current ages to make it easier. Let me say:
+
+Let C = Colin's current age.
+
+Then, since Wendy is five times as old as Colin will be seven years from now, I need to express Wendy's current age in terms of C.
+
+Wait, that seems right. So, in seven years, Colin will be C + 7 years old. Therefore, Wendy is five times that age. So, Wendy's current age would be 5*(C + 7). Let me write that down.
+
+Wendy's current age = 5*(C + 7)
+
+Okay, that's the first equation.
+
+Now, the second piece of information is about their ages in 25 years. It says, "In 25 years, Colin will be a third as old as Wendy is now." Hmm, okay. So, in 25 years, Colin's age will be C + 25, and that will be equal to a third of Wendy's current age.
+
+So, in equation form, that would be:
+
+C + 25 = (1/3)*Wendy's current age
+
+But, that seems right. So, let me write that as the second equation.
+
+Equation 2: C + 25 = (1/3)*Wendy's current age
+
+But, that seems right. So, now, I have two equations:
+
+1) Wendy's current age = 5*(C +7)
+
+2) C +25 = (1/3)*Wendy's current age
+
+So, now, I can substitute the first equation into the second equation to solve for C.
+
+Let me write that out.
+
+From equation 1: Wendy's current age = 5*(C +7)
+
+So, equation 2 becomes: C +25 = (1/3)*(5*(C +7))
+
+Let me compute that.
+
+First, compute 5*(C +7): that's 5C +35.
+
+So, equation 2 becomes: C +25 = (1/3)*(5C +35)
+
+Wait, that seems right. So, let me write that:
+
+C +25 = (1/3)*(5C +35)
+
+Wait, that seems right. So, let me compute the right-hand side.
+
+(1/3)*(5C +35) = (5C)/3 + 35/3
+
+So, equation 2 is:
+
+C +25 = (5C)/3 + 35/3
+
+Now, let me solve for C.
+
+First, let me get rid of the fractions to make it easier. Let me multiply both sides by 3 to eliminate denominators.
+
+3*(C +25) = 3*(5C/3 +35/3)
+
+Simplify both sides:
+
+Left side: 3C +75
+
+Right side: 5C +35
+
+So, now, equation is:
+
+3C +75 = 5C +35
+
+Now, let's get all the C terms on one side and constants on the other.
+
+Subtract 3C from both sides:
+
+75 = 2C +35
+
+Now, subtract 35 from both sides:
+
+75 -35 = 2C
+
+Which is:
+
+40 = 2C
+
+So, divide both sides by 2:
+
+C = 20
+
+So, Colin is currently 20 years old.
+
+Wait, that seems right. Let me check my work to make sure I didn't make any mistakes.
+
+First, let's verify the first statement: Wendy is five times as old as Colin will be seven years from now.
+
+If Colin is 20 now, in 7 years, he'll be 27. So, five times that is 135. So, Wendy is 135 now.
+
+Now, let's check the second statement: In 25 years, Colin will be 20 +25 =45. And Wendy is currently 135, so a third of that is 45. So, 45 equals 45, which is correct.
+
+So, both statements are satisfied. So, Colin is

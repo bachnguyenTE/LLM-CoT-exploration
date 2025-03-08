@@ -1,0 +1,77 @@
+<｜User｜>
+Q: You can buy a movie super ticket for $20 that includes rights to watch any movie and you get one popcorn with a soda for only $1 extra. Or you can buy a movie ticket for $12 and buy one popcorn and a soda at regular price. What's the regular price of popcorn if the soda costs $3 and you didn't buy the super ticket and ended up saving $2?
+A:<｜Assistant｜><think>
+First, I need to determine the total cost of the two options without the super ticket.
+
+The regular price of a movie ticket is $12, a popcorn is $p, and a soda is $3. So, the total cost for the regular option is $12 + $p + $3.
+
+The super ticket costs $20, which includes the regular price of a movie ticket, a popcorn, and a soda. Therefore, the total cost for the super ticket is $20.
+
+Since the super ticket includes all the items of the regular option, the total cost for the regular option is $20 - $20 = $0.
+
+Given that the soda costs $3, the total cost for the regular option is $12 + $p + $3 = $15 + $p.
+
+The problem states that without the super ticket, you saved $2 by choosing the regular option. This means the regular option costs $2 less than the super ticket.
+
+So, I can set up the equation: $15 + $p = $20 - $2.
+
+Solving for $p, I get $p = $20 - $15 = $3.
+
+Therefore, the regular price of popcorn is $3.
+</think>
+
+Let's break down the problem step by step to find the regular price of popcorn.
+
+**Given:**
+- **Super Ticket:** \$20 (includes a movie ticket, popcorn, and soda)
+- **Regular Ticket:** \$12
+- **Soda Cost:** \$3
+- **Savings:** \$2 (chose the regular option instead of the super ticket)
+
+**Let’s define:**
+- **Regular Popcorn Price:** \( p \) (this is what we need to find)
+
+**Step 1: Calculate the Total Cost of the Regular Option**
+
+The regular option includes:
+- Movie ticket: \$12
+- Popcorn: \( p \)
+- Soda: \$3
+
+So, the total cost for the regular option is:
+\[
+\text{Total Regular Cost} = \$12 + p + \$3 = \$15 + p
+\]
+
+**Step 2: Understand the Savings**
+
+By not buying the super ticket and instead choosing the regular option, you saved \$2. This means:
+\[
+\text{Super Ticket Cost} = \text{Regular Option Cost} + \$2
+\]
+\[
+\$20 = (\$15 + p) + \$2
+\]
+
+**Step3: Solve for \( p \)**
+
+Subtract \$2 from both sides:
+\[
+\$20 - \$2 = \$15 + p
+\]
+\[
+\$18 = \$15 + p
+\]
+
+Subtract \$15 from both sides:
+\[
+\$18 - \$15 = p
+\]
+\[
+p = \$3
+\]
+
+**Final Answer:**
+\[
+\boxed{\$3}
+\]

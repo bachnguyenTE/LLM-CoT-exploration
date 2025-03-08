@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Crista's plants need to be watered every day. She has 20 plants. 4 of her plants need half of a cup of water. 8 plants need 1 cup of water. The rest need a quarter of a cup of water. How many cups of water does Crista need every day for her plants?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many cups of water Crista needs every day for her plants, let's break down the information step by step.
+
+1. **Total Number of Plants:**
+   - **Total plants:** 20
+
+2. **Plants and Water Requirements:**
+   - **4 plants:** Need **½ cup of water each.**
+     - **Total water for these plants:** \( 4 \times \frac{1}{2} = 2 \) cups
+   - **8 plants:** Need **1 cup of water each.**
+     - **Total water for these plants:** \( 8 \times 1 = 8 \) cups
+   - **Remaining plants:** 
+     - **Total plants accounted for:** \( 4 + 8 = 12 \)
+     - **Remaining plants:** \( 20 - 12 = 8 \)
+     - **Each of these 8 plants needs:** \( \frac{1}{4} \) cup of water
+     - **Total water for these plants:** \( 8 \times \frac{1}{4} = 2 \) cups
+
+3. **Total Water Required:**
+   - **Total water:** \( 2 \) cups (for 4 plants) + \( 8 \) cups (for 8 plants) + \( 2 \) cups (for the remaining 8 plants) = \( 12 \) cups
+
+**Final Answer:** \(\boxed{12}\)

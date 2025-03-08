@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Adam really wants to ride the biggest roller coaster at the park. You have to be 4 feet tall to ride it. Adam’s height is 40 inches and he grows 2 inches a year. How many years until he is tall enough to ride it?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many years it will take for Adam to be tall enough to ride the roller coaster, follow these steps:
+
+1. **Understand the requirements:**
+   - **Minimum height to ride:** 4 feet
+   - **Current height of Adam:** 40 inches
+   - **Growth rate:** 2 inches per year
+
+2. **Convert the required height to inches:**
+   - 4 feet = 48 inches
+
+3. **Calculate the difference in height:**
+   - 48 inches (required) - 40 inches (Adam's current height) = 8 inches
+
+4. **Determine how many years it will take for Adam to grow 8 inches at a rate of 2 inches per year:**
+   - \( \frac{8 \text{ inches}}{2 \text{ inches/year}} = 4 \text{ years} \)
+
+**Final Answer:**  
+\boxed{4}

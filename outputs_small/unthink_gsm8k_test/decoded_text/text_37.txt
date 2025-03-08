@@ -1,0 +1,52 @@
+<｜User｜>
+Q: John plans to sell all his toys and use the money to buy video games. He has 13 lego sets and he sells them for $15 each. He ends up buying 8 video games for $20 each and has $5 left. How many lego sets does he still have?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the total money John has after selling the lego sets:**
+   
+   - **Number of lego sets sold:** 13
+   - **Selling price per lego set:** \$15
+   
+   \[
+   \text{Total money from selling lego sets} = 13 \times 15 = \$65
+   \]
+
+2. **Calculate the total cost of the video games:**
+   
+   - **Number of video games bought:** 8
+   - **Cost per video game:** \$20
+   
+   \[
+   \text{Total cost for video games} = 8 \times 20 = \$160
+   \]
+
+3. **Determine the total amount of money John had initially:**
+   
+   - **Money left after buying video games:** \$5
+   - **Total money spent on video games:** \$165 (from lego sets) + \$160 (on video games) = \$225
+   
+   \[
+   \text{Total initial money} = \text{Money spent on video games} + \text{Money left}
+   \]
+   
+   \[
+   \text{Total initial money} = 225 + 5 = \$230
+   \]
+
+4. **Find out how many lego sets John still has:**
+   
+   - **Total lego sets initially:** 13
+   - **Lego sets sold:** 13
+   
+   Since John sold all his lego sets, he has **0 lego sets** left.
+
+**Final Answer:**
+
+\[
+\boxed{0}
+\]

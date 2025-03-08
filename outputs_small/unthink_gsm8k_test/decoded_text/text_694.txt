@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Tomorrow, 42 adults and 15 babies will be attending a function at Mia’s restaurant. The restaurant has 5 times as many regular chairs as high chairs. If there are 8 high chairs, how many more chairs does she have to get?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Identify the given information:**
+   - Number of adults: 42
+   - Number of babies: 15
+   - Total attendees: \(42 + 15 = 57\)
+   - Number of high chairs: 8
+   - The restaurant has **5 times as many regular chairs as high chairs**.
+
+2. **Calculate the number of regular chairs:**
+   \[
+   \text{Number of regular chairs} = 5 \times \text{Number of high chairs} = 5 \times 8 = 40
+   \]
+
+3. **Determine the total number of chairs needed:**
+   \[
+   \text{Total chairs needed} = \text{Number of adults} + \text{Number of babies} = 42 + 15 = 57
+   \]
+
+4. **Find out how many more chairs are needed:**
+   \[
+   \text{Chairs needed} = \text{Total chairs needed} - \text{Total chairs available} = 57 - 40 = 17
+   \]
+
+**Final Answer:**
+\[
+\boxed{17}
+\]

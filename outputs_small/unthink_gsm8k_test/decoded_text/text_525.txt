@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Heather bought a jumbo bag of raisins with 27 cups of raisins in it. She wants to make oatmeal cookies, granola, and snack mix with the raisins. A batch of oatmeal cookies takes 3/4 of a cup of raisins. How many batches of oatmeal cookies can Heather make if she divides the bag of raisins equally among the cookies, granola, and snack mix?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Heather has a total of **27 cups** of raisins. She wants to divide this equally among three categories: oatmeal cookies, granola, and a snack mix. 
+
+1. **Determine the amount of raisins per category:**
+   
+   \[
+   \text{Raisins per category} = \frac{27 \text{ cups}}{3} = 9 \text{ cups}
+   \]
+
+2. **Calculate the number of batches of oatmeal cookies:**
+   
+   Each batch of oatmeal cookies requires **\(\frac{3}{4}\)** of a cup of raisins.
+   
+   \[
+   \text{Number of batches} = \frac{9 \text{ cups}}{\frac{3}{4} \text{ cup per batch}} = 9 \times \frac{4}{3} = 12 \text{ batches}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{12}
+\]

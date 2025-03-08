@@ -1,0 +1,54 @@
+<｜User｜>
+Q: Mariah’s grandma was teaching her to knit. Mariah used 1/4 of a skein of yarn. Her grandma used 1/2 of a skein of yarn. There are 364 yards in a skein of yarn. How many yards of yarn did they use altogether?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Mariah and her grandma teaching each other to knit. Let me try to figure it out step by step. 
+
+First, the problem says Mariah used 1/4 of a skein of yarn, and her grandma used 1/2 of a skein. There are 364 yards in a skein. I need to find out how many yards they used altogether. Hmm, okay, so I think I need to add the yarn used by both Mariah and her grandma, and then convert that into yards.
+
+Let me write down what I know:
+
+- Mariah used 1/4 skein.
+- Grandma used 1/2 skein.
+- 1 skein = 364 yards.
+
+So, first, I should add the fractions to find the total yarn used. That would be 1/4 plus 1/2. Hmm, adding fractions. I remember that to add fractions, they need to have the same denominator. The denominators here are 4 and 2. The least common denominator for 4 and 2 is 4, right? So, I can convert 1/2 to 2/4. 
+
+So, 1/4 + 2/4 equals 3/4. So, together, they used 3/4 of a skein of yarn. 
+
+Now, since 1 skein is 364 yards, 3/4 of a skein would be 3/4 multiplied by 364 yards. Let me write that down: 3/4 * 364. 
+
+Hmm, how do I multiply a fraction by a whole number? I think I can multiply the numerator by the whole number and then divide by the denominator. So, 3 times 364 is... let me calculate that. 
+
+364 times 3. Let's break it down: 300*3 is 900, 60*3 is 180, and 4*3 is 12. So, 900 + 180 is 1080, plus 12 is 1092. So, 364*3 is 1092. 
+
+Now, divide that by 4. So, 1092 divided by 4. Let me do that division. 
+
+4 goes into 10 two times (since 4*2=8), remainder 2. Bring down the 9, making it 29. 4 goes into 29 seven times (4*7=28), remainder 1. Bring down the 2, making it 12. 4 goes into 12 three times. So, putting it all together, 1092 divided by 4 is 273. 
+
+So, 3/4 of a skein is 273 yards. 
+
+Wait, that seems right. Let me double-check my calculations. 
+
+First, adding 1/4 and 1/2: 1/4 is 0.25, 1/2 is 0.5. 0.25 + 0.5 is 0.75, which is 3/4. So, that part is correct. 
+
+Then, 3/4 of 364 yards: 364 divided by 4 is 91, because 4*91=364. Wait, that seems right. 364 divided by 4 is 91. So, 3/4 is 3 times that, which is 273. Yeah, that makes sense. 
+
+Alternatively, I can think of 364 divided by 4 is 91, so 3 times 91 is 273. Yep, that's correct. 
+
+So, putting it all together, Mariah and her grandma used a total of 273 yards of yarn. 
+
+I don't think I made any mistakes here. The steps seem logical: adding the fractions, converting to a common denominator, multiplying by the total yards per skein, and then dividing. 
+
+Just to recap:
+
+1. Convert the fractions to have the same denominator: 1/4 and 1/2 become 1/4 and 2/4.
+2. Add them together: 1/4 + 2/4 = 3/4.
+3. Multiply 3/4 by 364 yards: 3/4 * 364 = 273 yards.
+
+Yep, that all adds up. I think that's the correct answer.
+
+**Final Answer**
+They used a total of \boxed{273} yards of yarn altogether.
+</think>
+
+Mariah used \( \frac{1}{4} \) of

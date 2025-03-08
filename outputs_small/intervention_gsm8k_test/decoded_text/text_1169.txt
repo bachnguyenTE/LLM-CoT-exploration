@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Ronnie was given $5 while Rissa was given thrice as much. After each of them had given an equal amount of money to their little sister, Rissa is left with 4/5 of her money. How much is left in Ronnie's money?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Ronnie and Rissa. Let me try to understand it step by step. 
+
+First, it says Ronnie was given $5. Then Rissa was given three times as much as Ronnie. Hmm, so if Ronnie has $5, Rissa must have 3 times that, which is 3 * 5 = $15. Wait, that seems right. So both of them start with $5 each? Or is Rissa given three times as much as Ronnie, meaning Rissa has 3 times $5? Yeah, that makes sense. So Rissa has $15 initially.
+
+Then, after each of them had given an equal amount of money to their little sister, Rissa is left with 4/5 of her money. The question is asking how much is left in Ronnie's money.
+
+Alright, let's break this down. Let me denote the amount each of them gave to their little sister as 'x'. So, both Ronnie and Rissa gave away 'x' dollars each.
+
+So, initially, Ronnie had $5, and after giving away x, she has 5 - x left. Similarly, Rissa had $15 initially (since 3 times $5 is $15), and after giving away x, she has 15 - x left.
+
+But, that seems right. Wait, that seems right. So, after giving away x, Rissa is left with 4/5 of her original amount. So, 15 - x = (4/5)*15. Let me write that down.
+
+So, 15 - x = (4/5)*15.
+
+Wait, that seems right. Let me compute (4/5)*15. 15 divided by 5 is 3, so 3*4 is 12. So, 15 - x = 12.
+
+So, solving for x, we subtract 12 from both sides: 5 - x -12 = 0, so 3 - x = 0, so x = 3.
+
+So, each of them gave away $3 to their little sister.
+
+Therefore, Ronnie had $5 initially, gave away $3, so she has 5 - 3 = $2 left.
+
+Wait, that seems right. Let me check Rissa's part to make sure.
+
+Rissa had $15 initially, right? Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right.

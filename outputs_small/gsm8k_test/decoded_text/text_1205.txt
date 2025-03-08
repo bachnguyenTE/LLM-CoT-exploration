@@ -1,0 +1,20 @@
+<｜User｜>
+Q: Bernie has 4 dogs. They each need a certain amount of exercise per day. The first needs to walk 1 mile. The second needs to walk 4 miles. The third needs to walk 3 miles. On average, they need to walk 3 miles per day. How many miles does the last dog need?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of miles all four dogs need to walk each day.
+
+The first dog walks 1 mile, the second walks 4 miles, and the third walks 3 miles. Adding these together gives a total of 8 miles.
+
+Next, I know that the average number of miles walked by all four dogs is 3 miles per day. To find the total miles needed for all four dogs, I multiply the average by the number of dogs: 3 miles/day × 4 dogs = 12 miles/day.
+
+Finally, to find out how many miles the last dog needs to walk, I subtract the total miles walked by the first three dogs from the overall total: 12 miles/day - 8 miles = 4 miles.
+</think>
+
+To determine how many miles the last dog needs to walk, let's break down the problem step by step.
+
+1. **Total Miles for All Dogs:**
+   
+   The average number of miles walked by all four dogs is 3 miles per day. Therefore, the total miles walked by all dogs combined is:
+   
+   \[
+   \text{Total Miles} = \text{Average} \times \text{Number of Dogs} = 3 \,000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000

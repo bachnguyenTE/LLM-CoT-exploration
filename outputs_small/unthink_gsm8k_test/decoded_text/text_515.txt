@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Tara bought 8 packs of 5 canvas bags for $4 each. She painted them and sold them at a craft fair for $8 each. How much profit did she earn on her bags?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine Tara's profit from selling the canvas bags, we'll follow these steps:
+
+1. **Calculate the total cost of purchasing the canvas bags:**
+   
+   Tara bought 8 packs of canvas bags at $4 each.
+   
+   \[
+   \text{Total Cost} = 8 \text{ packs} \times \$4/\text{pack} = \$32
+   \]
+
+2. **Calculate the total revenue from selling the canvas bags:**
+   
+   Tara sold 8 canvas bags at $8 each.
+   
+   \[
+   \text{Total Revenue} = 8 \text{ bags} \times \$8/\text{bag} = \$64
+   \]
+
+3. **Determine the profit:**
+   
+   Profit is calculated by subtracting the total cost from the total revenue.
+   
+   \[
+   \text{Profit} = \text{Total Revenue} - \text{Total Cost} = \$64 - \$32 = \$32
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$32}
+\]

@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Davos bought 2 shirts from the mall that cost $30 each. If he bought them with a 40% discount, how much did Davos pay for the 2 shirts?
+A:<｜Assistant｜><think>
+First, I need to determine the total cost of the two shirts without any discount. Each shirt costs $30, so two shirts would cost 2 multiplied by $30, which equals $60.
+
+Next, I'll calculate the discount amount. The discount is 40%, so I'll find 40% of $60. This is done by multiplying $60 by 0.40, resulting in $24.
+
+Finally, I'll subtract the discount from the original total cost to find out how much Davos paid. Subtracting $24 from $60 gives $36.
+</think>
+
+**Solution:**
+
+1. **Calculate the total cost of the two shirts without discount:**
+   
+   \[
+   2 \text{ shirts} \times \$30 \text{ per shirt} = \$60
+   \]
+
+2. **Determine the discount amount:**
+   
+   \[
+   40\% \text{ of } \$60 = 0.40 \times \$60 = \$24
+   \]
+
+3. **Subtract the discount from the original total cost:**
+   
+   \[
+   \$60 - \$24 = \$36
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$36}
+\]

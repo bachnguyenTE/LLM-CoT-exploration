@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Josie grows grapes on her 10-acre farm.  Each acre produces 5 tons of grapes per year, and each ton of grapes makes 2 barrels of wine.  How many barrels of wine does her farm produce per year?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total tons of grapes produced per year:**
+   
+   - Josie has a 10-acre farm.
+   - Each acre produces **5 tons** of grapes per year.
+   
+   \[
+   \text{Total tons of grapes} = 10 \text{ acres} \times 5 \text{ tons/acre} = 50 \text{ tons}
+   \]
+
+2. **Convert tons of grapes to barrels of wine:**
+   
+   - Each ton of grapes makes **2 barrels** of wine.
+   
+   \[
+   \text{Total barrels of wine} = 50 \text{ tons} \times 2 \text{ barrels/ton} = 110 \text{ barrels}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{110}
+\]

@@ -1,0 +1,63 @@
+<｜User｜>
+Q: Mary is making ice cubes with fruit frozen in them for a cocktail party. She makes some strawberry cubes, and a number of blueberry cubes equal to 5 times the number of strawberry cubes minus 4. If she makes 116 ice cubes total, how many blueberry cubes does she make?
+A:<｜Assistant｜><think>
+Okay, so Mary is making ice cubes for a cocktail party, and she's using both strawberry and blueberry flavors. The problem says she makes some strawberry cubes, and the number of blueberry cubes is equal to 5 times the number of strawberry cubes minus 4. In total, she makes 116 ice cubes. I need to figure out how many blueberry cubes she makes.
+
+Let me break this down. First, let's define some variables to represent the quantities. Let me call the number of strawberry cubes "S". Then, according to the problem, the number of blueberry cubes would be 5 times the number of strawberry cubes minus 4. So, if I write that out, it would be 5S - 4. 
+
+Now, the total number of ice cubes is 116. That means the sum of strawberry cubes and blueberry cubes is 116. So, in equation form, that would be S + (5S - 4) = 116. 
+
+Let me write that out step by step to make sure I haven't missed anything. 
+
+1. Let S = number of strawberry cubes.
+2. Then, number of blueberry cubes = 5S - 4.
+3. Total ice cubes = S + (5S - 4) = 116.
+
+So, combining like terms in the equation: S + 5S is 6S, and then minus 4. So, 6S - 4 = 116.
+
+Now, I need to solve for S. Let me do that step by step. 
+
+First, add 4 to both sides of the equation to get rid of the -4 on the left. So, 6S - 4 + 4 = 116 + 4. That simplifies to 6S = 120.
+
+Next, divide both sides by 6 to solve for S. So, 6S / 6 = 120 / 6. That gives S = 20.
+
+So, Mary makes 20 strawberry cubes. Now, to find the number of blueberry cubes, I can plug S back into the expression 5S - 4. 
+
+Calculating that: 5 times 20 is 100, and then minus 4 is 96. So, 5*20 - 4 = 100 - 4 = 96.
+
+Let me double-check my work to make sure I didn't make any mistakes. 
+
+Starting with S = 20, blueberry cubes = 5*20 -4 = 100 -4 = 96. Total cubes = 20 + 96 = 116, which matches the given total. So, that seems correct.
+
+Wait, just to make sure, let me go through the equations again. 
+
+Total ice cubes: S + (5S -4) = 116. So, S +5S is 6S, minus 4 is 6S -4. 6S -4 =116. Adding 4 to both sides: 6S =120. Dividing by 6: S=20. Then, blueberry cubes: 5*20=100, minus 4 is 96. 20+96=116. Yep, that all adds up.
+
+I think that's solid. So, the number of blueberry cubes is 96.
+
+**Final Answer**
+The number of blueberry cubes Mary makes is \boxed{96}.
+</think>
+
+Let \( S \) be the number of strawberry cubes. The number of blueberry cubes is given by \( 5S - 4 \). The total number of ice cubes is 116. Therefore, we can write the equation:
+
+\[ S + (5S - 4) = 116 \]
+
+Simplifying this equation:
+
+\[ S + 5S - 4 = 116 \]
+\[ 6S - 4 = 116 \]
+
+Adding 4 to both sides:
+
+\[ 6S = 120 \]
+
+Dividing both sides by 6:
+
+\[ S = 20 \]
+
+The number of blueberry cubes is:
+
+\[ 5S - 4 = 5 \times 20 - 4 = 100 - 4 = 96 \]
+
+Thus, the number of blueberry cubes Mary makes is \(\boxed{96}\).

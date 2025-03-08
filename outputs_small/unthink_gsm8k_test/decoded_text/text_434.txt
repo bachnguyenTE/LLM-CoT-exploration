@@ -1,0 +1,60 @@
+<｜User｜>
+Q: The vending machines sell chips for 40 cents and candy bars for 75 cents. George spent $5 and got 3 bags of chips and had 1% of his money left. How many candy bars did he buy?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- **Chips:** \$0.40 (40 cents)
+- **Candy Bars:** \$0.75 (75 cents)
+- **Total Money Spent:** \$5.00
+- **Number of Chips Bought:** 3 bags
+- **Money Left After Buying:** 1% of the total money
+
+**Let’s denote:**
+- \( x \) = number of candy bars bought
+
+**Step 1: Calculate the total amount spent on chips.**
+\[
+\text{Cost of chips} = 3 \times \$0.40 = \$1.20
+\]
+
+**Step 2: Determine the total money George had initially.**
+\[
+\text{Total money} = \$5.00
+\]
+
+**Step 3: Calculate the amount spent on candy bars.**
+\[
+\text{Total money} - \text{Cost of chips} - \text{Cost of candy bars} = \text{Money left}
+\]
+\[
+\$5.00 - \$1.20 - \$0.75x = 0.01 \times \$5.00
+\]
+
+**Step 4: Simplify the equation.**
+\[
+\$5.00 - \$1.20 = \$3.80
+\]
+\[
+\$3.80 - \$0.75x = \$0.055
+\]
+
+**Step 5: Solve for \( x \).**
+\[
+\$3.80 - \$0.055 = \$0.75x
+\]
+\[
+\$3.745 = \$0.75x
+\]
+\[
+x = \frac{\$3.745}{\$0.75} \approx 4.993
+\]
+
+Since George can't buy a fraction of a candy bar, we round down to the nearest whole number.
+
+**Final Answer:**
+\[
+\boxed{4}
+\]

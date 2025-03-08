@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Two sisters, Elizabeth and Margareth, bought beads. Elizabeth bought 1 pack of red and 2 packs of clear beads, while Margareth bought 3 packs of blue and 4 packs of red beads. How many more beads do one sister have than the other, if each pack of beads contains 20 pieces of beads?
+A:<｜Assistant｜><think>
+</think>
+
+Let's determine how many more beads one sister has than the other.
+
+**Given:**
+- **Each pack** contains **20 beads**.
+- **Elizabeth** bought:
+  - 1 pack of **red beads**.
+  - 2 packs of **clear beads**.
+- **Margareth** bought:
+  - 3 packs of **blue beads**.
+  - 4 packs of **red beads**.
+
+**Step 1: Calculate the total number of beads each sister bought.**
+
+- **Elizabeth's beads:**
+  \[
+  \text{Total} = (\text{Red packs} \times 20) + (\text{Clear packs} \times 20) = (1 \times 20) + (2 \times 20) = 20 + 40 = 68 \text{ beads}
+  \]
+
+- **Margareth's beads:**
+  \[
+  \text{Total} = (\text{Blue packs} \times 20) + (\text{Red packs} \times 20) = (3 \times 20) + (4 \times 20) = 60 + 80 = 140 \text{ beads}
+  \]
+
+**Step 2: Determine the difference in the number of beads.**
+
+\[
+\text{Difference} = \text{Margareth's beads} - \text{Elizabeth's beads} = 140 - 68 = 72 \text{ beads}
+\]
+
+**Final Answer:**
+\[
+\boxed{72}
+\]

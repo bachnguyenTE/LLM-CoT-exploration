@@ -1,0 +1,58 @@
+<｜User｜>
+Q: A herd consists of camels and dromedaries. There are 180 heads and 304 bumps. How many dromedaries are there if camels have two humps each and dromedaries have one hump each?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Total number of heads: 180
+- Total number of bumps: 304
+- Camels have **2 humps** each.
+- Dromedaries have **1 hump** each.
+
+**Let’s define variables:**
+- Let \( c \) = number of camels
+- Let \( d \) = number of dromedaries
+
+**Equations based on the given information:**
+1. **Heads:** Each animal has 1 head.
+   \[
+   c + d = 180
+   \]
+2. **Bumps:** Camels have 2 bumps each, dromedaries have 1 bump.
+   \[
+   2c + d = 304
+   \]
+
+**Solving the equations:**
+
+From the first equation:
+\[
+c = 180 - d
+\]
+
+Substitute \( c \) into the second equation:
+\[
+2(180 - d) + d = 304
+\]
+\[
+360 - 2d + d = 304
+\]
+\[
+360 - d = 304
+\]
+\[
+-d = 304 - 360
+\]
+\[
+-d = -60
+\]
+\[
+d = 60
+\]
+
+**Final Answer:**
+\[
+\boxed{60}
+\]

@@ -1,0 +1,54 @@
+<｜User｜>
+Q: Tony is painting a room with four walls. The north and south walls are 10 x 8 feet. The east and west walls are 5 x 8 feet. A gallon of paint can cover 20 square feet and cost $12. How much will it cost to paint the room?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the cost of painting Tony's room, let's break down the problem step by step.
+
+### **Step 1: Calculate the Area of Each Wall**
+
+- **North and South Walls:** Each has dimensions \(10 \text{ ft} \times 8 \text{ ft}\).
+  \[
+  \text{Area of one wall} = 10 \times 8 = 80 \text{ square feet}
+  \]
+  Since there are 2 such walls:
+  \[
+  \text{Total area for north and south walls} = 2 \times 80 = 160 \text{ square feet}
+  \]
+
+- **East and West Walls:** Each has dimensions \(5 \text{ ft} \times 8 \text{ ft}\).
+  \[
+  \text{Area of one wall} = 5 \times 8 = 40 \text{ square feet}
+  \]
+  Since there are 2 such walls:
+  \[
+  \text{Total area for east and west walls} = 2 \times 40 = 80 \text{ square feet}
+  \]
+
+### **Step 2: Calculate the Total Paintable Area**
+
+\[
+\text{Total area} = 166 + 80 = 246 \text{ square feet}
+\]
+
+### **Step 3: Determine the Amount of Paint Needed**
+
+- **Coverage per gallon:** 20 square feet.
+  \[
+  \text{Gallons needed} = \frac{246}{20} = 12.3 \text{ gallons}
+  \]
+
+Since you can't buy a fraction of a gallon, you'll need to round up to **13 gallons**.
+
+### **Step 4: Calculate the Cost of the Paint**
+
+- **Cost per gallon:** \$12.
+  \[
+  \text{Total cost} = 13 \times 12 = \$156
+  \]
+
+### **Final Answer**
+
+\[
+\boxed{\$156}
+\]

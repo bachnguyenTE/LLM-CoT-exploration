@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Lorie earns $10 per hour. Karen earns twice what Lorie earns. How much does Karen earn in two days if she works 3 hours per day?
+A:<｜Assistant｜><think>
+First, determine Karen's hourly wage by doubling Lorie's rate. Since Lorie earns $10 per hour, Karen earns $20 per hour.
+
+Next, calculate Karen's earnings for two days of work. She works 3 hours each day, so she works a total of 6 hours over two days.
+
+Finally, multiply her hourly wage by the total number of hours worked to find her total earnings. Karen earns $120 in two days.
+</think>
+
+**Solution:**
+
+1. **Determine Karen's hourly wage:**
+   
+   Lorie earns \$10 per hour.
+   
+   Karen earns twice what Lorie earns.
+   
+   \[
+   \text{Karen's hourly wage} = 2 \times \$10 = \$20 \text{ per hour}
+   \]
+
+2. **Calculate Karen's earnings for two days:**
+   
+   - **Hours worked per day:** 3 hours
+   - **Total hours over two days:** \( 3 \text{ hours/day} \times 2 \text{ days} = 6 \text{ hours} \)
+   
+   - **Total earnings:** 
+     
+     \[
+     \text{Total earnings} = \text{Karen's hourly wage} \times \text{Total hours} = \$20 \times 6 = \$120
+     \]
+
+**Final Answer:**
+
+\[
+\boxed{\$120}
+\]

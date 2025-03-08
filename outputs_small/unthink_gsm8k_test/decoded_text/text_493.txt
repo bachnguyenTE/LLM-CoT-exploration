@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Heather's razors come 4 to a pack and cost $4.00 a pack.  They are currently on sale for buy one get one free.  She also has a $2.00 coupon.  How much will each individual razor cost, in cents, after the discount if she buys 2 packs of razors?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the cost per pack after the sale:**
+   - **Original price per pack:** \$4.00
+   - **Sale:** Buy one, get one free. So, for 2 packs, you only pay for 1 pack.
+   - **Cost for 2 packs:** \$4.00
+
+2. **Calculate the total cost after the sale:**
+   - **Total cost:** \$4.00
+
+3. **Apply the \$2.00 coupon:**
+   - **Total cost after coupon:** \$4.00 - \$2.00 = \$2.00
+
+4. **Convert the total cost to cents:**
+   - **Total cost in cents:** 2.00 × 100 = 2100 cents
+
+**Final Answer:**
+\boxed{2100}

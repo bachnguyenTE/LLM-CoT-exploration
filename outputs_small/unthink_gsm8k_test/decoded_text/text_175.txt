@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Juan and his brother Carlos are selling lemonade. For each gallon they make it costs $3 for lemons and $2 for sugar. They sell each glass for $0.50 and get 20 glasses per gallon. If they made $25 in profit, how much did they spend on lemons?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the cost per gallon:**
+   - Lemons cost \$3.
+   - Sugar costs \$2.
+   - **Total cost per gallon = \$3 + \$2 = \$5.**
+
+2. **Calculate the revenue per gallon:**
+   - They sell 20 glasses per gallon.
+   - **Revenue per gallon = 20 glasses × \$0.50 per glass = \$11.00.**
+
+3. **Calculate the profit per gallon:**
+   - **Profit per gallon = Revenue - Cost = \$11.00 - \$5.00 = -\$4.00.**
+   - Wait, this results in a loss. Let's double-check the calculations.
+
+4. **Re-evaluate the profit calculation:**
+   - **Revenue per gallon = 20 glasses × \$0.50 = \$10.00.**
+   - **Profit per gallon = \$10.00 - \$5.00 = \$5.00.**
+
+5. **Determine the number of gallons sold to achieve a total profit of \$25:**
+   - **Number of gallons = Total profit / Profit per gallon = \$25.00 / \$5.00 = 1 gallon.**
+
+6. **Calculate the amount spent on lemons:**
+   - **Total cost per gallon = \$5.00.**
+   - **Amount spent on lemons = \$5.00.**
+
+**Final Answer:**
+\boxed{\$5.00}

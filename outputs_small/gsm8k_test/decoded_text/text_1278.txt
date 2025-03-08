@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Tom found 214 seashells, Nancy found 432 seashells, and Benny found 86 seashells on the beach. When they cleaned them, they discovered that 67 were cracked. How many good seashells did they find together?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of seashells found by Tom, Nancy, and Benny before cleaning. I'll add their individual totals together.
+
+Tom found 214 seashells, Nancy found 432, and Benny found 86. Adding these together gives 214 + 432 + 86 = 732 seashells in total.
+
+Next, I know that 67 of these seashells were cracked. To find the number of good seashells, I'll subtract the cracked ones from the total.
+
+So, 732 total seashells minus 67 cracked seashells equals 665 good seashells.
+
+Therefore, the total number of good seashells they found together is 665.
+</think>
+
+To determine the total number of **good** seashells found by Tom, Nancy, and Benny, follow these steps:
+
+1. **Calculate the total number of seashells found:**
+   
+   \[
+   \text{Total seashells} = \text{Tom's seashells} + \text{Nancy's seashells} + \text{Benny's seashells}
+   \]
+   
+   \[
+   \text{Total seashells} = 214 + 432 + 86 = 732
+   \]
+
+2. **Subtract the number of cracked seashells:**
+   
+   \[
+   \text{Good seashells} = \text{Total seashells} - \text{Cracked seashells}
+   \]
+   
+   \[
+   \text{Good seashells} = 732 - 67 = 665
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{665}
+\]

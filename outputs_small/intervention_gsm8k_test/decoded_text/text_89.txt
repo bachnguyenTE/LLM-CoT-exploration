@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Christina is planning a birthday party and needs .75 gift bags per invited guest, because 1/4 of attendees don't show up. She invited 16 friends. Gift bags are $2 each. How much will she spend?
+A:<｜Assistant｜><think>
+First, determine the number of guests who will actually attend by calculating 75% of the 16 invited friends. This is done by multiplying 16 by 0.75, which equals 12 guests.
+
+Next, calculate the total cost by multiplying the number of attendees (12) by the cost per gift bag ($2), resulting in $24.
+
+Therefore, Christina will spend $24 on gift bags.
+</think>
+
+**Solution:**
+
+1. **Determine the number of attendees:**
+   
+   Christina invited **16 friends**. Since only **75%** of the attendees show up, we calculate the number of guests as follows:
+   
+   \[
+   \text{Number of attendees} = 16 \times 0.75 = 12
+   \]
+
+2. **Calculate the total cost for gift bags:**
+   
+   Each gift bag costs **\$2**. Therefore, the total cost for **12** gift bags is:
+   
+   \[
+   \text{Total cost} = 12 \times \$2 = \$24
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{24}
+\]

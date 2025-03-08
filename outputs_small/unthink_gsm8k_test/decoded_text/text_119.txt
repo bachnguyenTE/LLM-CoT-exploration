@@ -1,0 +1,55 @@
+<｜User｜>
+Q: Adrien's total salary was 30 percent higher than Lylah's. Four years later, his salary had increased, and he was earning 40% more than what he was making four years ago. If Adrien's and Lylah's salary increased simultaneously, and Adrien earned $40000 four years ago, calculate the total salary the two were receiving four years later?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- Adrien's total salary four years ago was **\$40,0000** (assuming a typo in the original problem, as it's unusual to have a comma in the number).
+- Adrien's salary was **30% higher** than Lylah's salary four years ago.
+
+**Step 1: Determine Lylah's salary four years ago.**
+
+Let \( L \) be Lylah's salary four years ago.
+
+Adrien's salary four years ago was 30% higher than Lylah's:
+\[
+A = L + 0.30L = 1.30L
+\]
+Given \( A = \$40,0000 \):
+\[
+1.30L = 44,0000 \\
+L = \frac{44,0000}{1.30} \approx 33,846.15
+\]
+
+**Step 2: Calculate Lylah's salary four years later.**
+
+Lylah's salary increased by 40% over four years:
+\[
+L_{\text{future}} = L + 0.40L = 1.40L
+\]
+\[
+L_{\text{future}} = 1.40 \times 33,846.15 \approx 47,384.61
+\]
+
+**Step 3: Calculate Adrien's salary four years later.**
+
+Adrien's salary increased by 30% over four years:
+\[
+A_{\text{future}} = A + 0.30A = 1.30A
+\]
+\[
+A_{\text{future}} = 1.30 \times 44,0000 \approx 57,2000
+\]
+
+**Step 4: Calculate the total salary four years later.**
+
+\[
+\text{Total Future Salary} = A_{\text{future}} + L_{\text{future}} \approx 57,2000 + 47,384.61 \approx 104,584.61
+\]
+
+**Final Answer:**
+\[
+\boxed{104,\!584.61}
+\]

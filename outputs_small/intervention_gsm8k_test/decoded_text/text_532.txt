@@ -1,0 +1,62 @@
+<｜User｜>
+Q: Jame will turn 27 in 5 years.  In 8 years his cousin will be 5 years younger than twice his age.  How many years separate the age of the two now?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here: Jame will turn 27 in 5 years. In 8 years, his cousin will be 5 years younger than twice his age. How many years separate the age of the two now? Hmm, let me try to figure this out step by step.
+
+First, let me parse the information given. Jame will be 27 in 5 years. So, right now, how old is Jame? If in 5 years he'll be 27, then right now he must be 27 minus 5. Let me write that down:
+
+Jame's current age = 27 - 5 = 22 years old.
+
+Okay, so Jame is 22 now. Now, moving on to his cousin. It says, "In 8 years, his cousin will be 5 years younger than twice his age." Hmm, okay. So, let's break that down.
+
+First, in 8 years, the cousin's age will be... Well, let's denote the cousin's current age as C. So, in 8 years, the cousin will be C + 8 years old.
+
+Now, it says that this cousin's age in 8 years will be 5 years younger than twice Jame's age. So, twice Jame's age is 2 * 22, which is 44. Then, 5 years younger than that would be 44 - 5 = 39.
+
+So, in 8 years, the cousin will be 39 years old. Therefore, we can set up an equation:
+
+C + 8 = 39
+
+To find the cousin's current age, we subtract 8 from both sides:
+
+C = 39 - 8 = 31
+
+So, the cousin is currently 31 years old. Wait, that seems right. Let me double-check.
+
+If the cousin is 31 now, in 8 years, he'll be 39. Twice Jame's age is 2*22=44, and 5 years younger than that is 39. Yep, that matches. So, cousin is 31 now.
+
+Now, the question is asking how many years separate the age of the two now. So, that would be the difference between the cousin's current age and Jame's current age.
+
+So, cousin's age - Jame's age = 31 - 22 = 9.
+
+So, the age difference is 9 years. Therefore, the answer should be 9.
+
+Wait, that seems right. Let me just make sure I didn't make any mistakes in my calculations.
+
+Jame's current age: 27 years from now is 27, so 27 -5=22. That's correct.
+
+Cousin's age in 8 years: twice Jame's age is 44, 5 years younger is 39. So cousin is 31 now. 31 -22=9. Yep, that's correct.
+
+I think that's solid. So, the answer is 9 years.
+
+**Final Answer**
+The number of years separating their ages is \boxed{9}.
+</think>
+
+Jame will turn 27 in 5 years, so his current age is:
+\[ 27 - 5 = 22 \]
+
+In 8 years, his cousin will be 5 years younger than twice his age. Twice Jame's age in 8 years is:
+\[ 2 \times 22 = 44 \]
+Five years younger than that is:
+\[ 44 - 5 = 39 \]
+
+Let \( C \) be the cousin's current age. In 8 years, the cousin will be:
+\[ C + 8 = 39 \]
+Solving for \( C \):
+\[ C = 39 - 8 = 31 \]
+
+The cousin is currently 31 years old. The difference in their ages is:
+\[ 31 - 22 = 9 \]
+
+Thus, the number of years separating their ages is \(\boxed{9}\).

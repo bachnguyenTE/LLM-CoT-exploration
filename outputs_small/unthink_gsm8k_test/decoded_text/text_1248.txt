@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Jason works as a salesperson at a car dealership.  He needs to sell 15 cars this month to earn a big bonus.  He knows based on historical averages, that for every 25 telephone calls he makes to potential customers, he gets one person to come into the car dealership to look at new cars.  And for every two customers that come into the car dealership, one will buy a car.  Based on these average numbers, how many telephone calls would Jason need to make to sell 15 cars and earn his bonus?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many telephone calls Jason needs to make to sell 15 cars, let's break down the information step by step.
+
+1. **Sales per 25 telephone calls:**
+   - For every 25 telephone calls, Jason gets **1 person** to look at cars.
+
+2. **Car sales per 2 customers:**
+   - For every **2 customers**, **1 car** is sold.
+
+3. **Total cars needed:**
+   - Jason needs to sell **15 cars**.
+
+**Step 1: Calculate the number of customers needed to sell 15 cars.**
+
+Since **1 car** is sold for every **2 customers**, the number of customers needed is:
+\[
+\text{Number of customers} = 15 \text{ cars} \times 2 \text{ customers per car} = 30 \text{ customers}
+\]
+
+**Step 2: Calculate the number of telephone calls needed to get 30 customers.**
+
+Since **1 person** is sold for every **25 telephone calls**, the number of telephone calls needed is:
+\[
+\text{Number of telephone calls} = 30 \text{ customers} \div 2 \text{ customers per 25 calls} = 15 \times 25 = 75 \text{ telephone calls}
+\]
+
+**Final Answer:**
+\[
+\boxed{75}
+\]

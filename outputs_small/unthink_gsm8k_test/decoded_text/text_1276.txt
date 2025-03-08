@@ -1,0 +1,22 @@
+<｜User｜>
+Q: James wants to hang crepe-paper streamers from his backyard fence for his birthday party. His backyard fence is a rectangle that measures 20 feet on the long side and 15 feet on the short side. How many feet of crepe paper does James need to buy?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many feet of crepe-paper James needs to buy, we'll calculate the perimeter of his rectangular backyard fence. The perimeter of a rectangle is given by the formula:
+
+\[
+\text{Perimeter} = 2 \times (\text{Length} + \text{Width})
+\]
+
+Given:
+- Length = 20 feet
+- Width = 15 feet
+
+Plugging in the values:
+
+\[
+\text{Perimeter} = 2 \times (20\text{ft} + 15\text{ft}) = 2 \times 35\text{ft} = 70\text{ft}
+\]
+
+Therefore, James needs to buy **70 feet** of crepe-paper.

@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Adrianne is collecting different kinds of beads for making bracelets. Her mother gave her 20 metallic beads. Her sister gave her ten more beads than her mother, and her friend gave her twice as many as her mother gave.  How many beads did Adrianne have altogether?
+A:<｜Assistant｜><think>
+First, I need to determine how many beads Adrianne's sister received. Her sister received ten more beads than her mother, who gave her 20 beads. So, her sister received 20 + 10 = 32 beads.
+
+Next, I'll calculate how many beads her friend gave Adrianne. The friend gave her twice as many beads as her mother, which is 2 * 20 = 44 beads.
+
+Finally, I'll add up all the beads Adrianne received from her mother, sister, and friend. That totals 20 + 32 + 44 = 96 beads.
+</think>
+
+Let's determine the total number of beads Adrianne has by adding the beads she received from her mother, sister, and friend.
+
+1. **Beads from Mother:**
+   \[
+   20 \text{ beads}
+   \]
+
+2. **Beads from Sister:**
+   \[
+   20 \text{ (mother's amount)} + 10 = 32 \text{ beads}
+   \]
+
+3. **Beads from Friend:**
+   \[
+   2 \times 20 = 44 \text{ beads}
+   \]
+
+4. **Total Beads:**
+   \[
+   20 + 32 + 44 = 96 \text{ beads}
+   \]
+
+**Final Answer:**
+\[
+\boxed{96}
+\]

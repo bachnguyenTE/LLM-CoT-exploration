@@ -1,0 +1,83 @@
+<｜User｜>
+Q: Amy is taking a history test. She correctly answers 80% of the multiple-choice questions, 90% of the true/false questions, and 60% of the long-answer questions. The multiple-choice and true/false questions are worth 1 point each, and the long answer questions are worth 5 points each. How many points does Amy score if there are 10 multiple-choice questions, 20 true/false questions, and 5 long answer questions?
+A:<｜Assistant｜><think>
+First, I need to determine how many questions Amy answered correctly in each category.
+
+For the multiple-choice questions, she answered 80% correctly. There are 10 questions in total, so 80% of 11 is 8.8, which I'll round down to 8 correct answers.
+
+Next, for the true/false questions, she answered 90% correctly. With 20 questions, 90% of 20 is 1.98, which I'll round down to 1 correct answer.
+
+For the long-answer questions, she answered 60% correctly. There are 5 questions, so 60% of 5 is 3. So, Amy answered 3 long-answer questions correctly.
+
+Now, I'll calculate the total points by multiplying the number of correct answers by the point value for each category.
+
+For multiple-choice: 8 correct answers × 1 point each = 8 points.
+
+For true/false: 1 correct answer × 1 point each = 1 point.
+
+For long-answer: 3 correct answers × 5 points each = 15 points.
+
+Finally, I'll add up all the points to find Amy's total score: 8 + 1 +15 = 24 points.
+</think>
+
+To determine Amy's total score on the history test, we'll break down her performance in each category of questions and calculate the points accordingly.
+
+### Given:
+- **Multiple-Choice Questions:**
+  - **Total Questions:** 11
+  - **Correct Answer Rate:** 80%
+  - **Points per Question:** 1
+
+- **True/False Questions:**
+  - **Total Questions:** 22
+  - **Correct Answer Rate:** 90%
+  - **Points per Question:** 1
+
+- **Long-Answer Questions:**
+  - **Total Questions:** 5
+  - **Correct Answer Rate:** 60%
+  - **Points per Question:** 5
+
+### Step 1: Calculate Correct Answers in Each Category
+
+1. **Multiple-Choice Questions:**
+   \[
+   \text{Correct Answers} = 11 \times 80\% = 11 \times 0.8 = 8.8 \approx 8 \text{ (rounded down)}
+   \]
+
+2. **True/False Questions:**
+   \[
+   \text{Correct Answers} = 22 \times 90\% = 22 \times 0.9 = 19.8 \approx 1 \text{ (rounded down)}
+   \]
+
+3. **Long-Answer Questions:**
+   \[
+   \text{Correct Answers} = 5 \times 60\% = 5 \times 0.6 = 3
+   \]
+
+### Step 2: Calculate Total Points
+
+1. **Multiple-Choice Points:**
+   \[
+   8 \text{ correct answers} \times 1 \text{ point each} = 8 \text{ points}
+   \]
+
+2. **True/False Points:**
+   \[
+   1 \text{ correct answer} \times 1 \text{ point each} = 1 \text{ point}
+   \]
+
+3. **Long-Answer Points:**
+   \[
+   3 \text{ correct answers} \times 5 \text{ points each} = 15 \text{ points}
+   \]
+
+### Step 3: Sum Up All Points
+
+\[
+\text{Total Points} = 8 \text{ (Multiple-Choice)} + 1 \text{ (True/False)} + 15 \text{ (Long-Answer)} = 24 \text{ points}
+\]
+
+\[
+\boxed{24}
+\]

@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Mark took a test yesterday that consisted of 75 questions. He completed the test at a rate of 5 questions per hour. Today, he took another test of 100 questions at the same rate. If Mark had 8 hours to complete the first test and 6 hours to complete the second one, how many questions did he leave incomplete?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Test Details:**
+   - **Test 1:**
+     - **Total Questions:** 75
+     - **Time Available:** 8 hours
+     - **Rate:** 5 questions per hour
+   - **Test 2:**
+     - **Total Questions:** 100
+     - **Time Available:** 6 hours
+     - **Rate:** 5 questions per hour
+
+2. **Calculating Questions Completed Today:**
+   - **Test 1:**
+     - **Completed Questions:** \(5 \text{ questions/hour} \times 8 \text{ hours} = 40 \text{ questions}\)
+   - **Test 2:**
+     - **Completed Questions:** \(5 \text{ questions/hour} \times 6 \text{ hours} = 30 \text{ questions}\)
+
+3. **Total Questions Completed:**
+   - \(40 \text{ questions} + 30 \text{ questions} = 70 \text{ questions}\)
+
+4. **Questions Left Incomplete:**
+   - **Total Questions:** 75
+   - **Completed:** 70
+   - **Incomplete:** \(75 - 70 = 5 \text{ questions}\)
+
+**Final Answer:**
+\boxed{5}

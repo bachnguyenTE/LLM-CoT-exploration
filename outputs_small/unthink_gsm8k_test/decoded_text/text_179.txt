@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Lloyd earns $10 an hour on Math tutoring.  He tutored 5 hours for the first week and 8 hours for the second week. How much did he earn for the first two weeks?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Lloyd earns **\$10** per hour tutoring Math. He worked for **5 hours** in the first week and **8 hours** in the second week.
+
+1. **First Week Earnings:**
+   \[
+   5 \text{ hours} \times \$10/\text{hour} = \$5
+   \]
+
+2. **Second Week Earnings:**
+   \[
+   8 \text{ hours} \times \$10/\text{hour} = \$80
+   \]
+
+3. **Total Earnings for Two Weeks:**
+   \[
+   \$5 + \$80 = \$85
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$85}
+\]

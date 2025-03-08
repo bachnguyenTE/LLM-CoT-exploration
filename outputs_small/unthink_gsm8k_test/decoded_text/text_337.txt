@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Luke ate 2 hot dogs. Thomas ate three times more hot dogs than Luke. John ate half the amount Thomas ate. How many more hot dogs did John eat than Luke?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+1. **Luke's Hot Dogs:**
+   - Luke ate **2 hot dogs**.
+
+2. **Thomas's Hot Dogs:**
+   - Thomas ate **three times more** hot dogs than Luke.
+   - **Three times** Luke's amount = \( 3 \times 2 = 6 \) hot dogs.
+   - **Plus the original amount** (Luke's 2 hot dogs) = \( 6 + 2 = 8 \) hot dogs.
+   - **Total for Thomas:** **8 hot dogs**.
+
+3. **John's Hot Dogs:**
+   - John ate **half the amount** Thomas ate.
+   - **Half of 8** = \( \frac{8}{2} = 4 \) hot dogs.
+   - **Total for John:** **4 hot dogs**.
+
+4. **Difference Between John and Luke:**
+   - **John ate 4 hot dogs**.
+   - **Luke ate 2 hot dogs**.
+   - **Difference:** \( 4 - 2 = 2 \) hot dogs.
+
+**Final Answer:**  
+\boxed{2}

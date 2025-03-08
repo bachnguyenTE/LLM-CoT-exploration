@@ -1,0 +1,61 @@
+<｜User｜>
+Q: Liam and Mitchell own competing lemonade stands across the street from one another. When Liam bragged that he had made $63 one weekend, Mitchell laughed and told Liam he had sold 21 lemonades at $4 apiece the same weekend. How many more dollars did Mitchell make selling lemonade that weekend than Liam?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Liam and Mitchell selling lemonade. Let me try to figure it out step by step. 
+
+First, the problem says that when Liam bragged and said he made $63 one weekend, Mitchell laughed and told him that he had sold 21 lemonades at $4 apiece the same weekend. The question is asking how many more dollars Mitchell made than Liam that weekend.
+
+Alright, so I need to find the difference in their earnings. That means I need to calculate how much each of them made and then subtract Liam's amount from Mitchell's to see the difference.
+
+Let me start with Mitchell. He sold 21 lemonades at $4 each. So, to find out how much he made, I need to multiply the number of lemonades sold by the price per lemonade. That should give me his total earnings.
+
+So, Mitchell's earnings = number of lemonades sold × price per lemonade.
+
+Plugging in the numbers: 21 lemonades × $4 per lemonade.
+
+Hmm, 21 times 4. Let me calculate that. 20 times 4 is 80, and 1 times 4 is 4, so 80 + 4 is 84. So, Mitchell made $84 that weekend.
+
+Now, let's check Liam's earnings. The problem says he made $63. So, that's straightforward. Liam's earnings are already given as $63.
+
+So, now I need to find out how much more Mitchell made than Liam. That means I subtract Liam's earnings from Mitchell's earnings.
+
+Difference = Mitchell's earnings - Liam's earnings.
+
+So, Difference = $84 - $63.
+
+Let me compute that. 84 minus 60 is 24, and then minus 3 more is 21. Wait, no, that's not right. Wait, 84 minus 63. Let me do it properly.
+
+84
+-63
+---
+Starting from the units place: 4 minus 3 is 1. Then, 8 minus 6 is 2. So, the difference is $21.
+
+Wait, that seems low. Let me double-check my calculations.
+
+Wait, 21 is 21, but 84 minus 63 is 21? Hmm, 63 plus 21 is 84. Let me add 63 and 21: 60 + 20 is 80, and 3 +1 is 4, so 80 +4 is 84. Yes, that's correct.
+
+So, the difference is $21.
+
+Wait, but let me make sure I didn't make a mistake in calculating Mitchell's earnings. He sold 21 lemonades at $4 each. So, 21 times 4. Let me do that again.
+
+21 × 4: 20 ×4 is 0, 1 ×4 is 4, so 0 +4 is 4. Wait, that can't be right because 20 ×4 is 80, and 1 ×4 is 4, so 80 +4 is 84. Yeah, that's correct.
+
+So, Mitchell made $84, and Liam made $63. The difference is $21.
+
+Wait, but the problem says "how many more dollars did Mitchell make selling lemonade that weekend than Liam." So, yes, it's 84 minus 63, which is 21.
+
+Wait, but 21 is written as $21, right? So, the answer is $21.
+
+But let me think again. Is there another way to approach this? Maybe by calculating the difference in the number of lemonades sold and then multiplying by the price? Let me try that.
+
+Number of lemonades sold by Mitchell: 21.
+
+Number sold by Liam: 63.
+
+Wait, no, that doesn't make sense because 21 is less than 63, so that would mean Mitchell sold fewer lemonades, but he made more money. So, that approach might not work because the number of lemonades sold isn't directly proportional to the money made unless the price per lemonade is the same.
+
+Wait, in this case, the price per lemonade is the same for both, which is $4. So, the difference in money made is due to the difference in the number of lemonades sold.
+
+So, the difference in the number of lemonades sold is 63 - 21 = 42. So, Mitchell sold 42 more lemonades than Liam. Since each lemonade is $4, the extra money made is 42 × $4.
+
+Wait, 42 × 4 is 168. But that's not the case here because the problem is asking how many more

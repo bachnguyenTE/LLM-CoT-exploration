@@ -1,0 +1,29 @@
+<｜User｜>
+Q: A dance studio offers lessons to students. It costs $25 per session to rent the studio plus $1.50 per student per session. At present, the dance studio has 10 students and is rented 3 days a week. How much are the expected earnings of the dance studio in a month?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the expected earnings of the dance studio in a month, we'll break down the costs and calculate the total revenue.
+
+1. **Cost of Renting the Studio:**
+   - **Daily Rental Cost:** \$25
+   - **Days rented per week:** 3
+   - **Weekly Rental Cost:** \( 25 \times 3 = \$75 \)
+   - **Monthly Rental Cost:** Assuming 4 weeks in a month, \( 75 \times 4 = \$300 \)
+
+2. **Cost Per Student Per Session:**
+   - **Cost per student:** \$1.50
+
+3. **Total Students:**
+   - **Current Students:** 10
+
+4. **Total Earnings:**
+   - **Total Revenue from Students:** \( 10 \times 1.50 = \$15.00 \)
+   - **Total Monthly Earnings:** \( 300 + 15.00 = \$315.00 \)
+
+**Final Answer:**
+\[
+\boxed{\$315.00}
+\]

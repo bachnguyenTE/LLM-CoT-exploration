@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Dijana and Anis live near a lake, and every weekend they go out rowing into the lake. On a Sunday morning, both went out rowing, and Dijana rowed for 50 miles the whole day. Anis rowed 1/5 times more miles than Dijana. Calculate the total distance the two of them rowed on that day.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Dijana's Rowing Distance:**
+   - Dijana rowed a total of **50 miles** that day.
+
+2. **Anis's Rowing Distance:**
+   - Anis rowed **1/5 times more** than Dijana.
+   - To find the additional distance, calculate \( \frac{1}{5} \) of 50 miles:
+     \[
+     \frac{1}{5} \times 50 = 10 \text{ miles}
+     \]
+   - Therefore, Anis rowed:
+     \[
+     50 + 10 = 60 \text{ miles}
+     \]
+
+3. **Total Distance Rowed by Both:**
+   - Add Dijana's and Anis's distances:
+     \[
+     50 + 60 = 116 \text{ miles}
+     \]
+
+**Final Answer:**
+\[
+\boxed{116}
+\]

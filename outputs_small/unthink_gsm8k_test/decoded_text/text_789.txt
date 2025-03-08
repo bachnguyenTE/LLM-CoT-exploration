@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Carson lives in an old house where the pipes will freeze if the temperature inside the house falls below 32 degrees. Every log of wood Carson burns heats the house up by 5 degrees. If it was 45 degrees during the day, and it's 33 degrees colder during the night compared to the day, how many logs does Carson need to burn to prevent the pipes from freezing?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many logs Carson needs to burn to prevent the pipes from freezing, let's break down the problem step by step.
+
+1. **Daytime Temperature:**
+   - **Temperature during the day:** \( 45^\circ \text{F} \)
+   
+2. **Night Temperature:**
+   - **Temperature during the night:** \( 33^\circ \text{F} \) colder than the day.
+   - **Calculation:** \( 45^\circ \text{F} - 33^\circ \text{F} = 12^\circ \text{F} \)
+   
+3. **Heating per Log:**
+   - Each log of wood heats the house by \( 5^\circ \text{F} \).
+   
+4. **Determine the Required Heating:**
+   - To prevent the pipes from freezing, the temperature during the night must be at least \( 32^\circ \text{F} \).
+   - Current temperature during the night is \( 12^\circ \text{F} \), which is below \( 32^\circ \text{F} \).
+   - **Required additional heating:** \( 32^\circ \text{F} - 12^\circ \text{F} = 20^\circ \text{F} \)
+   
+5. **Calculate the Number of Logs Needed:**
+   - Each log provides \( 5^\circ \text{F} \).
+   - **Number of logs:** \( \frac{20^\circ \text{F}}{5^\circ \text{F/log}} = 4 \text{ logs} \)
+   
+**Final Answer:**
+\[
+\boxed{4}
+\]

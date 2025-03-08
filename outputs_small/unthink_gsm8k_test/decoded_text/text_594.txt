@@ -1,0 +1,38 @@
+<｜User｜>
+Q: A cup of mushrooms weighs 100 grams and has 3 grams of protein.  If John eats 200 grams of mushrooms every day how many grams of protein does he get per week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the protein content per gram of mushrooms:**
+   
+   - 100 grams of mushrooms contain 3 grams of protein.
+   
+   - Therefore, the protein content per gram is:
+     
+     \[
+     \frac{3 \text{ grams of protein}}{100 \text{ grams of mushrooms}} = 0.03 \text{ grams of protein per gram}
+     \]
+
+2. **Calculate the protein content for 200 grams of mushrooms per day:**
+   
+   - Multiply the protein content per gram by the daily consumption:
+     
+     \[
+     200 \text{ grams of mushrooms} \times 0.003 \text{ grams of protein per gram} = 6.6 \text{ grams of protein per day}
+     \]
+
+3. **Determine the protein content for a week:**
+   
+   - Multiply the daily protein intake by 7 (number of days in a week):
+     
+     \[
+     6.6 \text{ grams of protein per day} \times 7 \text{ days} = 46.2 \text{ grams of protein per week}
+     \]
+
+**Final Answer:**
+
+\[
+\boxed{46.2 \text{ grams of protein per week}}
+\]

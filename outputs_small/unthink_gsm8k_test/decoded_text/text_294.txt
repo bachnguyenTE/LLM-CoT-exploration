@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Will buys 15 oranges. When he gets home, he asks his 2 sons to wash as many oranges as they are years old. The oldest son is 8 years old, the youngest is half as old as the oldest. How many oranges are left unwashed?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Oranges Bought:**
+   - Will buys **15 oranges**.
+
+2. **Oranges Washed by the Youngest Son:**
+   - The **youngest son** is half as old as the **oldest son**.
+   - **Oldest son's age:** 8 years.
+   - **Youngest son's age:** \( \frac{8}{2} = 4 \) years.
+
+3. **Oranges Washed by the Youngest Son:**
+   - The youngest son is **4 years old**.
+   - He washes **4 oranges**.
+
+4. **Oranges Washed by the Oldest Son:**
+   - The oldest son is **8 years old**.
+   - He washes **8 oranges**.
+
+5. **Total Oranges Washed:**
+   - **Youngest son:** 4 oranges.
+   - **Oldest son:** 8 oranges.
+   - **Total washed:** \( 4 + 8 = 12 \) oranges.
+
+6. **Oranges Left Unwashed:**
+   - **Total bought:** 15 oranges.
+   - **Total washed:** 12 oranges.
+   - **Oranges left unwashed:** \( 15 - 12 = 3 \) oranges.
+
+**Final Answer:**
+\[
+\boxed{3}
+\]

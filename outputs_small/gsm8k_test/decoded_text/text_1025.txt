@@ -1,0 +1,24 @@
+<｜User｜>
+Q: The Easter egg hunt team hid 100 eggs. The Smith twins each found 30 eggs. All the other eggs except 10 were found by their friends. How many eggs did the friends find?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about the Easter egg hunt. Let me try to figure it out step by step. 
+
+First, the problem says that the Easter egg hunt team hid 100 eggs. That's the total number of eggs. Then, it mentions that the Smith twins each found 30 eggs. Hmm, so if there are two Smith twins, each found 30 eggs, that means together they found 30 eggs each. Let me write that down:
+
+Smith twins found: 30 eggs each × 2 = 60 eggs.
+
+So, the Smith twins found a total of 60 eggs. Now, the problem also says that all the other eggs except 10 were found by their friends. Wait, let me parse that again. It says, "All the other eggs except 10 were found by their friends." Hmm, that wording is a bit confusing. Let me try to understand it.
+
+So, total eggs are 100. The Smith twins found 60 eggs. Then, the rest of the eggs, except 10, were found by their friends. Hmm, so does that mean 10 eggs were not found by the Smith twins, and the rest were found by their friends? Or is it that 10 eggs were not found by the Smith twins, and the rest were found by their friends? I think that's the correct interpretation.
+
+So, total eggs: 100.
+
+Smith twins found: 60.
+
+Therefore, the remaining eggs would be 100 - 60 = 44 eggs. But the problem says, "All the other eggs except 10 were found by their friends." So, does that mean 10 eggs were not found by the Smith twins, and the rest were found by their friends? So, if the Smith twins found 60 eggs, then the friends found 100 -60 = 44 eggs. But wait, the problem says, "All the other eggs except 10 were found by their friends." So, maybe it's 10 eggs were not found by the Smith twins, and the rest were found by their friends. So, 100 -60 =44 eggs, but the problem says "except 10," so maybe 10 eggs were not found by the Smith twins, so the friends found 100 -10 =90 eggs. Wait, that doesn't make sense because the Smith twins found 60, so 100 -60 =40, but the problem says except 10, so maybe 10 were not found by the Smith twins, so the friends found 100 -10=90 eggs. But that seems too high because the Smith twins found 60, so 100 -60=40, but the problem says except 10, so maybe 10 were not found by the Smith twins, so the friends found 100 -10=90. But that would mean the Smith twins found 10, which contradicts the given information.
+
+Wait, maybe I'm overcomplicating this. Let me try to parse the sentence again: "All the other eggs except 10 were found by their friends." So, "all the other eggs" would be the eggs not found by the Smith twins. So, if the Smith twins found 60, then the other eggs are 100 -60=40. But the problem says, "except 10 were found by their friends." So, does that mean 10 were not found by the Smith twins, and the rest were found by their friends? So, 100 -10=90 eggs were found by their friends. But that would mean the Smith twins found 10, which contradicts the given information that they found 30 each.
+
+Wait, maybe I'm misinterpreting the sentence. Let me try another approach. Maybe "all the other eggs except 10 were found by their friends." So, "all the other eggs" would be the eggs not found by the Smith twins, which is 100 -60=44. Then, "except 10 were found by their friends." So, 10 were not found by the Smith twins, and the rest were found by their friends. So, 44 -10=34 eggs were found by their friends. But that doesn't make sense because 100 -60=44, so if 10 were not found by the Smith twins, then 44 -10=34 were found by their friends. But that seems inconsistent.
+
+Wait, maybe the problem is saying that all the eggs except 10 were found by their friends. So, that would mean 10

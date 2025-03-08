@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Elaina is holding the final concert in her tour. To celebrate her final concert, she makes the concert twice as long as her usual concerts. At the end of the concert, she also performs a 15-minute encore. If the runtime of this final concert is 65 minutes then how long, in minutes, do her usual concerts run for?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's denote the usual length of Elaina's concerts as \( x \) minutes.
+
+1. **Final Concert Length:**
+   - The final concert is twice as long as her usual concerts.
+   - Therefore, the length of the final concert is \( 2x \) minutes.
+
+2. **Including the Encore:**
+   - At the end of the final concert, there's a 15-minute encore.
+   - So, the total runtime of the final concert is \( 2x + 15 \) minutes.
+
+3. **Given Total Runtime:**
+   - The total runtime of the final concert is given as 65 minutes.
+   - Therefore, we can set up the equation:
+     \[
+     2x + 15 = 65
+     \]
+
+4. **Solving for \( x \):**
+   - Subtract 15 from both sides:
+     \[
+     2x = 65 - 15
+     \]
+     \[
+     2x = 50
+     \]
+   - Divide both sides by 2:
+     \[
+     x = \frac{50}{2}
+     \]
+     \[
+     x = 25
+     \]
+
+**Answer:** Elaina's usual concerts run for \(\boxed{25}\) minutes.

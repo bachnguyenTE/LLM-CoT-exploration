@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Pierson scored 278 points in one game of bowling. Nikita scored 11 more than half as many as Pierson. How many points did Pierson and Nikita have in total?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Pierson's Score:**
+   - Pierson scored **278 points** in one game of bowling.
+
+2. **Nikita's Score:**
+   - Nikita scored **11 more than half as many as Pierson**.
+   - First, find half of Pierson's score:
+     \[
+     \frac{278}{2} = 139
+     \]
+   - Then, add 11 to this amount:
+     \[
+     139 + 11 = 150
+     \]
+   - So, Nikita scored **150 points**.
+
+3. **Total Score:**
+   - To find the total points scored by both Pierson and Nikita:
+     \[
+     278 \text{ (Pierson)} + 150 \text{ (Nikita)} = 428
+     \]
+
+**Final Answer:**
+\[
+\boxed{428}
+\]

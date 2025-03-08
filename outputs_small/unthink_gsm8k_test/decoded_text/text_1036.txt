@@ -1,0 +1,18 @@
+<｜User｜>
+Q: There are forty apples in one box. Uncle Franky ordered two boxes of apples. He is planning to pack the apples with eight apples in one pack. How many packs of apples can he make with the two boxes of apples?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total number of apples:**
+   - Each box contains 40 apples.
+   - Uncle Franky ordered 2 boxes.
+   - **Total apples = 40 apples/box × 2 boxes = 80 apples.**
+
+2. **Calculate the number of packs:**
+   - Each pack contains 8 apples.
+   - **Number of packs = 80 apples ÷ 8 apples/pack = 10 packs.**
+
+**Final Answer:**  
+\boxed{10}

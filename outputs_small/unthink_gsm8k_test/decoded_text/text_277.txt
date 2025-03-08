@@ -1,0 +1,35 @@
+<｜User｜>
+Q: It takes Matthew 3 minutes to dig a small hole for shrubs and 10 minutes to dig a large hole for trees.  How many hours will it take him to dig 30 small holes and 15 large holes?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many hours it will take Matthew to dig 30 small holes and 15 large holes, follow these steps:
+
+1. **Calculate the time for small holes:**
+   - Matthew digs a small hole in **3 minutes**.
+   - For **30 small holes**, the time required is:
+     \[
+     30 \text{ holes} \times 3 \text{ minutes/hole} = 90 \text{ minutes}
+     \]
+
+2. **Calculate the time for large holes:**
+   - Matthew digs a large hole in **10 minutes**.
+   - For **15 large holes**, the time required is:
+     \[
+     15 \text{ holes} \times 10 \text{ minutes/hole} = 150 \text{ minutes}
+     \]
+
+3. **Add the times together:**
+   \[
+   90 \text{ minutes} + 150 \text{ minutes} = 246 \text{ minutes}
+   \]
+
+4. **Convert minutes to hours:**
+   \[
+   \frac{246 \text{ minutes}}{60 \text{ minutes/hour}} = 4.05 \text{ hours}
+   \]
+
+**Final Answer:**
+\[
+\boxed{4.05 \text{ hours}}
+\]

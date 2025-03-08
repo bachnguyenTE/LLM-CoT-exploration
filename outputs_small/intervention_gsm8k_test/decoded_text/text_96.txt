@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Harry slept 9 hours last night. His friend James slept only 2/3 of what Harry slept. How many more hours did Harry sleep than James?
+A:<｜Assistant｜><think>
+First, I need to determine how many hours James slept. Since James slept two-thirds of what Harry slept, and Harry slept 9 hours, I can calculate James's sleep duration by multiplying 9 by 2/3.
+
+Next, I'll find the difference between the hours Harry slept and the hours James slept by subtracting James's sleep time from Harry's sleep time.
+
+Finally, I'll present the result to show how many more hours Harry slept than James.
+</think>
+
+**Solution:**
+
+1. **Determine how many hours James slept:**
+   
+   James slept \(\frac{2}{3}\) of the hours Harry slept.
+   
+   \[
+   \text{James's sleep} = \frac{2}{3} \times 9 = 6 \text{ hours}
+   \]
+
+2. **Calculate how many more hours Harry slept than James:**
+   
+   \[
+   \text{Difference} = 9 - 6 = 3 \text{ hours}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{3}
+\]

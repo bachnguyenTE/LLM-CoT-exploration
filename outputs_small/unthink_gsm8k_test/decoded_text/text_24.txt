@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Kyle bought last year's best-selling book for $19.50. This is with a 25% discount from the original price. What was the original price of the book?
+A:<｜Assistant｜><think>
+</think>
+
+To find the original price of the book before the 25% discount, we can follow these steps:
+
+1. **Understand the Problem:**
+   - Kyle bought the book for **\$19.50**.
+   - This price is after a **25% discount** from the original price.
+   - We need to find the **original price** of the book.
+
+2. **Set Up the Equation:**
+   - Let \( P \) be the original price of the book.
+   - A 25% discount means Kyle paid 75% of the original price (since 100% - 25% = 75%).
+   - Therefore, \( 0.75P = 19.50 \).
+
+3. **Solve for \( P \):**
+   \[
+   P = \frac{19.50}{0.75}
+   \]
+   \[
+   P = 26.2666...
+   \]
+   \[
+   P \approx 26.27
+   \]
+
+4. **Final Answer:**
+   \[
+   \boxed{26.27}
+   \]
+
+**Answer:** The original price of the book was **\$26.27**.

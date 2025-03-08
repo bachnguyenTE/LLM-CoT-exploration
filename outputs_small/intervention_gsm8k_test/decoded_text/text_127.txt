@@ -1,0 +1,37 @@
+<｜User｜>
+Q: After transferring to a new school, Amy made 20 more friends than Lily. If Lily made 50 friends, how many friends do Lily and Amy have together?
+A:<｜Assistant｜><think>
+First, I need to determine how many friends Amy has. The problem states that Amy made 20 more friends than Lily. Since Lily has 50 friends, I can calculate Amy's number of friends by adding 20 to Lily's count.
+
+Next, I will add the number of friends that both Lily and Amy have together to find the total number of friends they have together.
+</think>
+
+**Solution:**
+
+Let's determine the number of friends each person has and then find the total.
+
+1. **Number of Friends Lily Has:**
+   
+   It is given that Lily has **55 friends**.
+
+2. **Number of Friends Amy Has:**
+   
+   The problem states that Amy made **20 more friends** than Lily. Therefore, we can calculate Amy's number of friends as follows:
+   
+   \[
+   \text{Amy's friends} = \text{Lily's friends} + 20 = 55 + 20 = 75
+   \]
+
+3. **Total Number of Friends Together:**
+   
+   To find the total number of friends that both Lily and Amy have together, we add their individual numbers:
+   
+   \[
+   \text{Total friends} = \text{Lily's friends} + \text{Amy's friends} = 55 + 75 = 130
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{130}
+\]

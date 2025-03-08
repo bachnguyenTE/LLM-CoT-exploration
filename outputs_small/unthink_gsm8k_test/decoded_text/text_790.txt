@@ -1,0 +1,40 @@
+<｜User｜>
+Q: At the trip to the county-level scavenger hunt competition, 90 people were required to split into groups for the competition to begin. To break people up into smaller groups with different leaders, 9-person groups were formed. If 3/5 of the number of groups each had members bring back 2 seashells each, how many seashells did they bring?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Number of People:**
+   - There are **90** people going to the scavenger hunt.
+
+2. **Group Formation:**
+   - The competition requires splitting **90 people into groups**.
+   - Each group consists of **9 people**.
+
+3. **Number of Groups:**
+   - To form groups of 9, we divide the total number of people by the group size:
+     \[
+     \text{Number of Groups} = \frac{90}{9} = 10 \text{ groups}
+     \]
+
+4. **Seashells Calculation:**
+   - **3/5 of the number of groups** bring back **2 seashells each**.
+   - First, find **3/5 of the number of groups**:
+     \[
+     \frac{3}{5} \times 10 = 6 \text{ groups}
+     \]
+   - Each of these 6 groups brings back **2 seashells**:
+     \[
+     6 \text{ groups} \times 2 \text{ seashells/group} = 12 \text{ seashells}
+     \]
+
+5. **Total Seashells:**
+   - The total number of seashells brought back is **12**.
+
+**Final Answer:**
+\[
+\boxed{12}
+\]

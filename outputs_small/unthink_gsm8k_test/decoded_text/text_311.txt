@@ -1,0 +1,25 @@
+<｜User｜>
+Q: In a family of 5, three people eat three eggs each day while the rest eat two eggs each day. If they eat eggs every day, how many eggs will the family consume in a week?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of eggs consumed by the family in a week, let's break down the consumption step by step.
+
+**Family Composition:**
+- **Total family members:** 5
+- **Eating habits:**
+  - **Three people:** Eat **3 eggs** each day.
+  - **Two people:** Eat **2 eggs** each day.
+
+**Daily Consumption:**
+- **Three people:** \( 3 \text{ eggs/day} \times 3 \text{ people} = 9 \text{ eggs/day} \)
+- **Two people:** \( 2 \text{ eggs/day} \times 2 \text{ people} = 4 \text{ eggs/day} \)
+- **Total daily consumption:** \( 9 \text{ eggs/day} + 4 \text{ eggs/day} = 13 \text{ eggs/day} \)
+
+**Weekly Consumption:**
+- **1 week:** \( 13 \text{ eggs/day} \times 7 \text{ days} = 91 \text{ eggs/week} \)
+
+**Final Answer:**
+\[
+\boxed{91}
+\]

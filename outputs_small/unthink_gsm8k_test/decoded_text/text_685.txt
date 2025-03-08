@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Catherine goes to the grocery store. She buys 1 kilo of apples for $4, 2 kilos of bananas for $2 per kilo, and 2 kilos of oranges for $3 per kilo. How many dollars does she pay in total?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the total amount Catherine pays, we'll calculate the cost of each item separately and then sum them up.
+
+1. **Apples:**
+   - **Quantity:** 1 kilo
+   - **Price per kilo:** \$4
+   - **Total cost for apples:** \(1 \text{ kilo} \times \$4/\text{kilo} = \$4\)
+
+2. **Bananas:**
+   - **Quantity:** 2 kilos
+   - **Price per kilo:** \$2
+   - **Total cost for bananas:** \(2 \text{ kilos} \times \$2/\text{kilo} = \$4\)
+
+3. **Oranges:**
+   - **Quantity:** 2 kilos
+   - **Price per kilo:** \$3
+   - **Total cost for oranges:** \(2 \text{ kilos} \times \$3/\text{kilo} = \$6\)
+
+4. **Total Cost:**
+   - **Apples:** \$4
+   - **Bananas:** \$4
+   - **Oranges:** \$6
+   - **Total:** \$4 + \$4 + \$6 = **\$14**
+
+**Final Answer:**
+\[
+\boxed{14}
+\]

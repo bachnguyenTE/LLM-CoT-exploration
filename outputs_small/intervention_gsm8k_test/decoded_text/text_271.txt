@@ -1,0 +1,45 @@
+<｜User｜>
+Q: John has 2 houses with 3 bedrooms each.  Each bedroom has 2 windows each.  There are an additional 4 windows in each house not connected to bedrooms.  How many total windows are there between the houses?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about John and his houses. Let me try to figure it out step by step. Hmm, the problem says John has 2 houses, each with 3 bedrooms. Each bedroom has 2 windows, and there are an additional 4 windows in each house not connected to the bedrooms. I need to find the total number of windows between the houses.
+
+Alright, let me break this down. First, there are two houses. Each house has 3 bedrooms. So, for one house, that's 3 bedrooms. Each bedroom has 2 windows. So, for one house, the number of windows connected to the bedrooms would be 3 bedrooms multiplied by 2 windows per bedroom. Let me write that down:
+
+Number of windows per house (connected to bedrooms) = 3 bedrooms × 2 windows/bedroom = 6 windows.
+
+Wait, that seems right. So each house has 6 windows connected to the bedrooms. But, that seems right. Then, the problem also mentions that there are an additional 4 windows in each house not connected to the bedrooms. So, for each house, the total number of windows would be the connected ones plus the additional ones.
+
+So, for one house, total windows = 6 (connected) + 4 (additional) = 10 windows.
+
+But, that seems right. So, each house has 10 windows in total. Since there are two houses, the total number of windows between the houses would be 10 windows per house multiplied by 2 houses.
+
+Let me calculate that: 10 × 2 = 20 windows.
+
+Wait, that seems right. So, 20 windows in total. Hmm, but, that seems right. Let me double-check my calculations.
+
+First, 3 bedrooms per house, each with 2 windows: 3 × 2 = 6. That's correct. Then, 4 additional windows per house: 6 + 4 = 10. That's correct. Then, two houses: 10 × 2 = 20. Hmm, that seems correct.
+
+Wait, that seems right. So, the total number of windows is 20. So, the answer should be 20.
+
+But, that seems right. Let me think again. Each house has 3 bedrooms, each with 2 windows, so 3×2=6. Then, 4 more windows in each house. So, 6+4=10 per house. Two houses, so 10×2=20. Yeah, that seems correct.
+
+Wait, that seems right. So, the answer is 20.
+
+But, that seems right. So, I think I'm confident with that.
+
+**Final Answer**
+The total number of windows between the houses is \boxed{20}.
+</think>
+
+John has 2 houses, each with 3 bedrooms. Each bedroom has 2 windows, and there are an additional 4 windows in each house not connected to bedrooms. 
+
+First, calculate the number of windows connected to the bedrooms in one house:
+\[ 3 \text{ bedrooms} \times 2 \text{ windows/bedroom} = 6 \text{ windows} \]
+
+Next, add the additional windows in each house:
+\[ 6 \text{ windows} + 4 \text{ additional windows} = 10 \text{ windows} \]
+
+Since there are 2 houses, the total number of windows is:
+\[ 10 \text{ windows/house} \times 2 \text{ houses} = 20 \text{ windows} \]
+
+The total number of windows between the houses is \(\boxed{20}\).

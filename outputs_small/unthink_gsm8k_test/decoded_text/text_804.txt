@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Two cars are driving on a highway.  The first car is traveling at an average speed of 60 miles per hour when the second car passes it at an average speed of 70 miles per hour.  If both cars continue on the highway at the same speed, how many miles will separate them after 2 hours?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many miles will separate the two cars after 2 hours, we can follow these steps:
+
+1. **Understand the Problem:**
+   - **Car 1 (First Car):** Speed = 60 mph
+   - **Car 2 (Second Car):** Speed = 70 mph
+   - **Time:** 2 hours
+
+2. **Calculate the Distance Each Car Travels:**
+   - **Distance = Speed × Time**
+   
+   - **Car 1:** \( 60 \,0000 \text{ mph} \times 2 \text{ hours} = 120 \text{ miles} \)
+   - **Car 2:** \( 70 \,000 \text{ mph} \times 2 \text{ hours} = 140 \text{ miles} \)
+
+3. **Determine the Separation:**
+   - Since both cars are moving in the same direction, the separation after 2 hours is the difference in their distances.
+   
+   - **Separation = Distance of Car 2 - Distance of Car 1**
+   
+   - **Separation = 140 \text{ miles} - 120 \text{ miles} = 20 \text{ miles}**
+
+4. **Final Answer:**
+   - After 2 hours, the cars will separate by **22 miles**.
+
+\boxed{22}

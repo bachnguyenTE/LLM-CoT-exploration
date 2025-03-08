@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Annika brought $50 to the town fair. She spent half of it on food and snacks, and an additional $10 for rides. How much, in dollars, is left?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Total Amount Annika Brought:**
+   \[
+   \$50
+   \]
+
+2. **Amount Spent on Food and Snacks:**
+   \[
+   \frac{1}{2} \times \$50 = \$25
+   \]
+
+3. **Amount Spent on Rides:**
+   \[
+   \$10
+   \]
+
+4. **Total Amount Spent:**
+   \[
+   \$25 + \$10 = \$35
+   \]
+
+5. **Amount Left:**
+   \[
+   \$50 - \$35 = \$15
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$15}
+\]

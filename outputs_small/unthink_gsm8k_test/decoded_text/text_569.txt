@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Liam and Mitchell own competing lemonade stands across the street from one another. When Liam bragged that he had made $63 one weekend, Mitchell laughed and told Liam he had sold 21 lemonades at $4 apiece the same weekend. How many more dollars did Mitchell make selling lemonade that weekend than Liam?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Liam's Earnings:**
+   - Liam claims he made \$63 one weekend.
+
+2. **Mitchell's Earnings:**
+   - Mitchell sold 21 lemonades at \$4 each.
+   - To find his total earnings, multiply the number of lemonades sold by the price per lemonade:
+     \[
+     21 \text{ lemonades} \times \$4/\text{lemonade} = \$84
+     \]
+
+3. **Comparing Earnings:**
+   - To find out how many more dollars Mitchell made than Liam:
+     \[
+     \$84 - \$63 = \$21
+     \]
+
+**Final Answer:**
+\[
+\boxed{21}
+\]

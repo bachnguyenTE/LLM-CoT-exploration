@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Trent is 5 years older than Jane, and Jane is 3 years younger than Quinn. If Quinn is 30, how old is Trent?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We are given the following relationships:
+
+1. **Trent is 5 years older than Jane.**
+2. **Jane is 3 years younger than Quinn.**
+3. **Quinn is 30 years old.**
+
+Let's break this down step by step.
+
+**Step 1: Determine Jane's Age**
+
+Since Jane is 3 years younger than Quinn, and Quinn is 30 years old, we can find Jane's age by subtracting 3 from Quinn's age.
+
+\[
+\text{Jane's age} = \text{Quinn's age} - 3 = 30 - 3 = 27
+\]
+
+**Step 2: Determine Trent's Age**
+
+Trent is 5 years older than Jane. We already found Jane's age to be 27, so we add 5 to find Trent's age.
+
+\[
+\text{Trent's age} = \text{Jane's age} + 5 = 27 + 5 = 32
+\]
+
+**Final Answer:**
+
+Trent is \(\boxed{32}\) years old.

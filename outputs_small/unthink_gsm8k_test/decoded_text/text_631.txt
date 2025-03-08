@@ -1,0 +1,37 @@
+<｜User｜>
+Q: In a jewelers store, the price of a gold Jewell is 4/5 times as much as the price of a diamond Jewell. The cost of a silver Jewell is $400 less than the price of gold. If a diamond Jewell is $2000, find the total price for all three jewels.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Price of a Diamond Jewell:**
+   - Given: \( \text{Price of Diamond} = \$2000 \)
+
+2. **Price of a Gold Jewel:**
+   - The price of a gold jewel is \( \frac{4}{5} \) times the price of a diamond jewel.
+   - Calculation:
+     \[
+     \text{Price of Gold} = \frac{4}{5} \times \$2000 = \frac{4 \times 2000}{5} = \frac{8000}{5} = \$1600
+     \]
+
+3. **Price of a Silver Jewel:**
+   - The price of a silver jewel is \$400 less than the price of a gold jewel.
+   - Calculation:
+     \[
+     \text{Price of Silver} = \text{Price of Gold} - \$400 = \$1600 - \$400 = \$1200
+     \]
+
+4. **Total Price for All Three Jewels:**
+   - Sum of the prices of a diamond, gold, and silver jewel.
+   - Calculation:
+     \[
+     \text{Total Price} = \$2000 + \$1600 + \$1200 = \$4800
+     \]
+
+**Final Answer:**
+\[
+\boxed{\$4800}
+\]

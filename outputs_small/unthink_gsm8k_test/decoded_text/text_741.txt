@@ -1,0 +1,20 @@
+<｜User｜>
+Q: Jeremy saw 12 birds in their backyard and threw a stone at them, scaring away 1/3 of that number. A few minutes later, 20 more birds joined the fearless birds. How many birds are now in the backyard?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+1. **Initial Birds Count:**
+   - Jeremy saw **12 birds** in their backyard.
+
+2. **Stone Throw and Scaring:**
+   - Jeremy threw a stone at the birds, scaring away **1/3** of the number of birds.
+   - **Number of birds scared away:** \( \frac{1}{3} \times 12 = 4 \) birds.
+   - **Remaining birds after scaring:** \( 12 - 4 = 8 \) birds.
+
+3. **More Birds Joining:**
+   - **20 more birds** joined the group.
+   - **Total birds now:** \( 8 + 20 = 28 \) birds.
+
+**Final Answer:** \(\boxed{28}\)

@@ -1,0 +1,23 @@
+<｜User｜>
+Q: An electronics seller bought 5 phones for $700 each and gives the seller $4000 in dollar bills. How much will the seller give back in change?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much change the electronics seller will receive, follow these steps:
+
+1. **Calculate the total cost of the 5 phones:**
+   \[
+   \text{Total Cost} = \text{Number of Phones} \times \text{Cost per Phone} = 5 \times \$7000 = \$35,000
+   \]
+
+2. **Subtract the amount given by the buyer from the total cost to find the change:**
+   \[
+   \text{Change} = \text{Total Cost} - \text{Amount Given} = \$35,000 - \$4,000 = \$31,000
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$31,\!000}
+\]

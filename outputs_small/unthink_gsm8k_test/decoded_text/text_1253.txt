@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Tim spends 6 hours each day at work answering phones.  It takes him 15 minutes to deal with a call.  How many calls does he deal with during his 5 day work week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many calls Tim deals with during his 5-day work week, follow these steps:
+
+1. **Total Time Spent on Calls:**
+   - Tim spends **6 hours** each day at work answering phones.
+   - Over **5 days**, the total time spent on calls is:
+     \[
+     6 \text{ hours/day} \times 5 \text{ days} = 30 \text{ hours}
+     \]
+
+2. **Convert Total Time to Minutes:**
+   - Since the call handling time is given in minutes, convert the total time from hours to minutes:
+     \[
+     30 \text{ hours} \times 60 \text{ minutes/hour} = 1800 \text{ minutes}
+     \]
+
+3. **Calculate Number of Calls:**
+   - Each call takes **15 minutes** to handle.
+   - The number of calls Tim can handle in 5 days is:
+     \[
+     \frac{1800 \text{ minutes}}{15 \text{ minutes/call}} = 120 \text{ calls}
+     \]
+
+**Final Answer:**
+\[
+\boxed{120}
+\]

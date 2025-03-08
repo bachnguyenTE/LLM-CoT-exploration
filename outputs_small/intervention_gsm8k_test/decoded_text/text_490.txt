@@ -1,0 +1,33 @@
+<｜User｜>
+Q: An 8-year old child wants to buy a toy car which costs $12. He already has $4 savings. How many days will it take him to save the remaining amount of money if he promises to save $2 daily from his allowance?
+A:<｜Assistant｜><think>
+First, I need to determine how much more money the child needs to buy the toy car. The toy car costs $12, and the child already has $4. So, I subtract the amount he has from the total cost: $12 minus $4 equals $8. This means he needs an additional $8.
+
+Next, I'll figure out how many days it will take him to save the remaining $8 if he saves $2 each day. I'll divide the total amount he needs by his daily savings: $8 divided by $2 equals 4 days.
+
+Therefore, it will take him 4 days to save enough for the toy car.
+</think>
+
+**Solution:**
+
+1. **Determine the remaining amount needed:**
+   
+   The toy car costs **\$12** and the child already has **\$4**.
+   
+   \[
+   \text{Remaining Amount} = \$12 - \$4 = \$8
+   \]
+
+2. **Calculate the number of days needed to save the remaining amount:**
+   
+   The child plans to save **\$2** each day.
+   
+   \[
+   \text{Number of Days} = \frac{\text{Remaining Amount}}{\text{Daily Savings}} = \frac{\$8}{\$2} = 4 \text{ days}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{4}
+\]

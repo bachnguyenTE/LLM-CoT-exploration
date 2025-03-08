@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Sally has realized she did not receive a full wage this week. Her bank account, which held $200 at the start of the week, now holds $420. She has received no other money into her bank account this week. If her weekly wage should be $300, how many dollars were withheld from Sally’s wage?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Bank Balance:**
+   - **Starting balance:** \$200
+
+2. **Final Bank Balance:**
+   - **Ending balance:** \$420
+
+3. **Change in Bank Balance:**
+   - **Ending balance - Starting balance = \$420 - \$200 = \$220**
+
+4. **Understanding the Change:**
+   - The bank account increased by \$220 during the week.
+   - This increase is due to **withholding** some amount from Sally's wage.
+
+5. **Weekly Wage:**
+   - **Total wage:** \$300
+
+6. **Calculating Withholding:**
+   - The increase in the bank balance (\$220) is the amount withheld from Sally's wage.
+   - **Withheld amount = \$220**
+
+**Final Answer:**
+\[
+\boxed{220}
+\]

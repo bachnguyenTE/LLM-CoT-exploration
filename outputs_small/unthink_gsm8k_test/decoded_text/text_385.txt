@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Lisa is part of a choir that has 52 members, 50% of which are boys and 50% of which are girls.  The choir decides to perform with just its female members.  On the day of the performance, however, half the people performing can't make it to the show because their bus breaks down.  The choir's 3 teachers then decide to sing with them. How many people sang in the performance?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many people sang in the performance.
+
+1. **Total choir members:** 52
+
+2. **Composition of the choir:**
+   - **Boys:** 50% of 52
+   - **Girls:** 50% of 52
+
+   Let's calculate the number of boys and girls:
+   \[
+   \text{Number of boys} = 0.5 \times 52 = 26
+   \]
+   \[
+   \text{Number of girls} = 0.5 \times 52 = 28
+   \]
+
+3. **Performing with only female members:**
+   - **Number of female members:** 28
+
+4. **Bus breakdown:**
+   - **Half the people performing can't make it:**
+     \[
+     \frac{28}{2} = 14
+     \]
+     So, 14 girls couldn't make it.
+
+5. **Remaining performing members:**
+   \[
+   28 - 14 = 14
+   \]
+
+6. **Adding the choir's 3 teachers:**
+   \[
+   14 + 3 = 17
+   \]
+
+**Final Answer:** \(\boxed{17}\)

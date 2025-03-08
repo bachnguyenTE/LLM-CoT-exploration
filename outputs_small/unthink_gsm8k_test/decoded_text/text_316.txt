@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Solomon bought 20 marbles from his friend Johanna and added them to a store that had 50. If his father also gave him 2/5 times as many marbles as he bought from Johanna, and each marble weighs 2kgs, calculate the total weight of marbles Solomon has in the store.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Marbles bought from Johanna:**
+   - Solomon bought **20 marbles** from his friend Johanna.
+
+2. **Marbles added to the store:**
+   - The store initially had **50 marbles**.
+   - Solomon added **20 marbles** to the store.
+   - **Total marbles in the store after addition:** \(50 + 20 = 70\) marbles.
+
+3. **Marbles given by Solomon's father:**
+   - Solomon's father gave him **\( \frac{2}{5} \) times as many marbles as he bought from Johanna**.
+   - Marbles bought by Solomon: \(20\)
+   - Marbles given by father: \( \frac{2}{5} \times 20 = 8 \) marbles.
+
+4. **Total marbles in the store:**
+   - Marbles in the store after addition: \(70\)
+   - Marbles added by father: \(8\)
+   - **Total marbles:** \(70 + 8 = 78\) marbles.
+
+5. **Total weight of marbles:**
+   - Each marble weighs **2 kg**.
+   - **Total weight:** \(78 \times 2 = 156\) kg.
+
+**Final Answer:**
+\[
+\boxed{156\,\text{kg}}
+\]

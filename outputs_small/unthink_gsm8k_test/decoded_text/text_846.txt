@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Vicki is planning a pop concert at her high school. The show will be 2 hours. She is allowing each group 2 minutes to get on stage, 6 minutes to perform, and then 2 minutes to exit the stage. If she allows a 10-minute intermission, how many groups can perform in the concert?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many groups can perform in the concert, we need to calculate the total time required for each group's performance, including setup and exit time, and then divide the total concert time by this amount.
+
+1. **Time per Group:**
+   - **Setup:** 2 minutes
+   - **Performance:** 6 minutes
+   - **Exit:** 2 minutes
+   - **Total:** \(2 + 6 + 2 = 10\) minutes per group
+
+2. **Total Concert Time:** 2 hours = 120 minutes
+
+3. **Number of Groups:**
+   \[
+   \text{Number of Groups} = \frac{\text{Total Concert Time}}{\text{Time per Group}} = \frac{120}{10} = 12
+   \]
+
+**Answer:** \(\boxed{12}\)

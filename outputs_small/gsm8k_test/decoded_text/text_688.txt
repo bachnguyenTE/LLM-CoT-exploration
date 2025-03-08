@@ -1,0 +1,34 @@
+<｜User｜>
+Q: John is very tired. He decides to take a nap, but he wants to finish his homework first. If John has 20 minutes of math homework, 40 minutes of reading homework, and 20 minutes of history homework and 3 hours before he has to eat dinner, how many minutes does John have to nap?
+A:<｜Assistant｜><think>
+First, I need to determine the total amount of time John has available before he needs to eat dinner. He has 3 hours before dinner, which is equivalent to 180 minutes.
+
+Next, I'll calculate the total time John needs to complete his homework. He has 20 minutes of math homework, 40 minutes of reading homework, and 20 minutes of history homework. Adding these together gives a total of 82 minutes.
+
+Finally, to find out how much time John has left for napping, I'll subtract the total homework time from the available time before dinner. This means John has 180 minutes minus 82 minutes, which equals 98 minutes.
+</think>
+
+To determine how many minutes John has left for napping, follow these steps:
+
+1. **Convert all time units to minutes:**
+   - **Homework Time:**
+     - Math: 20 minutes
+     - Reading: 40 minutes
+     - History: 20 minutes
+     - **Total Homework Time:** \(20 + 40 + 20 = 82\) minutes
+   - **Dinner Time:** 3 hours = \(3 \times 60 = 180\) minutes
+
+2. **Calculate the total time available before dinner:**
+   \[
+   \text{Total Available Time} = \text{Dinner Time} = 180 \text{ minutes}
+   \]
+
+3. **Determine the time left for napping:**
+   \[
+   \text{Napping Time} = \text{Total Available Time} - \text{Total Homework Time} = 180 - 82 = 98 \text{ minutes}
+   \]
+
+**Final Answer:**
+\[
+\boxed{98}
+\]

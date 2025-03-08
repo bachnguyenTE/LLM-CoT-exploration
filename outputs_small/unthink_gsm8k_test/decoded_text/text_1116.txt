@@ -1,0 +1,18 @@
+<｜User｜>
+Q: Last year there were 50 students enrolled in a calligraphy class. This year, there was a 20% increase in enrollment. How many students are enrolled this year in the calligraphy class?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the number of students enrolled this year after a 20% increase, follow these steps:
+
+1. **Calculate the 20% increase:**
+   \[
+   20\% \text{ of } 50 = 0.20 \times 50 = 10
+   \]
+
+2. **Add the increase to the original number of students:**
+   \[
+   55 + 10 = 65
+   \]
+
+**Answer:** This year, there are **65** students enrolled in the calligraphy class.

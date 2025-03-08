@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Dale is selling butterscotch candies to raise money for his club at school. He doesn't have the candies yet and is instead just taking orders. He started off with 100 total that he ordered and wanted to sell, but he ended up selling 150 butterscotch candies. Then he ordered 100 more. How many does Dale still need to sell to sell all of his candy?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Order:**
+   - Dale starts with **100 total butterscotch candies** that he ordered.
+   - He sells **150 butterscotch candies**.
+
+2. **Remaining Candies:**
+   - After selling 150 out of 100, he has:
+     \[
+     100 - 150 = -50
+     \]
+     (This negative number indicates he has a deficit, meaning he needs to sell more.)
+
+3. **Additional Order:**
+   - Dale then orders **100 more butterscotch candies**.
+
+4. **Total Candies After Order:**
+   - Total candies now:
+     \[
+     100 + 100 = 200
+     \]
+
+5. **Candies Sold:**
+   - He sells **150** more.
+
+6. **Total Candies Sold:**
+   - Total sold:
+     \[
+     150 + 150 = 300
+     \]
+
+7. **Candies Still Needed to Sell:**
+   - Total candies available: 200
+   - Total sold: 300
+   - Therefore, he needs to sell:
+     \[
+     200 - 300 = -80
+     \]
+     (Again, negative indicates he needs to sell more.)
+
+**Final Answer:**
+Dale still needs to sell \(\boxed{80}\) butterscotch candies to sell all of his candy.

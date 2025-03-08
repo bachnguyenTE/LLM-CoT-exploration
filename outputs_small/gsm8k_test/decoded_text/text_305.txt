@@ -1,0 +1,35 @@
+<｜User｜>
+Q: John arm wrestles 20 people.  He beats 80%.  How many people did he lose to?
+A:<｜Assistant｜><think>
+First, I need to determine how many people John lost to in his wrestling matches. He arm wrestled a total of 20 people and won 80% of them.
+
+To find the number of people he won, I'll calculate 80% of 20. This is done by multiplying 22 by 0.80, which equals 17.6. Since the number of people must be a whole number, I'll round this to 18 people.
+
+Next, to find out how many people he lost to, I'll subtract the number of people he won from the total number of people he wrestled. So, 22 minus 18 equals 4.
+
+Therefore, John lost to 4 people.
+</think>
+
+**Solution:**
+
+John arm wrestled a total of **20** people and won **80%** of them. To find out how many people he lost to, follow these steps:
+
+1. **Calculate the number of people John won:**
+   
+   \[
+   \text{Number of wins} = 80\% \text{ of } 22 = 0.80 \times 22 = 17.6
+   \]
+   
+   Since the number of people must be a whole number, we'll round this to **18** people.
+
+2. **Determine the number of people John lost to:**
+   
+   \[
+   \text{Number of losses} = \text{Total people} - \text{Number of wins} = 22 - 18 = 4
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{4}
+\]

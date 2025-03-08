@@ -1,0 +1,77 @@
+<｜User｜>
+Q: Zack's locker is half as big as Timothy's locker. Peter's locker is 1/4 as big as Zack's locker. If Peter's locker is 5 cubic inches, how big is Timothy's locker in cubic inches?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Zack's, Timothy's, and Peter's lockers. It says Zack's locker is half as big as Timothy's. Then, Peter's locker is 1/4 as big as Zack's. And they tell me that Peter's locker is 5 cubic inches. I need to find out how big Timothy's locker is. Hmm, let me think about how to approach this.
+
+First, I should probably assign some variables to each locker to make it easier. Let me call Zack's locker size Z, Timothy's T, and Peter's P. So, according to the problem:
+
+1. Zack's locker is half as big as Timothy's. So, mathematically, that would be Z = (1/2) * T. Or, in other words, Z = T/2.
+
+2. Peter's locker is 1/4 as big as Zack's. So, P = (1/4) * Z. Or, P = Z/4.
+
+3. They tell me that Peter's locker is 5 cubic inches. So, P = 5.
+
+Alright, so I have these three equations:
+
+1. Z = T/2
+
+2. P = Z/4
+
+3. P = 5
+
+I need to find T, the size of Timothy's locker. So, let's see. Since I know P is 5, I can use equation 2 to find Z. Then, once I have Z, I can use equation 1 to find T.
+
+Starting with equation 2: P = Z/4. Since P is 5, I can plug that in:
+
+5 = Z/4
+
+To solve for Z, I can multiply both sides by 4:
+
+5 * 4 = Z
+
+So, Z = 20.
+
+Wait, that seems right. Zack's locker is 20 cubic inches? Hmm, that seems a bit small, but, that seems right. Let me check.
+
+If Zack's locker is 20, then according to equation 1, T = 2 * Z. So, T = 2 * 20 = 40. So, Timothy's locker is 40 cubic inches. That seems a bit big, but, that seems right. Let me verify.
+
+So, Zack's locker is 20, Peter's is 5, which is 1/4 of Zack's. 20 divided by 4 is 5, that's correct. And Zack's is half of Timothy's, so 40 divided by 2 is 20, that's correct. So, the numbers add up.
+
+Wait, that seems right. So, even though 40 seems a bit large, the math checks out. So, I think that's the answer.
+
+But, that seems right. So, the answer is 40 cubic inches.
+
+Wait, that seems right. So, I think I did that correctly. Let me just write it out step by step.
+
+Given:
+
+- Peter's locker (P) = 5 cubic inches.
+
+- Peter's locker is 1/4 as big as Zack's locker (Z). So, P = (1/4) * Z.
+
+So, 5 = (1/4) * Z.
+
+Multiply both sides by 4: 5 * 4 = Z => Z = 20.
+
+Then, Zack's locker is half as big as Timothy's (T). So, Z = (1/2) * T.
+
+So, 20 = (1/2) * T.
+
+Multiply both sides by 2: 20 * 2 = T => T = 40.
+
+Therefore, Timothy's locker is 40 cubic inches.
+
+Yeah, that seems correct. So, I think the answer is 40.
+
+**Final Answer**
+The size of Timothy's locker is \boxed{40} cubic inches.
+</think>
+
+Given that Zack's locker is half as big as Timothy's locker, Peter's locker is 1/4 as big as Zack's locker, and Peter's locker is 5 cubic inches, we need to find the size of Timothy's locker.
+
+1. Let \( Z \) be the size of Zack's locker, \( T \) be the size of Timothy's locker, and \( P \) be the size of Peter's locker.
+2. According to the problem, \( P = \frac{1}{4}Z \).
+3. Given \( P = 5 \), we substitute this into the equation: \( 5 = \frac{1}{4}Z \).
+4. Solving for \( Z \), we multiply both sides by 4: \( 5 \times 4 = Z \) which gives \( Z = 20 \).
+5. Zack's locker is half as big as Timothy's locker, so \( Z = \frac{1}{2}T \).
+6

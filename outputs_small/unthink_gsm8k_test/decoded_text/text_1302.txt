@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Matthew has a collection of 12 unique toy soldiers. He wants to sell them for a fair price. He found a buyer who is willing to pay for half his collection $5 per toy, and for the other half $7 per toy. If Matthew would agree to that offer, how much money would he earn?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Matthew has a total of **12 unique toy soldiers**.
+
+He wants to sell them to a buyer in two groups:
+1. **First half:** The buyer is willing to pay **\$5** per toy.
+2. **Second half:** The buyer is willing to pay **\$7** per toy.
+
+Since there are **12** soldiers in total, we'll divide them equally into two groups:
+- **First group:** 6 soldiers
+- **Second group:** 6 soldiers
+
+Now, calculate the total earnings from each group:
+- **First group:** \( 6 \text{ soldiers} \times \$5/\text{soldier} = \$30 \)
+- **Second group:** \( 6 \text{ soldiers} \times \$7/\text{soldier} = \$42 \)
+
+**Total earnings:** 
+\[
+\$30 + \$42 = \$72
+\]
+
+**Final Answer:** Matthew would earn **\$72**.

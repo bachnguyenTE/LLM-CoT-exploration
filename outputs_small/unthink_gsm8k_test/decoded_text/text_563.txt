@@ -1,0 +1,26 @@
+<｜User｜>
+Q: James decides to buy birthday candles for his 2 sons.  One of them is 12 and the other is 4 years younger.  A pack of 5 candles costs $3.  How much does James spend on candles?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+James wants to buy birthday candles for his two sons. Here's the breakdown:
+
+1. **Age of the Sons:**
+   - **Son 1:** 12 years old
+   - **Son 2:** 4 years younger than Son 1, so \(12 - 4 = 8\) years old
+
+2. **Number of Candles Needed:**
+   - Each son needs 1 candle.
+   - **Total Candles:** \(12 + 8 = 20\) candles
+
+3. **Cost Calculation:**
+   - A pack of 5 candles costs \$3.
+   - Number of packs needed: \(\frac{20}{5} = 4.4\) packs. Since you can't buy a fraction of a pack, James needs to buy 5 packs.
+
+4. **Total Cost:**
+   - Each pack costs \$3, so \(5 \times 3 = \$15\)
+
+**Final Answer:**  
+James spends **\$15** on candles.

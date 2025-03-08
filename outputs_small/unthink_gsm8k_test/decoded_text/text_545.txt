@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Jeff’s work is 3 miles away.  He walks there and back each day he works.  How many miles does he walk if he has to work 5 times a week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Distance to Jeff's Work:**
+   - Jeff walks **3 miles** to work.
+
+2. **Distance for a Round Trip:**
+   - He walks **3 miles** to work and **3 miles** back home.
+   - **Total distance per day** = \(3 \text{ miles} + 3 \text{ miles} = 6 \text{ miles}\).
+
+3. **Total Distance for 5 Days:**
+   - He works **5 times a week**.
+   - **Total distance** = \(6 \text{ miles/day} \times 5 \text{ days} = 30 \text{ miles}\).
+
+**Final Answer:**
+\[
+\boxed{30 \text{ miles}}
+\]

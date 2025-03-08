@@ -1,0 +1,33 @@
+<｜User｜>
+Q: George needs to pay for dental work. He needs 2 implants. Each implant has a base price of $2000. For one of the implants, he wants a crown made of porcelain. That feature costs an extra $500. He’s already put down a deposit of $600. He makes $15 per hour at work. How many hours does he need to work before he has enough to pay for the dental work?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many hours George needs to work to pay for his dental work, let's break down the costs step by step.
+
+1. **Cost of Implants:**
+   - Each implant costs \$2000.
+   - Total for two implants: \( 2 \times \$2000 = \$4000 \).
+
+2. **Additional Cost for a Crown:**
+   - The crown costs an extra \$500.
+   - Total cost for dental work: \( \$4000 + \$500 = \$4500 \).
+
+3. **Deposit:**
+   - Deposit paid: \$600.
+   - Remaining amount to be covered: \( \$4500 - \$600 = \$3850 \).
+
+4. **Earnings from Work:**
+   - Hourly wage: \$15 per hour.
+   - Let \( h \) be the number of hours needed to work.
+   - Total earnings: \( 15h \).
+
+5. **Equation to Find Hours:**
+   \[
+   15h = 3850
+   \]
+   \[
+   h = \frac{3850}{15} = 257
+   \]
+
+**Final Answer:** George needs to work \(\boxed{257}\) hours.

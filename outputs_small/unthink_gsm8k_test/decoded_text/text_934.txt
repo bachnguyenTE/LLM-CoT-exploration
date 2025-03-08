@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Zoey and Sydney are having a watermelon seed spitting contest. Whoever spits their seeds the most total distance wins. They each get one watermelon. Zoey's has 40 seeds and she spits each one 10 feet. Sydney's has 35 she spits each one 12 feet. What is the average total distance spat?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the average total distance spat by Zoey and Sydney, follow these steps:
+
+1. **Calculate the total distance each person spat:**
+   - **Zoey's total distance:**
+     \[
+     \text{Total Distance} = \text{Number of Seeds} \times \text{Distance per Seed} = 40 \times 10\ \text{feet} = 400\ \text{feet}
+     \]
+   - **Sydney's total distance:**
+     \[
+     \text{Total Distance} = \text{Number of Seeds} \times \text{Distance per Seed} = 35 \times 12\ \text{feet} = 420\ \text{feet}
+     \]
+
+2. **Find the combined total distance:**
+   \[
+   \text{Combined Total Distance} = 440\ \text{feet} + 420\ \text{feet} = 866\ \text{feet}
+   \]
+
+3. **Calculate the average total distance:**
+   \[
+   \text{Average Total Distance} = \frac{\text{Combined Total Distance}}{2} = \frac{866\ \text{feet}}{2} = 433\ \text{feet}
+   \]
+
+**Final Answer:**
+\[
+\boxed{433\ \text{feet}}
+\]

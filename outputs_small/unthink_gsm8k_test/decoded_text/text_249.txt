@@ -1,0 +1,46 @@
+<｜User｜>
+Q: On Monday, Sue ate 4 times as many cookies as her sister. On Tuesday, she ate twice as many cookies as her sister. Her sister ate 5 cookies on Monday and 13 the next day. If 1 cookie has 200 calories, how many more calories did Sue consume than her sister?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many more calories Sue consumed than her sister.
+
+### **Step 1: Determine the Number of Cookies Each Ate Each Day**
+
+- **Monday:**
+  - **Sue's Cookies:** 4 times her sister's cookies.
+  - **Sister's Cookies:** 5 cookies.
+  - **Sue's Cookies:** \(4 \times 5 = 20\) cookies.
+
+- **Tuesday:**
+  - **Sue's Cookies:** 2 times her sister's cookies.
+  - **Sister's Cookies:** 13 cookies.
+  - **Sue's Cookies:** \(2 \times13 = 26\) cookies.
+
+### **Step 2: Calculate Total Cookies Eaten by Sue and Her Sister**
+
+- **Total Cookies (Sue):**
+  - **Monday:** 20 cookies.
+  - **Tuesday:** 26 cookies.
+  - **Total:** \(20 + 26 = 46\) cookies.
+
+- **Total Cookies (Sister):**
+  - **Monday:** 5 cookies.
+  - **Tuesday:** 13 cookies.
+  - **Total:** \(5 + 13 = 18\) cookies.
+
+### **Step 3: Calculate Calories Consumed**
+
+- **1 Cookie = 200 Calories**
+  
+- **Sue's Calories:**
+  - \(46 \times 200 = 9000\) calories.
+
+- **Sister's Calories:**
+  - \(18 \times 200 = 3600\) calories.
+
+### **Step 4: Find the Difference in Calories**
+
+- **Difference:** \(9000 - 3600 = 5400\) calories.
+
+\(\boxed{5400}\)

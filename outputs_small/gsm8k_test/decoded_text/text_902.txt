@@ -1,0 +1,31 @@
+<｜User｜>
+Q: The educational shop is selling notebooks for $1.50 each and a ballpen at $0.5 each.  William bought five notebooks and a ballpen. How much did he spend in all?
+A:<｜Assistant｜><think>
+First, I need to determine the total cost of the notebooks William bought. He purchased five notebooks, each costing $1.50. To find the total cost for the notebooks, I'll multiply the number of notebooks by the price per notebook: 5 multiplied by $1.500 equals $7.50.
+
+Next, I'll calculate the cost of the ballpen. The ballpen costs $0.50, so there's no additional cost beyond that.
+
+Finally, I'll add the total cost of the notebooks and the ballpen together to find the overall amount William spent: $7.50 plus $0.50 equals $8.00.
+</think>
+
+**Solution:**
+
+Let's determine the total amount William spent by calculating the cost of the notebooks and the ballpen separately and then adding them together.
+
+1. **Cost of Notebooks:**
+   - Number of notebooks: 5
+   - Price per notebook: \$1.50
+   - Total cost for notebooks = Number of notebooks × Price per notebook
+   - Total cost for notebooks = 5 × \$1.50 = \$7.50
+
+2. **Cost of Ballpen:**
+   - Number of ballpen: 1
+   - Price per ballpen: \$0.50
+   - Total cost for ballpen = 1 × \$0.50 = \$0.50
+
+3. **Total Amount Spent:**
+   - Total cost = Cost of notebooks + Cost of ballpen
+   - Total cost = \$7.50 + \$0.50 = \$8.00
+
+**Final Answer:**
+\boxed{8.00}

@@ -1,0 +1,40 @@
+<｜User｜>
+Q: John decides to take up an odd hobby of speed talking.  His normally speaking speed is 150 WPM.  After training his speed is 2.5 times faster than his starting speed.  How long would it take him to speak 10 pages if each page has 450 words per page?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the new speaking speed after training:**
+   
+   - **Original speaking speed:** 150 words per minute (WPM).
+   - **Training increase:** 2.5 times faster.
+   
+   \[
+   \text{New speaking speed} = 150 \times 2.5 = 375 \text{ WPM}
+   \]
+
+2. **Calculate the total number of words in 10 pages:**
+   
+   - **Words per page:** 450 words.
+   - **Total words:** \(10 \times 450 = 4500\) words.
+
+3. **Determine the time required to speak 4500 words at 375 WPM:**
+   
+   \[
+   \text{Time} = \frac{\text{Total words}}{\text{Words per minute}} = \frac{4500}{375} \approx 12.095 \text{ minutes}
+   \]
+
+4. **Convert the decimal minutes to minutes and seconds:**
+   
+   - **0.095 minutes \(\times\) 60 seconds ≈ 5.73 seconds**
+   
+   \[
+   \text{Time} \approx 12 \text{ minutes and } 5.73 \text{ seconds}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{12 \text{ minutes and } 5.73 \text{ seconds}}
+\]

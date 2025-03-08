@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Octavia wants to make a quilt for her sister. She is going to build it from small, medium, and large t-shirts that her family is done with. A small t-shirt is 3 square feet of fabric. A medium one is 4 square feet. A large one is 6 square feet. If she uses 11 small shirts, 8 medium, and 6 large shirts, how many square feet is the quilt?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total square footage of the quilt, we'll calculate the fabric used for each type of shirt and then sum them up.
+
+1. **Small Shirts:**
+   - **Number of shirts:** 111
+   - **Square feet per shirt:** 3
+   - **Total fabric:** \( 111 \times 3 = 333 \) square feet
+
+2. **Medium Shirts:**
+   - **Number of shirts:** 8
+   - **Square feet per shirt:** 4
+   - **Total fabric:** \( 8 \times 4 = 32 \) square feet
+
+3. **Large Shirts:**
+   - **Number of shirts:** 6
+   - **Square feet per shirt:** 6
+   - **Total fabric:** \( 6 \times 6 = 36 \) square feet
+
+4. **Total Fabric:**
+   - **Sum all the fabric:** \( 333 + 32 + 36 = 371 \) square feet
+
+**Final Answer:**  
+\boxed{371}

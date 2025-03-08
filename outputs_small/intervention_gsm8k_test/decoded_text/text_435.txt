@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Ray had 25 lollipops. He kept 5 lollipops and shared the remaining equally with his four friends. How many lollipops did each of his friends receive?
+A:<｜Assistant｜><think>
+First, I need to determine how many lollipops Ray has left after keeping 5 for himself. Ray started with 25 lollipops and kept 5, so I subtract 5 from 25 to find out how many are left.
+
+25 minus 5 equals 20.
+
+Next, I need to divide the remaining 20 lollipops equally among his four friends. To find out how many lollipops each friend gets, I divide 20 by 4.
+
+20 divided by 4 equals 5.
+
+Therefore, each of Ray's friends received 5 lollipops.
+</think>
+
+**Solution:**
+
+Ray started with **25 lollipops**. He kept **5 lollipops** for himself and shared the remaining equally with his **four friends**.
+
+1. **Calculate the remaining lollipops:**
+   \[
+   25 \text{ lollipops} - 5 \text{ lollipops} = 20 \text{ lollipops}
+   \]
+
+2. **Divide the remaining lollipops equally among his four friends:**
+   \[
+   \frac{20 \text{ lollipops}}{4 \text{ friends}} = 5 \text{ lollipops per friend}
+   \]
+
+**Final Answer:**
+\[
+\boxed{5}
+\]

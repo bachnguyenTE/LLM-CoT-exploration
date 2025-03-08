@@ -1,0 +1,26 @@
+<｜User｜>
+Q: The tooth fairy left Sharon $5.00 in exchange for the first tooth Sharon lost.  Then, the tooth fairy gave Sharon $1.00 for each of the next three teeth Sharon lost.  And for each of the last 2 teeth Sharon lost, the tooth fairy gave Sharon half the amount of money per tooth as Sharon had received for each of the previous three teeth.  How much money did the tooth fairy leave Sharon, in dollars?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to determine how much money the tooth fairy left Sharon.
+
+1. **First Tooth:**
+   - Sharon received **\$5.00** for the first tooth.
+
+2. **Next Three Tooth:**
+   - For each of the next three teeth, Sharon received **\$1.00** per tooth.
+   - **Total for three teeth:** \( 3 \times \$1.00 = \$3.00 \)
+
+3. **Last Two Tooth:**
+   - For each of the last two teeth, the tooth fairy gave Sharon half the amount received for the first tooth.
+   - **Amount per tooth:** \( \frac{\$5.00}{2} = \$2.50 \)
+   - **Total for two teeth:** \( 2 \times \$2.50 = \$5.00 \)
+
+4. **Total Money Left by the Tooth Fairy:**
+   - **First Tooth:** \$5.00
+   - **Next Three Tooth:** \$3.00
+   - **Last Two Tooth:** \$5.00
+   - **Total:** \( \$5.00 + \$3.00 + \$5.00 = \$13.00 \)
+
+**Final Answer:** \(\boxed{13.000}\)

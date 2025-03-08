@@ -1,0 +1,40 @@
+<｜User｜>
+Q: There are five phones on a phone plan. The main phone costs twice as much as each additional phone. If the main phone plan costs $20, how much does the whole phone plan cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Understanding the Problem:**
+   - There are **5** phones on a phone plan.
+   - The **main phone** costs twice as much as each **additional phone**.
+   - The **main phone plan** costs **\$20**.
+   - We need to find the total cost of all 5 phones.
+
+2. **Defining Variables:**
+   - Let’s denote the cost of each additional phone as \( x \).
+   - According to the problem, the main phone costs twice as much as each additional phone. Therefore, the main phone costs \( 2x \).
+
+3. **Setting Up the Equation:**
+   - The total cost of all 5 phones is the sum of the main phone and the four additional phones.
+   - Total cost = Main phone + 4 × (cost of each additional phone)
+   - Total cost = \( 2x + 4x = 6x \)
+
+4. **Given Information:**
+   - The main phone costs **\$20**.
+   - Therefore, \( 2x = 20 \)
+
+5. **Solving for \( x \):**
+   - \( 2x = 20 \)
+   - \( x = \frac{20}{2} = 10 \)
+   - So, each additional phone costs **\$10**.
+
+6. **Calculating the Total Cost:**
+   - Total cost = \( 6x = 6 \times 10 = 60 \)
+
+**Final Answer:**
+\[
+\boxed{60}
+\]

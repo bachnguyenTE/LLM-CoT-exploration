@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Sarah’s basketball games are 4 quarters that are each 12 minutes long. In the last quarter, there was a tie so the game was extended for five minutes. How long did the entire game last?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Sarah's basketball game consists of 4 quarters, each lasting 12 minutes. The game was extended by 5 minutes in the last quarter. To find the total duration of the game, follow these steps:
+
+1. **Calculate the total time for the first 3 quarters:**
+   \[
+   3 \text{ quarters} \times 12 \text{ minutes/quarter} = 36 \text{ minutes}
+   \]
+
+2. **Add the time for the last quarter:**
+   \[
+   36 \text{ minutes} + 12 \text{ minutes} = 48 \text{ minutes}
+   \]
+
+3. **Add the extension to the last quarter:**
+   \[
+   48 \text{ minutes} + 5 \text{ minutes} = 53 \text{ minutes}
+   \]
+
+**Final Answer:**
+\[
+\boxed{53 \text{ minutes}}
+\]

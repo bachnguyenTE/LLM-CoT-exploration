@@ -1,0 +1,29 @@
+<｜User｜>
+Q: A news website publishes an average of 20 political and weather news articles every day. Its sister company publishes an average of 10 business news articles daily. Calculate the total number of articles the two websites published together in February if there are 28 days in the month.
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of articles both companies publish in February, follow these steps:
+
+1. **Calculate the total number of articles published by each company in February:**
+   
+   - **Newsier (Political and Weather):**  
+     \[
+     \text{Total articles} = \text{Average per day} \times \text{Number of days} = 20 \times 28 = 560
+     \]
+   
+   - **Newsier2 (Business):**  
+     \[
+     \text{Total articles} = \text{Average per day} \times \text{Number of days} = 10 \times28 = 280
+     \]
+
+2. **Add the totals from both companies:**
+   
+   \[
+   \text{Total articles} = 560 + 280 = 848
+   \]
+
+**Final Answer:**  
+\[
+\boxed{848}
+\]

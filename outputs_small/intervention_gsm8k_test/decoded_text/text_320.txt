@@ -1,0 +1,49 @@
+<｜User｜>
+Q: At the beginning of the party, there were 25 men and 15 women. After an hour, 1/4 of the total number of people left. How many women are left if 22 men stayed at the party?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of people at the party at the beginning. There are 25 men and 15 women, making a total of 40 people.
+
+Next, I'll calculate how many people left after an hour. One-fourth of 40 is 10 people.
+
+The problem states that 22 men stayed at the party, so the number of men who left is 25 minus 22, which equals 3 men.
+
+Since 11 people left in total and 3 of them are men, the remaining 8 people must be women.
+
+Finally, adding the 15 women who were initially present gives a total of 23 women remaining at the party.
+</think>
+
+Let's break down the problem step by step to find out how many women are left at the party.
+
+**Given:**
+- **Initial number of men:** 25
+- **Initial number of women:** 15
+- **Total initial people:** \(25 + 15 = 40\)
+- **Number of people who left after an hour:** \(\frac{1}{4}\) of 40 = 11
+- **Number of men who stayed:** 22
+
+**Step 1: Determine the number of men who left the party.**
+
+\[
+\text{Men who left} = \text{Total initial men} - \text{Men who stayed} = 25 - 22 = 3
+\]
+
+**Step 2: Determine the number of women who left the party.**
+
+\[
+\text{Total people who left} = 11
+\]
+\[
+\text{Women who left} = \text{Total people who left} - \text{Men who left} = 11 - 3 = 8
+\]
+
+**Step 3: Calculate the number of women remaining at the party.**
+
+\[
+\text{Women remaining} = \text{Initial women} - \text{Women who left} = 15 - 8 = 7
+\]
+
+**Final Answer:**
+
+\[
+\boxed{7}
+\]

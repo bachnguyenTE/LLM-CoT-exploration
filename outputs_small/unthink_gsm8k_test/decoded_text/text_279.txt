@@ -1,0 +1,50 @@
+<｜User｜>
+Q: Ruby is 6 times older than Sam. In 9 years, Ruby will be 3 times as old as Sam. How old is Sam now?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Let:**
+- Let \( S \) be Sam's current age.
+- Let \( R \) be Ruby's current age.
+
+**Given:**
+1. Ruby is 6 times older than Sam.
+   \[
+   R = 6S
+   \]
+2. In 9 years, Ruby will be 3 times as old as Sam.
+   \[
+   R + 9 = 3(S + 9)
+   \]
+
+**Substitute the first equation into the second:**
+\[
+6S + 9 = 3(S + 9)
+\]
+
+**Simplify the equation:**
+\[
+6S + 9 = 3S + 27
+\]
+
+**Subtract \( 3S \) from both sides:**
+\[
+3S + 9 = 27
+\]
+
+**Subtract 9 from both sides:**
+\[
+3S = 18
+\]
+
+**Divide both sides by 3:**
+\[
+S = 6
+\]
+
+**Final Answer:**
+\[
+\boxed{6}
+\]

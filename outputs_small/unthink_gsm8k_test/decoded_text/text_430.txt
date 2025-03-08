@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Charlotte went into the kitchen supply store knowing she wanted a set of pot and pans for $120.00, a set of mixing bowls for $20.00 and 5 separate utensils at $5.00 each.  At check out, the clerk told her everything was 20% off.  How much was her order?
+A:<｜Assistant｜><think>
+</think>
+
+To determine Charlotte's total order after the 20% discount, follow these steps:
+
+1. **Calculate the total cost before the discount:**
+   - **Pot and pans:** \$120.0
+   - **Mixing bowls:** \$20.00
+   - ** Utensils:** 5 utensils × \$5.00 = \$25.00
+   - **Total before discount:** \$120.00 + \$20.00 + \$25.00 = **\$167.00**
+
+2. **Apply the 20% discount:**
+   - **Discount amount:** 20% of \$167.00 = 0.20 × \$167.00 = **\$33.40**
+   - **Total after discount:** \$167.00 - \$33.40 = **\$133.60**
+
+ Charlotte's total order after the 20% discount is:
+
+\[
+\boxed{\$133.60}
+\]

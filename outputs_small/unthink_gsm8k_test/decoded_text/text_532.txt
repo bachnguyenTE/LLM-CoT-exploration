@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Jame will turn 27 in 5 years.  In 8 years his cousin will be 5 years younger than twice his age.  How many years separate the age of the two now?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+1. Jame will turn 27 in 5 years.
+2. In 8 years, his cousin will be 5 years younger than twice Jame's age at that time.
+
+**Find:**
+How many years separate the age of Jame and his cousin now.
+
+**Solution:**
+
+1. **Determine Jame's current age:**
+   - Jame will be 27 in 5 years.
+   - Therefore, Jame's current age = 27 - 5 = **22 years old**.
+
+2. **Determine the cousin's age in 8 years:**
+   - Let \( C \) be the cousin's current age.
+   - In 8 years, the cousin's age will be \( C + 8 \).
+   - According to the problem, in 8 years, the cousin will be 5 years younger than twice Jame's age at that time.
+   - Jame's age in 8 years = 22 + 8 = **30 years old**.
+   - Therefore, the cousin's age in 8 years = \( 2 \times 30 - 5 = 60 - 5 = 55 \) years.
+
+3. **Find the cousin's current age:**
+   - The cousin's age in 8 years is 55.
+   - Therefore, the cousin's current age = 55 - 8 = **47 years old**.
+
+4. **Determine the age difference:**
+   - Jame is 22 now.
+   - Cousin is 47 now.
+   - Age difference = 47 - 22 = **25 years**.
+
+**Final Answer:**
+\boxed{25}

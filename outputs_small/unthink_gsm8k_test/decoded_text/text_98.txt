@@ -1,0 +1,48 @@
+<｜User｜>
+Q: Cars have lined up on the motorway. Some of the cars drive through in the first 15 minutes of the traffic jam, then 20 more cars drive through in the remaining 15 minutes of the jam. 5 cars from the line take an exit so they don't have to drive through the traffic jam. If there were originally 30 cars on the motorway, how many cars drove through the traffic jam in the first 15 minutes?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many cars drove through the traffic jam in the first 15 minutes.
+
+1. **Total Cars Initially on the Motorway:**
+   - **Original number of cars:** 30
+
+2. **Cars That Took an Exit:**
+   - **Cars that took an exit:** 5
+
+3. **Cars That Driven Through the Traffic Jam:**
+   - **Cars that drove through the traffic jam:** Let's denote this number as \( x \).
+
+4. **Cars Remaining on the Line:**
+   - **Cars that didn't drive through the traffic jam:** 20
+
+5. **Calculating the Number of Cars That Driven Through the Traffic Jam:**
+   
+   The total number of cars on the motorway at any time can be represented by the equation:
+   \[
+   \text{Original number of cars} = \text{Cars that drove through} + \text{Cars that took an exit} + \text{Cars remaining on the line}
+   \]
+   
+   Plugging in the known values:
+   \[
+   30 = x + 5 + 20
+   \]
+   
+   Simplifying the equation:
+   \[
+   30 = x + 25
+   \]
+   
+   Solving for \( x \):
+   \[
+   x = 30 - 25 = 5
+   \]
+   
+6. **Conclusion:**
+   - **Cars that drove through the traffic jam in the first 15 minutes:** 5
+
+**Final Answer:**
+\[
+\boxed{5}
+\]

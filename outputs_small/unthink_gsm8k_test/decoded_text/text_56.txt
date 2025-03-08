@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Peter plans to go to the movies this week. He always gets a ticket for $7 and popcorn for $7. If he has 42 dollars for the week, how many times can he go to the movies?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Peter buys a movie ticket and popcorn each time he goes to the movies. Each ticket costs \$7, and each popcorn costs \$7. He has a total of \$42 for the week.
+
+Let's denote:
+- \( t \) = number of times Peter goes to the movies.
+
+The total cost for \( t \) visits is:
+\[
+\text{Total Cost} = (\text{Cost of Ticket} + \text{Cost of Popcorn}) \times t = (7 + 7) \times t = 14t
+\]
+
+We know that Peter has \$42, so:
+\[
+14t = 42
+\]
+
+Solving for \( t \):
+\[
+t = \frac{42}{14} = 3
+\]
+
+**Answer:** Peter can go to the movies **3 times** this week.
+
+\[
+\boxed{3}
+\]

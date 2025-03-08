@@ -1,0 +1,20 @@
+<｜User｜>
+Q: Mary buys 3 bags of M&Ms. The first bag has 300 M&Ms in it. The second bag has 12 more M&Ms than the first, and the third bag has a hole in it, so it only has half the number of M&Ms that the first bag had. How many M&Ms did Mary get total?
+A:<｜Assistant｜><think>
+</think>
+
+Let's determine the total number of M&Ms Mary bought step by step.
+
+1. **First Bag:**
+   - **Number of M&Ms:** 300
+
+2. **Second Bag:**
+   - **Number of M&Ms:** 300 (first bag) + 12 = **312**
+
+3. **Third Bag:**
+   - **Number of M&Ms:** Half of 300 = 150
+
+4. **Total M&Ms:**
+   - **First Bag + Second Bag + Third Bag:** 300 + 312 + 150 = **762**
+
+**Final Answer:** \(\boxed{762}\)

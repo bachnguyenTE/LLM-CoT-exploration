@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Ten stalls have 20 cows each. Mr. Sylas buys 40 cows and divides them equally, putting an equal number of the new cows into each of the twenty stalls. How many cows are in 8 of the stalls?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Situation:**
+   - There are **10 stalls** (assuming a typo, as the original problem mentions "ten stalls," but we'll proceed with 100 stalls for clarity).
+   - Each stall has **20 cows**.
+   - Total cows initially: \(10 \text{ stalls} \times 20 \text{ cows/stall} = 200 \text{ cows}\).
+
+2. **Mr. Sylas's Purchase:**
+   - He buys **40 cows** (assuming a typo, as the original problem mentions "40 cows," but we'll proceed with 40 cows for clarity).
+   - He divides these **40 cows** equally among the **10 stalls**.
+   - Cows per stall after purchase: \( \frac{40 \text{ cows}}{10 \text{ stalls}} = 4 \text{ cows/stall} \).
+
+3. **Total Cows in 8 Stalls:**
+   - After adding the new cows, each stall has \(20 + 4 = 26\) cows.
+   - For **8 stalls**, the total number of cows is: \(8 \text{ stalls} \times 26 \text{ cows/stall} = 144 \text{ cows}\).
+
+**Final Answer:**
+\[
+\boxed{144}
+\]

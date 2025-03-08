@@ -1,0 +1,36 @@
+<｜User｜>
+Q: For his 30th birthday, Elvira chose a new computer with many accessories as a gift. She has a budget of €1500 donated by her whole family and thinks that she will be able to keep a little money to afford a garment. She goes to a computer store and chooses a machine that costs €1090 with a screen, keyboard and mouse. She also takes a scanner for €157, a CD burner worth €74 and a printer for €102. How much money will she have left for her clothing?
+A:<｜Assistant｜><think>
+First, I need to determine the total cost of the items Elvira purchased.
+
+She bought a computer with a screen, keyboard, and mouse, which cost €1090. Then, she added a scanner for €157, a CD burner for €74, and a printer for €102.
+
+Next, I'll calculate the total expenditure by adding all these amounts together.
+
+Finally, I'll subtract the total cost from her budget of €1500 to find out how much money she has left for her clothes.
+</think>
+
+**Solution:**
+
+Elvira has a budget of €1500 and has spent money on several items. To find out how much she has left for her clothes, follow these steps:
+
+1. **Calculate the total cost of the items:**
+   - **Computer with screen, keyboard, and mouse:** €1090
+   - **Scanner:** €157
+   - **CD burner:** €74
+   - **Printer:** €102
+
+   \[
+   \text{Total Cost} = 1090 + 157 + 74 + 102 = 1423 \text{ euros}
+   \]
+
+2. **Subtract the total cost from the budget:**
+   \[
+   \text{Money Left} = 1500 - 1423 = 77 \text{ euros}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{77}
+\]

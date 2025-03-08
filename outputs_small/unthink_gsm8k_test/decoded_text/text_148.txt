@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Brittany and her mom go to the museum. The cost of admission is $12 for adults and $10 for children. Brittany's mom gives the cashier money for 1 child ticket and 1 adult ticket. If she received $8 in change, how much money, in dollars, did she give the cashier?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- **Adult ticket cost:** \$12
+- **Child ticket cost:** \$10
+- **Brittany's mom gives the cashier \$1 (1 child ticket) and \$1 (1 adult ticket).**
+- **Change received:** \$8
+
+**Let’s denote:**
+- **Total cost for 1 adult ticket:** \$12
+- **Total cost for 1 child ticket:** \$10
+- **Total amount given to the cashier:** Let’s call this amount \( x \)
+
+**Calculations:**
+1. **Total cost for 1 adult and 1 child ticket:**
+   \[
+   \$12 \text{ (adult)} + \$10 \text{ (child)} = \$22
+   \]
+2. **Change received is the difference between the amount given and the total cost:**
+   \[
+   x - \$22 = \$8
+   \]
+3. **Solve for \( x \):**
+   \[
+   x = \$8 + \$22 = \$30
+   \]
+
+**Final Answer:**
+Brittany gave the cashier \(\boxed{30}\) dollars.

@@ -1,0 +1,59 @@
+<｜User｜>
+Q: Some people got on a bus at the terminal. At the first bus stop, 5 more people got in. Then at the second bus stop, 7 people got down and 8 more got in. If there were a total of 20 people heading to the third stop, how many people got on the bus at the terminal?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about people getting on a bus. Let me try to figure it out step by step. Sometimes these word problems can be a bit tricky, but I think if I break it down, I can handle it.
+
+First, the problem says: Some people got on a bus at the terminal. At the first bus stop, 5 more people got in. Then at the second bus stop, 7 people got down and 8 more got in. If there were a total of 20 people heading to the third stop, how many people got on the bus at the terminal?
+
+Hmm, okay. Let me parse this. So, initially, some people got on the bus at the terminal. Let me call that number something, maybe 'x'. So, x people got on the bus at the terminal.
+
+Then, at the first bus stop, 5 more people got in. So, that would be x plus 5 people on the bus after the first stop.
+
+Then, at the second bus stop, 7 people got down. So, that would subtract 7 from the current number of people on the bus. So, after the second stop, it would be x + 5 - 7.
+
+Then, at the second bus stop, 8 more people got on. So, that would add 8 to the current number of people on the bus. So, after the second stop, it would be x + 5 - 7 + 8.
+
+And the problem says that there were a total of 20 people heading to the third stop. Wait, hold on. It says "total of 20 people heading to the third stop." Hmm, 20? Let me check the original problem again.
+
+Wait, the user wrote: "If there were a total of 20 people heading to the third stop, how many people got on the bus at the terminal?" So, yeah, 20 people heading to the third stop. So, that means after the second stop, the number of people on the bus is 20.
+
+So, let me write that down as an equation.
+
+After the second stop, the number of people on the bus is 20. So, starting from x, then adding 5, subtracting 7, adding 8, equals 20.
+
+So, equation: x + 5 - 7 + 8 = 20.
+
+Let me simplify that equation step by step.
+
+First, x + 5 -7 +8. Let's compute the constants: 5 -7 is -2, and then -2 +8 is 6. So, the equation simplifies to x + 6 = 20.
+
+So, to find x, subtract 6 from both sides: x = 20 -6, which is 14.
+
+So, x is 14. That means 14 people got on the bus at the terminal.
+
+Wait, let me double-check that. If 14 people got on at the terminal, then at the first stop, 5 more got in, so total is 14 +5=19. Then, at the second stop, 7 got down, so 19 -7=12, and then 8 got in, so 12 +8=20. Yes, that adds up. So, 20 people end up at the third stop, which matches the problem statement.
+
+So, yeah, the number of people who got on the bus at the terminal is 14.
+
+I think that makes sense. Let me just recap to make sure I didn't miss anything.
+
+1. Start with x people at the terminal.
+2. First stop: +5, so total x +5.
+3. Second stop: -7, so total x +5 -7.
+4. Second stop: +8, so total x +5 -7 +8.
+5. This total is 20, so x +5 -7 +8 =20.
+6. Simplify: x +6=20.
+7. So, x=14.
+
+Yep, that seems solid. I don't think I made any mistakes here. It all adds up correctly when I plug in 14 for x.
+
+So, the answer is 14 people got on the bus at the terminal.
+
+**Final Answer**
+The number of people who got on the bus at the terminal is \boxed{14}.
+</think>
+
+Let \( x \) be the number of people who got on the bus at the terminal.
+
+1. At the first bus stop, 5 more people got in, so the total number of people on the bus is \( x + 5 \).
+2. At the second bus stop, 7 people got down and 8 more got in. This changes the total number of people on the bus to \( (x + 5) - 7 + 

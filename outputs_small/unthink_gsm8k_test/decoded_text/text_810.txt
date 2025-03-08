@@ -1,0 +1,30 @@
+<｜User｜>
+Q: In one year, the number of students on campus doubles at the end of every month. If there are 10 students on campus at the beginning of the year, how many additional students would have joined by the end of May, above and beyond the number of students already on campus at the beginning of the year?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We are given that the number of students on campus doubles every month. At the beginning of the year, there are **10 students**. We need to find the **additional students** who joined by the end of May, above and beyond the initial number.
+
+Let's break down the problem step by step:
+
+1. **Initial Number of Students:**
+   - **Start of the Year:** 10 students.
+
+2. **Monthly Doubling:**
+   - **End of Month 1 (End of January):** 10 × 2 = 20 students.
+   - **End of Month 2 (End of February):** 20 × 2 = 40 students.
+   - **End of Month 3 (End of March):** 40 ×2 = 80 students.
+   - **End of Month 4 (End of April):** 80 ×2 = 160 students.
+   - **End of Month 5 (End of May):** 160 ×2 = 320 students.
+
+3. **Additional Students Joined by the End of May:**
+   - **Total Students by End of May:** 320 students.
+   - **Initial Students:** 10 students.
+   - **Additional Students Joined:** 320 - 10 = 310 students.
+
+**Final Answer:**
+\[
+\boxed{310}
+\]

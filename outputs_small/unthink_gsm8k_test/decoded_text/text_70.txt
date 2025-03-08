@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Judy teaches 5 dance classes, every day, on the weekdays and 8 classes on Saturday.  If each class has 15 students and she charges $15.00 per student, how much money does she make in 1 week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down Judy's weekly earnings step by step.
+
+1. **Number of Dance Classes per Week:**
+   - **Weekdays:** 5 classes
+   - **Saturday:** 8 classes
+   - **Total per Week:** \(5 + 8 = 13\) classes
+
+2. **Total Number of Students per Week:**
+   - Each class has **15 students**.
+   - **Total Students:** \(13 \text{ classes} \times 15 \text{ students/class} = 195 \text{ students}\)
+
+3. **Total Earnings per Week:**
+   - Judy charges **\$15.000** per student.
+   - **Total Earnings:** \(195 \text{ students} \times \$15.000/\text{student} = \$975.00\)
+
+**Final Answer:**
+\[
+\boxed{\$975.00}
+\]

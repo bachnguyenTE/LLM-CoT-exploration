@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Bryce and four of his friends each ordered their own pizzas after football practice. Each pizza had 12 slices. Bryce and two friends ate 2/3 of their pizzas. The two remaining friends ate ¾ of their pizzas. How many slices of pizza were left?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Total Pizzas:**
+- There are **5** pizzas in total (Bryce and four friends).
+- Each pizza has **12** slices.
+- **Total slices = 5 pizzas × 12 slices/pizza = 60 slices.**
+
+**Pizzas Eaten by Bryce and Two Friends:**
+- **Bryce and two friends** ate **2/3** of their pizzas.
+- **Each pizza has 12 slices**, so **2/3 of a pizza = (2/3) × 12 = 8 slices.**
+- **Total slices eaten by these three = 3 people × 8 slices = 24 slices.**
+
+**Pizzas Eaten by the Remaining Two Friends:**
+- **The other two friends** ate **3/4** of their pizzas.
+- **3/4 of a pizza = (3/4) × 12 = 9 slices.**
+- **Total slices eaten by these two = 2 people × 9 slices = 18 slices.**
+
+**Total Slices Eaten:**
+- **24 slices (Bryce and two friends) + 18 slices (remaining two friends) = 42 slices.**
+
+**Slices Left:**
+- **Total slices = 60**
+- **Slices eaten = 42**
+- **Slices left = 60 - 42 = 18 slices.**
+
+**Final Answer:**
+\boxed{18}

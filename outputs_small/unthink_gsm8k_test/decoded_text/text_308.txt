@@ -1,0 +1,26 @@
+<｜User｜>
+Q: A tub of ice cream costing $13 is now sold at $11. A packet of milk was sold at a discount of $0.5. How much will you save if you buy 2 tubs of ice cream and 4 packets of milk?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate the savings for the ice cream:**
+   - **Original price per tub:** \$13
+   - **Selling price per tub:** \$11
+   - **Savings per tub:** \$13 - \$11 = \$12
+   - **Total savings for 2 tubs:** 2 × \$12 = **\$24**
+
+2. **Calculate the savings for the milk:**
+   - **Original price per packet of milk:** \$0.5 (Assuming the original price is \$1, as there's no discount mentioned)
+   - **Selling price per packet of milk:** \$1 - \$0.5 = **\$0.5**
+   - **Savings per packet of milk:** \$0.5
+   - **Total savings for 4 packets of milk:** 4 × \$0.5 = **\$2**
+
+3. **Total savings:**
+   - **Savings from ice cream:** \$24
+   - **Savings from milk:** \$2
+   - **Total savings:** \$24 + \$2 = **\$26**
+
+**Final Answer:**  
+\boxed{\$26}

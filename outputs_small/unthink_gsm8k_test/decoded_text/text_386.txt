@@ -1,0 +1,18 @@
+<｜User｜>
+Q: To have the car for the weekend, Wilson's report card needs to show that he received 80 or higher in his math class.  His math grade is calculated by the average of 5 test scores.  On those tests, he received: 65, 94, 81, 86 and 74.  What is his current math grade?
+A:<｜Assistant｜><think>
+</think>
+
+To determine Wilson's current math grade, follow these steps:
+
+1. **Add up all the test scores:**
+   \[
+   65 + 94 + 81 + 86 + 74 = 390
+   \]
+
+2. **Calculate the average by dividing the total by the number of tests (5):**
+   \[
+   \frac{390}{5} = 78
+   \]
+
+Wilson's current math grade is \(\boxed{78}\).

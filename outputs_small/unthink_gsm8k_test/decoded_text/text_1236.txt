@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Madeline ate 6 grapes. Her brother wanted to make grape juice and used up 5 times as many grapes then Madeline to make a full glass. Their mother then used the remaining grapes to make 4 pies. How many grapes were there at the beginning if the pie recipe calls for 12 grapes per pie?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the total number of grapes at the beginning.
+
+1. **Madeline's Grapes:**
+   - Madeline ate **6 grapes**.
+
+2. **Her Brother's Grapes:**
+   - Her brother used **5 times** as many grapes as Madeline to make a full glass of juice.
+   - **Grapes used by brother** = \( 5 \times 6 = 30 \) grapes.
+
+3. **Total Grapes Used for Juice:**
+   - **Total grapes used** = Grapes eaten by Madeline + Grapes used by brother
+   - **Total grapes used** = \( 6 + 30 = 36 \) grapes.
+
+4. **Remaining Grapes for Pies:**
+   - After making juice, the remaining grapes were used to make **4 pies**.
+   - **Grapes per pie** = 12 grapes.
+   - **Total grapes for pies** = \( 4 \times 12 = 48 \) grapes.
+
+5. **Total Grapes at the Beginning:**
+   - **Total grapes** = Grapes eaten by Madeline + Grapes used for juice + Grapes for pies
+   - **Total grapes** = \( 6 + 30 + 48 = 84 \) grapes.
+
+**Final Answer:** \(\boxed{84}\)

@@ -1,0 +1,65 @@
+<｜User｜>
+Q: Aleena subscribed to a streaming service that charges her $140 per month. If the streaming company charged her the initial amount for the first half of the year and then charged her 10% less money on the other half of the year, calculate the total amount she had paid for the streaming service by the end of the year.
+A:<｜Assistant｜><think>
+First, I need to determine the total number of months in a year, which is 12 months.
+
+Next, I'll calculate the number of months in the first half of the year, which is 6 months.
+
+The streaming service charges $140 per month for the first half of the year. So, the total amount paid for the first 6 months is 6 multiplied by $140, which equals $840.
+
+For the second half of the year, the streaming service charges 10% less than the initial rate. To find the reduced rate, I'll calculate 10% of $140 and subtract it from $140. This gives a reduced rate of $129.60 per month.
+
+The total amount paid for the second 6 months is 6 multiplied by $129.60, which equals $777.60.
+
+Finally, I'll add the amounts paid for both halves of the year to find the total amount Aleena has paid by the end of the year: $840 plus $777.60 equals $1,617.60.
+</think>
+
+To determine the total amount Aleena has paid for the streaming service by the end of the year, let's break down the problem step by step.
+
+### **Given:**
+- **Monthly charge:** \$140
+- **First half of the year:** Full charge
+- **Second half of the year:** 10% less than the initial charge
+
+### **Step 1: Calculate the Number of Months in Each Half of the Year**
+- **Total months in a year:** 12 months
+- **First half of the year:** 6 months
+- **Second half of the year:** 6 months
+
+### **Step 2: Calculate the Total Payment for the First Half of the Year**
+- **Monthly charge:** \$140
+- **Total for 6 months:** 
+  \[
+  6 \times \$140 = \$840
+  \]
+
+### **Step 3: Calculate the Reduced Monthly Charge for the Second Half of the Year**
+- **Original monthly charge:** \$140
+- **10% reduction:** 
+  \[
+  10\% \text{ of } \$140 = 0.10 \times \$140 = \$14
+  \]
+- **Reduced monthly charge:** 
+  \[
+  \$140 - \$14 = \$129.60
+  \]
+
+### **Step 4: Calculate the Total Payment for the Second Half of the Year**
+- **Reduced monthly charge:** \$129.60
+- **Total for 6 months:** 
+  \[
+  6 \times \$129.60 = \$777.60
+  \]
+
+### **Step 5: Calculate the Total Amount Paid for the Year**
+- **Total for first half:** \$840
+- **Total for second half:** \$777.60
+- **Total payment for the year:** 
+  \[
+  \$840 + \$777.60 = \$1,\!617.60
+  \]
+
+### **Final Answer:**
+\[
+\boxed{\$1,\!617.60}
+\]

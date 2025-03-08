@@ -1,0 +1,24 @@
+<｜User｜>
+Q: The highest temperature ever recorded in Southlandia is -48 degrees Fahrenheit. The highest temperature ever recorded in Northlandia is 21 degrees Fahrenheit. The highest temperature recorded in Midlandia is -3 degrees Fahrenheit. What is the average highest temperature of these 3 countries?
+A:<｜Assistant｜><think>
+</think>
+
+To find the average highest temperature of the three countries, follow these steps:
+
+1. **List the highest temperatures:**
+   - Southlandia: -48°F
+   - Northlandia: 21°F
+   - Midlandia: -3°F
+
+2. **Add the temperatures together:**
+   \[
+   -48 + 21 + (-3) = -48 + 21 - 3 = -24°F
+   \]
+
+3. **Divide the sum by the number of countries (3):**
+   \[
+   \frac{-24}{3} = -8°F
+   \]
+
+**Final Answer:**  
+The average highest temperature of these three countries is \boxed{-8} degrees Fahrenheit.

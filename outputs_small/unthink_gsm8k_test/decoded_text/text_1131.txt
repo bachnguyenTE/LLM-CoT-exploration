@@ -1,0 +1,36 @@
+<｜User｜>
+Q: John cuts down an 80-foot tree.  He can make logs out of 80% of it. He cuts it into 4-foot logs.  From each of those logs, he cuts 5 planks.  He then sells each plank for $1.2.  How much does he make?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Total Tree Height:**  
+   The tree is **80 feet** tall.
+
+2. **Logs from the Tree:**  
+   John can make **80%** of the tree's height into logs.  
+   \[
+   \text{Logs} = 80\% \times 80\ \text{feet} = 0.8 \times 80 = 64\ \text{feet}
+   \]
+
+3. **Number of 4-Foot Logs:**  
+   Each log is **4 feet** long.  
+   \[
+   \text{Number of Logs} = \frac{64\ \text{feet}}{4\ \text{feet/log}} = 16\ \text{logs}
+   \]
+
+4. **Planks from Logs:**  
+   From each log, John cuts **5 planks**.  
+   \[
+   \text{Total Planks} = 16\ \text{logs} \times 5\ \text{planks/log} = 80\ \text{planks}
+   \]
+
+5. **Revenue from Planks:**  
+   Each plank is sold for **\$1.2**.  
+   \[
+   \text{Total Revenue} = 80\ \text{planks} \times \$1.2/\text{plank} = \$96
+   \]
+
+**Final Answer:**  
+John makes a total of \(\boxed{\$96}\).

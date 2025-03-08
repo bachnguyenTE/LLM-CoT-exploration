@@ -1,0 +1,51 @@
+<｜User｜>
+Q: The ratio of popsicles that Betty and Sam have is 5:6. If the total number of popsicles they have together is 165, how many more popsicles does Sam have more than Betty?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We are given that the ratio of popsicles that Betty and Sam have is **5:6**, and together they have **165** popsicles. We need to find how many more popsicles Sam has than Betty.
+
+1. **Understand the Ratio:**
+   - The ratio **5:6** means for every 5 popsicles Betty has, Sam has 6.
+   - This can be represented as:
+     \[
+     \frac{\text{Betty's popsicles}}{\text{Sam's popsicles}} = \frac{5}{6}
+     \]
+
+2. **Express the Total in Terms of the Ratio:**
+   - Let’s denote Betty's popsicles as **5x** and Sam's popsicles as **6x**.
+   - The total number of popsicles is:
+     \[
+     5x + 6x = 11x
+     \]
+   - We know the total is **165**, so:
+     \[
+     11x = 165
+     \]
+     \[
+     x = \frac{165}{11} = 15
+     \]
+
+3. **Find the Number of Popsicles Each Has:**
+   - Betty's popsicles:
+     \[
+     5x = 5 \times 15 = 75
+     \]
+   - Sam's popsicles:
+     \[
+     6x = 6 \times 15 = 90
+     \]
+
+4. **Calculate the Difference:**
+   - Sam has **90** popsicles, Betty has **75**.
+   - Difference:
+     \[
+     90 - 75 = 15
+     \]
+
+**Final Answer:**
+\[
+\boxed{15}
+\]

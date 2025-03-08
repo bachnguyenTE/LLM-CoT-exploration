@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Charlie is a tennis pro.  He spends most of the day teaching others lessons on how to improve their game.  His standard fee is $80 per hour for lessons, but he reduces his rate by 25% when he is giving lessons to a veteran.   If today Charlie has 4 1-hour lessons at his standard rate and 2 1-hour lessons with a veteran, what is the total amount of money he will make for the day, in dollars?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine Charlie's reduced rate for veterans:**
+   
+   - **Standard fee:** \$80 per hour
+   - **Reduction for veterans:** 25%
+   - **Reduced rate:** \(80 \times (1 - 0.25) = 80 \times 0.75 = \$60 \) per hour
+
+2. **Calculate the total earnings from standard lessons:**
+   
+   - **Number of standard lessons:** 4
+   - **Earnings per standard lesson:** \$80
+   - **Total earnings:** \(4 \times 80 = \$320\)
+
+3. **Calculate the total earnings from veteran lessons:**
+   
+   - **Number of veteran lessons:** 2
+   - **Earnings per veteran lesson:** \$60
+   - **Total earnings:** \(2 \times 60 = \$120\)
+
+4. **Calculate the total amount Charlie will make for the day:**
+   
+   - **Total earnings:** \(320 + 120 = \$442\)
+
+**Final Answer:**
+\[
+\boxed{442}
+\]

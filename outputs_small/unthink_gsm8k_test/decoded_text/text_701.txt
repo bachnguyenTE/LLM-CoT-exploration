@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Aiden and 12 of his friends are going to see a film at the cinema, and meet up with 7 more friends there. They each save a seat and then buy enough drinks and snacks to fill the seats. Each seat has enough room to hold one person, two drinks, and three snacks. If drinks and snacks cost $2 each, how much money, in dollars, has the group spent overall on snacks and drinks?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Number of People:**
+   - Aiden and 12 friends = 13 people
+   - They meet with 7 more friends = 13 + 7 = **20 people**
+
+2. **Seats Available:**
+   - Each person gets one seat.
+   - Total seats = 20
+
+3. **Snacks and Drinks per Seat:**
+   - Each seat has enough room for:
+     - 1 person
+     - 2 drinks
+     - 3 snacks
+
+4. **Total Snacks and Drinks:**
+   - **Drinks:** 2 drinks per seat
+     - Total drinks = 2 drinks/seat × 20 seats = **40 drinks**
+   - **Snacks:** 3 snacks per seat
+     - Total snacks = 3 snacks/seat × 20 seats = **60 snacks**
+
+5. **Cost Calculation:**
+   - Each drink and snack costs **\$2**.
+   - **Total cost for drinks:** 40 drinks × \$2 = **\$80**
+   - **Total cost for snacks:** 60 snacks × \$2 = **\$120**
+   - **Total expenditure:** \$80 + \$120 = **\$208**
+
+**Final Answer:**
+\boxed{208}

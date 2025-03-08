@@ -1,0 +1,57 @@
+<｜User｜>
+Q: Nick is choosing between two jobs. Job A pays $15 an hour for 2000 hours a year, and is in a state with a 20% total tax rate. Job B pays $42,000 a year and is in a state that charges $6,000 in property tax and a 10% tax rate on net income after property tax. How much more money will Nick make at the job with a higher net pay rate, compared to the other job?
+A:<｜Assistant｜><think>
+</think>
+
+To determine which job Nick should choose based on net pay, we'll calculate the net pay for both jobs and compare them.
+
+### **Job A:**
+- **Hourly Pay:** \$15/hour
+- **Hours Worked:** 2000 hours/year
+- **State Tax Rate:** 20%
+
+1. **Total Pay Before Tax:**
+   \[
+   15 \,000 \times 2000 = 30,000,000
+   \]
+   
+2. **State Tax:**
+   \[
+   33,000,00 \times 20\% = 6,600,000
+   \]
+   
+3. **Net Pay:**
+   \[
+   33,000,00 - 6,600,00 = 26,400,00
+   \]
+
+### **Job B:**
+- **Annual Income:** \$42,000
+- **Property Tax:** \$6,000
+- **State Tax Rate:** 10% on net income after property tax
+
+1. **Net Income After Property Tax:**
+   \[
+   42,000 - 6,000 = 36,000
+   \]
+   
+2. **State Tax:**
+   \[
+   36,000 \times 10\% = 3,600
+   \]
+   
+3. **Net Pay:**
+   \[
+   36,000 - 3,600 = 32,400
+   \]
+
+### **Comparison:**
+- **Job A Net Pay:** \$26,400
+- **Job B Net Pay:** \$32,400
+
+**Conclusion:**
+Nick will make **\$6,000 more** at **Job B** compared to **Job A**.
+
+\[
+\boxed{6000}
+\]

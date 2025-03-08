@@ -1,0 +1,36 @@
+<｜User｜>
+Q: In 10 years, Melanie will be 18 years old. In how many years will her age be thrice her present age?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine Melanie's current age:**
+   
+   It is given that in 10 years, Melanie will be 18 years old. To find her current age, we subtract 10 years from 18:
+   
+   \[
+   \text{Current Age} = 18 - 10 = 8 \text{ years old}
+   \]
+
+2. **Set up the equation for when her age will be thrice her current age:**
+   
+   Let \( x \) be the number of years from now when her age will be thrice her current age. At that time:
+   
+   \[
+   \text{ Melanie's age} = 3 \times \text{Current Age} = 3 \times 8 = 24 \text{ years old}
+   \]
+   
+   The number of years from now to reach 24 years old is:
+   
+   \[
+   x = 24 - 8 = 16 \text{ years}
+   \]
+
+3. **Final Answer:**
+   
+   \[
+   \boxed{16}
+   \]

@@ -1,0 +1,56 @@
+<｜User｜>
+Q: Peter has 4 boxes with the same number of chocolate bars in each, while Martha has 7 boxes with the same number of chocolate bars in each. If Peter and Martha have totals of 64 and 56 chocolate bars respectively, how many more chocolate bars does Peter have in each box than Martha?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Peter has 4 boxes with the same number of chocolate bars in each.
+- Martha has 7 boxes with the same number of chocolate bars in each.
+- Peter has a total of 64 chocolate bars.
+- Martha has a total of 56 chocolate bars.
+
+**Let:**
+- \( x \) = number of chocolate bars in each box that Peter has.
+- \( y \) = number of chocolate bars in each box that Martha has.
+
+**Formulate the equations based on the given information:**
+
+For Peter:
+\[
+4x = 64
+\]
+
+For Martha:
+\[
+7y =56
+\]
+
+**Solve for \( x \) and \( y \):**
+
+1. **Solve for \( x \):**
+\[
+4x =64 \\
+x = \frac{64}{4} \\
+x =16
+\]
+
+2. **Solve for \( y \):**
+\[
+7y =56 \\
+y = \frac{56}{7} \\
+y =8
+\]
+
+**Find the difference in the number of chocolate bars per box:**
+\[
+x - y =16 -8 =-2
+\]
+
+**Conclusion:**
+Peter has **2 fewer chocolate bars** in each box than Martha.
+
+\[
+\boxed{-2}
+\]

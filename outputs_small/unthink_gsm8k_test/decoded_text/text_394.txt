@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Wendy wants to place 20 more than double the number of books in a shelving system with 6 rows and 6 columns. How many books will she need to carry to complete her task?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Understand the Problem:**
+   - Wendy wants to place **20 more than double the number of books** in a shelving system.
+   - The system has **6 rows** and **6 columns**.
+
+2. **Determine the Total Capacity of the System:**
+   - The system has **6 rows** and **6 columns**, so the total number of slots (or positions) in the shelving system is:
+     \[
+     6 \text{ rows} \times 6 \text{ columns} = 36 \text{ slots}
+     \]
+
+3. **Calculate Double the Number of Slots:**
+   - Double the number of slots:
+     \[
+     2 \times 36 = 72
+     \]
+
+4. **Add 20 More Books to Double the Capacity:**
+   - Add 20 more books to the doubled capacity:
+     \[
+     72 + 20 = 92
+     \]
+
+5. **Final Answer:**
+   - Wendy will need to carry **92 books** to complete her task.
+
+\[
+\boxed{92}
+\]

@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Elvis starts driving from his house and travels west for 5 hours. Then he turns around and travels east for 8 hours. If he was driving at an average speed of 18mph for both parts of the journey, how far is he from his house now?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Elvis driving. Let me try to figure it out step by step. Alright, the problem says Elvis starts driving from his house and travels west for 5 hours. Then he turns around and travels east for 8 hours. He was driving at an average speed of 18 mph for both parts of the journey. I need to find out how far he is from his house now.
+
+Hmm, okay. So, let me break this down. First, Elvis is driving west for 5 hours. Then he turns around and goes east for 8 hours. Both times, his speed is 18 mph. So, I guess I need to calculate the distance he traveled west and then the distance he traveled east, and then see the difference between those two distances because he turned around.
+
+Wait, that seems right. So, distance is speed multiplied by time, right? So, for the westward part, he's going west, so that's one direction, and then he turns around and goes east, which is the opposite direction. So, the total distance from his house would be the distance he went west minus the distance he went east, or vice versa, depending on which is farther.
+
+Let me write this down. Distance west = speed * time. So, that's 18 mph * 5 hours. Let me calculate that. 18 times 5 is 90. So, he went 90 miles west.
+
+Then, he turns around and goes east for 8 hours. So, distance east = 18 mph * 8 hours. 18 times 8 is 144. So, he went 144 miles east.
+
+Now, to find how far he is from his house, I need to subtract the westward distance from the eastward distance because he went further east. So, 144 miles east minus 90 miles west. That would be 144 - 90. Let me do that subtraction. 144 minus 90 is 54. So, he is 54 miles east of his house.
+
+Wait, that seems right. So, he went west for 5 hours, then turned around and went east for 8 hours. Since he was going faster east, he ended up 54 miles away from his starting point.
+
+Let me just double-check my calculations. 18 mph for 5 hours is 90 miles. 18 mph for 8 hours is 144 miles. 144 minus 90 is indeed 54. Yeah, that seems correct.
+
+I don't think I made any mistakes here. So, Elvis is 54 miles east of his house now.
+
+**Final Answer**
+Elvis is \boxed{54} miles from his house.
+</think>
+
+Elvis starts driving west for 5 hours at an average speed of 18 mph. The distance he travels west is calculated as follows:
+\[
+\text{Distance west} = 18 \, \text{mph} \times 5 \, \text{hours} = 90 \, \text{miles}
+\]
+
+Then, he turns around and drives east for 8 hours at the same speed. The distance he travels east is:
+\[
+\text{Distance east} = 18 \, \text{mph} \times 8 \, \text{hours} = 144 \, \text{miles}
+\]
+
+To find how far he is from his house, we subtract the distance he traveled west from the distance he traveled east:
+\[
+\text{Distance from house} = 144 \, \text{miles} - 90 \, \text{miles} = 54 \, \text{miles}
+\]
+
+Thus, Elvis is \boxed{54} miles from his house.

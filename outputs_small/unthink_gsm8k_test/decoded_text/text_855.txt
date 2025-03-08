@@ -1,0 +1,91 @@
+<｜User｜>
+Q: I am three years younger than my brother, and I am 2 years older than my sister. My mom's age is one less than three times my brother's age. When you add all our ages, you get 87. How old am I?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how old you are.
+
+**Let's define the variables:**
+- Let \( I \) be your age.
+- Let \( B \) be your brother's age.
+- Let \( S \) be your sister's age.
+- Let \( M \) be your mom's age.
+
+**Given information:**
+1. You are three years younger than your brother:
+   \[
+   I = B - 3
+   \]
+2. You are two years older than your sister:
+   \[
+   I = S + 2 \quad \Rightarrow \quad S = I - 2
+   \]
+3. Your mom's age is one less than three times your brother's age:
+   \[
+   M = 3B - 1
+   \]
+4. The sum of all your ages is 87:
+   \[
+   I + B + S + M = 87
+   \]
+
+**Step 1: Substitute the expressions for \( I \) and \( S \) into the total age equation.**
+
+From equation 1:
+\[
+I = B - 3
+\]
+From equation 2:
+\[
+S = I - 2 = (B - 3) - 2 = B - 5
+\]
+
+Now, substitute \( I \) and \( S \) into the total age equation:
+\[
+(B - 3) + B + (B - 5) + M = 87
+\]
+Simplify:
+\[
+B - 3 + B + B - 5 + M = 87
+\]
+Combine like terms:
+\[
+3B - 8 + M = 87
+\]
+Solve for \( M \):
+\[
+M = 87 - 3B + 8 = 95 - 3B
+\]
+
+**Step 2: Substitute the expression for \( M \) into the equation for \( M \).**
+
+From earlier:
+\[
+M = 3B - 1
+\]
+Set equal to the expression from the total age:
+\[
+3B - 1 = 95 - 3B
+\]
+Solve for \( B \):
+\[
+3B + 3B = 95 + 1
+\]
+\[
+6B = 96
+\]
+\[
+B = 16
+\]
+
+**Step 3: Find your age \( I \).**
+
+From equation 1:
+\[
+I = B - 3 = 16 - 3 = 13
+\]
+
+**Final Answer:**
+\[
+\boxed{13}
+\]

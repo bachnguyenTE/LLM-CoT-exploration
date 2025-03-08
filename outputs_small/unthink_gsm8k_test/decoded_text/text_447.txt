@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Joey has 214 points before his turn in Scrabble. He scores 26 points. Then Marcy, who has 225 points, scores 10 points. By how many points is Joey now winning?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine by how many points Joey is winning, we need to compare the points he has after his turn with the points Marcy has.
+
+1. **Joey's Points Before His Turn:**
+   - Joey starts with **214 points**.
+
+2. **Joey's Score After His Turn:**
+   - Joey scores **26 points**.
+   - **Total Points for Joey:** \( 214 + 26 = 240 \) points.
+
+3. **Marcy's Points Before Her Turn:**
+   - Marcy starts with **225 points**.
+
+4. **Marcy's Score After Her Turn:**
+   - Marcy scores **10 points**.
+   - **Total Points for Marcy:** \( 225 +10 = 235 \) points.
+
+5. **Difference in Points:**
+   - **Joey's Points - Marcy's Points:** \( 240 - 235 = 9 \) points.
+
+**Answer:** Joey is winning by **9 points**.

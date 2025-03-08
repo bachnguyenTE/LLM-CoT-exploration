@@ -1,0 +1,32 @@
+<｜User｜>
+Q: There are 90 rooms at the KozyInn Motel. It takes housekeeping 20 minutes to clean each room. How many hours would it take to clean one-half of the rooms?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We need to determine how many hours it would take to clean half of the 90 rooms at the KozyInn Motel, given that each room requires 20 minutes of cleaning.
+
+1. **Calculate the number of rooms to be cleaned:**
+   
+   \[
+   \text{Number of rooms} = \frac{90}{2} = 45 \text{ rooms}
+   \]
+
+2. **Determine the total time required to clean 45 rooms:**
+   
+   \[
+   \text{Total time (minutes)} = 45 \text{ rooms} \times 20 \text{ minutes/room} = 900 \text{ minutes}
+   \]
+
+3. **Convert the total time from minutes to hours:**
+   
+   \[
+   \text{Total time (hours)} = \frac{900 \text{ minutes}}{60} = 15 \text{ hours}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{15 \text{ hours}}
+\]

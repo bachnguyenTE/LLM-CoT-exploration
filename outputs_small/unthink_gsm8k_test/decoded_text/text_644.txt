@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Steve is 60 years old. His wife is 4 years older than him. Their son is currently half as old as his mom and their son's wife is 3 years younger than her husband. How old is Steve's son's wife?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the information step by step.
+
+1. **Steve's Age:**
+   - Steve is **60 years old**.
+
+2. **Steve's Wife's Age:**
+   - Steve's wife is **4 years older** than Steve.
+   - **Wife's Age = Steve's Age + 4 years**
+   - **Wife's Age = 60 + 4 = 68 years**
+
+3. **Steve's Son's Age:**
+   - The **son is currently half as old as his mom**.
+   - **Son's Age = (1/2) * Wife's Age**
+   - **Son's Age = (1/2) * 68 = 34 years**
+
+4. **Steve's Son's Wife's Age:**
+   - The **wife is 3 years younger** than her husband.
+   - **Wife's Age = Son's Age - 3 years**
+   - **Wife's Age = 34 - 3 = 31 years**
+
+**Final Answer:**
+\[
+\boxed{31}
+\]

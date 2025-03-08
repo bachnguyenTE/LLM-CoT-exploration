@@ -1,0 +1,57 @@
+<｜User｜>
+Q: Cherrie wants to buy Christmas gifts for her 5 friends. 2 of her friends want 5 gifts and the other 3 friends want 2 gifts for themselves. Cherrie goes ahead and buys them and decides to further surprise them by getting 10 more random gifts. How many gifts did Cherrie buy in total?
+A:<｜Assistant｜><think>
+Okay, so I need to figure out how many Christmas gifts Cherrie bought in total. Let me read the problem again and break it down step by step.
+
+First, Cherrie wants to buy gifts for her 5 friends. Out of these 5 friends, 2 of them want 5 gifts each, and the other 3 friends want 2 gifts each for themselves. So, let me calculate how many gifts that is in total.
+
+For the first group of friends: 2 friends × 5 gifts each = 10 gifts.
+
+For the second group of friends: 3 friends × 2 gifts each = 6 gifts.
+
+So, adding those together, 10 + 6 = 16 gifts. That's the number of gifts she initially planned to buy.
+
+But then, Cherrie decides to surprise her friends further by getting 10 more random gifts. So, she buys 10 more gifts. 
+
+Now, to find the total number of gifts she bought, I need to add those 10 random gifts to the initial 16 gifts she planned to buy.
+
+So, 16 + 10 = 26 gifts.
+
+Wait, let me double-check that. 2 friends wanting 5 each is 10, 3 friends wanting 2 each is 6, so 10 +6 is 16. Then, 10 more, so 16 +10 is 26. Yeah, that seems right.
+
+Hmm, but wait, is the 10 random gifts separate from the initial 16? The problem says she buys them and decides to get 10 more random gifts. So, I think it's 10 more, so 16 +10 is 26.
+
+Wait, but let me make sure I didn't misinterpret the problem. It says she wants to buy for her 5 friends, 2 want 5 each, 3 want 2 each. Then, she buys 10 more random gifts. So, the 10 random gifts are additional to the initial 16, so total is 26.
+
+Alternatively, maybe the 10 random gifts are in addition to the initial 16? So, 16 +10=26. Yeah, that's the same.
+
+So, I think the total number of gifts is 26.
+
+Wait, but let me think again. The problem says: " Cherrie goes ahead and buys them and decides to further surprise them by getting 10 more random gifts." So, she initially buys 16 gifts, and then gets 10 more. So, total is 16 +10=26.
+
+Yes, that makes sense.
+
+So, I think the answer is 26.
+
+**Final Answer**
+The total number of gifts Cherrie bought is \boxed{26}.
+</think>
+
+Cherrie wants to buy Christmas gifts for her 5 friends. Out of these, 2 friends want 5 gifts each, and the other 3 friends want 2 gifts each. 
+
+First, we calculate the number of gifts for the first group:
+\[ 2 \text{ friends} \times 5 \text{ gifts each} = 10 \text{ gifts} \]
+
+Next, we calculate the number of gifts for the second group:
+\[ 3 \text{ friends} \times 2 \text{ gifts each} = 6 \text{ gifts} \]
+
+Adding these together gives the total number of gifts initially planned:
+\[ 10 + 6 = 16 \text{ gifts} \]
+
+Cherrie then decides to get 10 more random gifts. Therefore, we add these 10 gifts to the initial 16 gifts:
+\[ 16 + 10 = 26 \text{ gifts} \]
+
+Thus, the total number of gifts Cherrie bought is:
+\[
+\boxed{26}
+\]

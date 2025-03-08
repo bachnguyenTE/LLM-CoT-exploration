@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Brook Hills High School currently enrolls 3000 students. Half of these students are over 16 years old, and one-fourth of the students over 16 years old are male. The remaining half of the students are under 16 years old, and one-half of the students under 16 are male. In total, how many female students are enrolled at this school?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of female students enrolled at Brook Hills High School, let's break down the information step by step.
+
+1. **Total Students:**
+   - Total students = 3000
+
+2. **Students Over 16 Years Old:**
+   - Half of the students are over 16 years old.
+   - Number of students over 16 = \( \frac{3000}{2} = 1500 \)
+
+3. **Male Students Over 16 Years Old:**
+   - One-fourth of the students over 16 are male.
+   - Number of male students over 16 = \( \frac{1500}{4} = 375 \)
+
+4. **Female Students Over 16 Years Old:**
+   - The remaining half of the students over 16 are female.
+   - Number of female students over 16 = \( 1550 - 375 = 1175 \)
+
+5. **Students Under 16 Years Old:**
+   - The remaining half of the students are under 16 years old.
+   - Number of students under 16 = \( \frac{3000}{2} = 1500 \)
+
+6. **Male Students Under 16 Years Old:**
+   - One-half of the students under 16 are male.
+   - Number of male students under 16 = \( \frac{1500}{2} = 750 \)
+
+7. **Female Students Under 16 Years Old:**
+   - The remaining half of the students under 16 are female.
+   - Number of female students under 16 = \( 1500 - 750 = 750 \)
+
+8. **Total Female Students:**
+   - Total female students = Female students over 16 + Female students under 16
+   - Total female students = \( 1175 + 750 = 1925 \)
+
+**Final Answer:**
+\[
+\boxed{1925}
+\]

@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Sam sells bread. He has a target of selling 120 crates of bread in a week. One week he was closed on Monday and Friday. Over the weekend he sold 20 crates. On Tuesday he sold 15 crates, on Wednesday 12 crates, and Thursday 18 crates. By how many crates was Sam off from his target for the week?
+A:<｜Assistant｜><think>
+</think>
+
+To determine by how many crates Sam was off from his target, follow these steps:
+
+1. **Calculate the total number of crates Sam sold during the week:**
+
+   - **Monday:** 0 crates (closed)
+   - **Tuesday:** 15 crates
+   - **Wednesday:** 12 crates
+   - **Thursday:** 18 crates
+   - **Friday:** 0 crates (closed)
+   - **Saturday/Weekend:** 20 crates
+
+   \[
+   \text{Total sold} = 15 + 12 +18 +20 = 65 \text{ crates}
+   \]
+
+2. **Determine the target:**
+
+   Sam aimed to sell **120 crates** in the week.
+
+3. **Find the difference between the target and what was sold:**
+
+   \[
+   \text{Difference} = 120 - 65 = 59 \text{ crates}
+   \]
+
+4. **Conclusion:**
+
+   Sam was **59 crates** short of his target.
+
+\[
+\boxed{59}
+\]

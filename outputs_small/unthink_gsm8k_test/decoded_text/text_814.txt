@@ -1,0 +1,42 @@
+<｜User｜>
+Q: A new arcade opens up and Jack decides to play with his 3 friends.  Jack can play a game with 1 quarter for 20 minutes.  Two of his friends are significantly worse than him and can only play half as long.  One of them is significantly better and can play for 1.5 times as long.  They play for 4 hours.  How much money is used?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the playing time for each friend:**
+   - **Jack:** Plays for **20 minutes**.
+   - **Friend 1:** Can only play half as long as Jack, so:
+     \[
+     \text{Friend 1} = \frac{20}{2} = 10 \text{ minutes}
+     \]
+   - **Friend 2:** Can play for **1.5 times** as long as Jack, so:
+     \[
+     \text{Friend 2} = 20 \times 1.5 = 30 \text{ minutes}
+     \]
+
+2. **Calculate the total playing time:**
+   \[
+   \text{Total Time} = 20 + 10 + 30 = 62 \text{ minutes}
+   \]
+
+3. **Convert total playing time to hours:**
+   \[
+   62 \text{ minutes} = \frac{62}{600} = 1.0333 \text{ hours}
+   \]
+
+4. **Determine the cost per game:**
+   - Jack pays **1 quarter** (which is \$0.25).
+
+5. **Calculate the total cost:**
+   \[
+   \text{Total Cost} = 1.0333 \text{ hours} \times \$0.25/\text{game} \approx \$0.2583
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$0.26}
+\]

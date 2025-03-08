@@ -1,0 +1,38 @@
+<｜User｜>
+Q: When Marcus wakes up, his house is 40 degrees. He spends 3 hours baking, and every hour the oven is on it raises the house's temperature by 5 degrees. Then Marcus opens a window for 30 minutes, and the house cools down 2 degrees for every 10 minutes the window is open. What is the house's final temperature?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the final temperature of Marcus's house.
+
+1. **Initial Temperature:**
+   - Marcus's house starts at **40 degrees**.
+
+2. **Baking Time:**
+   - Marcus spends **3 hours** baking.
+   - **5 degrees increase per hour** when the oven is on.
+   - **Total temperature increase during baking:** 
+     \[
+     5 \, \text{degrees/hour} \times 3 \,0000 \, \text{hours} = 15 \, \text{degrees}
+     \]
+   - **Temperature after baking:**
+     \[
+     40 \, \text{degrees} + 15 \, \text{degrees} = 55 \, \text{degrees}
+     \]
+
+3. **Window开放:**
+   - **Window is open for 30 minutes.**
+   - **Cooling rate:** The house cools **2 degrees** for every **10 minutes** of window open.
+   - **Temperature decrease during window open:**
+     \[
+     \frac{2 \, \text{degrees}}{10 \, \text{minutes}} \times 30 \, \text{minutes} = 6 \, \text{degrees}
+     \]
+   - **Final temperature after cooling:**
+     \[
+     55 \, \text{degrees} - 6 \, \text{degrees} = 49 \, \text{degrees}
+     \]
+
+**Final Temperature of the House:**
+\[
+\boxed{49^\circ \text{F}}
+\]

@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Walter is collecting money for charity. First he collects $500 from his neighbors. Then he collects $1500 from a fund he set up online. His lawyer offers to donate three times as much as everyone else donates. Walter is going to tell him about his neighbors and the online fund until his friend gives him $200 as well. How much is Walter's lawyer going to contribute?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Donations:**
+   - Walter collects **\$500** from his neighbors.
+   - He collects **\$1500** from a fund he set up online.
+
+2. **Lawyer's Contribution:**
+   - Walter's lawyer will donate **three times** as much as everyone else donates.
+
+3. **Additional Donations:**
+   - Walter also receives **\$200** from his friend.
+
+**Calculations:**
+
+1. **Total Donations from Walter:**
+   \[
+   \$500 + \$1500 = \$2000
+   \]
+
+2. **Total Donations from Everyone Else (excluding the lawyer):**
+   \[
+   \$200
+   \]
+
+3. **Lawyer's Contribution:**
+   - The lawyer donates three times as much as everyone else.
+   \[
+   3 \times \$200 = \$6000
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$6000}
+\]

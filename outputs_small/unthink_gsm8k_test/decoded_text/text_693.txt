@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Brittany's quilted comforter has many 1-foot by 1-foot colored squares. The comforter had 14 red squares, 4 more blue squares than red squares, 6 more green squares than blue squares, and 12 fewer white squares than green squares.  How many square feet is Brittany's comforter?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of square feet in Brittany's comforter, we'll calculate the number of each color square and then sum them up.
+
+1. **Red Squares:**  
+   There are **14 red squares**.
+
+2. **Blue Squares:**  
+   There are **4 more blue squares than red squares**.  
+   So, blue squares = red squares + 4 = 14 + 4 = **18 blue squares**.
+
+3. **Green Squares:**  
+   There are **6 more green squares than blue squares**.  
+   So, green squares = blue squares + 6 = 18 + 6 = **24 green squares**.
+
+4. **White Squares:**  
+   There are **12 fewer white squares than green squares**.  
+   So, white squares = green squares - 12 = 24 - 12 = **12 white squares**.
+
+5. **Total Squares:**  
+   Now, add up all the squares:  
+   Total = red + blue + green + white  
+   Total = 14 + 18 + 24 + 12 = **68 squares**
+
+Since each square is 1 foot by 1 foot, the total area is **68 square feet**.
+
+\boxed{68}

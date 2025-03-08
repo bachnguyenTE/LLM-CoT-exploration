@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Each person in a certain household consumes 0.2 kg of rice every meal. Supposing 5 members of the household eat rice every lunch and dinner, how many weeks will a 42 kg bag of rice last?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total number of meals per day:**
+   - Each person eats rice for 2 meals (lunch and dinner).
+   - There are 5 members in the household.
+   - Total meals per day = \( 5 \text{ members} \times 2 \text{ meals/member} = 10 \text{ meals/day} \).
+
+2. **Calculate the daily rice consumption:**
+   - Each meal consumes \( 0.2 \text{ kg} \) of rice.
+   - Daily rice consumption = \( 10 \text{ meals/day} \times 0.2 \text{ kg/meal} = 2 \text{ kg/day} \).
+
+3. **Determine how many days the rice will last:**
+   - Total rice available = \( 42 \text{ kg} \).
+   - Number of days = \( \frac{42 \text{ kg}}{2 \text{ kg/day}} = 21 \text{ days} \).
+
+4. **Convert days to weeks:**
+   - There are 7 days in a week.
+   - Number of weeks = \( \frac{21 \text{ days}}{7 \text{ days/week}} = 3 \text{ weeks} \).
+
+**Final Answer:**  
+The 42 kg bag of rice will last for \(\boxed{3}\) weeks.

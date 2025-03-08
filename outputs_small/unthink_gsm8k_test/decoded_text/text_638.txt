@@ -1,0 +1,40 @@
+<｜User｜>
+Q: In a grocery store, four apples cost $5.20, and three oranges cost $3.30. How much will Clyde pay for 5 apples and 5 oranges?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+First, let's determine the cost of one apple and one orange.
+
+1. **Cost of one apple:**
+   \[
+   \text{Total cost for 4 apples} = \$5.20
+   \]
+   \[
+   \text{Cost per apple} = \frac{\$5.20}{4} = \$1.30
+   \]
+
+2. **Cost of one orange:**
+   \[
+   \text{Total cost for 3 oranges} = \$3.30
+   \]
+   \[
+   \text{Cost per orange} = \frac{\$3.30}{3} = \$1.10
+   \]
+
+3. **Calculate the total cost for 5 apples and 5 oranges:**
+   \[
+   \text{Total cost for 5 apples} = 5 \times \$1.30 = \$6.50
+   \]
+   \[
+   \text{Total cost for 5 oranges} = 5 \times \$1.10 = \$5.50
+   \]
+   \[
+   \text{Total cost} = \$6.50 + \$5.50 = \$12.00
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$12.00}
+\]

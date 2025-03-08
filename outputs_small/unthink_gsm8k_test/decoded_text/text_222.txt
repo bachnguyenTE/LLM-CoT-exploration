@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Andy plants 90 geraniums and 40 fewer petunias that geraniums. How many flowers does he plant total?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Andy plants 90 geraniums. He plants 40 fewer petunias than geraniums.
+
+1. **Number of Geraniums:**
+   \[
+   90
+   \]
+
+2. **Number of Petunias:**
+   \[
+   90 - 40 = 54
+   \]
+
+3. **Total Number of Flowers:**
+   \[
+   90 + 54 = 144
+   \]
+
+**Final Answer:**
+\[
+\boxed{144}
+\]

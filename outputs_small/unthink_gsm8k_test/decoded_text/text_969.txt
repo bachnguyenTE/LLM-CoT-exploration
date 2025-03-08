@@ -1,0 +1,31 @@
+<｜User｜>
+Q: John decides to buy new phones for him, his 2 kids, and his wife.  Each phone after the first 2 is half price.  If the phone price is $600 how much did he pay for them all?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Identify the number of people:**
+   - John
+   - His 2 kids
+   - His wife
+   - **Total: 4 people**
+
+2. **Determine the pricing structure:**
+   - The first phone is full price.
+   - The next two phones (after the first two) are half price.
+   - The fourth phone is full price.
+
+3. **Calculate the cost for each phone:**
+   - **First phone:** \$600 (full price)
+   - **Second phone:** \$600 / 2 = \$300 (half price)
+   - **Third phone:** \$300 (half price)
+   - **Fourth phone:** \$600 (full price)
+
+4. **Sum up the costs:**
+   - **Total cost:** \$600 + \$300 + \$300 + \$600 = **\$1890**
+
+**Final Answer:**
+\boxed{1890}

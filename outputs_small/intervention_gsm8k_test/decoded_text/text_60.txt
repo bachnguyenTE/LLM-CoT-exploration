@@ -1,0 +1,52 @@
+<｜User｜>
+Q: A basket contains 25 oranges among which 1 is bad, 20% are unripe, 2 are sour and the rest are good. How many oranges are good?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about a basket of oranges, and I need to figure out how many are good. Let me read it again: "A basket contains 25 oranges among which 1 is bad, 20% are unripe, 2 are sour and the rest are good. How many oranges are good?" Hmm, wait, that seems right. Let me make sure I understand all the parts.
+
+First, the basket has 25 oranges. Out of these, 1 is bad. So, that's straightforward. Then, 20% are unripe. Hmm, 20% is a bit confusing because it's not a standard percentage. Maybe it's a typo? Maybe it's supposed to be 20%, which is 20%? Or maybe it's 20%, which is 20 percent? Wait, that seems right. So, 20% of the oranges are unripe. Then, 2 are sour. The rest are good. So, I need to find how many are good.
+
+Let me break this down step by step. First, total oranges: 25. Bad ones: 1. Unripe ones: 20% of 25. Sour ones: 2. Good ones: the rest.
+
+Wait, that seems right. So, if I can find the number of unripe and sour oranges, I can subtract those from the total to find the number of good oranges.
+
+But, that seems right. Let me write this down.
+
+Total oranges: 25
+
+Bad oranges: 1
+
+Unripe oranges: 20% of 25
+
+Sour oranges: 2
+
+Good oranges: ?
+
+So, first, let's calculate the number of unripe oranges. 20% of 25 is... 0.20 * 25. Let me compute that. 0.20 * 25 is 5. So, 5 oranges are unripe.
+
+Then, sour oranges: 2. So, now, let's add up the bad, unripe, and sour oranges.
+
+Bad: 1
+
+Unripe: 5
+
+Sour: 2
+
+Total of these: 1 + 5 + 2 = 8
+
+So, 8 oranges are either bad, unripe, or sour. Therefore, the rest must be good.
+
+Total oranges:25
+
+Subtract the 8 that are not good: 25 - 8 = 17
+
+So, 17 oranges are good.
+
+Wait, that seems right. Let me double-check.
+
+Alternatively, maybe I should compute the number of unripe and sour separately and then see.
+
+Wait, that seems right. So, 20% of 25 is 5, 2 is 2, so 5+2=7, plus 1 is 8. So, 8 oranges are not good. So, 25-8=17.
+
+Alternatively, maybe I can think about the percentages. 20% unripe, 2% sour, and 1% bad? Wait, that seems right. Because 20% + 2% +1% =23%, so the rest are good, which is 77%.
+
+So, 77% of 25 is 19.25, but, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait,

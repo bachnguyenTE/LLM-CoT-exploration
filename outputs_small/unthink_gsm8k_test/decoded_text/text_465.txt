@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Miss Maria is a middle school teacher, and she loves to collect sports cards. She has six decks with 25 basketball cards in each deck and five boxes with 40 baseball cards in each box. She keeps 50 cards and gives the remaining cards to her students. If her students got ten cards each, how many students does Miss Maria have?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many students Miss Maria has.
+
+1. **Total Basketball Cards:**
+   - Miss Maria has **6 decks** of basketball cards.
+   - Each deck contains **25 basketball cards**.
+   - **Total basketball cards = 6 decks × 25 cards/deck = 150 cards.**
+
+2. **Total Baseball Cards:**
+   - She has **5 boxes** of baseball cards.
+   - Each box contains **40 baseball cards**.
+   - **Total baseball cards = 5 boxes × 40 cards/box = 200 cards.**
+
+3. **Total Cards Miss Maria Has:**
+   - **Total cards = 150 basketball cards + 200 baseball cards = 350 cards.**
+
+4. **Cards Given to Students:**
+   - She keeps **50 cards** for herself.
+   - **Cards given to students = 350 total cards - 50 kept cards = 300 cards.**
+
+5. **Number of Students:**
+   - Each student receives **10 cards**.
+   - **Number of students = 300 cards ÷ 10 cards/student = 30 students.**
+
+**Final Answer:**  
+\boxed{30}

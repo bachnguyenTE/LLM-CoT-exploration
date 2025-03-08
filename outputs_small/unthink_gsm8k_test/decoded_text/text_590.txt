@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Alex is getting ready to attend an event that she has hosted and wants to make sure that she has enough seats for everyone. She invites 100 people via email and each invited person says that they will also invite 2 of their friends. She then calls 10 of her friends to invite them too and 8 of them say they will be bringing their spouses. How many seats will Alex need?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many seats Alex needs, let's break down the invitations step by step:
+
+1. **Initial Invitations:**
+   - Alex invites **100 people via email**.
+   - Each invited person will also invite **2 of their friends**.
+   - **Email Invitations:** 100 people.
+
+2. **Friends Invited:**
+   - **10 of her friends** are called to invite **their friends**.
+   - **8 of them** say they will be bringing their **spouses**.
+
+3. **Calculating Total Invitations:**
+   - **Email Invitations:** 100 people.
+   - **Friends Invited:** 10 people.
+   - **Spouses Invited:** 8 people.
+
+4. **Total Seats Needed:**
+   - **100 (email) + 10 (friends) + 8 (spouses) = 129 people.**
+
+**Final Answer:**
+\[
+\boxed{129}
+\]

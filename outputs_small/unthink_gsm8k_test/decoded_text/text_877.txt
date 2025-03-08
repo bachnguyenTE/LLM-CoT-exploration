@@ -1,0 +1,68 @@
+<｜User｜>
+Q: To make a profit of $2000, Isaias has to sell the chickens he planned to take to the market from his farm at $50 per chicken. If Isaias has 300 chickens on his farm and plans to sell 3/5 of them, for how much money did Isaias buy the chicken he took to the market for sale?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much Isaias bought the chickens for, we'll follow these steps:
+
+1. **Determine the number of chickens Isaias plans to sell:**
+   
+   Isaias has 300 chickens and plans to sell \( \frac{3}{5} \) of them.
+   
+   \[
+   \text{Number of chickens to sell} = \frac{3}{5} \times 300 = 180 \text{ chickens}
+   \]
+
+2. **Calculate the total revenue needed to make a $2000 profit:**
+   
+   The selling price per chicken is $50.
+   
+   \[
+   \text{Total revenue} = 180 \times 50 = 9000 \text{ dollars}
+   \]
+   
+   To make a $2000 profit, Isaias needs:
+   
+   \[
+   \text{Total cost} + 9000 = 2000
+   \]
+   
+   \[
+   \text{Total cost} = 2000 - 9000 = -7000
+   \]
+   
+   This negative value indicates a miscalculation. Let's correct it.
+   
+3. **Correct the profit calculation:**
+   
+   To make a $2000 profit, Isaias needs to cover his costs and achieve the desired profit.
+   
+   \[
+   \text{Total revenue} = \text{Total cost} + 2000
+   \]
+   
+   Since we're trying to find the **total cost** (the amount he bought the chickens for), we can rearrange the equation:
+   
+   \[
+   \text{Total cost} = \text{Total revenue} - 2000
+   \]
+   
+   However, we need to know the total revenue first. The total revenue is the selling price per chicken multiplied by the number of chickens sold.
+   
+4. **Calculate the total revenue:**
+   
+   \[
+   \text{Total revenue} = 180 \times 50 = 9000 \text{ dollars}
+   \]
+   
+5. **Determine the total cost:**
+   
+   \[
+   \text{Total cost} = 9000 - 2000 = 7000 \text{ dollars}
+   \]
+   
+   Therefore, Isaias bought the chickens for **\$7000**.
+
+\[
+\boxed{7000}
+\]

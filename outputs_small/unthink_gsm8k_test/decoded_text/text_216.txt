@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Janeth borrowed $2000 and promised to return it with an additional 10% of the amount. If she is going to pay $165 a month for 12 months, how much will be Janeth's remaining balance by then?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate the total amount Janeth needs to return:**
+   
+   Janeth borrowed \$2000 and promised to return it with an additional 10% of the amount.
+   
+   \[
+   \text{Total Amount} = \$2000 + 10\% \times \$2000 = \$2000 + \$200 = \$2200
+   \]
+
+2. **Determine the total amount Janeth will pay over 12 months:**
+   
+   Janeth is going to pay \$165 each month for 12 months.
+   
+   \[
+   \text{Total Payment} = \$165 \times 12 = \$1980
+   \]
+
+3. **Calculate Janeth's remaining balance:**
+   
+   Subtract the total payment from the total amount to be returned.
+   
+   \[
+   \text{Remaining Balance} = \$2200 - \$1980 = \$220
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$220}
+\]

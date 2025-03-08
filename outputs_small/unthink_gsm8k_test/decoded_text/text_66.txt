@@ -1,0 +1,34 @@
+<｜User｜>
+Q: There are four schools competing at a basketball tournament. Each school has sent a girls’ basketball team and a boys’ basketball team and each team has 5 players each. Each school has also sent a coach for each team. In total, how many people have all of the schools sent?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of people sent to the basketball tournament, let's break down the information step by step:
+
+1. **Schools:** There are **4 schools** competing.
+
+2. **Each School's Teams:**
+   - **Girls’ Basketball Team:** 1 team
+   - **Boys’ Basketball Team:** 1 team
+   - **Total Teams per School:** 2 teams
+
+3. **Players per Team:**
+   - Each team has **5 players** (2 girls and 3 boys, for example).
+
+4. **Players per School:**
+   - **Players per Team:** 5 players
+   - **Total Players per School:** \( 2 \text{ teams} \times 5 \text{ players/team} = 10 \text{ players} \)
+
+5. **Coaches per Team:**
+   - Each team has **1 coach**
+   - **Total Coaches per School:** 2 coaches
+
+6. **Total People per School:**
+   - **Players:** 10
+   - **Coaches:** 2
+   - **Total per School:** \( 10 + 2 = 12 \text{ people} \)
+
+7. **Total People for All Schools:**
+   - **4 Schools:** \( 4 \times 12 = 48 \text{ people} \)
+
+**Final Answer:** \(\boxed{48}\)

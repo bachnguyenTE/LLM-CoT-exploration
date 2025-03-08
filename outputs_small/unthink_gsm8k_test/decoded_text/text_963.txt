@@ -1,0 +1,86 @@
+<｜User｜>
+Q: Alex, Stan, and Adelwolfe are trying to catch them all, Pokemon that is.  Together they have caught 339 Pokemon.  Alex has caught 5 more than Stan, and Stan has caught 13 less than 4 times as many as Adelwolfe has caught. How many Pokemon has Stan caught?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Let:**
+- \( A \) = number of Pokemon Alex has caught
+- \( S \) = number of Pokemon Stan has caught
+- \( D \) = number of Pokemon Adelwolfe has caught
+
+**Given:**
+1. Together, they have caught a total of 339 Pokemon:
+   \[
+   A + S + D = 339
+   \]
+2. Alex has caught 5 more than Stan:
+   \[
+   A = S + 5
+   \]
+3. Stan has caught 13 less than 4 times as many as Adelwolfe:
+   \[
+   S = 4D - 13
+   \]
+
+**Step 1:** Express \( A \) and \( S \) in terms of \( D \).
+
+From equation (2):
+\[
+A = S + 5
+\]
+
+From equation (3):
+\[
+S = 4D - 13
+\]
+
+Substitute \( S \) into equation (2):
+\[
+A = (4D - 13) + 5 = 4D - 8
+\]
+
+**Step 2:** Substitute \( A \) and \( S \) into the total equation.
+
+\[
+A + S + D = 339
+\]
+\[
+(4D - 8) + (4D - 13) + D = 339
+\]
+
+**Step 3:** Combine like terms.
+
+\[
+4D - 8 + 4D - 13 + D = 339
+\]
+\[
+(4D + 4D + D) + (-8 -13) = 339
+\]
+\[
+9D - 21 = 339
+\]
+
+**Step 4:** Solve for \( D \).
+
+\[
+9D = 339 + 21
+\]
+\[
+9D = 360
+\]
+\[
+D = \frac{360}{9} = 40
+\]
+
+**Step 5:** Find \( S \) using \( D = 40 \).
+
+\[
+S = 4D - 13 = 4(40) - 13 = 160 - 13 = 157
+\]
+
+**Final Answer:**
+\[
+\boxed{157}
+\]

@@ -1,0 +1,66 @@
+<｜User｜>
+Q: Tanya makes a salt scrub from salt, oil, fragrance, citrus zest, and sugar. She makes enough to fill a 10-ounce jar each time. She uses the same amount of citrus zest as fragrance and the same amount of salt as sugar. She uses twice as much oil as salt and twice as much salt as zest. How many ounces of oil does she use?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many ounces of oil Tanya uses.
+
+**Given:**
+1. **Total volume of the scrub:** 10 ounces
+2. **Ingredients:** Salt, Oil, Fragrance, Citrus Zest, Sugar
+3. **Equal amounts:**
+   - Citrus Zest = Fragrance
+   - Salt = Sugar
+4. **Relationships:**
+   - Oil = 2 × Salt
+   - Salt = 2 × Citrus Zest
+   - Sugar = Salt
+
+**Let’s assign variables to each ingredient:**
+- Let **S** = Ounces of Salt
+- Let **C** = Ounces of Citrus Zest
+- Let **F** = Ounces of Fragrance
+- Let **O** = Ounces of Oil
+- Let **Sc** = Ounces of Sugar
+
+**From the given relationships:**
+1. **Citrus Zest = Fragrance:**  
+   \( C = F \)
+
+2. **Salt = Sugar:**  
+   \( S = Sc \)
+
+3. **Oil = 2 × Salt:**  
+   \( O = 2S \)
+
+4. **Salt = 2 × Citrus Zest:**  
+   \( S = 2C \)
+
+**Now, let's express all variables in terms of **C** (Citrus Zest):**
+
+- From \( S = 2C \), we have **S = 2C**
+- From \( C = F \), we have **F = C**
+- From \( S = Sc \), we have **Sc = S = 2C**
+- From \( O = 2S \), we have **O = 2S = 2(2C) = 4C**
+
+**Total volume of the scrub:**  
+\( S + O + F + C + Sc = 10 \) \)
+
+Substituting the expressions in terms of **C**:
+
+\( 2C + 4C + C + C + 2C = 10 \)
+
+**Simplify:**
+
+\( 2C + 4C + C + C + 2C = 10 \)
+
+\( 10C = 10 \)
+
+**Solve for **C**:  
+\( C = 1 \) ounce
+
+**Now, find **O** (Oil):**  
+\( O = 4C = 4 \times 1 = 4 \) ounces
+
+**Final Answer:**  
+\boxed{4}

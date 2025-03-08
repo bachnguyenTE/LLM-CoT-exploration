@@ -1,0 +1,23 @@
+<｜User｜>
+Q: While walking down the street with his 3 younger siblings, Greg found $20. To be fair to his siblings, he decided to split the money equally. How much money did each of them get?
+A:<｜Assistant｜><think>
+First, I need to determine the total amount of money Greg found, which is $200.
+
+Next, I should count the total number of siblings. Greg has 3 younger siblings, making a total of 4 siblings.
+
+To find out how much each sibling gets, I'll divide the total amount of money by the number of siblings: $200 ÷ 4 = $50.
+
+Therefore, each sibling, including Greg, will receive $50.
+</think>
+
+**Solution:**
+
+Greg found a total of **\$200** and decided to split the money equally among himself and his 3 younger siblings. This makes a total of **4** siblings.
+
+To find out how much each sibling gets, we divide the total amount of money by the number of siblings:
+
+\[
+\text{Amount per sibling} = \frac{\$200}{4} = \$50
+\]
+
+**Answer:** Each sibling, including Greg, received \(\boxed{\$50}\).

@@ -1,0 +1,27 @@
+<｜User｜>
+Q: A shoe store was having a weekend sale on a brand of popular tennis shoes. On Friday the store sold 14 pairs of tennis shoes. The next day they sold double that number of shoes. On the last day of the sale they sold one-half the amount that they did the day before, but six people returned their pairs because they didn't fit. How many tennis shoes were sold by the end of the sale?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many tennis shoes were sold by the end of the sale.
+
+1. **First Day (Friday):**
+   - **Sold:** 14 pairs of tennis shoes.
+
+2. **Second Day (Saturday):**
+   - **Sold:** Double the number sold on Friday.
+   - **Calculation:** \( 14 \times 2 = 28 \) pairs.
+
+3. **Third Day (Sunday):**
+   - **Sold:** Half the number sold on Saturday.
+   - **Calculation:** \( 28 \div 2 = 14 \) pairs.
+   - **Adjustment for Returns:** 6 pairs were returned.
+   - **Final Sales:** \( 14 - 6 = 8 \) pairs.
+
+4. **Total Sold:**
+   - **Friday:** 14 pairs
+   - **Saturday:** 28 pairs
+   - **Sunday:** 8 pairs
+   - **Total:** \( 14 + 28 + 8 = 50 \) pairs.
+
+**Final Answer:** \(\boxed{50}\)

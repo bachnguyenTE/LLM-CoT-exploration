@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Frances sells 20 cupcakes for $2 for each cupcake and  40  cookies at $1 each.  She buys five trays at $4 for each tray. How much money does Frances have left?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how much money Frances has left.
+
+1. **Calculate the total money from selling cupcakes:**
+   - Frances sells 20 cupcakes.
+   - Each cupcake is sold for \$2.
+   - **Total money from cupcakes:** \( 20 \text{ cupcakes} \times \$2/\text{cupcake} = \$40 \)
+
+2. **Calculate the total money from selling cookies:**
+   - Frances sells 40 cookies.
+   - Each cookie is sold for \$1.
+   - **Total money from cookies:** \( 40 \text{ cookies} \times \$1/\text{cookie} = \$40 \)
+
+3. **Calculate the total money from both cupcakes and cookies:**
+   - **Total money:** \( \$40 \text{ (cupcakes)} + \$40 \text{ (cookies)} = \$80 \)
+
+4. **Calculate the total cost of buying the trays:**
+   - Frances buys 5 trays.
+   - Each tray costs \$4.
+   - **Total cost for trays:** \( 5 \text{ trays} \times \$4/\text{tray} = \$20 \)
+
+5. **Calculate the money left after purchases:**
+   - **Money left:** \( \$80 \text{ (total)} - \$20 \text{ (trays)} = \$60 \)
+
+**Final Answer:** Frances has \$60 left.

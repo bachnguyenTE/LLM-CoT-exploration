@@ -1,0 +1,43 @@
+<｜User｜>
+Q: Bob spends $27000 distributed between 3 schools to buy books.  He can buy 100 books for $500.  How many books can he buy per school?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Amount Spent:**
+   Bob spends a total of **\$27,000** on buying books. (Note: The amount is written with a comma as thousand separator, so it's **\$27,0000**.)
+
+2. **Books Bought:**
+   Bob buys **100 books** for **\$500**.
+
+3. **Finding the Price per Book:**
+   To find out how much each book costs, divide the total amount by the number of books:
+   \[
+   \text{Price per book} = \frac{\$500}{100} = \$5
+   \]
+
+4. **Calculating Total Number of Books:**
+   Now, to find out how many books Bob can buy in total:
+   \[
+   \text{Total books} = \frac{\$27,000}{\$5} = 5,400 \text{ books}
+   \]
+   Since you can't buy a fraction of a book, we'll consider the whole number:
+   \[
+   \text{Total books} = 5,400 \text{ books}
+   \]
+
+5. **Books per School:**
+   If Bob wants to distribute these books equally among **3 schools**, divide the total number of books by the number of schools:
+   \[
+   \text{Books per school} = \frac{5,400}{3} = 1,800 \text{ books per school}
+   \]
+
+**Final Answer:**
+Bob can buy **1,800 books per school**.
+
+\[
+\boxed{1,\!800}
+\]

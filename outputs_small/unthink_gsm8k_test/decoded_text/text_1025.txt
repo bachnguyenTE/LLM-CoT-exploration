@@ -1,0 +1,38 @@
+<｜User｜>
+Q: The Easter egg hunt team hid 100 eggs. The Smith twins each found 30 eggs. All the other eggs except 10 were found by their friends. How many eggs did the friends find?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many eggs the friends found.
+
+1. **Total Eggs Hidden:**
+   - The Easter egg hunt team hid a total of **100 eggs**.
+
+2. **Eggs Found by the Smith Twins:**
+   - The Smith twins each found **30 eggs**.
+   - Since there are two twins, they found:
+     \[
+     30 \text{ eggs/twin} \times 2 \text{ twins} = 60 \text{ eggs}
+     \]
+
+3. **Eggs Found by Their Friends:**
+   - The problem states that **all the other eggs except 10 were found by their friends**.
+   - This means that **10 eggs** were not found by the Smith twins, and the remaining eggs (excluding these 10) were found by their friends.
+
+4. **Calculating the Friends' Findings:**
+   - First, subtract the eggs found by the Smith twins from the total eggs:
+     \[
+     100 \text{ total eggs} - 60 \text{ eggs (Smith twins)} = 38 \text{ eggs}
+     \]
+   - However, this 38 eggs includes the **10 eggs** that were not found by the Smith twins.
+   - Therefore, the number of eggs found by their friends is:
+     \[
+     38 \text{ eggs} - 10 \text{ eggs} = 28 \text{ eggs}
+     \]
+
+5. **Final Answer:**
+   - The friends found **28 eggs**.
+
+\[
+\boxed{28}
+\]

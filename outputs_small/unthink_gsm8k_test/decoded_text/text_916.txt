@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Julia and Nadine were given the same amount of allowance by their mother. The two girls decided to combine their allowance to surprise their father on his birthday. They bought a cake which costs $11. They also bought 1 dozen balloons which were sold for $0.5 for 2 balloons. The remaining money was used to buy 2 tubs of ice cream for $7 each. How much did Julia and Nadine's mother give each one of them?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how much Julia and Nadine's mother gave each of them.
+
+1. **Total Allowance Together:**
+   - Let \( x \) be the total allowance each girl received.
+   - Combined allowance: \( 2x \)
+
+2. **Cost of the Cake:**
+   - The cake costs \$11.
+
+3. **Cost of Balloons:**
+   - 1 dozen balloons = 12 balloons.
+   - Sold for \$0.5 for 2 balloons.
+   - Cost per 2 balloons: \$0.5
+   - Number of sets of 2 balloons: \( \frac{12}{2} = 6 \)
+   - Total cost for balloons: \( 6 \times \$0.5 = \$3 \)
+
+4. **Remaining Money for Ice Cream:**
+   - Total money spent on cake and balloons: \( \$11 + \$3 = \$14 \)
+   - Remaining money: \( 2x - \$14 \)
+   - This amount was used to buy 2 tubs of ice cream at \$7 each.
+   - Total cost for ice cream: \( 2 \times \$7 = \$14 \)
+
+5. **Setting Up the Equation:**
+   \[
+   2x - \$14 = \$14
+   \]
+   
+6. **Solving for \( x \):**
+   \[
+   2x = \$14 + \$14 = \$28 \\
+   x = \frac{\$28}{2} = \$14
+   \]
+
+**Final Answer:**
+\[
+\boxed{14}
+\]

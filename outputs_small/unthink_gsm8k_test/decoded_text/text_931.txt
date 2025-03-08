@@ -1,0 +1,87 @@
+<｜User｜>
+Q: The combined age of Peter, Paul and Jean is 100 years old. Find the age of Peter knowing that Paul is 10 years older than John and that Peter’s age is equal to the sum of Paul and John's age.
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+1. The combined age of Peter, Paul, and Jean is 100 years.
+2. Paul is 10 years older than John.
+3. Peter’s age is equal to the sum of Paul and John's age.
+
+**Let’s define the variables:**
+- Let \( P \) = Peter's age
+- Let \( J \) = John's age
+- Let \( A \) = Jean's age
+
+**From the second statement:**
+- Paul is 10 years older than John.
+  \[
+  P = J + 10
+  \]
+  
+**From the third statement:**
+- Peter’s age is equal to the sum of Paul and John's age.
+  \[
+  P = J + A
+  \]
+  
+**Now, we have two equations:**
+1. \( P = J + 10 \)
+2. \( P = J + A \)
+
+**Since both right-hand sides equal \( P \), we can set them equal to each other:**
+\[
+J + 10 = J + A
+\]
+  
+**Subtract \( J \) from both sides:**
+\[
+10 = A
+\]
+  
+**So, Jean is 10 years old.**
+
+**Now, substitute \( A = 10 \) back into the second equation to find \( P \):**
+\[
+P = J + 10
+\]
+  
+**But we need to find \( J \) to determine \( P \).**
+
+**From the first statement:**
+- The combined age of Peter, Paul, and Jean is 100 years.
+  \[
+  P + J + A = 100
+  \]
+  
+**Substitute \( A = 10 \) and \( P = J +10 \) into the equation:**
+\[
+(J +10) + J +10 = 100
+\]
+  
+**Combine like terms:**
+\[
+2J +20 = 100
+\]
+  
+**Subtract 20 from both sides:**
+\[
+2J = 80
+\]
+  
+**Divide both sides by 2:**
+\[
+J = 40
+\]
+  
+**Now, find \( P \):**
+\[
+P = J +10 = 40 +10 = 50
+\]
+  
+**Final Answer:**
+\[
+\boxed{50}
+\]

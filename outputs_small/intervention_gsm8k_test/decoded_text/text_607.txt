@@ -1,0 +1,53 @@
+<｜User｜>
+Q: The jumbo bottle of shampoo costs $24.00.  The directions say to use 2 pumps of shampoo and this will give you 120 washings.  If Jackie only uses 1 pump per wash, how much will each pump cost, in cents?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about a jumbo bottle of shampoo, and I need to figure out how much each pump costs in cents. Let me try to break this down step by step.
+
+First, the problem says the jumbo bottle costs $24.00. That seems straightforward. Then, the directions mention using 2 pumps to get 120 washings. So, if I use 2 pumps, I get 120 washings. Now, the question is, if Jackie only uses 1 pump per wash, how much will each pump cost in cents?
+
+Hmm, okay. So, I think I need to find the cost per pump. Let me see. If 2 pumps give me 120 washings, then 1 pump would give me half of that, right? So, 120 divided by 2 is 60 washings per pump. Wait, that seems right. So, 1 pump gives 60 washings.
+
+But, that seems right. So, if 1 pump gives 60 washings, then each pump must cost the same amount. But, that seems right. Wait, that seems right. So, if 2 pumps give 120 washings, then 1 pump gives 60 washings. So, each pump gives 60 washings.
+
+But, that seems right. So, if each pump gives 60 washings, then each pump must cost the same as the others. But, that seems right. So, if 2 pumps cost $24.00, then each pump would cost half of that, right? So, $24.00 divided by 2 is $12.00 per pump.
+
+Wait, that seems right. So, each pump costs $12.00. But, that seems right. So, if each pump is $12.00, then each pump is 1200 cents because $1 is 100 cents. So, 12.00 times 100 is 1200 cents.
+
+Wait, that seems right. So, each pump is 1200 cents. So, the answer is 1200 cents.
+
+But, that seems right. Let me double-check.
+
+So, 2 pumps give 120 washings. So, 1 pump gives 60 washings. So, each pump gives 60 washings. So, if 2 pumps cost $24.00, then each pump costs $12.000. So, each pump is $12.00. So, each pump is 1200 cents.
+
+Wait, that seems right. So, each pump is 1200 cents.
+
+Wait, that seems right. So, the answer is 1200 cents.
+
+But, that seems right. So, I think that's the answer.
+
+Wait, that seems right. So, yeah, each pump is 1200 cents.
+
+Wait, that seems right. So, I think that's the answer.
+
+**Final Answer**
+The cost of each pump is \boxed{1200} cents.
+</think>
+
+The jumbo bottle of shampoo costs $24.00. Using 2 pumps gives 120 washings. We need to find the cost of each pump in cents.
+
+First, we determine the number of washings per pump:
+\[
+\text{Washings per pump} = \frac{120 \text{ washings}}{2 \text{ pumps}} = 60 \text{ washings per pump}
+\]
+
+Next, we find the cost per pump. Since 2 pumps cost $24.00, each pump costs:
+\[
+\text{Cost per pump} = \frac{24.00 \text{ dollars}}{2} = 12.00 \text{ dollars}
+\]
+
+Converting dollars to cents:
+\[
+12.00 \text{ dollars} = 1200 \text{ cents}
+\]
+
+Thus, the cost of each pump is \boxed{1200} cents.

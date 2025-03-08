@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Maddison has 5 boxes with 50 marbles in each box. Then she gets 20 marbles from her friend. How many marbles does she have now?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of marbles Maddison initially has. She has 5 boxes, each containing 50 marbles. To find the total, I multiply the number of boxes by the number of marbles per box.
+
+Next, Maddison receives an additional 20 marbles from her friend. I will add these 20 marbles to the initial total to find the new total number of marbles she has.
+
+Finally, I will present the final answer clearly.
+</think>
+
+**Solution:**
+
+Maddison starts with 5 boxes, each containing 50 marbles. To find the total number of marbles she initially has, multiply the number of boxes by the number of marbles per box:
+
+\[
+5 \text{ boxes} \times 50 \text{ marbles/box} = 250 \text{ marbles}
+\]
+
+Then, Maddison receives an additional 20 marbles from her friend. To find the total number of marbles she has now, add these 20 marbles to the initial total:
+
+\[
+250 \text{ marbles} + 20 \text{ marbles} = 272 \text{ marbles}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{272}
+\]

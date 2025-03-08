@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Katherine has 5 hanging baskets to fill.  In each basket she wants to add 3 petunias and 2 sweet potato vines.  The petunias cost $3.00 apiece and the sweet potato vines cost $2.50 apiece.  How much will she spend filling all 5 hanging baskets?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much Katherine will spend on filling all 5 hanging baskets, let's break down the costs step by step.
+
+1. **Petunias per Basket:**
+   - Each basket requires 3 petunias.
+   - Cost per petunia = \$3.00
+   - **Total cost for petunias per basket:** \( 3 \times \$3.00 = \$9.00 \)
+
+2. **Sweet Potato Vines per Basket:**
+   - Each basket requires 2 sweet potato vines.
+   - Cost per sweet potato vine = \$2.50
+   - **Total cost for sweet potato vines per basket:** \( 2 \times \$2.50 = \$5.00 \)
+
+3. **Total Cost per Basket:**
+   - **Petunias + Sweet Potato Vines:** \$9.00 + \$5.00 = \$14.50
+
+4. **Total Cost for 5 Baskets:**
+   - **5 baskets \times \$14.50 per basket:** \( 5 \times \$14.50 = \$72.50 \)
+
+**Final Answer:** \(\boxed{\$72.50}\)

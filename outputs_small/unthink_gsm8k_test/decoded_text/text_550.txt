@@ -1,0 +1,54 @@
+<｜User｜>
+Q: A shop sells school supplies. One notebook is sold at $1.50 each, a pen at $0.25 each, a calculator at $12 each, and a geometry set at $10. Daniel is an engineering student, and he wants to buy five notebooks, two pens, one calculator, and one geometry set. The shop gives a 10% discount on all the purchased items. How much does Daniel have to spend on all the items he wants to buy?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Identify the quantities and prices:**
+   - **Notebook:** \$1.50 each
+   - **Pen:** \$0.25 each
+   - **Calculator:** \$12.00 each
+   - **Geometry Set:** \$10.00 each
+
+2. **Calculate the total cost for each item:**
+   
+   - **Notebooks:**
+     \[
+     5 \text{ notebooks} \times \$1.50 = \$7.50
+     \]
+   
+   - ** Pens:**
+     \[
+     2 \text{ pens} \times \$0.25 = \$0.50
+     \]
+   
+   - **Calculator:**
+     \[
+     1 \text{ calculator} \times \$12.00 = \$12.00
+     \]
+   
+   - **Geometry Set:**
+     \[
+     1 \text{ geometry set} \times \$10.0 = \$10.00
+     \]
+
+3. **Sum up all the costs:**
+   \[
+   \$7.50 + \$0.50 + \$12.00 + \$10.00 = \$29.50
+   \]
+
+4. **Apply the 10% discount:**
+   \[
+   10\% \text{ of } \$29.50 = \$2.95
+   \]
+   \[
+   \text{Total after discount} = \$29.50 - \$2.95 = \$26.55
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$26.55}
+\]

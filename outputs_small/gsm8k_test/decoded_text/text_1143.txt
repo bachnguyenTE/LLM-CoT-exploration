@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Tim grows 5 trees.  Each year he collects 6 lemons from each tree.  How many lemons does he get in a decade?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of trees Tim has. He grows 5 trees.
+
+Next, I'll calculate the number of lemons each tree produces annually. Each tree yields 6 lemons per year.
+
+Then, I'll find the total number of lemons produced by all trees in one year by multiplying the number of trees by the number of lemons per tree: 5 trees × 6 lemons/tree = 30 lemons/year.
+
+After that, I'll calculate the total number of lemons produced over a decade by multiplying the annual production by 10: 30 lemons/year ×10 years = 360 lemons.
+
+Finally, I'll present the final answer clearly.
+</think>
+
+**Solution:**
+
+1. **Number of Trees:**
+   - Tim grows **5 trees**.
+
+2. **Lemons per Tree per Year:**
+   - Each tree yields **6 lemons** per year.
+
+3. **Total Lemons per Year:**
+   - Total lemons = Number of trees × Lemons per tree
+   - Total lemons = 5 trees × 6 lemons/tree = **30 lemons/year**
+
+4. **Total Lemons in a Decade:**
+   - A decade has **10 years**.
+   - Total lemons in 10 years = Total lemons/year × 10
+   - Total lemons in 10 years = 30 lemons/year × 10 = **360 lemons**
+
+**Final Answer:**
+\[
+\boxed{360}
+\]

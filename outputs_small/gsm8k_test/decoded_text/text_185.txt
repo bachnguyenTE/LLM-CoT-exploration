@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Jenna and her mother picked some apples from their apple farm. Jenna picked half as many apples as her mom. If her mom got 20 apples, how many apples did they both pick?
+A:<｜Assistant｜><think>
+First, I need to determine how many apples Jenna picked. Since Jenna picked half as many apples as her mom, and her mom picked 20 apples, I can calculate Jenna's apples by dividing 20 by 2.
+
+Next, I'll add the number of apples Jenna picked to the number her mom picked to find the total number of apples they collected together.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine how many apples Jenna picked:**
+   
+   Jenna picked half as many apples as her mom. 
+   
+   - Number of apples her mom picked: 20
+   - Number of apples Jenna picked: \( \frac{20}{2} = 10 \)
+
+2. **Calculate the total number of apples picked by both:**
+   
+   - Total apples = Apples picked by Jenna + Apples picked by her mom
+   - Total apples = 10 + 20 = 30
+
+**Final Answer:**
+
+\[
+\boxed{30}
+\]

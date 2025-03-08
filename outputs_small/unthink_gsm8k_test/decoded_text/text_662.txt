@@ -1,0 +1,47 @@
+<｜User｜>
+Q: Gus spent $20.00 at the grocery store.  He bought 2 bag of chips for $2.00 each, a bucket of fried chicken for $8.00 and a bottle of soda for $1.00.  How much did the apple pie cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step to find out how much Gus spent on the **apple pie**.
+
+1. **Total Amount Spent by Gus:**  
+   Gus spent a total of **\$20.00** at the grocery store.
+
+2. **Breakdown of Purchases:**
+   - **Bag of Chips:** \$2.000 each  
+     Gus bought **2 bags of chips**, so the cost is:  
+     \[
+     2 \times \$2.00 = \$4.00
+     \]
+   - **Bucket of Fried Chicken:** \$8.00  
+     Gus bought **1 bucket of fried chicken**, so the cost is:  
+     \[
+     \$8.00
+     \]
+   - **Bottle of Soda:** \$1.00  
+     Gus bought **1 bottle of soda**, so the cost is:  
+     \[
+     \$1.00
+     \]
+
+3. **Calculate Total Spent on the First Three Items:**  
+   Add the costs of the chips, fried chicken, and soda:  
+   \[
+   \$4.00 + \$8.00 + \$1.00 = \$13.10
+   \]
+
+4. **Determine the Cost of the Apple Pie:**  
+   Subtract the total spent on the first three items from the overall total spent:  
+   \[
+   \$20.00 - \$13.10 = \$6.90
+   \]
+
+**Final Answer:**  
+The apple pie cost **\$6.90**.
+
+\[
+\boxed{\$6.90}
+\]

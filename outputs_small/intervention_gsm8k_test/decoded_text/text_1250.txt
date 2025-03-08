@@ -1,0 +1,43 @@
+<｜User｜>
+Q: Mitchell is making nachos for his family. He buys two bags of chips with 55 chips each. If his family has five members, how many chips does each person get if they all get the same number?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of chips Mitchell has. He buys two bags, each containing 55 chips. So, I'll multiply 2 by 55 to find the total number of chips.
+
+2 multiplied by 55 equals 110 chips.
+
+Next, I have to divide the total number of chips equally among his five family members. To find out how many chips each person gets, I'll divide the total number of chips by the number of family members.
+
+110 divided by 5 equals 22.2 chips per person.
+
+Since it's not practical to have a fraction of a chip, I'll round down to the nearest whole number, which means each family member gets 22 chips.
+</think>
+
+**Solution:**
+
+1. **Calculate the total number of chips:**
+   
+   Mitchell buys **2** bags of chips, with each bag containing **55** chips.
+   
+   \[
+   \text{Total chips} = 2 \times 55 = 110
+   \]
+
+2. **Determine the number of chips per family member:**
+   
+   There are **5** family members, and they will share the chips equally.
+   
+   \[
+   \text{Chips per person} = \frac{110}{5} = 22.2
+   \]
+   
+   Since it's not practical to have a fraction of a chip, we'll round down to the nearest whole number.
+   
+   \[
+   \text{Chips per person} = 22
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{22}
+\]

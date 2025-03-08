@@ -1,0 +1,53 @@
+<｜User｜>
+Q: Olivia uploaded 72 pictures to Facebook.  She put the same number of the pics into 8 albums.  3 of the albums were selfies only and 2 of the albums were portraits.  How many portraits and selfies did she have?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Olivia uploaded a total of **72 pictures** to Facebook and distributed them equally into **8 albums**. Each album received the same number of pictures. 
+
+1. **Total number of pictures:** 72  
+2. **Total number of albums:** 8  
+
+To find out how many pictures are in each album, divide the total number of pictures by the number of albums:
+
+\[
+\text{Pictures per album} = \frac{72}{8} = 9
+\]
+
+So, each album contains **9 pictures**.
+
+Next, we need to determine how many of these pictures are portraits and how many are selfies.
+
+- **3 albums are selfies only.**  
+- **2 albums are portraits only.**  
+- The remaining albums are neither selfies nor portraits.
+
+First, calculate the number of albums that are neither selfies nor portraits:
+
+\[
+\text{Total albums} - \text{Selfie albums} - \text{Portraits} = 8 - 3 - 2 = 3
+\]
+
+So, **3 albums** are neither selfies nor portraits.
+
+Now, calculate the total number of selfies:
+
+\[
+\text{Total selfies} = \text{Number of selfie albums} \times \text{Pictures per album} = 3 \times 9 = 27
+\]
+
+Similarly, calculate the total number of portraits:
+
+\[
+\text{Total portraits} = \text{Number of portrait albums} \times \text{Pictures per album} = 2 \times 9 = 18
+\]
+
+**Final Answer:**
+
+Olivia had **18 portraits** and **27 selfies**.
+
+\[
+\boxed{18 \text{ portraits and } 27 \text{ selfies}}
+\]

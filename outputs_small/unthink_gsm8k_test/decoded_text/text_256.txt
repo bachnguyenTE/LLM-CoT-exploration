@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Brady is counting the money in his piggy bank. He has 100 pennies, 40 nickels, 20 dimes, and 40 pieces of dollar bills. How much does Brady have in his piggy bank in dollars?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much money Brady has in his piggy bank, we'll calculate the total value of each type of coin and then sum them up.
+
+1. **Pennies (1 cent each):**
+   \[
+   100 \text{ pennies} \times \$0.01 = \$10.00
+   \]
+
+2. **Nickels (5 cents each):**
+   \[
+   40 \text{ nickels} \times \$0.05 = \$2.000
+   \]
+
+3. **Dimes (10 cents each):**
+   \[
+   20 \text{ dimes} \times \$0.10 = \$2.000
+   \]
+
+4. **Dollar Bills:**
+   \[
+   40 \text{ dollar bills} \times \$1.00 = \$40.00
+   \]
+
+**Total Amount:**
+\[
+\$10.00 + \$2.00 + \$2.00 + \$40.00 = \$56.00
+\]
+
+**Final Answer:**
+\[
+\boxed{\$56.00}
+\]

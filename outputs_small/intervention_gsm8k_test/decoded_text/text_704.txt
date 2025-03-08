@@ -1,0 +1,83 @@
+<｜User｜>
+Q: Gerald and Julia divided $100 in the ratio 3:2. If Gerald spent $10 on a book, how much money did he have left?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here where Gerald and Julia divided $100 in the ratio 3:2. Then Gerald spent $10 on a book, and I need to figure out how much money he had left. Hmm, let me think about how to approach this.
+
+First, the problem says they divided $100 in the ratio 3:2. Ratios can sometimes be tricky, but, that seems right. So, if it's a ratio of 3:2, that means the total parts are 3 + 2, which is 5 parts. So, each part must be equal to $100 divided by 5. Let me write that down.
+
+Total amount = $100
+Ratio parts = 3 + 2 = 5
+So, each part = $100 / 5 = $20.
+
+Wait, that seems right. So, each part is $20. Therefore, Gerald's share is 3 parts, and Julia's share is 2 parts. Let me calculate how much each of them got.
+
+Gerald's share = 3 parts * $20/part = $60
+Julia's share = 2 parts * $20/part = $40
+
+Okay, so Gerald initially had $60, and Julia had $40. Then, Gerald spent $10 on a book. So, I need to subtract that from his initial amount to find out how much he has left.
+
+Gerald's remaining money = $60 - $10 = $50.
+
+Wait, that seems right. Let me double-check my calculations to make sure I didn't make a mistake.
+
+Total amount: $100. Divided into 3:2. So, 3 parts + 2 parts = 5 parts. Each part is $20. So, 3 parts is 3*20=60, and 2 parts is 2*20=40. That adds up to 60+40=100. So, that part is correct.
+
+Then, Gerald spent $10. So, 60 - 10=50. That seems correct.
+
+Wait, that seems right. So, Gerald had $60 initially, spent $10, so he has $50 left.
+
+But, that seems right. Let me think if there's another way to approach this problem.
+
+Alternatively, maybe I can think in terms of fractions. The ratio 3:2 means that Gerald has 3/5 of the total, and Julia has 2/5.
+
+So, Gerald's share is 3/5 of $100. Let me compute that.
+
+3/5 of 100 is (3*100)/5 = 300/5=60. So, that's $60. Then, Julia has 2/5, which is 200/5=40. So, same as before.
+
+Then, Gerald spent $10, so 60-10=50. So, same result.
+
+Alternatively, maybe I can think in terms of equations.
+
+Let me denote Gerald's amount as G and Julia's amount as J.
+
+Given that G + J = 100, and G/J = 3/2.
+
+So, from the ratio, G = (3/2)J.
+
+Substituting into the first equation:
+
+(3/2)J + J = 100
+
+Combine like terms:
+
+(3/2)J + (2/2)J = (5/2)J = 100
+
+So, (5/2)J = 100
+
+Multiply both sides by 2:
+
+5J = 200
+
+Divide both sides by 5:
+
+J = 40
+
+So, Julia has $40, which means Gerald has 100 - 40=60. Then, Gerald spent $10, so 60 -10=50.
+
+Same result. So, that seems consistent.
+
+Alternatively, maybe I can think in terms of percentages. Since the ratio is 3:2, that means Gerald has 60% of the total, and Julia has 40%.
+
+So, 60% of 100 is 60, and 40% is 40. Then, Gerald spent 10, so 60 -10=50.
+
+Same answer.
+
+Wait, that seems right. So, all methods point to Gerald having $50 left.
+
+But, that seems right. Let me just think if there's any other way to approach this.
+
+Alternatively, maybe I can think in terms of money spent.
+
+Wait, that seems right. So, Gerald spent $10, so he has $10 less.
+
+So

@@ -1,0 +1,36 @@
+<｜User｜>
+Q: If Mark weighs 150 pounds and Susan weighs 20 pounds less than Mark.  And their friend Bob weighs twice as much as Susan.  What is the average weight of the 3 friends?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Mark's Weight:**
+   - Mark weighs **150 pounds**.
+
+2. **Susan's Weight:**
+   - Susan weighs **20 pounds less** than Mark.
+   - **Susan's weight = Mark's weight - 20 pounds**
+   - **Susan's weight = 150 pounds - 20 pounds = 130 pounds**
+
+3. **Bob's Weight:**
+   - Bob weighs **twice as much** as Susan.
+   - **Bob's weight = 2 × Susan's weight**
+   - **Bob's weight = 2 × 130 pounds = 260 pounds**
+
+4. **Total Weight of All Three Friends:**
+   - **Total weight = Mark's weight + Susan's weight + Bob's weight**
+   - **Total weight = 150 pounds + 130 pounds + 260 pounds = 545 pounds**
+
+5. **Average Weight:**
+   - **Average weight = Total weight / Number of friends**
+   - **Average weight = 545 pounds / 3 = 181.666... pounds**
+
+6. **Rounding:**
+   - Since weights are typically expressed in whole numbers, we can round the average to the nearest whole number.
+   - **Average weight ≈ 182 pounds**
+
+**Final Answer:**
+\boxed{182}

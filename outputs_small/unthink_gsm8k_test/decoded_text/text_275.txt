@@ -1,0 +1,59 @@
+<｜User｜>
+Q: Sean is practicing for his role in a theater production. He has to memorize his lines for two scenes and the lyrics to one solo song. His solo song has 54 lines in the lyrics. The first scene has twice the number of lines, but only a third of them are his lines. The second scene has six more lines than the song, and four-fifths of them are his. How many lines does Sean have to memorize?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many lines Sean has to memorize.
+
+**Given:**
+- **Solo Song:** 54 lines.
+- **First Scene:** Twice the number of lines as the **Solo Song**.
+- **Second Scene:** Six more lines than the **Solo Song**.
+- **First Scene's Lines:** Only a third of the lines.
+- **Second Scene's Lines:** Four-fifths of the lines.
+
+**Step 1: Calculate the number of lines in the First Scene.**
+
+The first scene has twice the number of lines as the solo song.
+
+\[
+\text{Lines in First Scene} = 2 \times 54 = 108 \text{ lines}
+\]
+
+**Step 2: Determine how many of these lines are Sean's.**
+
+Only a third of the lines in the first scene are his.
+
+\[
+\text{Sean's Lines in First Scene} = \frac{1}{3} \times 108 = 36 \text{ lines}
+\]
+
+**Step 3: Calculate the number of lines in the Second Scene.**
+
+The second scene has six more lines than the solo song.
+
+\[
+\text{Lines in Second Scene} = 54 + 6 = 60 \text{ lines}
+\]
+
+**Step 4: Determine how many of these lines are Sean's.**
+
+Four-fifths of the lines in the second scene are his.
+
+\[
+\text{Sean's Lines in Second Scene} = \frac{4}{5} \times 60 = 48 \text{ lines}
+\]
+
+**Step 5: Calculate the total number of lines Sean has to memorize.**
+
+Add the lines from both scenes and subtract the lines that are already known to be his.
+
+\[
+\text{Total Lines Sean Has to Memorize} = 36 + 48 = 84 \text{ lines}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{84}
+\]

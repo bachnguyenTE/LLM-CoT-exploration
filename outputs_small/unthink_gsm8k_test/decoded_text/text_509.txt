@@ -1,0 +1,45 @@
+<｜User｜>
+Q: Sophia and Rose went together to the market to buy onions and potatoes. Rose bought 4 times the number of onions and potatoes Sophia bought. If Rose bought 12 onions and 4 potatoes, how many onions and potatoes in total did Sophia buy at the market?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Define Variables:**
+   - Let \( S \) represent the number of onions Sophia bought.
+   - Let \( P \) represent the number of potatoes Sophia bought.
+
+2. **Given Information:**
+   - Rose bought 4 times the number of onions and potatoes that Sophia bought.
+   - Rose bought **12 onions** and **4 potatoes**.
+
+3. **Set Up Equations:**
+   - Since Rose bought 4 times what Sophia bought:
+     \[
+     \text{Onions bought by Rose} = 4S = 12
+     \]
+     \[
+     \text{Potatoes bought by Rose} = 4P = 4
+     \]
+
+4. **Solve for \( S \) and \( P \):**
+   - For onions:
+     \[
+     4S = 12 \implies S = \frac{12}{4} = 3
+     \]
+   - For potatoes:
+     \[
+     4P = 4 \implies P = \frac{4}{4} = 1
+     \]
+
+5. **Total Number of Vegetables Sophia Bought:**
+   \[
+   S + P = 3 + 1 = 4
+   \]
+
+**Final Answer:**
+\[
+\boxed{4}
+\]

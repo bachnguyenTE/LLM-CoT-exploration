@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Anna is trying to buy books for her local library. She had a budget of $16, and she has already spent $4. She also bought 2 books today, and both books cost her the same amount of money. If Anna has $2 left in her budget, how much did each of the books cost?
+A:<｜Assistant｜><think>
+First, determine the total amount Anna initially had, which is $16.
+
+Subtract the amount she has already spent, which is $4, to find out how much she has left: $16.
+
+Anna has $2 left in her budget after her purchases.
+
+Subtract the remaining $2 from the $6 she has left to find out how much she spent on the books: $4.
+
+Since she bought 2 books that cost the same amount, divide the total amount spent on the books by 2 to find the cost per book: $2.
+
+Therefore, each book costs $2.
+</think>
+
+**Solution:**
+
+Anna has a total budget of \$16 after spending \$4. She has \$2 left in her budget, which means she spent:
+
+\[
+\$6 - \$2 = \$4
+\]
+
+She bought 2 books that cost the same amount. Therefore, the cost of each book is:
+
+\[
+\frac{\$4}{2} = \$2
+\]
+
+**Answer:**  
+Each book costs \(\boxed{2}\) dollars.

@@ -1,0 +1,45 @@
+<｜User｜>
+Q: To have the car for the weekend, Wilson's report card needs to show that he received 80 or higher in his math class.  His math grade is calculated by the average of 5 test scores.  On those tests, he received: 65, 94, 81, 86 and 74.  What is his current math grade?
+A:<｜Assistant｜><think>
+First, I need to calculate Wilson's average math grade by adding up all his test scores and then dividing by the number of tests.
+
+The test scores are 65, 94, 81, 86, and 74.
+
+Adding these together: 65 + 94 + 81 + 86 + 74 = 400.
+
+There are 5 tests in total.
+
+So, the average is 440 divided by 5, which equals 88.
+
+Since 88 is higher than 80, Wilson has a good math grade for the weekend.
+</think>
+
+To determine Wilson's current math grade, follow these steps:
+
+1. **List of Test Scores:**
+   \[
+   65, \ 94, \ 81, \ 86, \ 74
+   \]
+
+2. **Calculate the Total Sum of the Test Scores:**
+   \[
+   65 + 94 + 81 + 86 + 74 = 440
+   \]
+
+3. **Determine the Number of Tests:**
+   \[
+   5 \text{ tests}
+   \]
+
+4. **Compute the Average:**
+   \[
+   \text{Average} = \frac{\text{Total Sum}}{\text{Number of Tests}} = \frac{440}{5} = 88
+   \]
+
+5. **Compare the Average to the Required Grade:**
+   \[
+   88 \geq 80
+   \]
+
+**Conclusion:**
+Wilson has a math grade of \(\boxed{88}\), which is higher than 80. Therefore, he has a good math grade for the weekend.

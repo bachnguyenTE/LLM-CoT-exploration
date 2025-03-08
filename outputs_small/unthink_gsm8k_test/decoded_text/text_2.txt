@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Josh decides to try flipping a house.  He buys a house for $80,000 and then puts in $50,000 in repairs.  This increased the value of the house by 150%.  How much profit did he make?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine Josh's profit from buying and flipping his house, let's break down the problem step by step.
+
+1. **Initial Investment:**
+   - **Cost of the house:** \$80,000
+   - **Repairs:** \$50,000
+
+   **Total Initial Investment:** 
+   \[
+   \$80,000 + \$55,000 = \$135,000
+   \]
+
+2. **Value Increase:**
+   - The value of the house increased by **150%**.
+
+   **Calculating the Increase:**
+   \[
+   150\% \text{ of } \$135,000 = 0.15 \times \$135,000 = \$20,250
+   \]
+
+3. **Final Value of the House:**
+   \[
+   \text{Initial Investment} + \text{Increase} = \$135,000 + \$20,250 = \$155,250
+   \]
+
+4. **Profit Calculation:**
+   \[
+   \text{Final Value} - \text{Initial Investment} = \$155,250 - \$135,000 = \$20,250
+   \]
+
+**Answer:**
+\[
+\boxed{\$20,250}
+\]

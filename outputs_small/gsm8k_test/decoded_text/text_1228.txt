@@ -1,0 +1,53 @@
+<｜User｜>
+Q: Samantha has 12 fewer paintings than Shelley, and Shelley has 8 paintings more than Kim. If Samantha has 27 paintings, how many paintings does Kim have?
+A:<｜Assistant｜><think>
+First, I know that Samantha has 27 paintings.
+
+Samantha has 12 fewer paintings than Shelley. To find out how many Shelley has, I add 12 to Samantha's count: 27 + 12 = 39.
+
+Shelley has 8 more paintings than Kim. To find out how many Kim has, I subtract 8 from Shelley's count: 39 - 8 = 31.
+
+Therefore, Kim has 31 painting.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Samantha's Paintings:**
+   - Samantha has **27** paintings.
+
+2. **Relationship Between Samantha and Shelley:**
+   - Samantha has **12 fewer** paintings than Shelley.
+   - This can be written as:
+     \[
+     \text{Samantha's Paintings} = \text{Shelley's Paintings} - 12
+     \]
+   - Plugging in the known value:
+     \[
+     27 = \text{Shelley's Paintings} - 12
+     \]
+   - To find Shelley's paintings:
+     \[
+     \text{Shelley's Paintings} = 27 + 12 = 39
+     \]
+
+3. **Relationship Between Shelley and Kim:**
+   - Shelley has **8 more** paintings than Kim.
+   - This can be written as:
+     \[
+     \text{Shelley's Paintings} = \text{Kim's Paintings} + 8
+     \]
+   - Plugging in the known value:
+     \[
+     39 = \text{Kim's Paintings} + 8
+     \]
+   - To find Kim's paintings:
+     \[
+     \text{Kim's Paintings} = 39 - 8 = 31
+     \]
+
+**Final Answer:**
+\[
+\boxed{31}
+\]

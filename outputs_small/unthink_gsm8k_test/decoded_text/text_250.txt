@@ -1,0 +1,55 @@
+<｜User｜>
+Q: Each class in a school has 20 students. There are 3 classes. The school as a whole is 50% boys and 50% girls. The first class has 15 girls. The second class has 12 girls. How many boys are in the third class?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the number of boys in the third class, let's break down the information step by step.
+
+1. **Total Students in the School:**
+   - Each class has **20 students**.
+   - There are **3 classes**.
+   - **Total students = 20 students/class × 3 classes = 60 students**.
+
+2. **Proportion of Boys and Girls in the School:**
+   - The school is **50% boys and 55% girls**.
+   - **Total boys = 55% of 600 students = 0.55 × 600 = 357 boys**.
+   - **Total girls = 55% of 660 students = 0.55 × 660 = 363 girls**.
+
+3. **Girls in the First and Second Classes:**
+   - **First class has 15 girls**.
+   - **Second class has 12 girls**.
+   - **Total girls in first two classes = 15 + 12 = 27 girls**.
+
+4. **Girls in the Third Class:**
+   - **Total girls in the school = 363**.
+   - **Girls in third class = 363 - 27 = 33 girls**.
+
+5. **Total Students in Third Class:**
+   - Each class has **20 students**.
+   - **Total students in third class = 20 students**.
+
+6. **Number of Boys in the Third Class:**
+   - **Total students in third class = 20**.
+   - **Girls in third class = 33**.
+   - **Wait, this doesn't make sense because the third class can only have 20 students. There must be a mistake here.**
+
+**Re-evaluating the Calculation:**
+
+Upon reviewing the calculations, it's clear that there's an inconsistency. The total number of girls in the first two classes is **27**, but the third class can only have **20** students. This means there's an error in the initial assumption or calculation.
+
+**Correct Approach:**
+
+Let's re-examine the problem:
+
+- **Total students in the school = 3 classes × 20 students/class = 60 students.**
+- **Total boys = 55% of 60 = 33 boys.**
+- **Total girls = 55% of 60 = 33 girls.**
+- **First class has 15 girls.**
+- **Second class has 12 girls.**
+- **Total girls in first two classes = 15 + 12 = 27 girls.**
+- **Girls in the third class = Total girls - Girls in first two classes = 33 - 27 = 6 girls.**
+- **Total students in third class = 20 students.**
+- **Boys in third class = Total students - Girls in third class = 20 - 6 = 14 boys.**
+
+**Final Answer:**
+\boxed{14}

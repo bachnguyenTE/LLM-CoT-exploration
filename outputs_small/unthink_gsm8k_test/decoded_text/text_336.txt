@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Maria buys 8 shares of a stock for $8 each. The stock price increases 50% the first year Maria holds it, then decreases 25% in the second year. What is the final value of all Maria's shares?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Initial Investment:**
+   - Maria buys 8 shares at \$8 each.
+   - **Total Investment = 8 shares × \$8 = \$64**
+
+2. **First Year Increase:**
+   - Stock price increases by 50%.
+   - **Increase = 50% of \$64 = 0.5 × \$64 = \$35.20**
+   - **New Stock Price = \$64 + \$35.20 = \$99.20**
+   - **Total Value After First Year = 8 shares × \$99.20 = \$793.60**
+
+3. **Second Year Decrease:**
+   - Stock price decreases by 25%.
+   - **Decrease = 25% of \$793.60 = 0.25 × \$793.60 = \$198.40**
+   - **New Stock Price = \$793.60 - \$198.40 = \$595.20**
+   - **Total Value After Second Year = 8 shares × \$595.20 = \$4,761.60**
+
+4. **Final Value:**
+   - **Final Value = \$4,761.60**
+
+**Answer:** \boxed{\$4,\!761.60}

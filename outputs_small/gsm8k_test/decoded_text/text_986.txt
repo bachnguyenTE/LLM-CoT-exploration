@@ -1,0 +1,64 @@
+<｜User｜>
+Q: Katherine has 5 hanging baskets to fill.  In each basket she wants to add 3 petunias and 2 sweet potato vines.  The petunias cost $3.00 apiece and the sweet potato vines cost $2.50 apiece.  How much will she spend filling all 5 hanging baskets?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of petunias and sweet potato vines needed for all 5 baskets.
+
+Each basket requires 3 petunias, so for 5 baskets, that's 3 multiplied by 5, which equals 15 petunias.
+
+Similarly, each basket needs 2 sweet potato vines, so 2 multiplied by 5 gives 10 sweet potato vines.
+
+Next, I'll calculate the cost of the petunias. Each petunia costs $3.00, so 15 petunias will cost 5 multiplied by $3.00, which equals $15.00.
+
+Then, I'll calculate the cost of the sweet potato vines. Each vine costs $2.50, so 10 vines will cost 10 multiplied by $2.50, resulting in $25.00.
+
+Finally, I'll add the total cost of the petunias and the sweet potato vines to find the overall amount spent. $15.00 plus $25.00 equals $40.00.
+</think>
+
+**Solution:**
+
+Katherine wants to fill 5 hanging baskets. Each basket requires:
+
+- **3 petunias**
+- **2 sweet potato vines**
+
+**Step 1: Calculate the total number of petunias needed.**
+
+\[
+\text{Total petunias} = 3 \, \text{basket} \times 5 \, \text{baskets} = 3 \times 5 = 15 \text{ petunias}
+\]
+
+**Step 2: Calculate the total cost of petunias.**
+
+\[
+\text{Cost per petunia} = \$3.00
+\]
+\[
+\text{Total cost for petunias} = 15 \times \$3.00 = \$45.00
+\]
+
+**Step 3: Calculate the total number of sweet potato vines needed.**
+
+\[
+\text{Total sweet potato vines} = 2, \text{vine} \times 5, \text{baskets} = 2 \times 5 = 10 \text{ vines}
+\]
+
+**Step 4: Calculate the total cost of sweet potato vines.**
+
+\[
+\text{Cost per sweet potato vine} = \$2.50
+\]
+\[
+\text{Total cost for sweet potato vines} = 10 \times \$2.50 = \$25.00
+\]
+
+**Step5: Calculate the total amount spent.**
+
+\[
+\text{Total cost} = \text{Cost of petunias} + \text{Cost of sweet potato vines} = \$45.00 + \$25.00 = \$70.00
+\]
+
+**Final Answer:**
+
+\[
+\boxed{\$70.00}
+\]

@@ -1,0 +1,46 @@
+<｜User｜>
+Q: Denise and Daniel are reading the same book. Yesterday, Denise read 10 pages while Daniel read 13 pages. Today, Denise read 5 more than as many pages as what Daniel read yesterday, while Daniel was not able to read any pages today. How many more pages did Denise read more than Daniel?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- **Denise's reading:**
+  - Yesterday: 10 pages
+  - Today: 5 pages more than Daniel read yesterday
+- **Daniel's reading:**
+  - Yesterday: 13 pages
+  - Today: 0 pages
+
+**Step 1: Calculate the number of pages Daniel read today.**
+\[
+\text{Daniel today} = 0 \text{ pages}
+\]
+
+**Step 2: Calculate the number of pages Denise read today.**
+\[
+\text{Denise today} = \text{Daniel yesterday} + 5 = 13 + 5 = 18 \text{ pages}
+\]
+
+**Step 3: Calculate the total number of pages each read over the two days.**
+
+- **Denise's total:**
+\[
+\text{Total} = \text{Yesterday} + \text{Today} = 10 + 18 = 28 \text{ pages}
+\]
+
+- **Daniel's total:**
+\[
+\text{Total} = \text{Yesterday} + \text{Today} = 13 + 0 = 13 \text{ pages}
+\]
+
+**Step 4: Determine how many more pages Denise read than Daniel.**
+\[
+\text{Difference} = \text{Denise's total} - \text{Daniel's total} = 28 - 13 = 15 \text{ pages}
+\]
+
+**Final Answer:**
+\[
+\boxed{15}
+\]

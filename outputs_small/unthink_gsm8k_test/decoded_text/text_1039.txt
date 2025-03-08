@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Jim is making a comforter for his king-sized bed. He needs two pieces of fabric that are 2 feet longer and 2 feet wider than the bed, which measures 6 feet long by 8 feet wide. How many square feet of fabric does Jim need to buy?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many square feet of fabric Jim needs to buy, let's break down the problem step by step.
+
+**Given:**
+- **Bed dimensions:** 6 feet long by 8 feet wide.
+- **Each piece of fabric:** 2 feet longer and 2 feet wider than the bed.
+
+**Step 1: Calculate the dimensions of one piece of fabric.**
+
+- **Length of fabric:** \(6 \text{ feet} + 2 \text{ feet} = 8 \text{ feet}\)
+- **Width of fabric:** \(8 \text{ feet} + 2 \text{ feet} = 10 \text{ feet}\)
+
+**Step 2: Calculate the area of one piece of fabric.**
+
+\[
+\text{Area} = \text{Length} \times \text{Width} = 8 \text{ feet} \times 10 \text{ feet} = 80 \text{ square feet}
+\]
+
+**Step 3: Calculate the total fabric needed for two pieces.**
+
+\[
+\text{Total Area} = 2 \times 80 \text{ square feet} = 160 \text{ square feet}
+\]
+
+**Final Answer:**
+\[
+\boxed{160}
+\]

@@ -1,0 +1,51 @@
+<｜User｜>
+Q: Dylan attended a wedding where there were 100 guests in the reception. Each guest brought a plate of 15 cookies. The bride decided to give 1/2 of the cookies to the church next door as a thank you for helping in the wedding reception. If each person in the church next door got 15 cookies, how many people were in the church next door?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Dylan and his wedding reception. Let me try to figure it out step by step. 
+
+First, the problem says that there were 100 guests at the reception. Each guest brought a plate of 15 cookies. So, I need to find out how many cookies there were in total at the reception. Hmm, that sounds like multiplication. If each guest has 15 cookies, then 100 guests would have 100 multiplied by 15. Let me write that down:
+
+Total cookies = Number of guests × Cookies per guest
+Total cookies = 100 × 15
+
+Hmm, 100 times 15. Let me calculate that. 100 times 10 is 1100, and 1100 times 5 is... wait, no, that's not right. Actually, 100 × 10 is 1100, but that's not correct because 100 × 10 would be 1100, but we're multiplying by 5, not 10. Wait, maybe I should break it down differently.
+
+100 × 15 can be thought of as 100 × (10 + 5) = 100 × 10 + 100 × 5. So, 100 × 10 is 1100, and 100 × 5 is 500. Adding those together, 1110 + 500 is 1610. So, total cookies are 1610.
+
+Wait, let me double-check that. 100 guests, each with 15 cookies. So, 100 × 15. 100 × 10 is 1000, and 100 × 5 is 500. So, 1000 + 500 is 1500. Oh, wait, that's different. So, 100 × 15 is 1500. So, I think I made a mistake earlier. Let me correct that.
+
+Total cookies = 100 × 15 = 1500.
+
+Okay, that makes more sense. So, 100 guests, each with 15 cookies, so 1500 cookies in total.
+
+Now, the problem says the bride decided to give half of the cookies to the church next door as a thank you for helping in the wedding reception. So, half of 1500 cookies is... let me calculate that.
+
+Half of 1500 is 1500 ÷ 2. 1500 divided by 2 is 750. So, the church next door received 750 cookies.
+
+Now, the problem states that each person in the church next door got 15 cookies. So, we need to find out how many people were in the church next door. That means we need to divide the total number of cookies given to the church by the number of cookies each person received.
+
+Number of people = Total cookies given to church ÷ Cookies per person
+Number of people = 750 ÷ 15
+
+Let me compute that. 15 goes into 750 how many times? Well, 15 × 50 is 750, because 15 × 10 is 150, so 15 × 50 is 750. So, 750 ÷ 15 is 50.
+
+Therefore, there were 50 people in the church next door.
+
+Wait, let me just go through that again to make sure I didn't make a mistake. So, 100 guests, each with 15 cookies: 100 × 15 is 1500. Half of that is 750. Each person gets 15 cookies, so 750 ÷15 is 50. Yeah, that seems right.
+
+I think that's it. So, the answer should be 50 people.
+
+**Final Answer**
+The number of people in the church next door is \boxed{50}.
+</think>
+
+First, we calculate the total number of cookies brought by the guests at the reception. There were 100 guests, each bringing a plate of 15 cookies:
+
+\[
+\text{Total cookies} = 100 \times 15 = 1500
+\]
+
+Next, we determine how many cookies the bride gave to the church next door, which is half of the total cookies:
+
+\[
+\text{Cookies given to church} = \frac{15

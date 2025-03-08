@@ -1,0 +1,26 @@
+<｜User｜>
+Q: A company sold 4000 gallons of milk in jars to Mr. Marcellus' store at the cost of $3.5 per gallon. However, Mr. Marcellus later realized 2/5 of the amount of milk he purchased had passed the expiry date and could not be sold. He returned the sour milk to the company and ordered a refund. Calculate how much he got in refunds.
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much Mr. Marcellus received in refunds, follow these steps:
+
+1. **Calculate the total amount of milk sold:**
+   \[
+   4000 \text{ gallons}
+   \]
+
+2. **Determine the portion of milk that expired:**
+   \[
+   \frac{2}{5} \times 4000 = 1600 \text{ gallons}
+   \]
+
+3. **Calculate the refund amount:**
+   \[
+   1600 \text{ gallons} \times \$3.5 \text{ per gallon} = \$23,800
+   \]
+
+**Final Answer:**
+\[
+\boxed{23800}
+\]

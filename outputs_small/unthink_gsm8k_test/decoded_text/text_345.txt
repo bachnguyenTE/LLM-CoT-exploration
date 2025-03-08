@@ -1,0 +1,23 @@
+<｜User｜>
+Q: A restaurant has 40 tables with 4 legs and 50 tables with 3 legs. Calculate the total number of legs the restaurant's tables have.
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of legs for the restaurant's tables, we'll calculate the legs for each type of table separately and then sum them up.
+
+1. **40 tables with 4 legs each:**
+   \[
+   40 \text{ tables} \times 4 \text{ legs/table} = 160 \text{ legs}
+   \]
+
+2. **50 tables with 3 legs each:**
+   \[
+   50 \text{ tables} \times 3 \text{ legs/table} = 150 \text{ legs}
+   \]
+
+3. **Total legs:**
+   \[
+   160 \text{ legs} + 150 \text{ legs} = 315 \text{ legs}
+   \]
+
+**Final Answer:** \(\boxed{315}\)

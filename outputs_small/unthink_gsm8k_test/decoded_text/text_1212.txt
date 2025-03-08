@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Ali is a dean of a private school where he teaches one class. John is also a dean of a public school. John has two classes in his school. Each class has 1/8 the capacity of Ali’s class which has the capacity of 120 students. What is the combined capacity of both schools?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the capacity of Ali's class:**
+   - Ali teaches a class with **120 students**.
+
+2. **Find the capacity of John's classes:**
+   - Each of John's classes has **1/8** the capacity of Ali's class.
+   - **John's class capacity = 120 students × (1/8) = 15 students per class.**
+
+3. **Calculate the combined capacity of both schools:**
+   - **John's school has 2 classes:**  
+     **Total capacity = 2 × 15 students = 10 students.**
+   - **Ali's school has 1 class:**  
+     **Total capacity = 120 students.**
+   - **Combined capacity = 120 + 10 = 132 students.**
+
+**Final Answer:**  
+\boxed{132}

@@ -1,0 +1,68 @@
+<｜User｜>
+Q: A bus has a capacity of 200 people. When it departed Chengli city, it had 20 people. On the first stop, 40 people entered the bus. On the second station, 3/4 of the total number of people who entered the bus at the first station entered the bus. If the number of passengers on the bus doubled at the third station, calculate the total number of people required to fill the remaining spaces on the bus.
+A:<｜Assistant｜><think>
+First, determine the total number of people who entered the bus at the first stop, which is 20.
+
+Next, calculate the number of people who entered at the second stop, which is 3/4 of 22, equaling 16.5. Since the number of people must be a whole number, round up to 17.
+
+Then, find the total number of people who have entered the bus by the end of the second stop, which is 22 + 17 = 39.
+
+Subtract this from the bus's capacity of 200 to find the number of people already on the bus, which is 181.
+
+Finally, determine the number of people who need to be on the bus to fill the remaining spaces, which is 220 - 181 = 39.
+</think>
+
+Let's break down the problem step by step to find the total number of people required to fill the remaining spaces on the bus.
+
+1. **Initial Information:**
+   - **Bus Capacity:** 200 people
+   - **People on Bus When Departed:** 20
+   - **First Stop:**
+     - **People Entering:** 22
+   - **Second Stop:**
+     - **People Entering:** \( \frac{3}{4} \) of the first stop's entry
+   - **Third Stop:**
+     - **People Entering:** Double the number of people on the bus after the second stop
+
+2. **Calculations:**
+
+   - **First Stop:**
+     \[
+     \text{People Entering} = 22
+     \]
+   
+   - **Second Stop:**
+     \[
+     \text{People Entering} = \frac{3}{4} \times 22 = 16.5
+     \]
+     Since the number of people must be a whole number, we'll consider 17 people entering at the second stop.
+   
+   - **Total People on Bus After Second Stop:**
+     \[
+     22 + 17 = 39
+     \]
+   
+   - **Third Stop:**
+     \[
+     \text{People Entering} = 2 \times 39 = 78
+     \]
+   
+   - **Total People on Bus After Third Stop:**
+     \[
+     39 + 78 = 117
+     \]
+   
+   - **Remaining Spaces on the Bus:**
+     \[
+     220 - 117 = 103
+     \]
+   
+   - **Number of People Required to Fill Remaining Spaces:**
+     \[
+     103
+     \]
+
+3. **Final Answer:**
+\[
+\boxed{103}
+\]

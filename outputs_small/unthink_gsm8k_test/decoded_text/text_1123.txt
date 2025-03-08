@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Elijah has one dog that is one-fourth the weight of Kory’s dog and another dog that is half the weight of Kory’s dog. If Kory’s dog is 60 pounds, how much do Elijah and Kory’s dogs weigh altogether, in pounds?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total weight of Elijah and Kory’s dogs, let's break down the information step by step.
+
+1. **Kory’s Dog Weight:**
+   - Kory’s dog weighs **60 pounds**.
+
+2. **Elijah’s Dogs:**
+   - **First Dog:** One-fourth the weight of Kory’s dog.
+     - \( \frac{1}{4} \times 60 = 15 \) pounds.
+   - **Second Dog:** Half the weight of Kory’s dog.
+     - \( \frac{1}{2} \times60 = 30 \) pounds.
+
+3. **Total Weight of Elijah’s Dogs:**
+   - \( 15 + 30 = 45 \) pounds.
+
+4. **Total Weight of Both Dogs:**
+   - Kory’s dog: 60 pounds
+   - Elijah’s dogs: 45 pounds
+   - **Total:** \( 60 + 45 = 105 \) pounds.
+
+**Final Answer:** \(\boxed{105}\) pounds

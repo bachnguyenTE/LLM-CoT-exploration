@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Bruce works for 5 hours on Tuesday. On Wednesday he works twice the time he works on Tuesday. On Thursday he works 2 hours less than the time he works on Wednesday. How many hours does Bruce work in all these three days?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- **Tuesday:** Bruce works for 5 hours.
+- **Wednesday:** He works twice the time he works on Tuesday.
+- **Thursday:** He works 2 hours less than the time he works on Wednesday.
+
+**Step 1: Calculate the hours worked on Wednesday.**
+
+\[
+\text{Wednesday} = 2 \times \text{Tuesday} = 2 \times 5\ \text{hours} = 10\ \text{hours}
+\]
+
+**Step 2: Calculate the hours worked on Thursday.**
+
+\[
+\text{Thursday} = \text{Wednesday} - 2\ \text{hours} = 10\ \text{hours} - 2\ \text{hours} = 8\ \text{hours}
+\]
+
+**Step 3: Calculate the total hours worked over the three days.**
+
+\[
+\text{Total} = \text{Tuesday} + \text{Wednesday} + \text{Thursday} = 5\ \text{hours} + 10\ \text{hours} + 8\ \text{hours} = 23\ \text{hours}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{23}
+\]

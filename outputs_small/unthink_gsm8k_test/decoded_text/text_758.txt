@@ -1,0 +1,26 @@
+<｜User｜>
+Q: A bag has a 5% discount. If it is marked $140, how much will you pay after the discount?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the final price after a 5% discount on a \$140 item, follow these steps:
+
+1. **Calculate the discount amount:**
+   
+   \[
+   \text{Discount} = 5\% \times \$140 = 0.05 \times 140 = \$7.00
+   \]
+
+2. **Subtract the discount from the original price:**
+   
+   \[
+   \text{Final Price} = \$140 - \$7.00 = \$136.90
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$136.90}
+\]

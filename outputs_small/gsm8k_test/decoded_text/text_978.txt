@@ -1,0 +1,48 @@
+<｜User｜>
+Q: The red car is 40% cheaper than the blue car. The price of the blue car is $100. How much do both cars cost?
+A:<｜Assistant｜><think>
+First, I need to determine the price of the red car. The problem states that the red car is 40% cheaper than the blue car, which costs $100.
+
+To find the discount amount, I'll calculate 40% of $100:
+40% of $100 = 0.40 × 100 = $40.
+
+Next, I'll subtract the discount from the original price of the blue car to find the price of the red car:
+$100 - $40 = $56.
+
+Finally, I'll add the prices of both cars to find the total cost:
+$100 (blue car) + $56 (red car) = $156.
+</think>
+
+**Solution:**
+
+Let's determine the total cost of both cars step by step.
+
+1. **Price of the Blue Car:**
+   
+   The blue car costs \$100.
+
+2. **Price of the Red Car:**
+   
+   The red car is 40% cheaper than the blue car. To find the discount amount:
+   
+   \[
+   \text{Discount} = 40\% \times \$100 = 0.40 \times 100 = \$40
+   \]
+   
+   Therefore, the price of the red car is:
+   
+   \[
+   \$100 - \$40 = \$56
+   \]
+
+3. **Total Cost of Both Cars:**
+   
+   \[
+   \$100 (\text{blue car}) + \$56 (\text{red car}) = \$156
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{156}
+\]

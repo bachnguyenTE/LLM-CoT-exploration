@@ -1,0 +1,37 @@
+<｜User｜>
+Q: John adopts a dog.  He takes the dog to the groomer, which costs $100.  The groomer offers him a 30% discount for being a new customer.  How much does the grooming cost?
+A:<｜Assistant｜><think>
+First, determine the original cost of the grooming service, which is $100.
+
+Next, calculate the discount by finding 30% of $100. This is done by multiplying 0.30 by 100, resulting in $30.
+
+Finally, subtract the discount from the original cost to find the final amount the customer pays. So, $100 minus $30 equals $70.
+</think>
+
+**Solution:**
+
+1. **Determine the Original Cost:**
+   
+   The grooming service costs **\$100**.
+
+2. **Calculate the Discount:**
+   
+   The groomer offers a **30% discount** for being a new customer.
+   
+   \[
+   \text{Discount} = 30\% \times \$100 = 0.30 \times 100 = \$30
+   \]
+
+3. **Find the Final Cost:**
+   
+   Subtract the discount from the original cost.
+   
+   \[
+   \text{Final Cost} = \$100 - \$30 = \$70
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$70}
+\]

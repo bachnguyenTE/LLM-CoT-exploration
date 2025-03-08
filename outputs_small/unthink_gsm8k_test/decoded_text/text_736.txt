@@ -1,0 +1,45 @@
+<｜User｜>
+Q: Boris has 100 apples. Beck has 23 fewer apples than Boris. If Boris gives Beck 10 apples, how many fewer apples does Beck have than Boris now?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Boris has 100 apples.
+- Beck has 23 fewer apples than Boris.
+
+**Step 1: Calculate the number of apples Beck has initially.**
+
+\[
+\text{Beck's apples} = \text{Boris's apples} - 23 = 100 - 23 = 77
+\]
+
+**Step 2: Determine how many apples Boris gives to Beck.**
+
+\[
+\text{Apples given by Boris to Beck} = 10
+\]
+
+**Step 3: Calculate the new number of apples each has after the transfer.**
+
+- **Boris's new apples:**
+\[
+100 - 10 = 90
+\]
+
+- **Beck's new apples:**
+\[
+77 + 10 = 87
+\]
+
+**Step 4: Find how many fewer apples Beck has than Boris now.**
+
+\[
+\text{Difference} = \text{Boris's apples} - \text{Beck's apples} = 90 - 87 = 3
+\]
+
+**Final Answer:**
+\[
+\boxed{3}
+\]

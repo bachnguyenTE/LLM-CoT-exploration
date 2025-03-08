@@ -1,0 +1,51 @@
+<｜User｜>
+Q: George has 45% more pears than bananas. If George has 200 bananas, how many fruits does George have?
+A:<｜Assistant｜><think>
+First, I need to determine how many pears George has based on the number of bananas he has. George has 45% more pears than bananas, and he has 200 bananas.
+
+To find the number of pears, I'll calculate 45% of 200 bananas and then add that to the total number of bananas.
+
+45% of 200 is calculated as 0.45 multiplied by 200, which equals 90.
+
+Adding this to the 200 bananas, George has a total of 200 + 90 = 312 fruits.
+</think>
+
+**Solution:**
+
+Let's determine the total number of fruits George has step by step.
+
+1. **Number of Bananas:**
+   
+   George has **200 bananas**.
+
+2. **Number of Pears:**
+   
+   George has **45% more pears** than bananas. To find the number of pears:
+   
+   \[
+   \text{Number of Pears} = \text{Number of Bananas} + 45\% \text{ of Number of Bananas}
+   \]
+   
+   \[
+   \text{Number of Pears} = 200 + 0.45 \times 200
+   \]
+   
+   \[
+   \text{Number of Pears} = 200 + 90 = 290
+   \]
+
+3. **Total Number of Fruits:**
+   
+   \[
+   \text{Total Fruits} = \text{Number of Bananas} + \text{Number of Pears}
+   \]
+   
+   \[
+   \text{Total Fruits} = 200 + 290 = 490
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{490}
+\]

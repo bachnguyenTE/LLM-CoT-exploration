@@ -1,0 +1,51 @@
+<｜User｜>
+Q: Maggie spent a quarter of her money, while Riza spent one-third of her money. They each had $60. How much money do the two of them have left?
+A:<｜Assistant｜><think>
+</think>
+
+Let's determine how much money Maggie and Riza have left after spending.
+
+**Given:**
+- **Maggie** spent \( \frac{1}{4} \) of her money.
+- **Riza** spent \( \frac{1}{3} \) of her money.
+- **Both** had \$60 initially.
+
+**Step 1: Calculate the amount spent by Maggie.**
+
+Maggie spent \( \frac{1}{4} \) of \$60.
+
+\[
+\text{Amount spent by Maggie} = \frac{1}{4} \times 60 = 15 \text{ dollars}
+\]
+
+**Step 2: Calculate the remaining money with Maggie.**
+
+\[
+\text{Remaining money with Maggie} = 60 - 15 = 45 \text{ dollars}
+\]
+
+**Step 3: Calculate the amount spent by Riza.**
+
+Riza spent \( \frac{1}{3} \) of \$60.
+
+\[
+\text{Amount spent by Riza} = \frac{1}{3} \times 60 = 20 \text{ dollars}
+\]
+
+**Step 4: Calculate the remaining money with Riza.**
+
+\[
+\text{Remaining money with Riza} = 60 - 20 = 40 \text{ dollars}
+\]
+
+**Step5: Calculate the total money left with both Maggie and Riza.**
+
+\[
+\text{Total money left} = 45 + 40 = 85 \text{ dollars}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{85}
+\]

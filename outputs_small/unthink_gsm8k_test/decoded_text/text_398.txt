@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Nancy is cleaning out her old woodshed. She saw 90 spiders, 1/3rd as many millipedes as spiders, and a number of stink bugs equal to twice the number of millipedes minus 12. How many bugs did she count total?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the total number of bugs Nancy saw.
+
+1. **Spiders:**
+   - Nancy saw **90 spiders**.
+
+2. **Millipedes:**
+   - The number of millipedes is **1/3** of the number of spiders.
+   - Calculation: \( \frac{1}{3} \times 90 = 30 \) millipedes.
+
+3. **Stink Bugs:**
+   - The number of stink bugs is **twice the number of millipedes minus 12**.
+   - Calculation: \( 2 \times 30 - 12 = 60 - 12 = 54 \) stink bugs.
+
+4. **Total Number of Bugs:**
+   - Add the number of millipedes and stink bugs together.
+   - Calculation: \( 30 + 54 = 84 \) bugs.
+
+**Final Answer:** Nancy counted a total of \(\boxed{84}\) bugs.

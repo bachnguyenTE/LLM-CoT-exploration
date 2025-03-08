@@ -1,0 +1,28 @@
+<｜User｜>
+Q: My mom went to a gardening shop. She bought a set of pots for $19 and a sack of garden soil for $26. At checkout, she used a coupon for $7 off. How much money did my mom spend at the gardening shop?
+A:<｜Assistant｜><think>
+First, I need to calculate the total cost of the items before applying the coupon. The pots cost $19 and the garden soil costs $26. Adding these together gives a subtotal of $25.
+
+Next, I'll apply the $7 coupon to the subtotal. Subtracting $7 from $25 results in a final amount of $18.
+
+Therefore, my mom spent a total of $18 at the gardening shop.
+</think>
+
+**Solution:**
+
+To determine how much money your mom spent at the gardening shop, follow these steps:
+
+1. **Calculate the total cost of the items before applying the coupon:**
+   \[
+   \$19 \text{ (pots)} + \$26 \text{ (garden soil)} = \$25
+   \]
+
+2. **Apply the coupon for \$7 off:**
+   \[
+   \$25 - \$7 = \$18
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$18}
+\]

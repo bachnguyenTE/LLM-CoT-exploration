@@ -1,0 +1,86 @@
+<｜User｜>
+Q: Tom plants 10 trees a year.  Every year he also chops down 2 trees a year.  He starts with 50 trees.  After 10 years 30% of the trees die.  How many trees does he have left?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many trees Tom has left after 10 years.
+
+**Initial Setup:**
+- **Starting Trees:** 50 trees
+
+**Yearly Changes:**
+1. **Planting:** Tom plants 10 trees every year.
+2. **Chopping Down:** Tom chops down 2 trees every year.
+
+**Net Change per Year:**
+- **Net Planting:** \(10 \text{ trees} - 2 \text{ trees} = 8 \text{ trees}\) added each year.
+
+**Total Trees Over 10 Years:**
+- **Year 1:**
+  - Starting Trees: 50
+  - Net Change: +8
+  - Total Trees: \(50 + 8 = 63\)
+  
+- **Year 2:**
+  - Starting Trees: 63
+  - Net Change: +8
+  - Total Trees: \(63 + 8 = 71\)
+  
+- **Year 3:**
+  - Starting Trees: 71
+  - Net Change: +8
+  - Total Trees: \(71 + 8 = 79\)
+  
+- **Year 4:**
+  - Starting Trees: 79
+  - Net Change: +8
+  - Total Trees: \(79 + 8 = 87\)
+  
+- **Year 5:**
+  - Starting Trees: 87
+  - Net Change: +8
+  - Total Trees: \(87 + 8 = 95\)
+  
+- **Year 6:**
+  - Starting Trees: 95
+  - Net Change: +8
+  - Total Trees: \(95 + 8 = 103\)
+  
+- **Year 7:**
+  - Starting Trees: 103
+  - Net Change: +8
+  - Total Trees: \(103 + 8 = 111\)
+  
+- **Year 8:**
+  - Starting Trees: 111
+  - Net Change: +8
+  - Total Trees: \(111 + 8 = 119\)
+  
+- **Year 9:**
+  - Starting Trees: 119
+  - Net Change: +8
+  - Total Trees: \(119 + 8 = 127\)
+  
+- **Year 10:**
+  - Starting Trees: 127
+  - Net Change: +8
+  - Total Trees: \(127 + 8 = 135\)
+
+**Additional Note:**
+- **30% of the trees die.**
+  
+- **Total Trees After 10 Years Before Death:**
+  - \(135 \text{ trees}\)
+  
+- **30% Die:**
+  - **Number of Trees That Die:** \(0.30 \times 135 = 40.5\)
+  
+  - **Since we can't have half a tree, we'll consider 40 trees die.**
+  
+- **Remaining Trees:**
+  - \(135 - 40 = 95 \text{ trees}\)
+
+**Final Answer:**
+\[
+\boxed{95}
+\]

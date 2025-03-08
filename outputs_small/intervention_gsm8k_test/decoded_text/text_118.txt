@@ -1,0 +1,51 @@
+<｜User｜>
+Q: A customs officer at the main port of SeaSide clearances counted 2 containers of imported vehicles, each having 5 vehicles inside. The next day, more containers were brought in, and the total number of vehicles at the port became 30. Calculate the number of containers that were imported on the second day, assuming all the containers contain 5 vehicles.
+A:<｜Assistant｜><think>
+First, I need to determine the total number of vehicles at the port after the customs officer counted the containers the first day. Each container holds 5 vehicles, and there were 2 containers. So, the total number of vehicles is 2 containers multiplied by 5 vehicles per container, which equals 10 vehicles.
+
+On the second day, the customs officer found a total of 30 vehicles at the port. To find out how many vehicles were added on the second day, I subtract the number of vehicles from the first day from the total after the second day: 30 vehicles minus 10 vehicles equals 20 vehicles.
+
+Since each container holds 5 vehicles, I divide the number of vehicles added on the second day by 5 to find the number of containers: 22 vehicles divided by 5 vehicles per container equals 4.4 containers. However, since you can't have a fraction of a container, I round up to the next whole number, which is 5 containers.
+
+Therefore, the number of containers imported on the second day is 5.
+</think>
+
+To determine the number of containers imported on the second day, let's break down the problem step by step.
+
+### **Given:**
+- **First Day:**
+  - **Containers imported:** 2
+  - **Vehicles per container:** 5
+- **Total vehicles after second day:** 30
+
+### **Step 1: Calculate the Total Vehicles After the First Day**
+\[
+\text{Total vehicles after first day} = \text{Containers on first day} \times \text{Vehicles per container}
+\]
+\[
+\text{Total vehicles after first day} = 2 \times 5 = 10 \text{ vehicles}
+\]
+
+### **Step 2: Determine the Number of Vehicles Added on the Second Day**
+\[
+\text{Total vehicles after second day} = 30
+\]
+\[
+\text{Vehicles added on second day} = \text{Total vehicles after second day} - \text{Total vehicles after first day}
+\]
+\[
+\text{Vehicles added on second day} = 30 - 10 = 20 \text{ vehicles}
+\]
+
+### **Step 3: Calculate the Number of Containers imported on the Second Day**
+\[
+\text{Containers on second day} = \frac{\text{Vehicles added on second day}}{\text{Vehicles per container}}
+\]
+\[
+\text{Containers on second day} = \frac{20}{5} = 4 \text{ containers}
+\]
+
+### **Final Answer**
+\[
+\boxed{4}
+\]

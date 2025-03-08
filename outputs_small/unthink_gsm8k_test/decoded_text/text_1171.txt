@@ -1,0 +1,44 @@
+<｜User｜>
+Q: Tom has 4 bedrooms in his house.  They measure 20 by 12 feet each.  The living room is 5 times bigger than one bedroom.  The rest of the house is 1000 square feet.  What is the total area, in square feet, of the house?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total area of Tom's house, let's break down the information step by step.
+
+1. **Bedrooms:**
+   - Tom has **4 bedrooms**.
+   - Each bedroom measures **20 feet by 12 feet**.
+   
+   **Area of one bedroom:**
+   \[
+   \text{Area} = 20 \,00 \times 12 = 240 \text{ square feet}
+   \]
+   
+   **Total area of all bedrooms:**
+   \[
+   4 \times 240 = 960 \text{ square feet}
+   \]
+
+2. **Living Room:**
+   - The living room is **5 times bigger** than one bedroom.
+   
+   **Area of the living room:**
+   \[
+   5 \times 240 = 1,200 \text{ square feet}
+   \]
+
+3. **Remaining Area:**
+   - The rest of the house is **1,000 square feet**.
+
+4. **Total Area of the House:**
+   \[
+   \text{Total Area} = \text{Bedrooms} + \text{Living Room} + \text{Remaining Area}
+   \]
+   \[
+   \text{Total Area} = 960 + 1,200 + 1,000 = 3,160 \text{ square feet}
+   \]
+
+**Final Answer:**
+\[
+\boxed{3160}
+\]

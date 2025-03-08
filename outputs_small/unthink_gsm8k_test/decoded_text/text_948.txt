@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
+A:<｜Assistant｜><think>
+</think>
+
+To determine Cayley's total commission from the sales of newspapers, follow these steps:
+
+1. **Calculate the commission for the New York Times:**
+   - **Number of copies sold:** 6
+   - **Price per copy:** \$5
+   - **Commission rate:** 10%
+   - **Commission earned:** \( 6 \times \$5 \times 10\% = \$30 \)
+
+2. **Calculate the commission for the Wall Street Journal:**
+   - **Number of copies sold:** 10
+   - **Price per copy:** \$15
+   - **Commission rate:** 8%
+   - **Commission earned:** \( 10 \times \$15 \times 8\% = \$40 \)
+
+3. **Total commission earned:**
+   - **Total:** \( \$33 + \$44 = \$77 \)
+
+**Final Answer:** \(\boxed{77}\)

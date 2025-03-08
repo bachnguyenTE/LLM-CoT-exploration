@@ -1,0 +1,43 @@
+<｜User｜>
+Q: The area of Billie's rectangular bedroom is 360 square feet. If the length of his room is 3 yards, what is the perimeter of the room in feet?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Convert the Length to Feet:**
+   - Given length of the room: 3 yards.
+   - Since 1 yard = 3 feet, 
+     \[
+     3 \text{ yards} = 3 \times 3 = 9 \text{ feet}.
+     \]
+
+2. **Find the Width:**
+   - The area of the room is given as 360 square feet.
+   - Area formula for a rectangle: 
+     \[
+     \text{Area} = \text{Length} \times \text{Width}.
+     \]
+   - Plugging in the known values:
+     \[
+     360 = 9 \times \text{Width}.
+     \]
+   - Solve for Width:
+     \[
+     \text{Width} = \frac{360}{9} = 40 \text{ feet}.
+     \]
+
+3. **Calculate the Perimeter:**
+   - Perimeter formula for a rectangle:
+     \[
+     \text{Perimeter} = 2 \times (\text{Length} + \text{Width}).
+     \]
+   - Plugging in the values:
+     \[
+     \text{Perimeter} = 2 \times (9 + 40) = 2 \times 49 = 98 \text{ feet}.
+     \]
+
+**Final Answer:**
+\[
+\boxed{98 \text{ feet}}
+\]

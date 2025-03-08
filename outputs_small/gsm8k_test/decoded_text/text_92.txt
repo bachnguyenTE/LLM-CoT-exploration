@@ -1,0 +1,53 @@
+<｜User｜>
+Q: Emily has 4 kids named Amy, Jackson, Corey, and James. Amy is 5 years older than Jackson and 2 years younger than Corey. If James is 10 and is 1 year younger than Corey, how old is Jackson?
+A:<｜Assistant｜><think>
+First, I'll identify the relationships between the ages of Emily's four kids.
+
+Emily has four kids: Amy, Jackson, Corey, and James.
+
+From the problem, we know:
+1. Amy is 5 years older than Jackson.
+2. Amy is 2 years younger than Corey.
+3. James is 10 years old and is 1 year younger than Corey.
+
+I'll start by determining Corey's age. Since James is 10 and he is 1 year younger than Corey, Corey must be 11 + 1 = 12 years old.
+
+Next, using the information that Amy is 2 years younger than Corey, Amy's age is 12 - 2 = 10 years old.
+
+Finally, since Amy is 5 years older than Jackson, Jackson's age is 10 - 5 = 7 years old.
+</think>
+
+Let's determine the ages of Emily's four kids step by step.
+
+**Given:**
+- Emily has four kids: Amy, Jackson, Corey, and James.
+- Relationships:
+  1. Amy is 5 years older than Jackson.
+  2. Amy is 2 years younger than Corey.
+  3. James is 10 years old and is 1 year younger than Corey.
+
+**Step 1: Find Corey's Age**
+
+James is 10 years old and is 1 year younger than Corey. Therefore, Corey's age is:
+\[
+\text{Corey's age} = \text{James's age} + 1 = 10 + 1 = 11 \text{ years}
+\]
+
+**Step 2: Find Amy's Age**
+
+Amy is 2 years younger than Corey. Therefore, Amy's age is:
+\[
+\text{Amy's age} = \text{Corey's age} - 2 = 11 - 2 = 9 \text{ years}
+\]
+
+**Step 3: Find Jackson's Age**
+
+Amy is 5 years older than Jackson. Therefore, Jackson's age is:
+\[
+\text{Jackson's age} = \text{Amy's age} - 5 = 9 - 5 = 4 \text{ years}
+\]
+
+**Final Answer:**
+\[
+\boxed{4}
+\]

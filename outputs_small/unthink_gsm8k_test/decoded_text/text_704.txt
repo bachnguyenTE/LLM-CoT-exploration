@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Gerald and Julia divided $100 in the ratio 3:2. If Gerald spent $10 on a book, how much money did he have left?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Gerald and Julia divided \$100 in the ratio of 3:2. This means that the total parts are 3 + 2 = 5 parts.
+
+1. **Calculate the value of one part:**
+   
+   \[
+   \text{Value of one part} = \frac{\$100}{5} = \$20
+   \]
+
+2. **Determine Gerald's share:**
+   
+   Gerald has 3 parts.
+   
+   \[
+   \text{Gerald's share} = 3 \times \$20 = \$60
+   \]
+
+3. **Subtract the amount Gerald spent on the book:**
+   
+   Gerald spent \$10 on a book.
+   
+   \[
+   \text{Gerald's remaining money} = \$60 - \$10 = \$59
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$59}
+\]

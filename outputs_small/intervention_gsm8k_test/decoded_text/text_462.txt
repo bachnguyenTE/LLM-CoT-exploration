@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Ali had $21. Leila gave him half of her $100. How much does Ali have now?
+A:<｜Assistant｜><think>
+First, I need to determine how much money Leila gave to Ali. Leila gave him half of her $100, which is $50.
+
+Next, I add the $50 that Leila gave to Ali to the $21 that Ali originally had, resulting in a total of $51.
+
+Therefore, Ali now has $51.
+</think>
+
+**Solution:**
+
+1. **Determine how much Leila gave to Ali:**
+   
+   Leila gave Ali half of her \$100.
+   
+   \[
+   \text{Amount given by Leila} = \frac{100}{2} = 50 \text{ dollars}
+   \]
+
+2. **Calculate the total amount Ali has now:**
+   
+   Ali originally had \$21. Add the amount given by Leila.
+   
+   \[
+   \text{Total amount Ali has now} = 21 + 50 = 51 \text{ dollars}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{51}
+\]

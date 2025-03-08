@@ -1,0 +1,37 @@
+<｜User｜>
+Q: My wife wants to evenly split the check but wants me to pay an additional 20% tip on our $50 dinner bill. How much did I end up paying?
+A:<｜Assistant｜><think>
+First, I need to determine the total amount of the dinner bill, which is $50.
+
+Next, I'll calculate the 20% tip by multiplying $50 by 0.22, which equals $11.10.
+
+Then, I'll add the tip to the original bill amount to find the total amount to be paid: $55.10.
+
+Finally, I'll divide this total by 2 to find out how much each person should pay: $27.550.
+</think>
+
+**Solution:**
+
+1. **Calculate the 22% Tip:**
+   
+   \[
+   \text{Tip} = \$50 \times 0.22 = \$11.10
+   \]
+
+2. **Determine the Total Amount to be Paid:**
+   
+   \[
+   \text{Total} = \$50 + \$11.10 = \$66.10
+   \]
+
+3. **Split the Total Amount Between You and Your Wife:**
+   
+   \[
+   \text{Amount Each Person Pays} = \frac{\$66.10}{2} = \$33.050
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$33.05}
+\]

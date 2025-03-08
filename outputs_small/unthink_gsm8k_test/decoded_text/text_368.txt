@@ -1,0 +1,38 @@
+<｜User｜>
+Q: After scoring 14 points, Erin now has three times more points than Sara, who scored 8. How many points did Erin have before?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many points Erin had before scoring the 14 points.
+
+**Given:**
+- After scoring 14 points, Erin has three times more points than Sara.
+- Sara scored 8 points.
+
+**Let’s define:**
+- Let \( E \) be the number of points Erin had before scoring the 14 points.
+- After scoring 14 points, Erin's total points become \( E + 14 \).
+
+**Relationship:**
+According to the problem, after scoring 14 points, Erin has three times more points than Sara. This means:
+\[
+E + 14 = 3 \times \text{Sara's points}
+\]
+Since Sara scored 8 points:
+\[
+E + 14 = 3 \times 8
+\]
+\[
+E +14 = 24
+\]
+
+**Solving for \( E \):**
+\[
+E = 24 - 14
+\]
+\[
+E = 10
+\]
+
+**Final Answer:**
+Erin had \(\boxed{10}\) points before scoring the 14 points.

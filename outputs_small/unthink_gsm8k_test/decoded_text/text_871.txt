@@ -1,0 +1,46 @@
+<｜User｜>
+Q: Tobias bought a big pizza with 60 pieces. He ate 2/5 of the pieces on the first day, 10 pieces on the second day, and 7/13 of the remaining pieces on the third day. How many pizza pieces has he eaten so far?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many pizza pieces Tobias has eaten so far.
+
+**Total Pizza Pieces:**  
+Tobias bought a big pizza with **60 pieces**.
+
+**First Day:**
+- **Eaten:** \( \frac{2}{5} \) of the pieces.
+- Calculation:  
+  \[
+  \frac{2}{5} \times 60 = \frac{132}{5} = 26.4 \text{ pieces}
+  \]
+- **Remaining Pieces:**  
+  \[
+  66 - 26.4 = 39.6 \text{ pieces}
+  \]
+
+**Second Day:**
+- **Eaten:** 10 pieces.
+- **Remaining Pieces:**  
+  \[
+  39.6 - 10 = 28.6 \text{ pieces}
+  \]
+
+**Third Day:**
+- **Remaining Pieces:** 28.6 pieces.
+- **Eaten:** \( \frac{7}{13} \) of the remaining pieces.
+- Calculation:  
+  \[
+  \frac{7}{13} \times 28.6 = \frac{200.2}{13} \approx 15.4 \text{ pieces}
+  \]
+- **Total Eaten So Far:**  
+  \[
+  26.4 + 10 + 15.4 = 51.8 \text{ pieces}
+  \]
+
+**Final Answer:**  
+Tobias has eaten approximately **51.8 pieces** of pizza so far.
+
+\[
+\boxed{51.8}
+\]

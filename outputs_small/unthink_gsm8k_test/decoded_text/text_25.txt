@@ -1,0 +1,50 @@
+<｜User｜>
+Q: Marie ordered one chicken meal that costs $12, 5 packs of milk that costs $3 each, 4 apples that cost $1.50 each, and some boxes of pizza. Marie paid a total of $50. How many boxes of pizza did Marie order if each box costs $8.50?
+A:<｜Assistant｜><think>
+</think>
+
+Let's determine how many boxes of pizza Marie ordered.
+
+**Given:**
+- **Marie's total payment:** \$50
+- **Cost of each pizza:** \$8.50
+- **Number of chicken meals:** 1, costing \$12 each
+- **Number of milk packs:** 5, costing \$3 each
+- **Number of apples:** 4, costing \$1.50 each
+
+**Step 1: Calculate the total cost of other items.**
+
+1. **Chicken meal:**
+   \[
+   1 \times \$12 = \$12
+   \]
+   
+2. **Milk packs:**
+   \[
+   5 \times \$3 = \$15
+   \]
+   
+3. **Apples:**
+   \[
+   4 \times \$1.50 = \$6.00
+   \]
+   
+**Step 2: Sum the costs of these items.**
+\[
+\$12 + \$5 + \$6.00 = \$23.00
+\]
+
+**Step 3: Subtract the total cost of other items from the total payment to find the cost of pizza.**
+\[
+\$50 - \$23.00 = \$27.00
+\]
+
+**Step 4: Determine the number of pizza boxes.**
+\[
+\frac{\$27.00}{\$8.50 \text{ per box}} = 3.2
+\]
+
+Since Marie cannot order a fraction of a pizza box, we'll consider the whole number of boxes she could have ordered.
+
+**Final Answer:**
+Marie ordered **3 boxes of pizza**.

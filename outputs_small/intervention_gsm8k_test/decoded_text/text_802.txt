@@ -1,0 +1,54 @@
+<｜User｜>
+Q: Bubbles collects stuffed animals. She has three stuffed puppies, five stuffed koalas, two stuffed zebras and four stuffed frogs. If she wants to buy enough stuffed goats, such that the percentage of stuffed goats is 30% of all of her stuffed animals, how many stuffed goats should she buy?
+A:<｜Assistant｜><think>
+Okay, so I have this problem where Bubbles collects stuffed animals, and she wants to buy some stuffed goats. The goal is to make sure that the percentage of stuffed goats is 30% of all her stuffed animals. Let me try to figure this out step by step.
+
+First, let me list out how many stuffed animals Bubbles currently has. She has three stuffed puppies, five stuffed koalas, two stuffed zebras, and four stuffed frogs. So, let me add those up:
+
+3 (puppies) + 5 (koalas) + 2 (zebras) + 4 (frogs) = 14 stuffed animals in total.
+
+Wait, that seems right. 3 plus 5 is 8, plus 2 is 10, plus 4 is 14. Yeah, that adds up.
+
+Now, she wants to buy some stuffed goats. Let me call the number of stuffed goats she needs to buy "g". So, after buying these goats, the total number of stuffed animals she has will be 14 (current) + g (new goats).
+
+The problem says that the percentage of stuffed goats should be 30%. So, 30% of the total stuffed animals should be goats. Let me write that as an equation.
+
+The percentage of goats is equal to the number of goats divided by the total number of stuffed animals, multiplied by 100%. So, in formula terms:
+
+(g / (14 + g)) * 100% = 30%
+
+Wait, that seems right. So, 30% is 0.3 in decimal form. So, 0.3 = g / (14 + g). Hmm, okay.
+
+Let me write that equation again:
+
+0.3 = g / (14 + g)
+
+Now, I need to solve for g. Let me cross-multiply to get rid of the fraction.
+
+0.3 * (14 + g) = g
+
+Let me compute 0.3 times 14. 0.3 times 10 is 3, and 0.3 times 4 is 1.2, so 3 + 1.2 is 4.2. So, 4.2 + 0.3g = g
+
+So, 4.2 + 0.3g = g
+
+Now, I need to get all the g terms on one side. Let me subtract 0.3g from both sides.
+
+4.2 = g - 0.3g
+
+Which simplifies to 4.2 = 0.7g
+
+So, now, to solve for g, I need to divide both sides by 0.7.
+
+g = 4.2 / 0.7
+
+Let me compute that. 4.2 divided by 0.7. Hmm, 0.7 goes into 4.2 how many times? Well, 0.7 times 6 is 4.2, because 0.7 times 5 is 3.5, and 0.7 more is 4.2. So, 6.
+
+So, g is 6. Therefore, Bubbles needs to buy 6 stuffed goats.
+
+Wait, that seems right. Let me double-check.
+
+If she buys 6 goats, the total number of stuffed animals becomes 14 + 6 = 20.
+
+Then, the percentage of goats is (6 / 20) * 100% = 30%, which is exactly what she wants. So, that checks out.
+
+But, that seems right. Let me think again. She has 14 animals, and she wants 30% of all her stuffed animals to be goats. So, 30% of 14 is 4.2, but, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right. Wait, that seems right.

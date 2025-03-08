@@ -1,0 +1,37 @@
+<｜User｜>
+Q: It costs $194 per meter to repave a street. Monica's street is 150 meters long. How much more does it cost to repave Lewis' street, which is 490 meters long?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much more it costs to repave Lewis' street compared to Monica's street, follow these steps:
+
+1. **Calculate the cost for Monica's street:**
+   \[
+   \text{Cost}_{\text{Monica}} = \text{Cost per meter} \times \text{Length of Monica's street}
+   \]
+   \[
+   \text{Cost}_{\text{Monica}} = \$194 \times 150 \, \text{m} = \$29,340
+   \]
+
+2. **Calculate the cost for Lewis' street:**
+   \[
+   \text{Cost}_{\text{Lewis}} = \text{Cost per meter} \times \text{Length of Lewis' street}
+   \]
+   \[
+   \text{Cost}_{\text{Lewis}} = \$194 \times 490 \,00 \, \text{m} = \$96,060
+   \]
+
+3. **Find the difference in cost:**
+   \[
+   \Delta \text{Cost} = \text{Cost}_{\text{Lewis}} - \text{Cost}_{\text{Monica}}
+   \]
+   \[
+   \Delta \text{Cost} = \$96,060 - \$29,340 = \$66,60
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$66.60}
+\]

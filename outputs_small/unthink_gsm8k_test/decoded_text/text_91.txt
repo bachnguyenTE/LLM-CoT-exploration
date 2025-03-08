@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Jan has three times the number of pets as Marcia. Marcia has two more pets than Cindy. If Cindy has four pets, how many total pets do the three have?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+1. Jan has three times the number of pets as Marcia.
+2. Marcia has two more pets than Cindy.
+3. Cindy has four pets.
+
+**Step 1: Determine the number of pets Marcia has.**
+
+Cindy has **4 pets**.
+
+Marcia has **two more pets** than Cindy:
+\[
+\text{Marcia's pets} = \text{Cindy's pets} + 2 = 4 + 2 = 6
+\]
+
+**Step 2: Determine the number of pets Jan has.**
+
+Jan has **three times the number of pets** as Marcia:
+\[
+\text{Jan's pets} = 3 \times \text{Marcia's pets} = 3 \times 6 = 18
+\]
+
+**Step 3: Calculate the total number of pets.**
+
+Add the number of pets each person has:
+\[
+\text{Total pets} = \text{Cindy's pets} + \text{Marcia's pets} + \text{Jan's pets} = 4 + 6 + 18 = 28
+\]
+
+**Final Answer:**
+\[
+\boxed{28}
+\]

@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Kelian has two recipes for preparing dishes, one having 20 instructions and the second one having twice as many instructions as the first one. How many instructions does Kelian have to read to prepare the two dishes?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Identify the number of instructions for each recipe:**
+   - **First recipe:** 20 instructions.
+   - **Second recipe:** Twice as many instructions as the first one.
+
+2. **Calculate the number of instructions for the second recipe:**
+   \[
+   \text{Instructions for second recipe} = 2 \times 20 = 40
+   \]
+
+3. **Determine the total number of instructions Kelian has to read:**
+   \[
+   \text{Total instructions} = \text{Instructions for first recipe} + \text{Instructions for second recipe} = 20 + 40 = 60
+   \]
+
+**Final Answer:**
+\[
+\boxed{60}
+\]

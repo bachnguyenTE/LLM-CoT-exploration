@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Violetta wants to buy new crayons. She needs them in 5 different colors and prepared $20 for this purchase. One crayon costs $2. How much change will she get?
+A:<｜Assistant｜><think>
+First, I need to determine the total cost of the 5 crayons Violetta wants to buy. Each crayon costs $2, so the total cost is 5 multiplied by $2, which equals $10.
+
+Next, Violetta has prepared $20 for her purchase. To find out how much change she will receive, I subtract the total cost of the crayons from the amount she has prepared. That is, $20 minus $10 equals $10.
+
+Therefore, Violetta will receive $10 in change after purchasing the 5 crayons.
+</think>
+
+**Solution:**
+
+1. **Determine the total cost of the crayons:**
+   
+   - Number of crayons needed: 5
+   - Cost per crayon: \$2
+   
+   \[
+   \text{Total Cost} = 5 \text{ crayons} \times \$2/\text{crayon} = \$10
+   \]
+
+2. **Calculate the change Violetta will receive:**
+   
+   - Amount Violetta has prepared: \$20
+   - Total Cost of crayons: \$10
+   
+   \[
+   \text{Change} = \$20 - \$10 = \$10
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$10}
+\]

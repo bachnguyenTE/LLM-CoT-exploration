@@ -1,0 +1,32 @@
+<｜User｜>
+Q: A classroom has a whiteboard which is shared between the 4 teachers who take turns using the classroom. Each teacher has 2 lessons per day and uses the whiteboard in each lesson. If the whiteboard is cleaned 3 times per lesson, how many times is the whiteboard cleaned in a day?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Teachers:** There are 4 teachers who share the whiteboard.
+
+2. **Lessons per Teacher per Day:** Each teacher takes 2 lessons per day.
+
+3. **Whiteboard Usage per Lesson:** The whiteboard is used by each teacher in every lesson.
+
+4. **Cleaning Frequency:** The whiteboard is cleaned 3 times per lesson.
+
+**Calculation:**
+
+- **Total Lessons per Day:** 
+  \[
+  4 \text{ teachers} \times 2 \text{ lessons/teacher} = 8 \text{ lessons/day}
+  \]
+
+- **Total Cleanings per Lesson:** 3 cleanings per lesson.
+
+- **Total Cleanings per Day:**
+  \[
+  8 \text{ lessons/day} \times 3 \text{ cleanings/lesson} = 24 \text{ cleanings/day}
+  \]
+
+**Final Answer:** The whiteboard is cleaned **24 times** in a day.

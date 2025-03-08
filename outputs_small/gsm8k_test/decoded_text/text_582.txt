@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Juan asked his neighbor, Herb, how much his house was worth. Herb answered that he paid $76,000 for the house. If Juan's house is 30% less expensive than Herb's, calculate the value of the two houses combined.
+A:<｜Assistant｜><think>
+First, I need to determine the value of Juan's house. Since it is 30% less expensive than Herb's house, which costs $76,000, I'll calculate 30% of $76,000.
+
+30% of $76,000 is calculated as 0.30 multiplied by 76,000, which equals $22,800.
+
+Next, I'll subtract this amount from Herb's house price to find Juan's house price: $76,000 minus $22,800 equals $53,200.
+
+Finally, to find the combined value of both houses, I'll add Juan's house price to Herb's house price: $53,200 plus $76,000 equals $129,200.
+</think>
+
+**Solution:**
+
+1. **Determine the value of Juan's house:**
+   
+   - **Herb's house price:** \$76,000
+   - **Juan's house is 30% less expensive.**
+   
+   Calculate 30% of \$76,000:
+   \[
+   0.30 \times 76,\!000 = 22,\!800
+   \]
+   
+   Subtract this amount from Herb's house price to find Juan's house price:
+   \[
+   76,\!000 - 22,\!800 = 53,\!200
+   \]
+   
+2. **Calculate the combined value of both houses:**
+   
+   \[
+   53,\!200 + 76,\!000 = 129,\!200
+   \]
+   
+**Final Answer:**
+\[
+\boxed{129,\!200}
+\]

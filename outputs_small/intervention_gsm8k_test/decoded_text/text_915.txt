@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Bruce works for 5 hours on Tuesday. On Wednesday he works twice the time he works on Tuesday. On Thursday he works 2 hours less than the time he works on Wednesday. How many hours does Bruce work in all these three days?
+A:<｜Assistant｜><think>
+Okay, so I need to figure out how many hours Bruce works from Tuesday to Thursday. Let me break this down step by step. 
+
+First, on Tuesday, Bruce works for 5 hours. That's straightforward. So, Tuesday = 5 hours.
+
+Then, on Wednesday, he works twice the time he works on Tuesday. Hmm, so if Tuesday is 5 hours, then Wednesday would be 2 times 5. Let me write that down: Wednesday = 2 * Tuesday. So, Wednesday = 2 * 5 = 10 hours. Wait, that seems right. So, Wednesday is 10 hours.
+
+Now, on Thursday, he works 2 hours less than the time he works on Wednesday. So, Thursday = Wednesday - 2 hours. Since Wednesday is 10 hours, Thursday would be 10 - 2 = 8 hours. Let me make sure that makes sense. If he works twice as much as Tuesday, that's 10, and then subtract 2, so yes, 8 hours on Thursday.
+
+Now, to find the total hours he works from Tuesday to Thursday, I need to add up the hours from each day. So, that would be Tuesday + Wednesday + Thursday. Plugging in the numbers: 5 + 10 + 8.
+
+Let me add them up. 5 + 10 is 15, and then 15 + 8 is 13. Wait, that seems right. So, 5 + 10 is 15, and 15 + 8 is 23. So, total hours are 23.
+
+Wait, that seems right. Let me double-check my calculations. Tuesday is 5, Wednesday is 10, Thursday is 8. 5 + 10 is 15, and 15 + 8 is 23. Yeah, that adds up. So, the total hours Bruce works in these three days is 23 hours.
+
+I think that's correct. I don't see any mistakes in my calculations. So, I'm confident that the answer is 23 hours.
+
+**Final Answer**
+The total number of hours Bruce works is \boxed{23}.
+</think>
+
+Bruce works for 5 hours on Tuesday. On Wednesday, he works twice the time he works on Tuesday, which is \(2 \times 5 = 10\) hours. On Thursday, he works 2 hours less than the time he works on Wednesday, which is \(10 - 2 = 8\) hours. 
+
+To find the total number of hours Bruce works from Tuesday to Thursday, we add the hours from each day:
+\[
+5 + 10 + 8 = 23
+\]
+
+Thus, the total number of hours Bruce works is \(\boxed{23}\).

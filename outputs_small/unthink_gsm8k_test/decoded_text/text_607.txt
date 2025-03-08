@@ -1,0 +1,29 @@
+<｜User｜>
+Q: The jumbo bottle of shampoo costs $24.00.  The directions say to use 2 pumps of shampoo and this will give you 120 washings.  If Jackie only uses 1 pump per wash, how much will each pump cost, in cents?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total cost of the shampoo:**
+   - The jumbo bottle costs **\$24.00**.
+
+2. **Calculate the cost per washing:**
+   - **Total washings:** 120
+   - **Cost per washing:** 
+     \[
+     \frac{\$24.00}{120 \text{ washings}} = \$0.20 \text{ per washing}
+     \]
+
+3. **Find the cost per pump:**
+   - **Total pumps:** 2
+   - **Cost per pump:** 
+     \[
+     \frac{\$0.20}{1 \text{ pump}} = \$0.20 \text{ per pump}
+     \]
+
+4. **Convert the cost to cents:**
+   - **\$0.20** is equivalent to **20 cents**.
+
+**Final Answer:**  
+Each pump costs **20 cents**.

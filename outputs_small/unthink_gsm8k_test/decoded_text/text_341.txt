@@ -1,0 +1,45 @@
+<｜User｜>
+Q: A pink frog weighs the same as a blue beetle, the same as a green toad, 10 pounds less than a yellow snake, but 20 pounds more than a red bird. If the pink frog weighs 50 pounds, calculate the total weight of a container carrying one of each animal if the container also weighs 20 pounds.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Define Variables:**
+   - Let \( P \) = weight of the pink frog
+   - Let \( B \) = weight of the blue beetle
+   - Let \( G \) = weight of the green toad
+   - Let \( Y \) = weight of the yellow snake
+   - Let \( R \) = weight of the red bird
+   - Let \( C \) = weight of the container
+
+2. **Given Relationships:**
+   - \( P = B = G \) (The pink frog, blue beetle, and green toad all weigh the same)
+   - \( P = Y - 10 \) (The pink frog weighs 10 pounds less than the yellow snake)
+   - \( P = R + 20 \) (The pink frog weighs 20 pounds more than the red bird)
+   - \( C = 20 \) (The container weighs 20 pounds)
+
+3. **Given Value:**
+   - \( P = 50 \) pounds
+
+4. **Find the Weights of Other Animals:**
+   - Since \( P = B = G \), then:
+     - \( B = 50 \) pounds
+     - \( G = 50 \) pounds
+   - From \( P = Y - 10 \):
+     - \( Y = P + 10 = 50 + 10 = 60 \) pounds
+   - From \( P = R + 20 \):
+     - \( R = P - 20 = 50 - 20 = 30 \) pounds
+
+5. **Calculate Total Weight:**
+   - Total weight = \( P + B + G + Y + R + C \)
+   - Total weight = \( 50 + 50 + 55 + 60 + 30 + 20 \)
+   - Total weight = \( 265 \) \) pounds
+
+**Final Answer:**
+
+\[
+\boxed{265\ \text{ pounds}}
+\]

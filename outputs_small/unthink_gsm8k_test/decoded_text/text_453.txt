@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Jenna starts out with 8 sapphires. She trades 3 sapphires for two rubies. If sapphires are worth $800 and rubies are worth $1200, how much money are all her jewels worth?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Number of Sapphires:**
+   - Jenna starts with **8 sapphires**.
+
+2. **First Trade:**
+   - Jenna trades **3 sapphires** for **2 rubies**.
+   - **Number of sapphires after trade:** \( 8 - 3 = 5 \) sapphires.
+   - **Number of rubies after trade:** \( 0 + 2 = 2 \) rubies.
+
+3. **Value of Each jewel:**
+   - **1 Sapphire = \$800**
+   - **1 Ruby = \$1200**
+
+4. **Calculate Total Value:**
+   - **Value of remaining sapphires:** \( 5 \times \$800 = \$4000 \)
+   - **Value of rubies:** \( 2 \times \$1200 = \$2400 \)
+   - **Total value of all jewels:** \( \$4400 + \$2400 = \$6800 \)
+
+**Final Answer:**
+\[
+\boxed{6800}
+\]

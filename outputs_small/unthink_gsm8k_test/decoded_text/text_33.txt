@@ -1,0 +1,51 @@
+<｜User｜>
+Q: Gretchen has 110 coins. There are 30 more gold coins than silver coins. How many gold coins does Gretchen have?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+Gretchen has 110 coins. There are 30 more gold coins than silver coins. How many gold coins does Gretchen have?
+
+**Solution:**
+
+1. **Define Variables:**
+   - Let \( S \) represent the number of silver coins.
+   - Since there are 30 more gold coins than silver coins, the number of gold coins \( G \) can be expressed as:
+     \[
+     G = S + 30
+     \]
+
+2. **Total Number of Coins:**
+   - The total number of coins is given as 110. Therefore:
+     \[
+     G + S = 110
+     \]
+
+3. **Substitute \( G \) from the First Equation into the Second Equation:**
+   \[
+   (S + 30) + S = 110
+   \]
+   \[
+   2S + 30 = 110
+   \]
+
+4. **Solve for \( S \):**
+   \[
+   2S = 110 - 30
+   \]
+   \[
+   2S = 80
+   \]
+   \[
+   S = \frac{80}{2} = 40
+   \]
+
+5. **Find \( G \):**
+   \[
+   G = S + 30 = 40 + 30 = 70
+   \]
+
+**Final Answer:**
+Gretchen has \(\boxed{70}\) gold coins.

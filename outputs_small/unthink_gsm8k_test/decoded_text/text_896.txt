@@ -1,0 +1,26 @@
+<｜User｜>
+Q: John rents his car out 10 times a month for 3 hours each time.  He gets paid $25 an hour.  If his car payment is $500, how much profit does he make on his car?
+A:<｜Assistant｜><think>
+</think>
+
+To determine John's profit from renting his car, we'll follow these steps:
+
+1. **Calculate the total hours rented:**
+   \[
+   10 \text{ times/month} \times 3 \text{ hours/times} = 30 \text{ hours/month}
+   \]
+
+2. **Determine the total earnings from the car rental:**
+   \[
+   30 \text{ hours/month} \times \$25/\text{hour} = \$750/\text{month}
+   \]
+
+3. **Subtract the car payment from the total earnings to find the profit:**
+   \[
+   \$750 - \$500 = \$250
+   \]
+
+**Final Answer:**  
+\[
+\boxed{\$250}
+\]

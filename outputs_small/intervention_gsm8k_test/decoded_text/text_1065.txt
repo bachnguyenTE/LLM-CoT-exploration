@@ -1,0 +1,33 @@
+<｜User｜>
+Q: If John scored 100 on his first 3 tests and an 80 on his 4th, what was his average score across the 4 tests?
+A:<｜Assistant｜><think>
+First, I need to determine the total score John has across all four tests. He scored 100 on each of the first three tests, which is 100 multiplied by 3. Then, he scored 80 on the fourth test. Adding these together gives the total score.
+
+Next, I'll calculate the average by dividing the total score by the number of tests, which is 4. This will give me the average score John achieved across the four tests.
+</think>
+
+**Solution:**
+
+John's scores across the four tests are as follows:
+- Test 1: 100
+- Test 2: 100
+- Test 3: 100
+- Test 4: 80
+
+**Step 1:** Calculate the total score across all four tests.
+
+\[
+\text{Total Score} = 100 + 100 + 100 + 80 = 400
+\]
+
+**Step 2:** Determine the average score by dividing the total score by the number of tests.
+
+\[
+\text{Average Score} = \frac{\text{Total Score}}{\text{Number of Tests}} = \frac{400}{4} = 100
+\]
+
+**Final Answer:**
+
+\[
+\boxed{100}
+\]

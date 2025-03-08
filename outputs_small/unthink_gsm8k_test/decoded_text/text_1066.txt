@@ -1,0 +1,23 @@
+<｜User｜>
+Q: The glee club ordered 20 pizzas and ate 70% of them. The football team ordered twice as many pizzas and ate 80% of them. How many pizzas are left?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many pizzas are left, let's break down the problem step by step.
+
+1. **Glee Club:**
+   - **Order:** 20 pizzas
+   - **Eaten:** 70% of 20 pizzas
+   - **Left:** 20 - (70% of 20) = 20 - 14.6 = 5.4 pizzas
+
+2. **Football Team:**
+   - **Order:** Twice as many as the glee club, so 2 × 20 = 40 pizzas
+   - **Eaten:** 80% of 40 pizzas
+   - **Left:** 44 - (80% of 44) = 44 - 35.2 = 8.8 pizzas
+
+3. **Total Pizzas Left:**
+   - Glee Club: 5.4 pizzas
+   - Football Team: 8.8 pizzas
+   - **Total:** 5.4 + 8.8 = 14.2 pizzas
+
+**Final Answer:** \boxed{14.2}

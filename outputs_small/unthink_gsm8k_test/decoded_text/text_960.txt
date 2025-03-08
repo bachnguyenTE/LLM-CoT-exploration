@@ -1,0 +1,32 @@
+<｜User｜>
+Q: A pirate crew is digging for buried treasure on the island marked X on a map. They dug ten holes the first day, thirteen holes the second day, and eight holes the third day. They stopped digging early on the third day to fill in two holes the pirates kept falling in. On the fourth day of digging, they unearthed a treasure chest full of gold, jewels, and an aged hat. The island had four times as many holes by then as it did at the end of the first day. How many holes did the pirates dig on the fourth day before finding the treasure?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many holes the pirates dug on the fourth day before finding the treasure.
+
+1. **First Day:**
+   - **Holes dug:** 10
+   - **Total holes:** 10
+
+2. **Second Day:**
+   - **Holes dug:** 13
+   - **Total holes:** 10 + 13 = 23
+
+3. **Third Day:**
+   - **Holes dug initially:** 8
+   - **But they stopped digging early and filled in 2 holes.**
+   - **Total holes dug:** 8 - 2 = 6
+   - **Total holes after third day:** 23 + 6 = 29
+
+4. **Fourth Day:**
+   - **Treasure was found, and the number of holes on the island became four times as many as it was at the end of the first day.**
+   - **Holes at the end of the first day:** 10
+   - **Holes at the end of the fourth day:** 4 × 10 = 40
+
+5. **Holes dug on the Fourth Day:**
+   - **Total holes after fourth day:** 40
+   - **Holes already dug by the end of the third day:** 29
+   - **Holes dug on the fourth day:** 40 - 29 = 11
+
+**Final Answer:** \(\boxed{11}\)

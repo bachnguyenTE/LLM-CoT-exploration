@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Mishka bought 3 pairs of shorts, 3 pairs of pants, and 3 pairs of shoes. One pair of shorts costs $16.50. One pair of pants costs $22.50 and one pair of shoes costs $42. How many dollars did Mishka spend on all the clothing items?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many dollars Mishka spent on all the clothing items, we'll calculate the total cost for each type of clothing and then sum them up.
+
+1. **Total Cost for Shorts:**
+   - Mishka bought **3 pairs** of shorts.
+   - Each pair costs **\$16.50**.
+   - **Total cost for shorts:** \( 3 \times \$16.50 = \$49.50 \)
+
+2. **Total Cost for Pants:**
+   - Mishka bought **3 pairs** of pants.
+   - Each pair costs **\$22.50**.
+   - **Total cost for pants:** \( 3 \times \$22.50 = \$67.50 \)
+
+3. **Total Cost for Shoes:**
+   - Mishka bought **3 pairs** of shoes.
+   - Each pair costs **\$42.00**.
+   - **Total cost for shoes:** \( 3 \times \$42.00 = \$126.0 \)
+
+4. **Total Cost for All Clothing Items:**
+   - **Total cost:** \( \$49.50 + \$67.50 + \$126.00 = \$243.00 \)
+
+**Final Answer:**
+\[
+\boxed{243.00}
+\]

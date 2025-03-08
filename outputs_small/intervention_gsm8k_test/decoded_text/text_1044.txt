@@ -1,0 +1,42 @@
+<｜User｜>
+Q: On the first day of school, Ava sees that her friends Cole and Xavier have both grown a lot over the summer. Xavier was 4 feet tall and grew 3 inches. Cole was 50 inches tall and grew 2 inches over the summer. What is the difference between Cole and Xavier’s height now?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Ava, Cole, and Xavier's heights after the summer. Let me try to figure this out step by step. 
+
+First, the problem says that on the first day of school, Ava sees that her friends Cole and Xavier have both grown a lot over the summer. Xavier was 4 feet tall and grew 3 inches. Cole was 50 inches tall and grew 2 inches over the summer. The question is asking for the difference between Cole and Xavier’s height now.
+
+Alright, so I need to find out how tall Cole and Xavier are now and then subtract their heights to find the difference. Let me break this down.
+
+Starting with Xavier. He was 4 feet tall before the summer. Hmm, I know that 1 foot is 12 inches, so 4 feet would be 4 times 12 inches. Let me calculate that. 4 times 12 is 48 inches. So Xavier was 48 inches tall before the summer. Then he grew 3 inches over the summer. So his new height is 48 inches plus 3 inches. That should be 51 inches. Let me write that down: Xavier's current height is 51 inches.
+
+Now, moving on Cole. He was 50 inches tall before the summer. He grew 2 inches over the summer. So his current height is 50 inches plus 2 inches. That should be 52 inches. So Cole is now 52 inches tall.
+
+Now, I need to find the difference between Cole and Xavier's current heights. So that would be 52 inches minus 51 inches. Let me subtract that: 52 minus 51 is 51 inches. So the difference is 51 inches.
+
+Wait, that seems right. Let me double-check my calculations to make sure I didn't make a mistake. 
+
+Starting with Xavier: 4 feet is 48 inches, plus 3 inches is 51 inches. That seems correct. Then Cole was 50 inches, plus 2 inches is 52 inches. Subtracting 51 from 52 gives 1 inch. Hmm, so the difference is 1 inch. 
+
+Is there another way to think about this? Maybe converting both heights to the same unit first. Let me try that. 
+
+Xavier was 4 feet, which is 48 inches, and he grew 3 inches, so 48 + 3 = 51 inches. Cole was 50 inches, and he grew 2 inches, so 50 + 2 = 52 inches. Then, 52 - 51 is 1 inch. Yeah, same result. 
+
+Wait, that seems right. So the difference is 1 inch. So the answer should be 1 inch. 
+
+But, that seems right. Let me think if there's any chance I messed up the units. 4 feet is 48 inches, correct. 50 inches is 50 inches, correct. 50 + 2 is 52, 48 + 3 is 51. 52 - 51 is 1. Yeah, that's correct. 
+
+I don't think I made any mistakes here. So the difference is 1 inch. 
+
+**Final Answer**
+The difference between Cole and Xavier’s height now is \boxed{1} inch.
+</think>
+
+Xavier was 4 feet tall before the summer, which is equivalent to \(4 \times 12 = 48\) inches. He grew 3 inches, so his current height is \(48 + 3 = 51\) inches.
+
+Cole was 50 inches tall before the summer and grew 2 inches, so his current height is \(50 + 2 = 52\) inches.
+
+The difference between Cole and Xavier's current heights is \(52 - 51 = 1\) inch.
+
+\[
+\boxed{1}
+\]

@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Patty's Plumbing charges $40 to visit a house to make a repair, plus $35 per hour, or part thereof, for labor, plus parts. One job took 2.25 hours and used $60 in parts. How much did Patty charge?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much Patty's Plumbing charged for the job, we'll break down the costs step by step.
+
+1. **Fixed Charges:**
+   - **Visit:** \$40
+   - **Parts:** \$60
+
+2. **Labor Charges:**
+   - **Hourly Rate:** \$35 per hour
+   - **Time Spent:** 2.25 hours
+
+   Calculate the labor cost:
+   \[
+   \text{Labor Cost} = 2.25 \, \text{hours} \times \$35/\text{hour} = \$78.75
+   \]
+
+3. **Total Cost:**
+   - **Fixed Charges:** \$44 (sum of \$40 and \$60)
+   - **Labor Cost:** \$78.75
+   - **Total:** \$44 + \$78.75 = **\$122.75**
+
+**Final Answer:**
+\[
+\boxed{\$122.75}
+\]

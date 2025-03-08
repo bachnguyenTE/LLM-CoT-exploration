@@ -1,0 +1,85 @@
+<｜User｜>
+Q: Katarina has 5 less cookies than Max has. Max has 12 more cookies than the Cookie Monster, and Summer has 23 more cookies than Max. If Katarina has 68 cookies, how many cookies do they have in total?
+A:<｜Assistant｜><think>
+First, I need to determine how many cookies the Cookie Monster has. Since Katarina has 5 fewer cookies than Max and Katarina has 68 cookies, I can set up the equation:
+
+68 = Max's cookies - 5
+
+Solving for Max's cookies, I add 5 to both sides:
+
+Max's cookies = 68 + 5 = 73
+
+Next, I'll find out how many cookies Max has, which is 73.
+
+Now, I'll calculate the number of cookies the Cookie Monster has. Max has 12 more cookies than the Cookie Monster, so:
+
+73 = Max's cookies - 12
+
+Subtracting 12 from Max's cookies gives:
+
+Cookie Monster's cookies = 73 - 12 = 61
+
+Finally, I'll determine how many cookies Summer has. Summer has 23 more cookies than Max:
+
+Summer's cookies = Max's cookies + 23 = 73 + 23 = 96
+
+Now, I'll add up all the cookies:
+
+Katarina's cookies: 68
+Max's cookies: 73
+Cookie Monster's cookies: 61
+Summer's cookies: 96
+
+Total cookies = 68 + 73 + 61 +96 = 238
+</think>
+
+Let's determine the number of cookies each person has step by step.
+
+1. **Katarina's Cookies:**
+   - **Given:** Katarina has 68 cookies.
+   - **Equation:** \( K = 68 \)
+
+2. **Max's Cookies:**
+   - **Given:** Katarina has 5 fewer cookies than Max.
+   - **Equation:** \( K = M - 5 \)
+   - **Substitute K:**
+     \[
+     68 = M - 5
+     \]
+   - **Solve for M:**
+     \[
+     M = 68 + 5 = 73
+     \]
+   - **Result:** Max has 73 cookies.
+
+3. **Cookie Monster's Cookies:**
+   - **Given:** Max has 12 more cookies than the Cookie Monster.
+   - **Equation:** \( M = C + 12 \)
+   - **Substitute M:**
+     \[
+     73 = C + 12
+     \]
+   - **Solve for C:**
+     \[
+     C = 73 - 12 = 61
+     \]
+   - **Result:** The Cookie Monster has 61 cookies.
+
+4. **Summer's Cookies:**
+   - **Given:** Summer has 23 more cookies than Max.
+   - **Equation:** \( S = M + 23 \)
+   - **Substitute M:**
+     \[
+     S = 73 + 23 = 96
+     \]
+   - **Result:** Summer has 96 cookies.
+
+5. **Total Cookies:**
+   - **Sum all the cookies:**
+     \[
+     \text{Total} = K + M + C + S = 68 + 73 + 61 + 96 = 238
+     \]
+
+\[
+\boxed{238}
+\]

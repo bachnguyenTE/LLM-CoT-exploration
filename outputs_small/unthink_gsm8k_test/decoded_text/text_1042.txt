@@ -1,0 +1,50 @@
+<｜User｜>
+Q: Johnny's dad brought him to watch some horse racing and his dad bet money. On the first race, he lost $5. On the second race, he won $1 more than twice the amount he previously lost. On the third race, he lost 1.5 times as much as he won in the second race. How much did he lose on average that day?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how much Johnny's dad lost on average that day.
+
+1. **First Race:**
+   - **Loss:** Johnny's dad lost **\$5**.
+
+2. **Second Race:**
+   - **Loss:** He won **\$1** more than twice the amount he previously lost.
+   - **Calculation:** 
+     \[
+     \text{Twice the loss} = 2 \times 5 = 10
+     \]
+     \[
+     \text{Total win} = 10 + 1 = 11
+     \]
+   - **Net Result:** He **lost \$11** on the second race.
+
+3. **Third Race:**
+   - **Loss:** He lost **1.5 times** as much as he won in the second race.
+   - **Calculation:**
+     \[
+     \text{Loss} = 1.5 \times 11 = 16.5
+     \]
+   - **Net Result:** He **lost \$16.50** on the third race.
+
+4. **Total Losses:**
+   - **First Race Loss:** \$5
+   - **Second Race Loss:** \$11
+   - **Third Race Loss:** \$16.50
+   - **Total Loss:** 
+     \[
+     5 + 11 + 16.50 = 32.50
+     \]
+
+5. **Average Loss:**
+   - **Total Losses:** \$32.50
+   - **Number of Races:** 3
+   - **Average Loss per Race:**
+     \[
+     \frac{32.50}{3} = 10.83
+     \]
+
+**Final Answer:**
+\[
+\boxed{10.83}
+\]

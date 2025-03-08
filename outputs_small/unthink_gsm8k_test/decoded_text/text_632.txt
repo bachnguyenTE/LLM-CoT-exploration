@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Max bought stamps at the post office. Some of the stamps had a snowflake design, some had a truck design, and some had a rose design. Max bought 16 snowflake stamps. He bought 3 more truck stamps than snowflake stamps, and 9 fewer rose stamps than truck stamps. How many stamps did Max buy in all?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- Max bought **16** snowflake stamps.
+- He bought **3** more truck stamps than snowflake stamps.
+- He bought **9** fewer rose stamps than truck stamps.
+
+**Let’s define variables:**
+- Let \( S \) = number of snowflake stamps = 16
+- Let \( T \) = number of truck stamps
+- Let \( R \) = number of rose stamps
+
+**Step 1: Find the number of truck stamps.**
+\[
+T = S + 3 = 16 + 3 = 9
+\]
+
+**Step 2: Find the number of rose stamps.**
+\[
+R = T - 9 = 9 - 9 = 0
+\]
+
+**Step3: Calculate the total number of stamps.**
+\[
+\text{Total Stamps} = S + T + R = 16 + 9 + 0 = 25
+\]
+
+**Final Answer:**
+\[
+\boxed{25}
+\]

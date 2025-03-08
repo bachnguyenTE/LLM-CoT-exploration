@@ -1,0 +1,37 @@
+<｜User｜>
+Q: There are 700 bees in a hive. There are twice as many worker bees as baby bees, and there are twice as many babies as queens.  How many worker bees are there?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Total number of bees in the hive = 700
+- Number of worker bees = 2 × number of baby bees
+- Number of baby bees = 2 × number of queens
+
+**Let’s define:**
+- Let \( Q \) = number of queen bees
+- Then, number of baby bees = \( 2Q \)
+- Number of worker bees = \( 2 \times \text{baby bees} = 2 \times 2Q = 4Q \)
+
+**Total number of bees:**
+\[
+Q + 2Q + 4Q = 700
+\]
+\[
+7Q = 700
+\]
+\[
+Q = \frac{700}{7} = 100
+\]
+
+**Number of worker bees:**
+\[
+4Q = 4 \times 100 = 400
+\]
+
+**Final Answer:**
+\[
+\boxed{400}
+\]

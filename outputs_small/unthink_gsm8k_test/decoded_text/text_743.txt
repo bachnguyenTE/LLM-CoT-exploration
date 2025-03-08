@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Mara added 3 slices of cake to a plate that already had 2 slices on it. She was getting hungrier so she tripled the number of slices she currently has. She ate 2 slices and while she was distracted, her friend stole 5 slices off her plate. What number of cake slices remained on the plate?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step:
+
+1. **Initial Slices:**
+   - The plate starts with **2 slices** of cake.
+
+2. **Mara Adds Slices:**
+   - Mara adds **3 more slices** to the plate.
+   - **Total slices after addition:** \( 2 + 3 = 5 \) slices.
+
+3. **Mara Triplets the Slices:**
+   - She was getting hungrier, so she **triples** the number of slices she currently has.
+   - **Total slices after tripling:** \( 5 \times 3 = 15 \) slices.
+
+4. **Mara Ate Slices:**
+   - She eats **2 slices**.
+   - **Total slices after eating:** \( 15 - 2 = 13 \) slices.
+
+5. **Friend Steals Slices:**
+   - While distracted, **5 slices** are stolen.
+   - **Total slices after theft:** \( 13 - 5 = 8 \) slices.
+
+**Final Number of Slices Remaining on the Plate:**
+\[
+\boxed{8}
+\]

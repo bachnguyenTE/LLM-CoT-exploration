@@ -1,0 +1,39 @@
+<｜User｜>
+Q: A glass of milk is 8 ounces of milk.  John drinks 2 glasses of milk.  If milk has 3 calories per ounce how many calories did he consume?
+A:<｜Assistant｜><think>
+First, determine the total amount of milk John consumed by multiplying the number of glasses by the ounces per glass.
+
+John drank 2 glasses, each containing 8 ounces, so the total milk consumed is 2 multiplied by 8 ounces, which equals 16 ounces.
+
+Next, calculate the total calories by multiplying the total ounces of milk by the calories per ounce.
+
+Each ounce of milk has 3 calories, so 16 ounces multiplied by 3 calories per ounce equals 48 calories.
+
+Therefore, John consumed a total of 48 calories from drinking the milk.
+</think>
+
+**Solution:**
+
+1. **Determine the total amount of milk John consumed:**
+   
+   - **Number of glasses:** 2
+   - **Ounces per glass:** 8 ounces
+   
+   \[
+   \text{Total milk} = 2 \text{ glasses} \times 8 \text{ ounces/glass} = 16 \text{ ounces}
+   \]
+
+2. **Calculate the total calories consumed:**
+   
+   - **Calories per ounce of milk:** 3 calories
+   - **Total calories:** 
+   
+   \[
+   \text{Total calories} = 16 \text{ ounces} \times 3 \text{ calories/ounce} = 48 \text{ calories}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{48}
+\]

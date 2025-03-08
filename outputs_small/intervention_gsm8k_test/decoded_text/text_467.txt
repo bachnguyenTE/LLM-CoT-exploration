@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Bob is in charge of doing laundry for a large hotel. Each room has two sheets, one comforter, twice as many pillow cases as sheets and twice as many towels as pillow cases. How many pieces of laundry are there in 80 rooms?
+A:<｜Assistant｜><think>
+First, I need to determine the number of items in one room. Each room has two sheets, which are comforters. There are twice as many pillow cases as sheets, so that would be 2 times 2, which equals 4 pillow cases. Additionally, there are twice as many towels as pillow cases, so that would be 2 times 4, which equals 8 towels.
+
+Next, I'll add up all the items in one room: 2 sheets + 4 pillow cases + 8 towels = 14 items.
+
+Finally, to find the total number of items in 80 rooms, I'll multiply the number of items in one room by 80: 14 items/room * 80 rooms = 1120 items.
+</think>
+
+To determine the total number of items in 80 rooms, let's break down the components step by step.
+
+1. **Sheets (Comforters):**
+   - Each room has **2 sheets**.
+
+2. **Pillow Cases:**
+   - There are **twice as many pillow cases as sheets**.
+   - Calculation: \( 2 \times 2 = 4 \) pillow cases per room.
+
+3. **Towels:**
+   - There are **twice as many towels as pillow cases**.
+   - Calculation: \( 2 \times 4 = 8 \) towels per room.
+
+4. **Total Items per Room:**
+   - Sum of sheets, pillow cases, and towels.
+   - Calculation: \( 2 + 4 + 8 = 14 \) items per room.
+
+5. **Total Items in 80 Rooms:**
+   - Multiply the number of items per room by the number of rooms.
+   - Calculation: \( 14 \times 80 = 1120 \) items.
+
+\[
+\boxed{1120}
+\]

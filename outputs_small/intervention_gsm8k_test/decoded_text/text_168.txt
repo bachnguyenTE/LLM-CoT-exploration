@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Jimmy has $2 more than twice the money Ethel has. If Ethal has $8, how much money is Jimmy having?
+A:<｜Assistant｜><think>
+First, identify the amount of money Ethel has, which is $8.
+
+Next, calculate twice the amount Ethel has by multiplying 8 by 2, resulting in $16.
+
+Then, add $2 to this amount to find out how much Jimmy has: 16 + 2 = $18.
+
+Therefore, Jimmy has $18.
+</think>
+
+**Solution:**
+
+Let's determine how much money Jimmy has based on the given information.
+
+1. **Ethel's Money:**
+   - Ethel has **\$8**.
+
+2. **Jimmy's Money:**
+   - Jimmy has **\$2 more than twice the money Ethel has.**
+   - First, calculate twice the amount Ethel has:
+     \[
+     2 \times \$8 = \$16
+     \]
+   - Then, add \$2 to this amount:
+     \[
+     \$16 + \$2 = \$18
+     \]
+
+**Final Answer:**
+\[
+\boxed{18}
+\]

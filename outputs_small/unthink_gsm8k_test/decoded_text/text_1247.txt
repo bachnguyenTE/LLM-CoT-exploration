@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Brendan has a bag of marbles with 10 inside. He tripped over a pebble while carrying it and dropped half of them. He scrambled to search for them but only came up with 3. When he went back home, he inspected the marbles further. One of them he picked up wasn't a marble, but actually a bead so he got rid of it. How many marbles did Brendan end up with?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step:
+
+1. **Initial Number of Marbles:**
+   - Brendan starts with **10 marbles**.
+
+2. **First Drop:**
+   - He drops half of the marbles while carrying them.
+   - **Number of marbles dropped:** \( \frac{10}{2} = 5 \)
+   - **Remaining marbles after dropping:** \( 10 - 5 = 5 \)
+
+3. **Scrambled Search:**
+   - He finds **3 marbles**.
+   - **Total marbles after finding:** \( 5 + 3 = 8 \)
+
+4. **Scrap of Beads:**
+   - He finds **1 bead** instead of a marble.
+   - **Note:** Beads are not marbles, so they are removed.
+   - **Total marbles after removing beads:** \( 8 - 1 = 7 \)
+
+5. **Final Count:**
+   - Brendan ends up with **7 marbles**.
+
+\boxed{7}

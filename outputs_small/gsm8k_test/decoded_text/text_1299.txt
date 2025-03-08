@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Janet goes to the mall and spends $3.50 on ice cream, $7.50 each for movie tickets for herself and her younger sister, and $8.50 on a bracelet. If her parents gave her $40, how many dollars does she have left?
+A:<｜Assistant｜><think>
+First, I need to calculate the total amount Janet spent at the mall.
+
+She spent $3.50 on ice cream, $7.50 on her movie ticket, and another $7.50 on her younger sister's movie ticket. Adding these amounts together gives a total expenditure of $18.50.
+
+Next, I'll subtract the total expenditure from the $40 that her parents gave her to find out how much money she has left.
+
+$40 minus $18.50 equals $25.50.
+
+Therefore, Janet has $25.50 left after her purchases.
+</think>
+
+**Solution:**
+
+1. **Calculate the total amount spent:**
+   
+   - **Ice Cream:** \$3.50
+   - **Movie Tickets:** \$7.50 (for herself) + \$7.50 (for her younger sister) = \$15.00
+   - **Bracelet:** \$8.50
+
+   **Total expenditure:** 
+   \[
+   \$3.50 + \$15.00 + \$8.50 = \$27.00
+   \]
+
+2. **Determine the remaining amount:**
+   
+   - **Amount given by parents:** \$40.00
+   - **Amount spent:** \$27.00
+   
+   **Remaining amount:**
+   \[
+   \$40.00 - \$27.00 = \$13.00
+   \]
+
+**Final Answer:**
+\[
+\boxed{13.00}
+\]

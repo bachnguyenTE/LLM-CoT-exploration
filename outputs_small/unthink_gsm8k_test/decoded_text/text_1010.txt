@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Bethany can run 10 laps on the track in one hour.  Trey can run 4 more laps than Bethany.  Shaelyn can run half as many laps as Trey.  Quinn can run 2 fewer laps than Shaelyn.  How many more laps can Bethany run compared to Quinn?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many more laps Bethany can run compared to Quinn.
+
+1. **Bethany's Laps:**
+   - Bethany can run **10 laps** in one hour.
+
+2. **Trey's Laps:**
+   - Trey can run **4 more laps** than Bethany.
+   - **Trey's laps = Bethany's laps + 4**
+   - **Trey's laps = 10 + 4 = 14 laps**
+
+3. **Shaelyn's Laps:**
+   - Shaelyn can run **half as many laps** as Trey.
+   - **Shaelyn's laps = Trey's laps / 2**
+   - **Shaelyn's laps = 14 / 2 = 7 laps**
+
+4. **Quinn's Laps:**
+   - Quinn can run **2 fewer laps** than Shaelyn.
+   - **Quinn's laps = Shaelyn's laps - 2**
+   - **Quinn's laps = 7 - 2 = 5 laps**
+
+5. **Comparing Bethany and Quinn:**
+   - **Difference in laps = Bethany's laps - Quinn's laps**
+   - **Difference in laps = 10 - 5 = 5 laps**
+
+**Final Answer:**
+\boxed{5}

@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Castle bought 3 boxes of Coco Crunch and 5 boxes of Fruit Loops this week. Last week she bought 4 boxes of cereal. How many more boxes of cereal did she buy this week than last week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the number of cereal boxes Castle bought this week:**
+   - Castle bought **3 boxes of Coco Crunch** and **5 boxes of Fruit Loops** this week.
+   - Total cereal boxes this week = 3 (Coco Crunch) + 5 (Fruit Loops) = **8 boxes**.
+
+2. **Determine the number of cereal boxes Castle bought last week:**
+   - Castle bought **4 boxes of cereal** last week.
+   - Total cereal boxes last week = 4 boxes.
+
+3. **Calculate how many more boxes Castle bought this week than last week:**
+   - **This week's boxes** - **Last week's boxes** = 8 - 4 = **4 boxes**.
+
+**Final Answer:**
+\[
+\boxed{4}
+\]

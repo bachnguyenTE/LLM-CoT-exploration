@@ -1,0 +1,76 @@
+<｜User｜>
+Q: Brenda invested $300 into a scheme that accumulates simple interest at the rate of three-quarters of the original amount per year. How much in total will she have after 3 years?
+A:<｜Assistant｜><think>
+Okay, so Brenda invested $300 into a scheme that gives simple interest. The interest rate is three-quarters of the original amount per year. Hmm, let me try to figure this out step by step.
+
+First, I need to understand what simple interest is. From what I remember, simple interest is calculated only on the original principal amount, not on the accumulated interest from previous periods. The formula for simple interest is:
+
+\[ I = P \times r \times t \]
+
+Where:
+- \( I \) is the interest,
+- \( P \) is the principal amount,
+- \( r \) is the annual interest rate (in decimal),
+- \( t \) is the time in years.
+
+In this case, Brenda invested $300, so that's our principal \( P = 300 \). The rate is three-quarters of the original amount per year. Wait, the original amount is $300, so three-quarters of that would be:
+
+\[ r = \frac{3}{4} \times 300 \]
+
+Let me calculate that. Three-quarters of 300 is:
+
+\[ 300 \times 0.75 = 225 \]
+
+So, the annual interest rate \( r \) is 225%. Hmm, that seems high, but okay, maybe it's correct. Let me double-check. If the rate is three-quarters of the original amount, then yes, 3/4 of 300 is 225. So, the rate is 225% per annum.
+
+Wait, that seems like a very high interest rate. Maybe I should confirm. If the original amount is $300, then three-quarters is $225, so the rate is 225% per year. Yeah, that's correct. So, the rate is 225% per annum.
+
+Now, the time period is 3 years. So, \( t = 3 \).
+
+So, plugging into the simple interest formula:
+
+\[ I = 300 \times 225\% \times 3 \]
+
+But wait, 225% is a decimal of 2.25, right? Because 225% is 2.25 in decimal. So, let me convert that:
+
+\[ r = 2.25 \]
+
+So, plugging that in:
+
+\[ I = 300 \times 2.25 \times 3 \]
+
+Let me compute this step by step.
+
+First, calculate 300 multiplied by 2.25.
+
+300 x 2.25. Hmm, 300 x 2 is 600, and 300 x 0.25 is 75. So, 600 + 75 = 675.
+
+So, the interest for one year is $675.
+
+But since it's for 3 years, we need to multiply this by 3.
+
+So, 675 x 3. Let me compute that.
+
+675 x 3: 600 x 3 is 1800, 75 x3 is 225. So, 1800 + 225 = 2025.
+
+So, the total interest after 3 years is $2025.
+
+But wait, that seems like a lot. Let me check my calculations again.
+
+Wait, 300 x 2.25 is 675, correct. Then 675 x3 is 2025. Hmm, that's correct.
+
+But let me think again about the rate. The rate is three-quarters of the original amount, which is 300. So, 3/4 of 300 is 225, so 225% per annum. So, that's correct.
+
+So, the interest per year is 225% of 300, which is 675, as above.
+
+Wait, but 225% of 300 is 675, so that's correct.
+
+So, over 3 years, the total interest is 675 x3 = 2025.
+
+Therefore, the total amount she will have is the principal plus the interest, which is 300 + 2025.
+
+Wait, 300 + 2025 is 2325.
+
+Wait, 300 + 2025 is 2325. So, the total amount is $2325.
+
+Wait, but let me make sure. So, 300 is the principal, and 2025 is the interest. So, 300 + 2025

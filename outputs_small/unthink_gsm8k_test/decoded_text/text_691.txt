@@ -1,0 +1,60 @@
+<｜User｜>
+Q: John brings his dog to the vet. His dog needs 2 vaccines, which are $20 each, and a heartworm check. The heartworm check is 60% of his total bill. If he brought $125 with him, how much does he leave with?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Cost of the Vaccines:**
+   - Each vaccine costs \$20.
+   - John brings 2 vaccines.
+   - **Total cost for vaccines:** \( 2 \times \$20 = \$40 \).
+
+2. **Cost of the Heartworm Check:**
+   - The heartworm check is **60%** of John's total bill.
+   - Let’s denote the total bill as \( T \).
+   - **Heartworm cost:** \( 0.60 \times T \).
+
+3. **Total Bill:**
+   - The total bill is the sum of the cost of the vaccines and the heartworm check.
+   - **Total bill:** \( \$40 + 0.60 \times T \).
+
+4. **Amount John Has:**
+   - John brought **\$125** with him.
+
+5. **Setting Up the Equation:**
+   - Since the total bill equals the amount John has:
+     \[
+     \$40 + 0.60 \times T = \$125
+     \]
+   - However, this setup seems a bit confusing because the heartworm check is a percentage of the total bill, not a fixed amount. Let's re-examine the problem.
+
+6. **Correct Interpretation:**
+   - The heartworm check is **60%** of **his total bill**, which includes both the vaccines and the heartworm check.
+   - Let’s denote the total bill as \( T \).
+   - **Heartworm cost:** \( 0.60 \times T \).
+   - **Total cost for vaccines:** \$40.
+   - **Total bill:** \( \$40 + 0.60 \times T = T \).
+
+7. **Solving for \( T \):**
+   \[
+   \$40 + 0.60T = T
+   \]
+   \[
+   \$40 = T - 0.60T
+   \]
+   \[
+   \$40 = 0.40T
+   \]
+   \[
+   T = \frac{\$40}{0.40} = \$100
+   \]
+
+8. **Amount Left:**
+   - John brought **\$125** with him.
+   - **Amount left:** \( \$125 - \$100 = \$25 \).
+
+**Final Answer:**  
+\boxed{\$25}

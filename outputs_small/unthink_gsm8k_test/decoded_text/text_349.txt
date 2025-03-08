@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Every month, Madeline has to buy food, treats, and medicine for her dog. Food costs $25 per week. Treats cost $20 per month. Medicine costs $100 per month. How much money does Madeline spend on her dog per year if there are 4 weeks in a month?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much Madeline spends on her dog per year, let's break down the costs month by month and then scale them up to a year.
+
+**Monthly Costs:**
+- **Food:** \$25 per week
+- **Treats:** \$20 per month
+- **Medicine:** \$100 per month
+
+**Calculations:**
+1. **Food Cost per Month:**
+   \[
+   25 \text{ dollars/week} \times 4 \text{ weeks/month} = 100 \text{ dollars/month}
+   \]
+   
+2. **Treats Cost per Month:** Given as \$20.
+
+3. **Medicine Cost per Month:** Given as \$100.
+
+**Total Monthly Cost:**
+\[
+100 \text{ (Food)} + 20 \text{ (Treats)} + 100 \text{ (Medicine)} = 220 \text{ dollars/month}
+\]
+
+**Annual Cost:**
+\[
+220 \text{ dollars/month} \times 12 \text{ months/year} = 2640 \text{ dollars/year}
+\]
+
+**Final Answer:**
+\[
+\boxed{2640}
+\]

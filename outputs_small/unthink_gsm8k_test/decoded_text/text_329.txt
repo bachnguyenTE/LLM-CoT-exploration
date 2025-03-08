@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Erin has 7 lollipops. Her mother gives Erin another 10 lollipops. If Erin gives 3 of her lollipops to Ella, how many lollipops does she have left?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Initial Lollipops:**
+   - Erin starts with **7 lollipops**.
+
+2. **Additional Lollipops:**
+   - Her mother gives her **10 more lollipops**.
+   - **Total lollipops now:** \(7 + 10 = 17\)
+
+3. **Lollipops Given Away:**
+   - Erin gives **3 lollipops** to Ella.
+   - **Lollipops left:** \(17 - 3 = 14\)
+
+**Final Answer:**
+\[
+\boxed{14}
+\]

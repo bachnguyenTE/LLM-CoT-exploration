@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Two girls each got 1/6 of the 24 liters of water. Then a boy got 6 liters of water. How many liters of water were left?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many liters of water were left, let's break down the problem step by step.
+
+1. **Total Water Initially:** 24 liters
+
+2. **Water Given to Each Girl:**
+   - Each girl received \( \frac{1}{6} \) of the total water.
+   - Calculation: \( \frac{1}{6} \times 24 = 4 \) liters per girl.
+   - **Total Given to Girls:** \( 4 \times 2 = 8 \) liters.
+
+3. **Water Given to the Boy:**
+   - The boy received 6 liters of water.
+
+4. **Total Water Distributed:**
+   - **Water to Girls:** 8 liters
+   - **Water to Boy:** 6 liters
+   - **Total Distributed:** \( 8 + 6 = 14 \) liters
+
+5. **Water Left:**
+   - **Initial Total:** 24 liters
+   - **Subtract Distributed:** 14 liters
+   - **Water Left:** \( 24 - 14 = 10 \) liters
+
+**Final Answer:** \(\boxed{10}\) liters

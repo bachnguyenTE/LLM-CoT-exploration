@@ -1,0 +1,78 @@
+<｜User｜>
+Q: Krissa needs to order field trip shirts for her preschool students. 11 students need size extra-small.  Twice as many students need size small as extra small. Four less than the number of size small students need size medium.  Half as many students need size large as size medium.  Six more students need size extra-large than large.  Altogether, how many shirts did Krissa order?
+A:<｜Assistant｜><think>
+Okay, so Krissa needs to order field trip shirts for her preschool students, and she has a bunch of different sizes: extra-small, small, medium, large, and extra-large. I need to figure out how many shirts she ordered in total. Let me break this down step by step.
+
+First, the problem says that 11 students need size extra-small. So, that's straightforward. Let me write that down:
+
+- Extra-small shirts: 11 students
+
+Next, it says twice as many students need size small as extra-small. Hmm, okay, so if extra-small is 11, then small should be double that. Let me calculate that:
+
+- Small shirts: 2 * 11 = 22 students
+
+Alright, moving on on to medium shirts. It mentions that four less than the number of size small students need size medium. So, since small is 22, medium would be 22 minus 4. Let me do that:
+
+- Medium shirts: 22 - 4 = 18 students
+
+Now, for the large shirts. It says half as many students need size large as medium. So, since medium is 18, large would be half of that. Let me compute that:
+
+- Large shirts: 18 / 2 = 9 students
+
+Finally, the problem states that six more students need size extra-large than large. So, if large is 9, then extra-large would be 9 plus 6. Let me figure that out:
+
+- Extra-large shirts: 9 + 6 = 15 students
+
+Now, to find the total number of shirts Krissa ordered, I need to add up all these shirts. Let me list them again:
+
+- Extra-small: 11
+- Small: 22
+- Medium: 18
+- Large: 9
+- Extra-large: 15
+
+Wait, hold on, I think I made a mistake here. Medium shirts were 18, right? Because 22 minus 4 is 18, and half of 18 is 9. So, medium is 18? Wait, no, 18 minus 4 is 14? Wait, no, 22 minus 4 is 18. So, medium is 18. Okay, that's correct.
+
+So, adding them up:
+
+11 (extra-small) + 22 (small) + 18 (medium) + 9 (large) + 15 (extra-large)
+
+Let me add them step by step.
+
+First, 11 + 22 is 33.
+
+Then, 33 + 18 is 51.
+
+Next, 51 + 9 is 60.
+
+Finally, 60 +15 is 75.
+
+Wait, that seems a bit high, but let me double-check each step.
+
+Extra-small: 11
+
+Small: 22 (since 2*11=22)
+
+Medium: 18 (since 22-4=18)
+
+Large: 9 (since 18/2=9)
+
+Extra-large:15 (since 9+6=15)
+
+Adding them: 11+22=33, 33+18=51, 51+9=60, 60+15=75.
+
+Hmm, 75 shirts in total. That seems correct, but let me make sure I didn't misinterpret the problem.
+
+Wait, the problem says "Four less than the number of size small students need size medium." So, small is 22, medium is 22-4=18. That's correct.
+
+"Half as many students need size large as medium." So, 18/2=9. Correct.
+
+"Six more students need size extra-large than large." So, 9+6=15. Correct.
+
+So, adding all shirts: 11+22+18+9+15=75.
+
+Wait, but 11+22 is 33, 33+18 is 51, 51+9 is 60, 60+15 is 75. Yeah, that's 75.
+
+But let me think again. 11 extra-small, 22 small, 18 medium, 9 large, 15 extra-large. So, 11+22 is 33, 33+18 is 51, 51+9 is 60, 60+15 is 75. So, 75 shirts in total.
+
+Wait, but 75 seems a lot for shirts, but maybe that's correct. Let me see if I can think of another way

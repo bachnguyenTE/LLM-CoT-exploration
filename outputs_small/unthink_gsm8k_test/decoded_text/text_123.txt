@@ -1,0 +1,19 @@
+<｜User｜>
+Q: Rosie can run 10 miles per hour for 3 hours. After that, she runs 5 miles per hour. How many miles can she run in 7 hours?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many miles Rosie can run in 7 hours, let's break down her running pattern:
+
+1. **First 3 Hours:**
+   - **Speed:** 10 miles per hour
+   - **Distance:** \( 10 \text{ mph} \times 3 \text{ hours} = 30 \text{ miles} \)
+
+2. **Remaining 4 Hours:**
+   - **Speed:** 5 miles per hour
+   - **Distance:** \( 5 \text{ mph} \times 4 \text{ hours} = 20 \text{ miles} \)
+
+3. **Total Distance:**
+   - **Total:** \( 30 \text{ miles} + 20 \text{ miles} = 50 \text{ miles} \)
+
+**Final Answer:** \(\boxed{50}\) miles

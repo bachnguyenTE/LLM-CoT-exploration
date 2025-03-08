@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Robyn sends sixteen emails a day. Seven are work emails, and two-thirds of the remainder are to family. One-third of the other emails are to her boyfriend. How many emails a day does she send to her boyfriend?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many emails Robyn sends to her boyfriend.
+
+1. **Total Emails Sent Daily:**
+   - Robyn sends **16 emails** a day.
+
+2. **Emails to Work:**
+   - She sends **7 emails** to work.
+
+3. **Remaining Emails:**
+   - After sending **7 emails** to work, the remaining emails are:
+     \[
+     16 \text{ emails}
+     \]
+     (since \(16 - 7 = 9\), wait, let me correct that.)
+
+   - **Total emails after work:** \(16 - 7 = 9\) emails.
+
+4. **Emails to Family:**
+   - Two-thirds of the **remaining emails** are sent to family.
+     \[
+     \frac{2}{3} \times 9 = 6 \text{ emails}
+     \]
+     (since \(9 \times \frac{2}{3} = 6\).)
+
+5. **Emails to boyfriend:**
+   - One-third of the **other emails** (which are not to work or family) are sent to her boyfriend.
+     - **Emails to boyfriend:** 
+       \[
+       \frac{1}{3} \times (9 - 6) = \frac{1}{3} \times 3 = 1 \text{ email}
+       \]
+       (since \(9 - 6 = 3\), and \(3 \times \frac{1}{3} = 1\).)
+
+**Final Answer:**
+\[
+\boxed{1}
+\]

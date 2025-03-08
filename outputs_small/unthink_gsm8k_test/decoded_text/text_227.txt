@@ -1,0 +1,50 @@
+<｜User｜>
+Q: Chad ordered a build-your-own burrito for lunch.  The base burrito is $6.50.  He adds extra meat for $2.00, extra cheese for $1.00, avocado for $1.00 and 2 sauces for $0.25 each.  He decides to upgrade his meal for an extra $3.00 which will add chips and a drink.  He has a gift card for $5.00 that he uses at check out.  How much does he still owe?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to determine how much Chad still needs to pay after using his gift card.
+
+1. **Base Burrito:**  
+   The base burrito costs **\$6.50**.
+
+2. **Additional Items:**
+   - **Extra Meat:** \$2.00  
+   - **Extra Cheese:** \$1.00  
+   - **Avocado:** \$1.0  
+   - **2 sauces:** Each sauce is \$0.25, so 2 sauces cost \(2 \times \$0.25 = \$0.50\).
+
+   **Total Additional Items Cost:**  
+   \[
+   \$2.000 + \$1.00 + \$1.00 + \$0.50 = \$5.00
+   \]
+
+3. **Upgraded Meal:**  
+   Chad decides to upgrade his meal for an extra **\$3.00**, which includes **chips** and **a drink**.
+
+4. **Gift Card:**  
+   Chad has a gift card worth **\$5.00** that he uses at check out.
+
+5. **Calculating Total Cost:**
+   - **Base Burrito:** \$6.50  
+   - **Additional Items:** \$5.00  
+   - **Upgraded Meal:** \$3.00  
+   - **Gift Card:** \$5.00  
+
+   **Total Cost:**  
+   \[
+   \$6.50 + \$5.00 + \$3.00 + \$5.00 = \$19.00
+   \]
+
+6. **Amount Paid Using Gift Card:**  
+   Chad uses his gift card worth **\$5.00**, so the amount he effectively pays is **\$5.00**.
+
+7. **Amount Still Owning:**  
+   \[
+   \$19.00 - \$5.00 = \$14.00
+   \]
+
+**Final Answer:**  
+\[
+\boxed{\$14.00}
+\]

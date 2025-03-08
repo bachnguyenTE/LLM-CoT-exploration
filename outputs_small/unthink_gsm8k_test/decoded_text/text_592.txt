@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Marilyn wants to buy a pair of boots online. On Amazon.com, the boots cost $16 and shipping costs $4. On eBay, those same pair of shoes are only $13, but shipping costs twice as much as it does on Amazon. How much more expensive do the boots work out to be on eBay?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much more expensive the boots are on eBay compared to Amazon, let's break down the costs step by step.
+
+**Step 1: Calculate the total cost on Amazon.com**
+- **Cost of boots:** \$16
+- **Shipping cost on Amazon:** \$4
+- **Total cost on Amazon:** \$16
+
+**Step 2: Calculate the total cost on eBay**
+- **Cost of boots:** \$13
+- **Shipping cost on eBay:** \$8 (twice the Amazon shipping cost)
+- **Total cost on eBay:** \$21
+
+**Step 3: Determine the difference in total costs**
+- **Total cost on eBay:** \$21
+- **Total cost on Amazon:** \$16
+- **Difference:** \$21 - \$16 = \$5
+
+**Final Answer:**
+\[
+\boxed{\$5}
+\]

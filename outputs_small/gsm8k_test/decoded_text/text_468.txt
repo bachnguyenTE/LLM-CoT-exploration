@@ -1,0 +1,52 @@
+<｜User｜>
+Q: Fireman Frank has 200 shoes. If he gets 5 pairs of shoes on Monday and gains 15 new pairs on Wednesday and 30 pairs on Friday, how many shoes will he have on Sunday if he gets rid of 180 shoes on Saturday?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Fireman Frank and his shoes. Let me try to figure it out step by step. 
+
+First, the problem says Fireman Frank has 200 shoes. Hmm, wait, 200 shoes? That seems like a lot. Maybe it's 200 pairs? Or maybe 200 individual shoes? The wording isn't entirely clear, but I think it's referring to individual shoes because it mentions getting pairs on different days. So, I'll assume it's 200 individual shoes.
+
+Then, on Monday, he gets 5 pairs of shoes. Since each pair has 2 shoes, that would be 5 * 2 = 10 shoes. So, adding that to his total, he would have 200 + 10 = 210 shoes.
+
+Next, on Wednesday, he gains 15 new pairs. Again, each pair is 2 shoes, so that's 15 * 2 = 30 shoes. Adding that to his current total: 211 + 30 = 243 shoes.
+
+Then, on Friday, he gains 30 pairs. That's 30 * 2 = 60 shoes. Adding that: 243 + 60 = 303 shoes.
+
+Wait, hold on, 243 + 60 is 303? Let me check that again. 243 + 60 is 243 + 60 is 303, yes, that's correct.
+
+So, after Friday, he has 303 shoes.
+
+But then, on Saturday, he gets rid of 180 shoes. So, he takes away 180 shoes. That means his total would be 303 - 180.
+
+Let me calculate that: 303 - 180. Hmm, 303 minus 180. Let's break it down. 300 - 100 is 200, and 3 - 80 is a bit tricky. Wait, maybe I should do it step by step.
+
+303 minus 180: 303 - 100 is 203, then minus 80 more is 123. So, 303 - 180 = 123.
+
+Wait, that seems low. Let me verify. 180 + 123 is 103, which is not 303. Hmm, maybe I made a mistake in the subtraction.
+
+Wait, 303 - 180. Let's think of it as 303 - 100 = 203, then subtract 80: 203 - 80. 203 - 80 is 123. Yeah, that's correct. So, 303 - 180 = 123.
+
+So, after getting rid of 180 shoes on Saturday, he has 123 shoes left.
+
+Wait, but let me go back and make sure I didn't make any mistakes in adding and subtracting.
+
+Starting with 200 shoes.
+
+Monday: +5 pairs = 10 shoes. Total: 200 +10=210.
+
+Wednesday: +15 pairs=30 shoes. Total:210 +30=240.
+
+Wait, hold on, earlier I thought 5 pairs is 10 shoes, but 15 pairs is 30 shoes. So, 210 +30=243. Then Friday: +30 pairs=60 shoes. 243 +60=303. Then Saturday: -180 shoes. 303 -180=123.
+
+Wait, so that seems consistent. So, the final number is 123 shoes.
+
+But let me double-check the arithmetic:
+
+200 (initial)
+
++10 (Monday) =210
+
++30 (Wednesday)=243
+
+Wait, hold on, 210 +30 is 243, not 240. Wait, 210 +30 is 243? 210 +30 is 243? Wait, 210 +30 is 243? Wait, 210 +30 is 243? Wait, 210 +30 is 243? Wait, 210 +30 is 240, then +3 is 243. Yeah, that's correct.
+
+Then, 243 +60=

@@ -1,0 +1,20 @@
+<｜User｜>
+Q: Tom's restaurant gets 6 reservations a night.  They normally order 2 meals that cost $5 each and a $5 bottle of wine.  How much do they make a week if they are open 2 days a week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the daily revenue:**
+   - **Meals:** 6 reservations × 2 meals = 12 meals
+   - **Cost per meal:** \$5
+   - **Total meal cost:** 12 meals × \$5 = \$60
+   - **Wine:** 1 bottle × \$5 = \$5
+   - **Total daily revenue:** \$60
+
+2. **Calculate the weekly revenue:**
+   - **Days open:** 2 days
+   - **Total weekly revenue:** 2 days × \$60 = \$120
+
+**Final Answer:**
+\boxed{\$120}

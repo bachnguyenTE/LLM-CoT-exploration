@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Ara joined the school basketball team four years ago. She has been playing 40 games every year. If her score for every game is 21 points, calculate the total number of points she has scored in the four years.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Ara has been playing basketball for **4 years**, and she plays **40 games** each year. To find the total number of games she has played, we multiply the number of years by the number of games per year:
+
+\[
+\text{Total games} = 4 \text{ years} \times 40 \text{ games/year} = 160 \text{ games}
+\]
+
+Each game she scores **21 points**. To find the total points scored, we multiply the total number of games by the points per game:
+
+\[
+\text{Total points} = 160 \text{ games} \times 21 \text{ point/game} = 336 \text{ points}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{336}
+\]

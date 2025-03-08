@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Twenty students are working together to raise money for a charity. Each earns the same amount. The charity raises a total of $175,000. $50,000 comes from organizations and the rest from the students. How much did each student raise?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We need to determine how much each of the 20 students raised for the charity.
+
+1. **Total Amount Raised:**
+   \[
+   \$175,0000
+   \]
+   
+2. **Amount Raised by Organizations:**
+   \[
+   \$50,000
+   \]
+   
+3. **Amount Raised by Students:**
+   \[
+   \text{Total} - \text{Organizations} = \$175,000 - \$50,000 = \$120,000
+   \]
+   
+4. **Amount Each Student Raised:**
+   \[
+   \frac{\$120,000}{20 \text{ students}} = \$6,000 \text{ per student}
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$6,\!000}
+\]

@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Roy has saved 40% more in money earned by chores than his brother Anthony.  Anthony has saved $10.00 more than their sister Eva.   Eva has saved $20.00.  How much money does Roy have?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Eva's Savings:**
+   - Eva has saved **\$20.00**.
+
+2. **Anthony's Savings:**
+   - Anthony has saved **\$10.00** more than Eva.
+   - **Anthony's Savings = Eva's Savings + \$10.00**
+   - **Anthony's Savings = \$20.00 + \$10.00 = \$30.00**
+
+3. **Roy's Savings:**
+   - Roy has saved **40% more** than Anthony.
+   - To find 40% of Anthony's savings:
+     - **40% of \$30.00 = 0.40 × \$30.00 = \$12.60**
+   - **Roy's Savings = Anthony's Savings + \$12.60**
+   - **Roy's Savings = \$30.00 + \$12.60 = \$42.60**
+
+**Final Answer:**
+Roy has saved **\$42.60**.
+
+\boxed{42.60}

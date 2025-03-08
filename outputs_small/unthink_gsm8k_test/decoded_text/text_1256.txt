@@ -1,0 +1,29 @@
+<｜User｜>
+Q: The rainstorm flooded the wetlands and washed Phineas Frog 200 yards away from his home in the swamp.  To return home, he will need to hop and swim his way back.  If he hops on land at a speed of 20 yards per minute, and swims through water at a speed of 10 yards per minute, how long will it take Phineas, in minutes, to return home if half of the distance is on land and the other half is in water?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how long it will take Phineas Frog to return home, we'll break down the journey into two parts: hopping on land and swimming through water.
+
+1. **Total Distance:**
+   - The total distance to return home is **200 yards**.
+
+2. **Distance on Land and Water:**
+   - **Half of the distance is on land:** \( \frac{200}{2} = 100 \) yards.
+   - **Half of the distance is in water:** \( \frac{200}{2} = 100 \) yards.
+
+3. **Speeds:**
+   - **Hopping on Land:** 20 yards per minute.
+   - **Swimming in Water:** 10 yards per minute.
+
+4. **Time Calculation:**
+   - **Time on Land:** \( \frac{100 \text{ yards}}{20 \text{ yards per minute}} = 5 \) minutes.
+   - **Time in Water:** \( \frac{100 \text{ yards}}{10 \text{ yards per minute}} = 10 \) minutes.
+
+5. **Total Time:**
+   - \( 5 \text{ minutes} + 10 \text{ minutes} = 15 \text{ minutes} \).
+
+**Final Answer:**
+\[
+\boxed{15}
+\]

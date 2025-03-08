@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Ruiz can make 120 pounds of chocolates in two hours. Marissa makes 3/4 times as many pounds of chocolates in an hour as Ruiz makes in the two hours. If they worked for 12 hours in a day, calculate the total amount of chocolate pounds they made together.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine Ruiz's production rate:**
+   
+   - Ruiz makes **120 pounds** of chocolates in **2 hours**.
+   - **Rate of Ruiz** = \( \frac{120 \text{ pounds}}{2 \text{ hours}} = 60 \text{ pounds/hour} \).
+
+2. **Calculate Marissa's production rate:**
+   
+   - Marissa makes **\( \frac{3}{4} \) times** as many pounds as Ruiz in **1 hour**.
+   - **Marissa's rate** = \( 60 \text{ pounds/hour} \times \frac{3}{4} = 45 \text{ pounds/hour} \).
+
+3. **Determine the total production for 12 hours:**
+   
+   - **Total time** = **12 hours**.
+   - **Total production by Ruiz** = \( 60 \text{ pounds/hour} \times 12 \text{ hours} = 720 \text{ pounds} \).
+   - **Total production by Marissa** = \( 45 \text{ pounds/hour} \times 12 \text{ hours} = 540 \text{ pounds} \).
+
+4. **Calculate the combined total production:**
+   
+   - **Total production together** = \( 720 \text{ pounds} + 540 \text{ pounds} = 1260 \text{ pounds} \).
+
+**Final Answer:**
+\[
+\boxed{1260}
+\]

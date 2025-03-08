@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Faraday owns a flower shop. He sells a sunflower that costs $2 each and a bouquet of sunflower that costs $8. If Faraday earned $26 from the sunflower and $56 from the bouquet per day, and if each bouquet has 12 sunflowers, how many sunflowers was Faraday able to sell after 3 days?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Understanding the Prices:**
+   - **Sunflower:** \$2 each
+   - **Bouquet:** \$8 each
+
+2. **Daily Earnings:**
+   - **Sunflowers:** \$26 per day
+   - **Bouquets:** \$56 per day
+
+3. **Bouquet Composition:**
+   - Each bouquet contains **12 sunflowers**.
+
+4. **Calculating Sunflowers Sold per Bouquet:**
+   - Since each bouquet has 12 sunflowers, the number of sunflowers sold per bouquet is **12**.
+
+5. **Total Sunflowers Sold in a Day:**
+   - **Sunflowers:** 6 (from daily earnings)
+   - **Bouquets:** 56 (from daily earnings)
+   - **Total Sunflowers per Day:** 6 + 56 = **62**
+
+6. **Total Sunflowers Sold in 3 Days:**
+   - **Total Sunflowers:** 62 (per day) × 3 (days) = **186**
+
+**Final Answer:**
+\boxed{186}

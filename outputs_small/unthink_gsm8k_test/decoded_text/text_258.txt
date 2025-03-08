@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Nancy is returning her overdue books to the library. She owes $0.50 cents each on 8 books, plus a flat $2.00 fee for having at least one book that's over a week overdue. How much does she have to pay total?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Nancy owes the library money for returning books that are overdue. Here's the breakdown:
+
+1. **Cost per book:** \$0.50 (50 cents) per book.
+2. **Number of books:** 8 books.
+3. **Overdue fee:** A flat fee of \$2.00 for having at least one book that's over a week overdue.
+
+**Calculations:**
+
+1. **Total cost for overdue books:**
+   \[
+   8 \text{ books} \times \$0.50/\text{book} = \$4.00
+   \]
+   
+2. **Total amount to pay:**
+   \[
+   \$4.00 + \$2.00 = \$6.00
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$6.00}
+\]

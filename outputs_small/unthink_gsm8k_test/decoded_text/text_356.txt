@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Dean's mother gave him $28 to go to the toy store. Dean bought 6 toy cars and 5 teddy bears. Each toy car cost $2 and each teddy bear cost $1. His mother then feels generous and decides to give him an extra $10. How much money does Dean have left?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Initial Money:**
+   - Dean starts with **\$28**.
+
+2. **Cost of Items:**
+   - **6 toy cars:** Each costs **\$2**.
+     - Total cost for toy cars = \(6 \times \$2 = \$12\).
+   - **5 teddy bears:** Each costs **\$1**.
+     - Total cost for teddy bears = \(5 \times \$1 = \$5\).
+
+3. **Total Expenditure:**
+   - Total money spent = \$12 (toy cars) + \$5 (teddy bears) = **\$17**.
+
+4. **Money After Purchase:**
+   - Money left after buying toys = Initial money - Total expenditure = \$28 - \$17 = **\$11**.
+
+5. **Additional Money Given:**
+   - Dean's mother gives him an extra **\$10**.
+   - Total money after receiving the gift = \$11 + \$1 = **\$12**.
+
+6. **Final Amount:**
+   - **\$12** is the amount of money Dean has left.
+
+**Answer:** \(\boxed{12}\)

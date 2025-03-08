@@ -1,0 +1,37 @@
+<｜User｜>
+Q: While on vacation in Bali, Thea bought a hat from a craftsman worth $70. If she gave the craftsman four $20 bills, how much change did she get?
+A:<｜Assistant｜><think>
+First, determine the total amount of money Thea gave to the craftsman. She provided four $20 bills, which amounts to 4 multiplied by $20, totaling $80.
+
+Next, subtract the cost of the hat from the total amount given. The hat costs $70, so subtract $70 from $80.
+
+Finally, calculate the change Thea received by subtracting the cost of the hat from the total amount given.
+</think>
+
+**Solution:**
+
+1. **Calculate the total amount of money Thea gave:**
+   
+   Thea gave four $20 bills.
+   
+   \[
+   4 \times \$20 = \$80
+   \]
+
+2. **Determine the cost of the hat:**
+   
+   The hat costs \$70.
+
+3. **Find the change Thea received:**
+   
+   Subtract the cost of the hat from the total amount given.
+   
+   \[
+   \$80 - \$70 = \$10
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$10}
+\]

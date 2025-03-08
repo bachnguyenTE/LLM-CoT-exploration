@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Mark works at his job for 8 hours a day for 5 days a week.  He used to make $10 an hour but they raised his pay by $2 per hour.  How much does he make a week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate Mark's new hourly wage:**
+   
+   - **Old hourly wage:** \$10/hour
+   - **Pay raise:** \$2/hour
+   - **New hourly wage:** \$10/hour + \$2/hour = **\$12/hour**
+
+2. **Determine the number of hours Mark works in a week:**
+   
+   - **Hours per day:** 8 hours
+   - **Days per week:** 5 days
+   - **Total weekly hours:** 8 hours/day × 5 days = **40 hours**
+
+3. **Calculate Mark's weekly earnings:**
+   
+   - **Hourly wage:** \$12/hour
+   - **Total hours worked:** 40 hours
+   - **Total weekly earnings:** \$12/hour × 40 hours = **\$480**
+
+**Final Answer:**
+\boxed{480}

@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Ryan’s allowance is $6 each week he completes his chores. He did his chores for 3 weeks. Then he bought ice cream cones for himself and 3 friends at $1.25 each. Now they all want to go to the movies and tickets cost $6.50 each. How many movie tickets can Ryan buy?
+A:<｜Assistant｜><think>
+First, calculate Ryan's total allowance by multiplying his weekly allowance by the number of weeks he completed his chores.
+
+Next, determine the total amount spent on buying ice cream cones for himself and his three friends. Multiply the number of people by the cost per ice cream cone.
+
+Subtract the total ice cream expenses from Ryan's total allowance to find out how much money he has left.
+
+Finally, divide the remaining money by the cost of each movie ticket to find out how many tickets he can afford.
+</think>
+
+**Solution:**
+
+1. **Calculate Ryan's Total Allowance:**
+   
+   Ryan receives \$6 each week for completing chores.
+   
+   \[
+   \text{Total Allowance} = \$6 \times 3 \text{ weeks} = \$18
+   \]
+
+2. **Determine the Total Amount Spent on Ice Cream:**
+   
+   Ryan bought ice cream cones for himself and 3 friends, totaling 4 people.
+   
+   \[
+   \text{Total Ice Cream Cost} = 4 \times \$1.250 = \$5.00
+   \]
+
+3. **Find the Remaining Money After Buying Ice Cream:**
+   
+   \[
+   \text{Remaining Money} = \$18 - \$5.00 = \$13.00
+   \]
+
+4. **Calculate How Many Movie Tickets Ryan Can Buy:**
+   
+   Each movie ticket costs \$6.50.
+   
+   \[
+   \text{Number of Movie Tickets} = \frac{\$13.00}{\$6.50} = 2
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{2}
+\]

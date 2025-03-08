@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Pierre, Paul, and Jacques bought 12 kg of apples. Peter wants a quarter of that and Paul wants 1/3 of that. How many kilograms will James have left?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many kilograms of apples James will have left.
+
+1. **Total Apples Bought:**
+   \[
+   12\ \text{ kg}
+   \]
+
+2. **Apples Desired by Pierre:**
+   \[
+   \frac{1}{4} \times 12\ \text{kg} = 3\ \text{kg}
+   \]
+
+3. **Apples Desired by Paul:**
+   \[
+   \frac{1}{3} \times 12\ \text{kg} = 4\ \text{kg}
+   \]
+
+4. **Total Apples Desired by Pierre and Paul:**
+   \[
+   3\ \text{kg} + 4\ \text{kg} = 7\ \text{kg}
+   \]
+
+5. **Apples Left for James:**
+   \[
+   12\ \text{kg} - 7\ \text{kg} = 5\ \text{kg}
+   \]
+
+**Final Answer:**
+\[
+\boxed{5\ \text{kg}}
+\]

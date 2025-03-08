@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Greta wanted brownies for her birthday.  She made a batch for herself; one dozen cream cheese swirl brownies.  At her office, they threw her a party and sent her home with 1/2 a dozen brownies.  When she arrived home, her friends were there to throw her a surprise party and had 4 dozen brownies waiting.  During the party, 1 1/2 dozen brownies were eaten.  How many individual brownies did Greta have left over from the entire day?
+A:<｜Assistant｜><think>
+Okay, so Greta made some brownies for her birthday. Let me try to figure out how many she has left after all the events. Hmm, let's break it down step by step.
+
+First, Greta made one dozen cream cheese swirl brownies. A dozen is 12, so that's 12 brownies. Got that.
+
+Then, at her office, they threw her a party and sent her home with half a dozen brownies. Half a dozen is 6, right? So she got 6 more brownies. So now, how many does she have? Let me add that to the original. 12 + 6 is 18. So she has 18 brownies after the party.
+
+Wait, that seems right. She started with 12, then got 6 more, so 18 total. Okay, moving on.
+
+When she arrived home, her friends were there to throw her a surprise party and had 4 dozen brownies waiting. Hmm, 4 dozen is 4 times 12, which is 48. So she had 48 brownies waiting. So now, how many does she have? She had 18 from the party, and then 48 more. So 18 + 48 is 66. So she has 66 brownies in total.
+
+Wait, that seems right. 12 + 6 is 18, plus 48 is 26, so 66. Yeah, that adds up.
+
+Then, during the party, 1 and a half dozen brownies were eaten. 1 and a half dozen is 1.5 times 12, which is 18. So 18 brownies were eaten.
+
+So, how many are left? She had 66, minus 18. Let me do that subtraction. 66 - 18 is 48. So, 48 brownies left.
+
+Wait, that seems right. Let me double-check each step.
+
+1. Started with 12: 12 brownies.
+2. Sent home 6: 12 + 6 = 18.
+3. Arrived home, friends had 48: 18 + 48 = 66.
+4. Eaten 18: 66 - 18 = 48.
+
+Yes, that seems correct. So, Greta has 48 individual brownies left over from the entire day.
+
+**Final Answer**
+Greta has \boxed{48} individual brownies left over from the entire day.
+</think>
+
+Greta made a batch of 12 cream cheese swirl brownies. She sent home 6 more brownies, bringing the total to 18. She then arrived home and found 48 more brownies waiting, making the total 66. During the party, 18 brownies were eaten. Subtracting the eaten brownies from the total, Greta has 48 brownies left.
+
+\[
+\boxed{48}
+\]

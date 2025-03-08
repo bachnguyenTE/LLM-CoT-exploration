@@ -1,0 +1,44 @@
+<｜User｜>
+Q: Movie A was one-fourth the length of Movie B. Movie B was 5 minutes longer than Movie C. Movie C was 1.25 hours. How many minutes long was Movie A?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Define the Variables:**
+   - Let \( A \) be the length of Movie A in minutes.
+   - Let \( B \) be the length of Movie B in minutes.
+   - Let \( C \) be the length of Movie C in minutes.
+
+2. **Given Relationships:**
+   - Movie A is one-fourth the length of Movie B:
+     \[
+     A = \frac{1}{4}B
+     \]
+   - Movie B is 5 minutes longer than Movie C:
+     \[
+     B = C + 5
+     \]
+   - Movie C is 1.25 hours long. Since 1 hour = 60 minutes:
+     \[
+     C = 1.25 \times 60 = 75 \text{ minutes}
+     \]
+
+3. **Find the Length of Movie B:**
+   - Substitute \( C = 75 \) minutes into \( B = C + 5 \):
+     \[
+     B = 75 + 5 = 80 \text{ minutes}
+     \]
+
+4. **Find the Length of Movie A:**
+   - Substitute \( B = 80 \) minutes into \( A = \frac{1}{4}B \):
+     \[
+     A = \frac{1}{4} \times 80 = 22 \text{ minutes}
+     \]
+
+**Final Answer:**
+\[
+\boxed{22}
+\]

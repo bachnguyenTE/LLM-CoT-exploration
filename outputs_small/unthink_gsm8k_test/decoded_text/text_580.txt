@@ -1,0 +1,43 @@
+<｜User｜>
+Q: Maggie's oven is malfunctioning. When she sets it to 450 the actual temperature is 468. If it's off by the same percentage for any recipe, what temperature should she set it at if her recipe calls for 520 degrees?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the correct temperature for Maggie's recipe, we'll follow these steps:
+
+1. **Understand the Problem:**
+   - **Maggie's Oven Temperature:** 450°F
+   - **Actual Temperature:** 468°F
+   - **Desired Recipe Temperature:** 520°F
+   - **Goal:** Find the temperature that is the same percentage off as 450°F compared to 468°F, and apply this percentage to the desired 520°F.
+
+2. **Calculate the Percentage Difference:**
+   
+   First, find the difference between the actual temperature and the set temperature:
+   \[
+   \text{Difference} = 468 - 450 = 13°F
+   \]
+   
+   Next, calculate the percentage difference relative to the actual temperature:
+   \[
+   \text{Percentage Difference} = \left( \frac{13}{468} \right) \times 100\% \approx 1.91\%
+   \]
+   
+   This means the oven is set 1.91% below the actual temperature.
+
+3. **Apply the Same Percentage to the Desired Temperature:**
+   
+   To find the correct temperature for the recipe:
+   \[
+   \text{Correct Temperature} = 520 \times (1 - 0.0191) = 520 \times 0.9809 \approx 515°F
+   \]
+   
+   However, since we're dealing with whole numbers and practical oven temperatures, rounding to the nearest whole number:
+   \[
+   \text{Correct Temperature} \approx 515°F
+   \]
+
+4. **Final Answer:**
+   \[
+   \boxed{515}
+   \]

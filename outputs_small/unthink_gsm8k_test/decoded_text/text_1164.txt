@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Cole hid 3 dozen eggs in the yard for the Easter egg hunt.  Lamar finds 5 eggs. Stacy finds twice as many as Lamar.  Charlie finds 2 less than Stacy.  And Mei finds half as many as Charlie.  How many eggs are still hidden in the yard?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many eggs are still hidden in the yard.
+
+1. **Total Eggs Collected by Cole:**
+   - Cole hid **3 dozen eggs**.
+   - 1 dozen = 12 eggs.
+   - So, 3 dozen = 3 × 12 = **36 eggs**.
+
+2. **Eggs Found by Lamar:**
+   - Lamar found **5 eggs**.
+
+3. **Eggs Found by Stacy:**
+   - Stacy found **twice as many as Lamar**.
+   - Lamar found 5 eggs, so Stacy found 2 × 5 = **10 eggs**.
+
+4. **Eggs Found by Charlie:**
+   - Charlie found **2 less than Stacy**.
+   - Stacy found 10 eggs, so Charlie found 10 - 2 = **8 eggs**.
+
+5. **Eggs Found by Mei:**
+   - Mei found **half as many as Charlie**.
+   - Charlie found 8 eggs, so Mei found 8 ÷ 2 = **4 eggs**.
+
+6. **Total Eggs Found:**
+   - Cole: 36 eggs
+   - Lamar: 5 eggs
+   - Stacy: 10 eggs
+   - Charlie: 8 eggs
+   - Mei: 4 eggs
+   - **Total = 36 + 5 + 10 + 8 + 4 = 63 eggs**
+
+7. **Eggs Still Hidden:**
+   - Total eggs found: 63 eggs
+   - Total eggs hidden initially: 3 dozen = 36 eggs
+   - **Eggs still hidden = 36 - 63 = 3 eggs**
+
+\boxed{3}

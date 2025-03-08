@@ -1,0 +1,69 @@
+<｜User｜>
+Q: Ronnie was given $5 while Rissa was given thrice as much. After each of them had given an equal amount of money to their little sister, Rissa is left with 4/5 of her money. How much is left in Ronnie's money?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- Ronnie was given \$5.
+- Rissa was given three times as much as Ronnie, so Rissa received \( 3 \times 5 = \$15 \).
+
+**After Giving Money to Their Little Sister:**
+- Both Ronnie and Rissa gave an equal amount to their little sister.
+- Let the amount each gave be \( x \).
+
+**Remaining Money:**
+- **Rissa's Remaining Money:**
+  - She started with \$15 and gave away \$x.
+  - So, her remaining money is \( 15 - x \).
+  - It's given that Rissa is left with \( \frac{4}{5} \) of her original money.
+  - Therefore, \( 15 - x = \frac{4}{5} \times 15 \).
+  - Simplifying: \( 15 - x = 4 \).
+  - Solving for \( x \): \( x = 15 - 4 = 11 \).
+
+**Amount Given to the Little Sister:**
+- Both gave \$11 to their little sister.
+
+**Remaining Money for Ronnie:**
+- Ronnie started with \$5 and gave away \$11.
+- So, her remaining money is \( 5 - 11 = -6 \).
+
+Wait, that doesn't make sense because you can't have negative money. Let's check our calculations.
+
+**Re-examining the Problem:**
+- **Rissa's Remaining Money:**
+  - She started with \$15 and gave away \$x.
+  - Her remaining money is \( 15 - x \).
+  - It's given that \( 15 - x = \frac{4}{5} \times 15 \).
+  - \( \frac{4}{5} \times 15 = 4 \).
+  - So, \( 15 - x = 4 \) ⇒ \( x = 11 \).
+
+**Problem with the Calculation:**
+- If both gave \$11, Ronnie's remaining money would be \( 5 - 1 = 4 \).
+- But according to the problem, Rissa is left with \( \frac{4}{5} \) of her original money, which is \$4.
+- However, the question asks how much **left** in Ronnie's money, which would be \$4.
+
+But wait, let's verify the calculations again.
+
+**Alternative Approach:**
+Let’s denote the amount each gave as \( x \).
+
+- **Rissa's Remaining Money:**
+  - She had \$15 initially.
+  - After giving away \( x \), she has \( 15 - x \).
+  - According to the problem, \( 15 - x = \frac{4}{5} \times 15 \).
+  - \( \frac{4}{5} \times 15 = 12 \).
+  - So, \( 15 - x = 12 \) ⇒ \( x = 3 \).
+
+**Amount Given to the Little Sister:**
+- Both gave \$3 to their little sister.
+
+**Remaining Money for Ronnie:**
+- Ronnie had \$5 initially.
+- After giving away \$3, she has \( 5 - 3 = 2 \).
+
+**Final Answer:**
+- Ronnie is left with \$2.
+
+\boxed{2}

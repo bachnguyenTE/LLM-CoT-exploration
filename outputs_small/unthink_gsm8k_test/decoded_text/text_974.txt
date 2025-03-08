@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Tyler wants to buy a dictionary that costs $18, a dinosaur book that costs $13, and a children's cookbook that costs $8. He has saved $14 from his allowance. If Tyler earns $5 per hour, how many hours does he have to work to afford his books?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+First, let's calculate the total cost of Tyler's books:
+
+\[
+\text{Total cost} = \$18 (\text{dictionary}) + \$13 (\text{dinosaur book}) + \$8 (\text{children's cookbook}) = \$39
+\]
+
+Tyler has already saved \$14. To find out how much more he needs to save:
+
+\[
+\text{Amount needed} = \$39 - \$14 = \$25
+\]
+
+Tyler earns \$5 per hour. To find out how many hours he needs to work to save the remaining \$25:
+
+\[
+\text{Hours needed} = \frac{\$25}{\$5/\text{hour}} = 5 \text{ hours}
+\]
+
+**Answer:** Tyler needs to work for \(\boxed{5}\) hours.

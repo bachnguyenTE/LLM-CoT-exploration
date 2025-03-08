@@ -1,0 +1,22 @@
+<｜User｜>
+Q: A fog bank rolls in from the ocean to cover a city. It takes 10 minutes to cover every 3 miles of the city. If the city is 42 miles across from the oceanfront to the opposite inland edge, how many minutes will it take for the fog bank to cover the whole city?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We are given that a fog bank covers **10 minutes** to cover **3 miles** of the city. The city is **42 miles** across.
+
+To find out how long it takes to cover **42 miles**, we can set up a proportion based on the given rate:
+
+\[
+\frac{10\text{ minutes}}{3\text{ miles}} = \frac{x\text{ minutes}}{42\text{ miles}}
+\]
+
+Solving for \( x \):
+
+\[
+x = \frac{10\text{ minutes} \times 42\text{ miles}}{3\text{ miles}} = 140\text{ minutes}
+\]
+
+**Answer:** \(\boxed{144}\) minutes

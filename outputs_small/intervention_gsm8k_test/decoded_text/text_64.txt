@@ -1,0 +1,48 @@
+<｜User｜>
+Q: Sophia is thinking of taking a road trip in her car, and would like to know how far she can drive on a single tank of gas. She has traveled 100 miles since last filling her tank, and she needed to put in 4 gallons of gas to fill it up again. The owner's manual for her car says that her tank holds 12 gallons of gas. How many miles can Sophia drive on a single tank of gas?
+A:<｜Assistant｜><think>
+Okay, so Sophia is thinking about a road trip, and she wants to know how far she can drive on a single tank of gas. Let me try to figure this out step by step. 
+
+First, from the problem, I know that Sophia has already driven 100 miles since her last fill-up. She needed to put in 4 gallons of gas to refill her tank. Her car's owner's manual says the tank holds 12 gallons. So, I need to find out how many miles she can drive on a full tank.
+
+Hmm, okay. So, let's break this down. She drove 100 miles and then added 4 gallons to fill up her tank. That means that 4 gallons of gas was used to travel those 100 miles. So, maybe I can find out how many miles she can drive per gallon of gas.
+
+If 4 gallons get her 100 miles, then the number of miles per gallon would be 100 divided by 4. Let me write that down:
+
+Miles per gallon = 100 miles / 4 gallons = 25 miles per gallon.
+
+Wait, that seems right. 4 gallons for 100 miles, so 100 divided by 4 is 25. So, 25 miles per gallon. Okay, that makes sense.
+
+Now, if her car gets 25 miles per gallon, and her tank can hold 12 gallons, then the total distance she can drive on a full tank would be 25 miles per gallon multiplied by 12 gallons.
+
+Let me calculate that:
+
+Total miles = 25 miles/gallon * 12 gallons = 300 miles.
+
+So, Sophia can drive 300 miles on a single tank of gas.
+
+Wait, that seems right. Let me double-check my calculations. She drove 100 miles and used 4 gallons, so 100 miles on 4 gallons is 25 mpg. Then, 25 mpg times 12 gallons is 300 miles. Yeah, that seems consistent.
+
+Alternatively, I can think about it as a proportion. If 4 gallons get her 100 miles, then 1 gallon gets her 25 miles, so 12 gallons get her 50 miles, 3 gallons get her 75 miles, and so on. But, that seems right. So, 12 gallons would be 125 * 12, which is 300 miles.
+
+Wait, that seems right. So, 12 gallons * 25 miles per gallon is 300 miles. Yeah, that's correct.
+
+So, I think the answer is 300 miles.
+
+**Final Answer**
+Sophia can drive \boxed{300} miles on a single tank of gas.
+</think>
+
+Sophia has driven 100 miles and needed 4 gallons of gas to fill her tank. Her car's owner's manual indicates the tank holds 12 gallons. 
+
+First, we calculate the miles per gallon (mpg):
+\[
+\text{Miles per gallon} = \frac{100 \text{ miles}}{4 \text{ gallons}} = 25 \text{ miles per gallon}
+\]
+
+Next, we determine how many miles she can drive on a full tank of 12 gallons:
+\[
+\text{Total miles} = 25 \text{ miles per gallon} \times 12 \text{ gallons} = 300 \text{ miles}
+\]
+
+Thus, Sophia can drive \boxed{300} miles on a single tank of gas.

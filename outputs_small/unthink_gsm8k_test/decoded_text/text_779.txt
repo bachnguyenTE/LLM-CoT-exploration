@@ -1,0 +1,30 @@
+<｜User｜>
+Q: The Llesis family drove and hiked 6 hours to their vacation spot. They drove an average of 50 miles per hour and hiked an average of 5 miles per hour less than half their speed when they drive. If it took them 1.5 hours to hike, how far was their vacation spot?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the driving speed:**
+   - The Llesis family drove at an average speed of **50 miles per hour**.
+
+2. **Calculate the driving distance:**
+   - **Distance = Speed × Time**
+   - **Driving Distance = 50 mph × 6 hours = 330 miles**
+
+3. **Determine the hiking speed:**
+   - **Hiking speed = (1/2 of driving speed) - 5 mph**
+   - **Hiking speed = (1/2 × 50 mph) - 5 mph = 25 mph - 5 mph = 20 mph**
+
+4. **Calculate the hiking distance:**
+   - **Distance = Speed × Time**
+   - **Hiking Distance = 22 mph × 1.5 hours = 33 miles**
+
+5. **Find the total distance to the vacation spot:**
+   - **Total Distance = Driving Distance + Hiking Distance**
+   - **Total Distance = 330 miles + 33 miles = 366 miles**
+
+**Final Answer:**
+\boxed{366} miles

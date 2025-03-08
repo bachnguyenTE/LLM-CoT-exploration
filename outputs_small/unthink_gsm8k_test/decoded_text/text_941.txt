@@ -1,0 +1,32 @@
+<｜User｜>
+Q: There are 29 pupils in a class. The teacher has 9 coupons; each coupon can be redeemed for 100 bottles of apple juice. The teacher gives each student 2 bottles of apple juice to drink for lunch. After redeeming all her coupons and giving each student their apple juice lunch, how many bottles of apple juice does the teacher have for herself?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many bottles of apple juice the teacher has for herself, let's break down the problem step by step.
+
+1. **Total Pupils in the Class:**
+   - There are **29 pupils** in the class.
+
+2. **Bottles of Apple Juice Given to Each Student:**
+   - Each student receives **2 bottles** of apple juice for lunch.
+
+3. **Total Bottles Given to All Students:**
+   - Total bottles = Number of students × Bottles per student
+   - Total bottles = 29 × 2 = **58 bottles**
+
+4. **Total Coupons and Bottles from Coupons:**
+   - The teacher has **9 coupons**.
+   - Each coupon can be redeemed for **100 bottles** of apple juice.
+   - Total bottles from coupons = Number of coupons × Bottles per coupon
+   - Total bottles from coupons = 9 × 100 = **900 bottles**
+
+5. **Total Bottles Available for the Teacher:**
+   - Total bottles = Bottles from coupons + Bottles given to students
+   - Total bottles = 900 + 58 = **958 bottles**
+
+6. **Bottles Left for the Teacher:**
+   - After redeeming all coupons and giving out the juice, the teacher has **958 bottles** of apple juice for herself.
+
+**Final Answer:**
+\boxed{958}

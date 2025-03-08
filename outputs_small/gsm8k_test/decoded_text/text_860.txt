@@ -1,0 +1,43 @@
+<｜User｜>
+Q: Jennifer bought 12 oranges from the market, she gave her three daughters 2 oranges each, and her only boy got 3 oranges. How many oranges did she remain with?
+A:<｜Assistant｜><think>
+First, Jennifer starts with 12 oranges.
+
+She gives 2 oranges to each of her three daughters. That's 2 oranges multiplied by 3 daughters, which equals 6 oranges.
+
+Next, she gives 3 oranges to her only son.
+
+Adding the oranges given to the daughters and the son, a total of 6 + 3 = 9 oranges are distributed.
+
+Subtracting the distributed oranges from the initial count, 12 - 9 = 3 oranges remain with Jennifer.
+</think>
+
+Let's break down the problem step by step to determine how many oranges Jennifer has left.
+
+1. **Initial Number of Oranges:**
+   Jennifer starts with **12 oranges**.
+
+2. **Oranges Given to Daughters:**
+   - She has **3 daughters**.
+   - She gives **2 oranges** to each daughter.
+   - **Oranges given to daughters:** \( 3 \text{ daughters} \times 2 \text{ oranges/daughter} = 6 \text{ oranges} \).
+
+3. **Oranges Given to the Boy:**
+   - She has **1 son**.
+   - She gives **3 oranges** to her son.
+   - **Oranges given to the boy:** \( 1 \text{ son} \times 3 \text{ oranges/son} = 3 \text{ oranges} \).
+
+4. **Total Oranges Given Out:**
+   - **Oranges to daughters:** 6 oranges
+   - **Oranges to the boy:** 3 oranges
+   - **Total oranges given out:** \( 6 + 3 = 9 \text{ oranges} \)
+
+5. **Oranges Remaining with Jennifer:**
+   - **Initial oranges:** 12
+   - **Oranges given out:** 9
+   - **Oranges remaining:** \( 12 - 9 = 3 \text{ oranges} \)
+
+**Final Answer:**
+\[
+\boxed{3}
+\]

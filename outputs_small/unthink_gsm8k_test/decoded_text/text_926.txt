@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Colby loves going to the movies and every month his parents give him $150 to spend at the movies. Tickets for Fridays and Saturdays cost $10. Tickets for any other day cost $7. Popcorn costs $8 and boxes of candy cost $2. It is the last day of the month and it's a Friday. He wants to make sure he gets a popcorn and box of candy that night. How many movies can he see if he already saw 5 movies on a Friday or Saturday, 8 movies on other days, had 2 tubs of popcorn, and four boxes of candy that month?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Money Available:**
+   - **Movies:** \$150 (5 movies at \$10 each)
+   - **Popcorn:** \$8
+   - **Candy:** \$8 (4 boxes at \$2 each)
+   - **Total:** \$150 + \$8 + \$8 = **\$65**
+
+2. **Movies Sought:**
+   - **Fridays:** 5 movies
+   - **Saturday:** 8 movies
+   - **Other Days:** 4 movies
+   - **Total:** 5 + 8 + 4 = **17 movies**
+
+3. **Cost Breakdown:**
+   - **Movies:**
+     - **Friday:** 5 × \$10 = **\$50**
+     - **Saturday:** 8 × \$10 = **\$80**
+     - **Other Days:** 4 × \$10 = **\$40**
+     - **Total Movies Cost:** \$50 + \$80 + \$40 = **\$175**
+   - **Popcorn:** \$8
+   - **Candy:** \$8
+   - **Total Cost:** \$175 + \$8 + \$8 = **\$191**
+
+4. **Conclusion:**
+   - **Available Money:** \$65
+   - **Total Cost:** \$191
+   - **Difference:** \$65 - \$191 = **-\$126**
+
+   **Final Answer:**
+   \[
+   \boxed{-126}
+   \]

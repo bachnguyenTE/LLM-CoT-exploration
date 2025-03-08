@@ -1,0 +1,35 @@
+<｜User｜>
+Q: James decides to pick some blueberries.  It cost $20 to go picking and then another $1.5 per pound.  He picked 30 pounds of blueberries.  How much did he save compared to buying at the store for $2.5 a pound?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much James saved by picking blueberries himself instead of buying at the store, we'll compare the total costs of both options.
+
+1. **Cost of Picking Blueberries:**
+   - **Go Picking Cost:** \$20
+   - **Cost per Pound:** \$1.5
+   - **Pounds Picked:** 30 pounds
+
+   \[
+   \text{Total Cost} = \$20 + (30 \text{ pounds} \times \$1.5/\text{pound}) = \$20 + \$45 = \$65
+   \]
+
+2. **Cost of Buying at the Store:**
+   - **Price per Pound:** \$2.5
+   - **Pounds Purchased:** 30 pounds
+
+   \[
+   \text{Total Cost} = 30 \text{ pounds} \times \$2.5/\text{pound} = \$75
+   \]
+
+3. **Savings:**
+   \[
+   \text{Savings} = \text{Cost at Store} - \text{Cost of Picking} = \$75 - \$65 = \$10
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$10}
+\]

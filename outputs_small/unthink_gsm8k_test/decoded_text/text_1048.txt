@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Ben bought a car for $20000 in 2007. The price of the car depreciates at a constant rate of 21% per year. Find the price of the car in the year 2010.
+A:<｜Assistant｜><think>
+</think>
+
+To determine the price of Ben's car in 2010, we'll use the formula for **compound depreciation**. The car's value decreases by 21% each year. Here's the step-by-step calculation:
+
+1. **Initial Price (P₀):** \$20,0000  
+2. **Depreciation Rate (r):** 21% per year  
+3. **Number of Years (t):** 2010 - 2007 = 3 years
+
+The formula for the depreciated value (P) after \( t \) years is:
+
+\[
+P = P₀ \times (1 - r)^t
+\]
+
+Plugging in the values:
+
+\[
+P = 200000 \times (1 - 0.21)^3
+\]
+
+\[
+P = 200000 \times (0.79)^3
+\]
+
+First, calculate \( 0.79^3 \):
+
+\[
+0.79 \times 0.79 = 0.6241 \\
+0.6241 \times 0.79 = 0.5 \text{ (approximately)} \\
+\]
+
+Now, multiply by the initial price:
+
+\[
+P \approx 200000 \times 0.5 = 100000.5
+\]
+
+**Final Answer:** The car will be worth approximately **\$100000.50** in 2010.

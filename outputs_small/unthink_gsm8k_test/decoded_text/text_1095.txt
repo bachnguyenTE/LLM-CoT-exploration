@@ -1,0 +1,35 @@
+<｜User｜>
+Q: If two trains depart from a station in opposite directions, and one train is traveling 60 miles an hour while the other is traveling half that distance per hour, how far apart are they from each other after 3 hours?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Understanding the Problem:**
+   - Two trains depart from the same station but in opposite directions.
+   - Train A travels at 60 miles per hour.
+   - Train B travels at half the speed of Train A, which is \( \frac{60}{2} = 33 \) miles per hour.
+   - We need to find the distance between the two trains after 3 hours.
+
+2. **Calculating Distance Traveled by Each Train:**
+   - **Train A:**
+     \[
+     \text{Distance} = \text{Speed} \times \text{Time} = 60 \,0 \text{ mph} \times 3 \text{ hours} = 180 \text{ miles}
+     \]
+   - **Train B:**
+     \[
+     \text{Distance} = \text{Speed} \times \text{Time} = 33 \text{ mph} \times 3 \text{ hours} = 99 \text{ miles}
+     \]
+
+3. **Determining the Total Distance Between the Trains:**
+   - Since the trains are moving in opposite directions, their distances from the station add up.
+   \[
+   \text{Total Distance} = 180 \text{ miles} + 99 \text{ miles} = 279 \text{ miles}
+   \]
+
+4. **Final Answer:**
+   \[
+   \boxed{279 \text{ miles}}
+   \]

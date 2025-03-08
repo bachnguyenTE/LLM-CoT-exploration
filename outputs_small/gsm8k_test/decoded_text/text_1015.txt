@@ -1,0 +1,14 @@
+<｜User｜>
+Q: Anne purchased a box of sweets that contains 15 packs, and each pack has 60 pieces. She kept two packs and gave the rest to her 10 friends equally. How many pieces of sweets did each of her friends receive?
+A:<｜Assistant｜><think>
+Okay, so Anne bought a box of sweets. Let me try to figure out how many pieces each of her friends received. Hmm, the problem says there are 15 packs in the box, and each pack has 60 pieces. So, first, I think I need to find out the total number of sweets in the box. 
+
+Alright, so if there are 15 packs and each pack has 60 pieces, I can multiply 15 by 60 to get the total number of sweets. Let me write that down: 15 packs * 60 pieces per pack. Hmm, 15 times 60. I can break that down to make it easier. 10 times 60 is 600, and 5 times 60 is 300. So, adding those together, 660. So, the total number of sweets is 660 pieces. Wait, no, that doesn't seem right. Wait, 15 packs, each with 60 pieces. So, 15 * 60. Let me do that multiplication properly. 5 times 60 is 300? Wait, no, 5 times 60 is 300? Wait, no, 5 times 60 is 300? Wait, 5 times 60 is 300? Wait, 5 times 60 is 300? Wait, 60 times 5 is 300? Wait, no, 60 times 5 is 300, but 66 times 5 is 330. Wait, I'm getting confused. Let me do it step by step.
+
+66 times 5: 60 is 60, so 60 times 5 is 330. Wait, no, 60 times 5 is 300, right? Because 60 is 60, so 60*5 is 300. Wait, no, 60*5 is 300, so 60*5 is 300. Wait, but 66 is 60 plus 6, so 60*5 is 300, and 6*5 is 30, so 300. So, 300 + 30 is 330. So, 66 times 5 is 330. So, the total number of sweets is 330. Wait, that seems low. Wait, 15 packs, each with 60 pieces. 15*60 is 900. Wait, so I must have messed up my multiplication earlier.
+
+Wait, 15 packs, each with 60 pieces. So, 15*60. 10*60 is 600, and 5*60 is 300, so 600 + 300 is 900. So, the total number of sweets is 900. Okay, that makes more sense. So, 15 packs, each with 60 pieces, so 15*60 is 900. So, 900 pieces in total.
+
+So, Anne kept two packs and gave the rest to her 10 friends equally. So, first, she kept two packs, so she gave away 15 - 2 = 13 packs. Each pack has 60 pieces, so the number of pieces she gave away is 13 packs * 60 pieces per pack. Let me calculate that: 13*60. Hmm, 10*60 is 600, and 3*60 is 180, so 600 + 180 is 786. So, she gave away 786 pieces.
+
+Now, she has 10 friends, and she wants to distribute the 786 pieces equally among them. So, we need to divide 786 by 10. Let me do that. 10 goes into 78 six times (10*6=60), subtract 60 from 78, we get 18. Bring down the 6, making it 186. 100 goes into 186 once (10*1=10), subtract 10 from 18, we get 7. Bring down the 0, making it 70. 10 goes into 70 six times (10*6=60), subtract 60 from 70, we get 10. So, wait, that can't

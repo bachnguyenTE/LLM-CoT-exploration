@@ -1,0 +1,48 @@
+<｜User｜>
+Q: Judy bought a dozen cups and twice as many dishes as cups to take to the church's charity event. At the event, she found out that her friend had brought 40 cups and 20 more dishes than she had brought. What's the total number of utensils brought by the two?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Step 1: Determine the number of cups Judy brought.**
+
+Judy bought a dozen cups. Since a dozen equals 12, Judy brought:
+\[
+12 \text{ cups}
+\]
+
+**Step 2: Determine the number of dishes Judy brought.**
+
+Judy bought twice as many dishes as cups. Since she bought 12 cups, the number of dishes she brought is:
+\[
+2 \times 12 = 24 \text{ dishes}
+\]
+
+**Step 3: Calculate the total number of cups and dishes Judy brought.**
+
+Total items Judy brought:
+\[
+12 \text{ cups} + 24 \text{ dishes} = 36 \text{ items}
+\]
+
+**Step 4: Determine the number of cups and dishes her friend brought.**
+
+Her friend brought:
+- **Cups:** 40 cups
+- **Dishes:** 20 more dishes than Judy brought. Since Judy brought 24 dishes, her friend brought:
+\[
+24 + 20 = 44 \text{ dishes}
+\]
+
+**Step 5: Calculate the total number of cups and dishes brought by both Judy and her friend.**
+
+Total items brought by both:
+\[
+\text{Judy's items} + \text{Friend's items} = 36 + 44 = 80 \text{ items}
+\]
+
+**Final Answer:**
+\[
+\boxed{80}
+\]

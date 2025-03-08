@@ -1,0 +1,25 @@
+<｜User｜>
+Q: At a certain grade level, three-fourths of students have a desktop computer at home. If 20 students do not have desktop computers, how many students are there at that grade level?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of students at the grade level, let's break down the information provided:
+
+1. **Three-fourths of the students have a desktop computer.**
+2. **200 students do not have desktop computers.**
+
+Let's denote the total number of students as \( x \).
+
+Since three-fourths of the students have desktop computers, the remaining one-fourth do not. Therefore, the number of students without desktop computers is:
+
+\[
+\frac{1}{4}x = 200
+\]
+
+To find \( x \), multiply both sides of the equation by 4:
+
+\[
+x = 200 \times 4 = 800
+\]
+
+**Final Answer:** \(\boxed{800}\)

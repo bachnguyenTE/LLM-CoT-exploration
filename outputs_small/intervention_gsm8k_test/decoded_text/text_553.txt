@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Bill is trying to figure out how many water bottles he needs to buy for his party.  He started out with 2 cases of water which have 24 bottles each. He has 70 guests that will be arriving, and he wants to have 2 bottles of water for each guest. How many additional bottles of water will he need to buy?
+A:<｜Assistant｜><think>
+First, calculate the total number of water bottles Bill currently has by multiplying the number of cases by the number of bottles per case.
+
+2 cases × 24 bottles/case = 48 bottles.
+
+Next, determine the total number of water bottles needed for all the guests by multiplying the number of guests by the number of bottles per guest.
+
+70 guests × 2 bottles/guest = 140 bottles.
+
+Finally, subtract the number of bottles Bill already has from the total number of bottles needed to find out how many additional bottles he needs to purchase.
+
+140 bottles needed - 48 bottles available = 92 additional bottles needed.
+</think>
+
+**Solution:**
+
+1. **Calculate the total number of water bottles Bill currently has:**
+   
+   \[
+   2 \text{ cases} \times 24 \text{ bottles/case} = 48 \text{ bottles}
+   \]
+
+2. **Determine the total number of water bottles needed for all guests:**
+   
+   \[
+   70 \text{ guests} \times 2 \text{ bottles/guest} = 140 \text{ bottles}
+   \]
+
+3. **Find out how many additional bottles Bill needs to buy:**
+   
+   \[
+   140 \text{ bottles needed} - 48 \text{ bottles available} = 92 \text{ additional bottles}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{92}
+\]

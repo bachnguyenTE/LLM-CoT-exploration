@@ -1,0 +1,32 @@
+<｜User｜>
+Q: It takes James 10 minutes to read 3 pages of his book before he goes to bed. He reads 18 pages of his book and then decides to go to sleep. How long does James spend reading, in minutes?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+James reads 3 pages in 10 minutes. To find out how long he reads 18 pages, we can set up a proportion.
+
+Let \( x \) be the time in minutes he reads 18 pages.
+
+\[
+\frac{3 \text{ pages}}{10 \text{ minutes}} = \frac{18 \text{ pages}}{x \text{ minutes}}
+\]
+
+Cross-multiplying:
+
+\[
+3x = 18 \times 10
+\]
+
+\[
+3x = 180
+\]
+
+Divide both sides by 3:
+
+\[
+x = \frac{180}{3} = 60
+\]
+
+**Answer:** James spends \(\boxed{60}\) minutes reading.

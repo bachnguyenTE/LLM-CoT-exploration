@@ -1,0 +1,23 @@
+<｜User｜>
+Q: John buys 2 pairs of shoes for each of his 3 children.  They cost $60 each.  How much did he pay?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+John buys 2 pairs of shoes for each of his 3 children. Each pair of shoes costs \$60.
+
+1. **Calculate the total number of pairs of shoes:**
+   \[
+   2 \text{ pairs/child} \times 3 \text{ children} = 6 \text{ pairs}
+   \]
+
+2. **Calculate the total cost:**
+   \[
+   6 \text{ pairs} \times \$60/\text{pair} = \$360
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$360}
+\]

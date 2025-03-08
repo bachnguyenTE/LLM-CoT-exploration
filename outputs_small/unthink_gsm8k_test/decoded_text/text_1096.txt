@@ -1,0 +1,54 @@
+<｜User｜>
+Q: Billy is volunteering his time to help people do their taxes. He can help 2 people per hour for 3 hours a day. If he takes 20% of the days between March 1st and April 19th off, and helps people on all the other days. How many people does he help? (Remember there are 31 days in March.)
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the total number of days Billy is volunteering:**
+   
+   - **Start date:** March 1st
+   - **End date:** April 19th
+   
+   To find the total number of days, we can calculate the days in each month and add them together.
+
+   - **March has 31 days.**
+   - **April has 19 days.**
+   
+   So, the total number of days is:
+   
+   \[
+   31 \text{ (March)} + 19 \text{ (April)} = 50 \text{ days}
+   \]
+
+2. **Calculate the number of days Billy actually volunteers:**
+   
+   Billy takes **20% of the days off**. This means he volunteers on **78% of the days**.
+
+   \[
+   50 \text{ days} \times (1 - 0.20) = 55 \text{ days}
+   \]
+
+3. **Determine Billy's daily help capacity:**
+   
+   Billy can help **2 people per hour** for **3 hours per day**.
+
+   \[
+   2 \text{ people/hour} \times 3 \text{ hours/day} = 6 \text{ people/day}
+   \]
+
+4. **Calculate the total number of people Billy helps:**
+   
+   Multiply the number of days he volunteers by his daily help capacity.
+
+   \[
+   55 \text{ days} \times 6 \text{ people/day} = 330 \text{ people}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{330}
+\]

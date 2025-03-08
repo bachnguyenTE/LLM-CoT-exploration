@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Gabriel and Luri each own a portable media player that can store up to 100 songs. Gabriel has 20 songs on his player while Luri has 3 times as many songs. How many fewer songs can Luri add to his player than Gabriel can add to his?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the number of songs Luri has:**
+   - Gabriel has 20 songs.
+   - Luri has 3 times as many songs as Gabriel.
+   - **Luri's songs = 3 × Gabriel's songs = 3 × 20 = 60 songs.**
+
+2. **Calculate the total capacity of each player:**
+   - Both Gabriel and Luri's portable media players can store up to **100 songs**.
+
+3. **Find out how many more songs each can add:**
+   - ** Gabriel can add:** \(100 - 20 = 80\) songs.
+   - ** Luri can add:** \(100 - 60 = 40\) songs.
+
+4. **Determine how many fewer songs Luri can add compared to Gabriel:**
+   - **Difference = Gabriel's additional songs - Luri's additional songs = 80 - 40 = 40 songs.**
+
+**Final Answer:** \(\boxed{40}\)

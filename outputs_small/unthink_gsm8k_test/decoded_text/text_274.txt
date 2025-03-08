@@ -1,0 +1,26 @@
+<｜User｜>
+Q: It's April, and Mrs. Rylan has been busy on her farm planting different types of vegetables for the season. She has bought 20 packets of tomato seeds and 80 packets of celery seeds to plant. If a packet of tomato seeds costs $40 and a packet of celery seeds costs $30, how much money did she use to buy the seeds?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the total amount of money Mrs. Rylan spent on buying the vegetable seeds, we'll calculate the cost of each type of seed separately and then sum them up.
+
+1. **Tomato Seeds:**
+   - Number of packets: 20
+   - Cost per packet: \$40
+   - Total cost for tomato seeds: \( 20 \times 40 = \$800 \)
+
+2. **Celery Seeds:**
+   - Number of packets: 80
+   - Cost per packet: \$30
+   - Total cost for celery seeds: \( 80 \times 30 = \$2400 \)
+
+3. **Total Cost:**
+   - Sum of both costs: \( \$800 + \$2400 = \$3280 \)
+
+**Final Answer:**
+\[
+\boxed{\$3280}
+\]

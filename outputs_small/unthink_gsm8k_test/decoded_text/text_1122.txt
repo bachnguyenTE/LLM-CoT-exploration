@@ -1,0 +1,35 @@
+<｜User｜>
+Q: A toy manufacturer receives an order for 400 toys. 5 workers are available to work on the order. 2 of the workers produce 6 toys an hour, and another 2 workers produce 4 toys an hour. They all work on the order during their 10-hour shift, and by the end of their shift the manufacturer still needs another 20 toys to be able to ship the order. How many toys per hour does the fifth worker produce?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many toys the fifth worker produces per hour, let's break down the problem step by step.
+
+1. **Total Order and Additional Need:**
+   - **Total toys ordered:** 400 toys
+   - **Additional toys needed:** 20 toys
+   - **Total toys needed to be produced:** 400 + 20 = 420 toys
+
+2. **Production Rates of the First Four Workers:**
+   - **First two workers:** 6 toys per hour
+   - **Next two workers:** 4 toys per hour
+   - **Total production per hour by the first four workers:** 6 + 4 = 10 toys per hour
+
+3. **Total Production by the First Four Workers Over 10 Hours:**
+   - **Total production:** 10 toys/hour × 10 hours = 120 toys
+
+4. **Total Production Needed by the Fifth Worker:**
+   - **Total toys needed to be produced:** 420 toys
+   - **Total toys already produced by the first four workers:** 120 toys
+   - **Remaining toys to be produced by the fifth worker:** 420 - 120 = 300 toys
+
+5. **Time Available for the Fifth Worker:**
+   - **Total shift duration:** 10 hours
+
+6. **Production Rate of the Fifth Worker:**
+   - **Production rate:** 300 toys / 10 hours = 30 toys per hour
+
+**Final Answer:**
+\[
+\boxed{30}
+\]

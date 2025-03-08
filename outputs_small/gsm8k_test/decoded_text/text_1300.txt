@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Josh runs a car shop and services 3 cars a day.  He is open every day of the week except Sunday and Wednesday.  He gets paid $4 per car.  How much does he make in 2 weeks?
+A:<｜Assistant｜><think>
+First, I need to determine how many cars Josh can service in a week. He works 3 cars each day and is open 5 days a week (Monday to Saturday).
+
+Next, I'll calculate his daily earnings by multiplying the number of cars by the payment per car: 3 cars × $4 = $12 per day.
+
+Then, I'll find his weekly earnings by multiplying the daily earnings by the number of days he works: $12 × 5 days = $60 per week.
+
+Finally, to find his earnings for 2 weeks, I'll multiply the weekly earnings by 2: $60 × 2 = $120.
+</think>
+
+**Solution:**
+
+1. **Determine the number of cars Josh services in a week:**
+   
+   - **Cars per day:** 3
+   - **Days open per week:** 5 (Monday to Saturday)
+   
+   \[
+   \text{Total cars per week} = 3 \text{ cars/day} \times 5 \text{ days} = 15 \text{ cars}
+   \]
+
+2. **Calculate his daily earnings:**
+   
+   - **Payment per car:** \$4
+   
+   \[
+   \text{Daily earnings} = 15 \text{ cars} \times \$4/\text{car} = \$60/\text{day}
+   \]
+
+3. **Find his earnings for 2 weeks:**
+   
+   \[
+   \text{Total earnings for 2 weeks} = \$60/\text{week} \times 2 \text{ weeks} = \$120
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{120}
+\]

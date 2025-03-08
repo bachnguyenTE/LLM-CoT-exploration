@@ -1,0 +1,57 @@
+<｜User｜>
+Q: Digimon had its 20th anniversary.  When it came out John was twice as old as Jim.  If John is 28 now how old is Jim?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Digimon's 20th anniversary. Let me try to figure it out step by step. Hmm, the problem says that when Digimon came out, John was twice as old as Jim. Now, John is 28, and I need to find out how old Jim is. 
+
+Alright, let's break this down. First, I know that age difference remains constant over time. So, if John is twice as old as Jim at the time of Digimon's release, the age difference between them is fixed. That means if I can find that difference, I can use it to find Jim's current age.
+
+Let me denote Jim's age at the time of Digimon's release as J. Then, John's age at that time would be 2J because John was twice as old as Jim. So, the age difference between John and Jim is 2J - J, which is J. That means Jim was J years younger than John.
+
+Now, the problem says that John is 28 now. So, if John was J years old when Digimon came out, and now he's 28, that means the time that has passed since Digimon's release is 28 - J years. 
+
+But, that seems right. So, the time that has passed is 28 - J. But, that seems right. Wait, that seems right. So, the age difference is J, and the time that has passed is 28 - J. But, that seems right. Wait, that seems right. So, the age difference is equal to the time that has passed. So, J = 28 - J.
+
+Wait, that seems right. So, if I set up the equation: J = 28 - J. Then, solving for J, I can add J to both sides, which gives me 2J = 28. Then, dividing both sides by 2, I get J = 14. So, Jim was 14 years old when Digimon came out. 
+
+But, that seems right. So, if Jim was 14 when John was 28, then the age difference is 14 - 8 = 6 years. So, that means Jim is 6 years younger than John. So, if John is now 28, that was 14 years ago. So, Jim was 14 years old when Digimon came out, and now he's 14 + 6 = 20 years old. 
+
+Wait, that seems right. So, if Jim was 14 when John was 28, then the age difference is 6. So, now, if John is 28, Jim is 14 + 6 = 20. So, Jim is 20 now. 
+
+Wait, that seems right. So, let me check my steps again. 
+
+1. Let Jim's age at the time of Digimon's release be J. Then, John's age was 2J.
+
+2. The age difference is 2J - J = J.
+
+3. The time that has passed since Digimon's release is 28 - J.
+
+4. Since the age difference is equal to the time that has passed, J = 28 - J.
+
+5. Solving for J: 2J = 28 => J = 14.
+
+6. So, Jim was 14 when John was 28. Therefore, Jim is now 14 + 6 = 20.
+
+Yes, that seems correct. So, the answer is 20.
+
+Wait, that seems right. So, I think I did it correctly. So, the answer is 20.
+
+**Final Answer**
+Jim is \boxed{20} years old.
+</think>
+
+Let \( J \) be Jim's age when Digimon's 20th anniversary came out. At that time, John was twice as old as Jim, so John's age was \( 2J \). The age difference between John and Jim is \( 2J - J = J \).
+
+Since the age difference remains constant, the time that has passed since the release of Digimon is \( 28 - J \) years. This time is equal to the age difference \( J \).
+
+Setting up the equation:
+\[ J = 28 - J \]
+
+Solving for \( J \):
+\[ 2J = 28 \]
+\[ J = 14 \]
+
+Thus, Jim was 14 years old when Digimon's 20th anniversary came out. Since then, Jim is now \( 14 + 6 = 20 \) years old.
+
+\[
+\boxed{20}
+\]

@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Amora, Lainey, and Collins wanted to share corn chips equally but then realized only two people would get an equal amount of corn chips, while the other person would receive 15 more corn chips than the number the others got. If Amora and Lainey got 70 corn chips each, how many corn chips were there altogether?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- **Amora** and **Lainey** each received **70** corn chips.
+- **Collins** received **15** more corn chips than the others.
+
+**Let’s denote:**
+- **A** = corn chips received by Amora = 70
+- **L** = corn chips received by Lainey = 70
+- **C** = corn chips received by Collins
+
+**According to the problem:**
+- **Collins** received **15** more corn chips than **Amora** and **Lainey**.
+- Therefore, **C** = **A** + 15 = 70 + 15 = 85
+
+**Now, let's calculate the total number of corn chips:**
+\[
+\text{Total} = A + L + C = 70 + 70 + 85
+\]
+
+**Calculating the sum:**
+\[
+70 + 70 = 140
+\]
+\[
+140 + 85 = 225
+\]
+
+**Final Answer:**
+\[
+\boxed{225}
+\]

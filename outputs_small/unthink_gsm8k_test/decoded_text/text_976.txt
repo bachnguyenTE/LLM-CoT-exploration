@@ -1,0 +1,69 @@
+<｜User｜>
+Q: Sunny is selling gingerbread and apple pie for a fundraiser. On Saturday, he sold 10 boxes of gingerbread and 4 fewer boxes of apple pie, than on Sunday. On Sunday, he sold 5 more boxes of gingerbread than on Saturday and 15 boxes of apple pie. If the gingerbread cost $6 and the apple pie cost $15, how much did Sunny earn for two days?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to determine how much Sunny earned for the two days.
+
+### **Given:**
+- **Sunny** sold gingerbread and apple pie for a fundraiser.
+- **Saturday:**
+  - Sold **10 boxes of gingerbread**.
+  - Sold **4 fewer boxes of apple pie** than on Sunday.
+- **Sunday:**
+  - Sold **5 more boxes of gingerbread** than on Saturday.
+  - Sold **15 boxes of apple pie**.
+- **Costs:**
+  - Gingerbread: \$6 per box.
+  - Apple pie: \$15 per box.
+
+### **Step 1: Determine the Number of Boxes Sold Each Day**
+
+Let's denote:
+- \( G_{\text{Sat}} \) = Number of gingerbread boxes sold on Saturday.
+- \( A_{\text{Sat}} \) = Number of apple pie boxes sold on Saturday.
+- \( G_{\text{Sun}} \) = Number of gingerbread boxes sold on Sunday.
+- \( A_{\text{Sun}} \) = Number of apple pie boxes sold on Sunday.
+
+From the problem:
+- \( G_{\text{Sat}} = 10 \) (given).
+- \( A_{\text{Sat}} = A_{\text{Sun}} - 4 \) (sold 4 fewer on Saturday than Sunday).
+- \( G_{\text{Sun}} = G_{\text{Sat}} + 5 = 10 + 5 = 15 \) (sold 5 more on Sunday).
+- \( A_{\text{Sun}} = 15 \) (given).
+
+Now, we can find \( A_{\text{Sat}} \):
+\[
+A_{\text{Sat}} = A_{\text{Sun}} - 4 = 15 - 4 = 11
+\]
+
+### **Step 2: Calculate Total Boxes Sold Each Day**
+
+- **Saturday:**
+  - Gingerbread: 10 boxes.
+  - Apple pie: 11 boxes.
+  
+- **Sunday:**
+  - Gingerbread: 15 boxes.
+  - Apple pie: 15 boxes.
+
+### **Step 3: Calculate Total Earnings for Each Item**
+
+- **Gingerbread Earnings:**
+  \[
+  \text{Total Gingerbread} = (\text{G}_{\text{Sat}} + \text{G}_{\text{Sun}}) \times \text{Cost per box} = (10 + 15) \times 6 = 25 \times 6 = 150 \text{ dollars}
+  \]
+  
+- **Apple Pie Earnings:**
+  \[
+  \text{Total Apple Pie} = (\text{A}_{\text{Sat}} + \text{A}_{\text{Sun}}) \times \text{Cost per box} = (11 + 15) \times 15 = 26 \times 15 = 390 \text{ dollars}
+  \]
+
+### **Step 4: Calculate Total Earnings for Two Days**
+
+\[
+\text{Total Earnings} = \text{Gingerbread Earnings} + \text{Apple Pie Earnings} = 150 + 390 = 540 \text{ dollars}
+\]
+
+\[
+\boxed{540}
+\]

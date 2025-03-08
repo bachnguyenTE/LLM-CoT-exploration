@@ -1,0 +1,22 @@
+<｜User｜>
+Q: An eraser costs $2 and a pencil costs $3. How much do 6 erasers and 8 pencils cost?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total cost of 6 erasers and 8 pencils, follow these steps:
+
+1. **Calculate the cost of the erasers:**
+   - Each eraser costs \$2.
+   - Number of erasers = 6.
+   - Total cost for erasers = 6 × \$2 = \$12.
+
+2. **Calculate the cost of the pencils:**
+   - Each pencil costs \$3.
+   - Number of pencils = 8.
+   - Total cost for pencils = 8 × \$3 = \$24.
+
+3. **Add the two amounts together to find the total cost:**
+   - Total cost = \$12 (erasers) + \$24 (pencils) = \$36.
+
+**Final Answer:**  
+The total cost for 6 erasers and 8 pencils is \boxed{\$36}.

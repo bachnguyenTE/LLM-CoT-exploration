@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Brittany and her mom go to the museum. The cost of admission is $12 for adults and $10 for children. Brittany's mom gives the cashier money for 1 child ticket and 1 adult ticket. If she received $8 in change, how much money, in dollars, did she give the cashier?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Brittany and her mom going to the museum. Let me try to figure it out step by step. 
+
+First, the problem says that the cost of admission is $12 for adults and $10 for children. Brittany's mom gives the cashier money for 1 child ticket and 1 adult ticket. She received $8 in change. The question is, how much money did she give the cashier?
+
+Hmm, okay. So, let me break this down. The total cost for one adult ticket and one child ticket would be the sum of the adult ticket and the child ticket. That should be $12 plus $10. Let me calculate that: 12 + 10 is 22. So, the total cost is $22.
+
+Now, the mom gave the cashier some money, and she got $8 in change. That means the amount she gave minus the total cost equals $8. So, if I let x be the amount she gave, then x minus 22 equals 8. So, x - 22 = 8. To find x, I can add 22 to both sides of the equation. That gives me x = 8 + 22, which is 30. So, she gave the cashier $30.
+
+Wait, that seems right. Let me double-check. If the adult ticket is $12 and the child ticket is $10, the total is $22. If she gave $30, then subtracting $22 would give her $8 in change. which matches the problem. So, yes, that makes sense.
+
+I don't think I made any mistakes here. The key was to add the two ticket prices to get the total cost and then add the change she received to find out how much she gave. It's a straightforward subtraction problem once you know the total cost.
+
+So, yeah, the answer should be $30.
+
+**Final Answer**
+The amount Brittany gave the cashier is \boxed{30} dollars.
+</think>
+
+The cost of an adult ticket is $12 and the cost of a child ticket is $10. Brittany's mom gives the cashier money for 1 child ticket and 1 adult ticket, and she receives $8 in change. 
+
+First, we calculate the total cost for one adult ticket and one child ticket:
+\[
+12 + 10 = 22
+\]
+
+Let \( x \) be the amount of money Brittany gave the cashier. The change she received is $8, so we set up the equation:
+\[
+x - 22 = 8
+\]
+
+Solving for \( x \):
+\[
+x = 8 + 22 = 30
+\]
+
+Thus, the amount Brittany gave the cashier is \boxed{30} dollars.

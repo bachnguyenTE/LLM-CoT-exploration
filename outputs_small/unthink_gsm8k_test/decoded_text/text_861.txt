@@ -1,0 +1,76 @@
+<｜User｜>
+Q: Claire earns 1 girl scout badge every month.  It takes Amber twice as long to earn a badge than Claire.  Wendy earns three times the amount of badges as Claire in the same time frame.  How many more badges does Wendy earn compared to Amber in a 1 year time frame?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- **Claire** earns 1 girl scout badge every month.
+- **Amber** takes **twice as long** to earn a badge than Claire.
+- **Wendy** earns **three times the amount** of badges as Claire in the same time frame.
+
+**Objective:**
+Find out how many **more badges** Wendy earns compared to Amber in a **1-year** time frame.
+
+---
+
+### Step 1: Determine the Rate of Earning for Each
+
+1. **Claire's Rate:**
+   - Earnings: 1 badge per month.
+   - **Claire's Rate (C):** \( C = 1 \) badge/month.
+
+2. **Amber's Rate:**
+   - Takes **twice as long** to earn a badge.
+   - If Claire earns 1 badge in 1 month, Amber takes 2 months to earn 1 badge.
+   - **Amber's Rate (A):** 
+     \[
+     A = \frac{1 \text{ badge}}{2 \text{ months}} = 0.5 \text{ badges/month}
+     \]
+
+3. **Wendy's Rate:**
+   - Earnings: Three times the amount of badges as Claire in the same time frame.
+   - If Claire earns 1 badge in 1 month, Wendy earns 3 badges in 1 month.
+   - **Wendy's Rate (W):** 
+     \[
+     W = 3 \times 1 \text{ badge/month} = 3 \text{ badges/month}
+     \]
+
+---
+
+### Step 2: Calculate the Number of Badges Earned in 1 Year
+
+1. **Claire's Badges in 1 Year:**
+   - 1 month = 1 badge.
+   - 1 year = 12 months.
+   - Total badges = \( 1 \text{ badge/month} \times 12 \text{ months} = 12 \text{ badges} \).
+
+2. **Amber's Badges in 1 Year:**
+   - Amber earns 0.5 badges per month.
+   - Total badges = \( 0.5 \text{ badges/month} \times 12 \text{ months} = 1 \text{ badge} \) in 2 months.
+   - Wait, hold on. Let's correct that.
+
+   **Correct Calculation for Amber:**
+   - Amber takes 2 months to earn 1 badge.
+   - In 1 year (12 months), how many badges does she earn?
+   - Number of badges = \( \frac{12 \text{ months}}{1 \text{ badge}} \times 12 \text{ months} = 24 \text{ badges} \).
+
+3. **Wendy's Badges in 1 Year:**
+   - Wendy earns 3 badges per month.
+   - Total badges = \( 3 \text{ badges/month} \times 12 \text{ months} = 36 \text{ badges} \).
+
+---
+
+### Step 3: Determine the Difference in Badges Earned
+
+- **Wendy's Badges:** 36 badges
+- **Amber's Badges:** 24 badges
+- **Difference:** \( 36 - 24 = 12 \text{ badges} \)
+
+---
+
+**Final Answer:**
+\[
+\boxed{12}
+\]

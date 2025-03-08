@@ -1,0 +1,32 @@
+<｜User｜>
+Q: In his training as a professional athlete, Tyson runs 5000 meters every day. His coach, however, wants him to run 1/5 times more meters in a day. If he took the coach's advice and trained for a month, what is the total distance he covered in June?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Original Distance Tyson Runs:**
+   - Tyson runs **5000 meters** every day.
+
+2. **Increase in Distance:**
+   - The coach wants him to run **1/5 times more meters**.
+   - **1/5 of 5000 meters** is:
+     \[
+     \frac{1}{5} \times 5000 = 1100 \text{ meters}
+     \]
+   - **Total Distance with the Increase**:
+     \[
+     5500 + 1100 = 6600 \text{ meters}
+     \]
+
+3. **Total Distance in June:**
+   - June has **30 days**.
+   - **Total Distance**:
+     \[
+     6600 \text{ meters/day} \times 30 \text{ days} = 198,000 \text{ meters}
+     \]
+
+**Final Answer:**
+\[
+\boxed{198,\!000 \text{ meters}}
+\]

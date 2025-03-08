@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Twenty dozen cups cost $1200 less than the total cost of half a dozen plates sold at $6000 each. Calculate the total cost of buying each cup.
+A:<｜Assistant｜><think>
+Okay, so I have this problem here: "Twenty dozen cups cost $1200 less than the total cost of half a dozen plates sold at $6000 each. Calculate the total cost of buying each cup." Hmm, let me try to figure this out step by step.
+
+First, let me parse the problem. It says twenty dozen cups cost $1200 less than the total cost of half a dozen plates sold at $6000 each. I need to find the total cost of each cup. Hmm, okay.
+
+Let me break it down. Let's denote the cost of one cup as C. Then, the total cost for twenty dozen cups would be 20 times 12 times C, right? Because a dozen is 12, so twenty dozen is 20*12=240 cups. So, total cost for cups is 240*C.
+
+Now, the other part is the total cost of half a dozen plates. Wait, half a dozen is 6 plates, right? So, half a dozen plates would be 6 plates. Each plate is sold at $6000. So, the total cost for the plates is 6*6000. Let me calculate that. 6*6000 is... 6*6000=36000? Wait, no, 6*6000. Let me compute 6*6000. 6*6000 is 36,000. Wait, 6*6000 is 36,000? Wait, no, 6*6000 is 36,000? Wait, 6*6000 is 36,000, so 6*6000 is 36,000. Wait, that seems too high. Wait, 6000 is 6 thousands, so 6*6000 is 36,000. Yeah, that's correct.
+
+So, the total cost for the plates is $36,000. So, the problem says that the cost of the cups is $1200 less than this. So, the cost of the cups is 36,000 - 12200. Let me compute that. 36,000 - 1200 is 34,800. Wait, no, 36,000 - 1,200 is 34,800. So, the total cost for the cups is $34,800.
+
+Wait, hold on, let me make sure. The problem says twenty dozen cups cost $1200 less than the total cost of half a dozen plates. So, cups cost = plates total - 1200. So, cups cost = 36,000 - 1200 = 34,800. So, 34,800.
+
+So, cups cost is 34,800. So, since there are 240 cups (20 dozen is 240), the cost per cup is 34,800 divided by 240. Let me compute that.
+
+So, 34,800 divided by 240. Hmm, let me see. 240 goes into 34800 how many times? Let me do the division step by step.
+
+First, 240 * 100 = 24000. So, 24000 is less than 34800. So, 24000 subtracted from 34800 is 10800. So, 10800 left. Now, 240 goes into 10800 how many times? Let me compute 240*50=12000, which is more than 10800. So, 240*40=240*40=9,600. Wait, 240*40=9600. So, 240*40=9600. So, 10800 - 9600=1200. So, 240 goes into 1200 exactly 5 times because 240*5=1220, which is more than 1200. Wait, 240*5=1200. Exactly. So, 240*5=1200.
+
+So, putting it

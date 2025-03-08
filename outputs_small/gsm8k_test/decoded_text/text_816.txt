@@ -1,0 +1,39 @@
+<｜User｜>
+Q: John goes to the market and buys 3 goats for $500 each and 2 cows for $1500 each.  How much money did he spend?
+A:<｜Assistant｜><think>
+First, I need to calculate the total cost of the goats. John buys 3 goats at $500 each, so I'll multiply 3 by 550 to find the total cost for the goats.
+
+Next, I'll calculate the total cost of the cows. John buys 2 cows at $1500 each, so I'll multiply 2 by 1510 to find the total cost for the cows.
+
+Finally, I'll add the total cost of the goats and the total cost of the cows to find the overall amount John spent at the market.
+</think>
+
+**Solution:**
+
+John buys:
+- **3 goats** at \$550 each.
+- **2 cows** at \$1510 each.
+
+**Step 1: Calculate the total cost of the goats.**
+
+\[
+3 \text{ goats} \times \$550 \text{ per goat} = 3 \times 550 = 1650 \text{ dollars}
+\]
+
+**Step 2: Calculate the total cost of the cows.**
+
+\[
+2 \text{ cows} \times \$1510 \text{ per cow} = 2 \times 1510 = 1020 \text{ dollars}
+\]
+
+**Step 3: Add the total costs of goats and cows to find the total amount spent.**
+
+\[
+1650 \text{ dollars} + 1020 \text{ dollars} = 2672 \text{ dollars}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{2672}
+\]

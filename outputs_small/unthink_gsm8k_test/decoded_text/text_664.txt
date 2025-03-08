@@ -1,0 +1,38 @@
+<｜User｜>
+Q: John decides to take a cooking class.  The class meets 4 times a week for 2 hours each time for 6 weeks.  If he learns a new recipe for every 1.5 hours of class time, how many recipes does he learn?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many recipes John learns, follow these steps:
+
+1. **Calculate the total class time per week:**
+   
+   The class meets 4 times a week for 2 hours each time.
+   
+   \[
+   \text{Total class time per week} = 4 \times 2 = 8 \text{ hours}
+   \]
+
+2. **Calculate the total class time over 6 weeks:**
+   
+   Multiply the weekly class time by the number of weeks.
+   
+   \[
+   \text{Total class time} = 8 \times 6 = 48 \text{ hours}
+   \]
+
+3. **Determine the number of recipes learned:**
+   
+   John learns a new recipe for every 1.5 hours of class time.
+   
+   \[
+   \text{Number of recipes} = \frac{48}{1.5} = 32
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{32}
+\]

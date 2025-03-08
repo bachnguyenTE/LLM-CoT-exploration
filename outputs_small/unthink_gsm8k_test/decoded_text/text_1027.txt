@@ -1,0 +1,34 @@
+<｜User｜>
+Q: A store offers sandwiches in 3 different package sizes: the first package with 2 sandwiches for $3, the second with 4 sandwiches for $6, and a third with 8 sandwiches, but the price is not indicated. Knowing that the prices are proportional, how much will the package with 8 sandwiches cost?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the cost of the package with 8 sandwiches, we'll analyze the pricing pattern based on the given information.
+
+1. **First Package:**
+   - **Number of Sandwiches:** 2
+   - **Cost:** \$3
+
+2. **Second Package:**
+   - **Number of Sandwiches:** 4
+   - **Cost:** \$6
+
+3. **Third Package:**
+   - **Number of Sandwiches:** 8
+   - **Cost:** ? (To be determined)
+
+**Step 1: Identify the Pricing Pattern**
+
+Notice that the number of sandwiches doubles from the first to the second package, and the cost also doubles (\$3 to \$6). This suggests a proportional pricing pattern.
+
+**Step 2: Calculate the Cost for 8 Sandwiches**
+
+Since the cost doubles every time the number of sandwiches doubles, we can apply this pattern:
+
+- **2 sandwiches:** \$3
+- **4 sandwiches:** \$6 (double of \$3)
+- **8 sandwiches:** \$12 (double of \$6)
+
+**Final Answer:**
+
+\boxed{\$12}

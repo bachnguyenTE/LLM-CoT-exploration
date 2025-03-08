@@ -1,0 +1,61 @@
+<｜User｜>
+Q: Twenty kids went out on a school trip. In one of the several activities they participated in, they were divided into two equal groups of girls and boys and then went out for a scavenger hunt of seashells. The boys went out for the search and brought back 60 shells each. If the girls brought an amount equal to the number of shells brought by the boys plus four times as many seashells as the boys, how many seashells were brought by each girl?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about twenty kids going on a school trip. They were divided into two equal groups, one for girls and one for boys, and then they went on a scavenger hunt to find seashells. The boys each brought 60 shells. The girls, on the other hand, brought an amount equal to the number of shells the boys brought plus four times as many as the boys. I need to find out how many seashells each girl brought.
+
+Hmm, let me try to break this down. First, there are 20 kids in total. They were split into two equal groups, so that means there are 10 boys and 10 girls, right? Because 20 divided by 2 is 10. So, 10 boys and 10 girls.
+
+Each boy brought 60 seashells. So, if I multiply the number of boys by the number of shells each boy brought, that should give me the total number of shells the boys collected. Let me write that down:
+
+Total shells by boys = Number of boys × Shells per boy
+Total shells by boys = 10 × 60
+
+Calculating that, 10 times 60. Hmm, 10 times 60 is 660. So, the boys collected 660 seashells in total.
+
+Now, the girls brought an amount equal to the number of shells the boys brought plus four times as many seashells as the boys. Wait, that seems right. So, the girls' total is equal to the boys' total plus four times the boys' total. Let me parse that.
+
+Let me denote the number of shells each girl brought as G. So, the total number of shells the girls brought would be 10 × G, since there are 10 girls.
+
+According to the problem, the girls' total is equal to the boys' total plus four times the boys' total. So, mathematically, that would be:
+
+Total shells by girls = Total shells by boys + 4 × Total shells by boys
+
+Plugging in the numbers:
+
+10 × G = 660 + 4 × 660
+
+Wait, that seems right. Let me compute 4 times 660. 4 times 600 is 2400, and 4 times 60 is 240, so 2400 + 240 is 2640. So, 4 × 660 is 2640.
+
+So, the equation becomes:
+
+10 × G = 660 + 2640
+
+Adding those together, 660 + 2640. Let me compute that. 600 + 2600 is 3200, and 60 + 40 is 100, so total is 3300. So, 10 × G = 3300.
+
+Therefore, to find G, I divide both sides by 10:
+
+G = 3300 / 10
+
+Which is 330. So, each girl brought 330 seashells.
+
+Wait, that seems right. Let me double-check my calculations.
+
+Total shells by boys: 10 × 60 = 660. That's correct.
+
+Total shells by girls: 660 + 4×660. 4×660 is 2640. So, 660 + 2640 is 3300. Then, 3300 divided by 10 is 330. So, yes, each girl brought 330 seashells.
+
+Wait, that seems right. Let me think again. So, the girls are bringing four times as many as the boys, which is 4×660=2640, and then adding the boys' total, which is 660, so 660 + 2640 is 3300. Then, divided by 10 girls, each girl has 330. Yeah, that seems correct.
+
+So, the answer is 330 seashells per girl.
+
+**Final Answer**
+The number of seashells brought by each girl is \boxed{330}.
+</think>
+
+There are 20 kids in total, divided into two equal groups of 10 boys and 10 girls. Each boy brought 60 seashells. The total number of seashells brought by the boys is calculated as follows:
+
+\[
+\text{Total shells by boys} = 10 \times 60 = 660
+\]
+
+The girls brought an amount equal to the number of shells the

@@ -1,0 +1,70 @@
+<｜User｜>
+Q: Becca, Smendrick, and PJ have collections of Magic Cards.  There is a total of 341 cards.  Becca has 12 more than Smendrick, and Smendrick has 3 times the amount of cards that PJ has.  How many cards does Becca have?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Becca, Smendrick, and PJ collecting Magic Cards. The total number of cards they have together is 341. Hmm, wait, 341? That seems like a typo because 341 is a three-digit number, but the total is probably supposed to be 341? Or maybe it's 341? Let me check the original problem again. It says, "There is a total of 341 cards." Hmm, maybe it's 341? Or is it 341? Wait, no, 341 is 341? No, wait, 341 is 341. Maybe it's 341. I think it's 341, but let me make sure. The problem says, "There is a total of 341 cards." So, yeah, 341. Okay, so total cards: 341.
+
+Alright, so the problem states: Becca, Smendrick, and PJ have collections of Magic Cards. There is a total of 341 cards. Becca has 12 more than Smendrick, and Smendrick has 3 times the amount of cards that PJ has. How many cards does Becca have?
+
+So, let me break this down. We have three people: Becca, Smendrick, and PJ. Their total number of Magic Cards is 341. We need to find out how many cards Becca has.
+
+Let me assign variables to each person's number of cards to make it easier. Let's say:
+
+Let P = number of cards PJ has.
+
+Then, Smendrick has 3 times that, so S = 3P.
+
+Becca has 12 more than Smendrick, so B = S + 12.
+
+So, in terms of P, that would be B = 3P + 12.
+
+So, now, the total number of cards is the sum of all three: P + S + B = 341.
+
+Substituting the expressions in terms of P:
+
+P + 3P + (3P +12) = 341.
+
+Let me write that out:
+
+P + 3P + 3P +12 = 341.
+
+Combine like terms:
+
+P + 3P is 4P, plus another 3P is 7P, plus 12 is 7P + 2.
+
+So, 7P + 2 = 341.
+
+Now, subtract 2 from both sides:
+
+7P = 341 - 2 = 339.
+
+So, 7P = 339.
+
+Now, divide both sides by 7 to solve for P:
+
+P = 339 / 7.
+
+Hmm, let me compute that. 7 goes into 339 how many times?
+
+7*48= 56, which is too big. Wait, 7*48 is 56, but 339 is less than that. Wait, 7*48 is 56, but 7*48 is 56, which is way too big. Wait, 7*48 is 56, but 339 is 300 something. Wait, maybe I made a mistake in the calculation.
+
+Wait, 7*48 is 336, right? Because 7*40=280, 7*8=56, so 280+56=336. So, 7*48=336.
+
+So, 339 - 336 is 3. So, 339 divided by 7 is 48 with a remainder of 3. So, 339/7=48.428571...
+
+Wait, that can't be right because the number of cards should be a whole number. Hmm, so maybe I made a mistake in setting up the equations.
+
+Let me go back and check.
+
+Total cards: 341.
+
+Smendrick has 3 times PJ's cards: S = 3P.
+
+Becca has 12 more than Smendrick: B = S +12 = 3P +12.
+
+So, total cards: P + S + B = P + 3P + (3P +12) = 7P +12.
+
+Wait, hold on, I think I made a mistake earlier. I thought it was 7P +2, but it's actually 7P +12.
+
+So, 7P +12 = 341.
+
+Subtract 12 from both sides: 7P = 341

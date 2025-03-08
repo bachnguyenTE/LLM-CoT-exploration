@@ -1,0 +1,59 @@
+<｜User｜>
+Q: Jenny buys 1 bag of cookies a week.  The bag has 36 cookies and she puts 4 cookies in her son's lunch box 5 days a week.  Her husband eats 1 cookie a day for 7 days.  Jenny eats the rest of the cookies.  How many cookies does Jenny eat?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Jenny and her cookies. Let me try to figure it out step by step. 
+
+First, Jenny buys 1 bag of cookies every week. A bag has 36 cookies. That seems straightforward. So, every week, she's consuming 36 cookies. Now, let's break down what she does with these cookies.
+
+She puts 4 cookies in her son's lunch box 5 days a week. Hmm, so if she does this 5 days, how many cookies does she eat from her son's lunch box each week? Well, 4 cookies multiplied by 5 days would be 4 * 5 = 20 cookies. So, she eats 20 cookies for her son each week.
+
+Next, her husband eats 1 cookie a day for 7 days. That means the husband eats 1 * 7 = 7 cookies in a week. So, the husband is consuming 7 cookies each week.
+
+Now, Jenny eats the rest of the cookies. So, to find out how many cookies Jenny eats, I need to subtract the cookies she gives to her son and the cookies her husband eats from the total number of cookies in the bag.
+
+Let me write that down:
+
+Total cookies per week: 36
+Cookies given to son: 20
+Cookies eaten by husband: 7
+Cookies Jenny eats: ?
+
+So, the calculation would be:
+
+36 (total) - 20 (for son) - 7 (for husband) = ?
+
+Wait, let me do the subtraction step by step. 
+
+First, subtract the 20 from 36. 36 - 20 is 16. Then, subtract the 7 from that result. So, 16 - 7 is 9. 
+
+So, does that mean Jenny eats 9 cookies each week? Let me double-check my math to make sure I didn't make a mistake.
+
+Total cookies: 36
+Cookies given to son: 4 * 5 = 20
+Cookies eaten by husband: 1 * 7 = 7
+So, 36 - 20 = 16
+16 - 7 = 9
+
+Yes, that seems correct. So, Jenny eats 9 cookies each week.
+
+Wait, hold on a second. Let me make sure I didn't misinterpret the problem. It says she buys 1 bag a week, which has 36 cookies. She puts 4 in her son's lunch box 5 days a week. So, 4 cookies per day for 5 days is 20 cookies. Her husband eats 1 cookie a day for 7 days, so that's 7 cookies. So, 20 + 7 = 27 cookies are eaten by her son and husband. Therefore, 36 - 27 = 9 cookies left for Jenny. Yeah, that seems right.
+
+I don't think I made a mistake here. So, the answer should be 9 cookies.
+
+**Final Answer**
+Jenny eats \boxed{9} cookies.
+</think>
+
+Jenny buys 1 bag of cookies every week, which contains 36 cookies. She puts 4 cookies in her son's lunch box 5 days a week, which amounts to:
+
+\[ 4 \text{ cookies/day} \times 5 \text{ days} = 20 \text{ cookies} \]
+
+Her husband eats 1 cookie a day for 7 days, which amounts to:
+
+\[ 1 \text{ cookie/day} \times 7 \text{ days} = 7 \text{ cookies} \]
+
+To find out how many cookies Jenny eats, we subtract the cookies given to her son and the cookies eaten by her husband from the total number of cookies:
+
+\[ 36 \text{ cookies} - 20 \text{ cookies} - 7 \text{ cookies} = 9 \text{ cookies} \]
+
+Thus, Jenny eats \(\boxed{9}\) cookies.

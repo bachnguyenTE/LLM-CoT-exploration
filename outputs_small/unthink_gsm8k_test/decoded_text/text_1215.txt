@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Tim enters a competition and has to try and guess the number of red jelly beans in a jar.  The jar has a square base and is 6 inches by 6 inches and 15 inches tall.  He knows that a jelly bean is .15 cubic inches.  He also knows that they get about 80% efficiency in packing.  He estimates 30% of the jelly beans are red.  The true number of red jelly beans in the container is 900.  How far off was his guess?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how far off Tim's guess was, let's break down the problem step by step.
+
+1. **Calculate the volume of the jar:**
+   \[
+   \text{Volume of jar} = \text{base area} \times \text{height} = 6\, \text{in} \times 6\, \text{in} \times 15\, \text{in} = 540\, \text{cubic inches}
+   \]
+
+2. **Determine the total number of jelly beans:**
+   \[
+   \text{Total jelly beans} = \frac{\text{Volume of jar}}{\text{Volume per jelly bean}} = \frac{540}{0.15} = 3600\, \text{jelly beans}
+   \]
+
+3. **Estimate the number of red jelly beans:**
+   \[
+   \text{Red jelly beans} = 3600 \times 0.30 = 1080\, \text{red jelly beans}
+   \]
+
+4. **Calculate the difference between the actual and estimated red jelly beans:**
+   \[
+   \text{Difference} = |1080 - 900| = 180\, \text{red jelly beans}
+   \]
+
+**Final Answer:**
+\[
+\boxed{180}
+\]

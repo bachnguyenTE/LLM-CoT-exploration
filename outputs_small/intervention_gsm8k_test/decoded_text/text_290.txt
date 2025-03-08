@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Ali is a superstar counter. He has won 22 medals for counting super fast. His friend Izzy is also a really good counter and has 5 less medals than Ali. Together they have 10 times less medals than have been given out for counting. How many medals have been given out for counting?
+A:<｜Assistant｜><think>
+First, I need to determine how many medals Izzy has. Since Izzy has 5 less medals than Ali, and Ali has 22 medals, Izzy has 22 minus 5, which equals 17 medals.
+
+Next, I'll calculate the total number of medals that Ali and Izzy have together. Adding their individual totals, 22 plus 17, gives a combined total of 39 medals.
+
+The problem states that together they have 10 times less medals than have been given out. This means that the total number of medals they have is one-tenth of the total medals that have been given out. To find the total medals given out, I'll multiply the combined total by 10. So, 39 multiplied by 10 equals 390.
+
+Therefore, the total number of medals that have been given out for counting is 390.
+</think>
+
+Let's break down the problem step by step to find the total number of medals given out for counting.
+
+1. **Determine Izzy's Medals:**
+   - Ali has won **22 medals**.
+   - Izzy has **5 less medals** than Ali.
+   - **Izzy's Medals = Ali's Medals - 5 = 22 - 5 = 17 medals**.
+
+2. **Calculate the Total Medals Together:**
+   - **Total Medals = Ali's Medals + Izzy's Medals = 22 + 17 = 39 medals**.
+
+3. **Understand the Relationship:**
+   - It's given that **together they have 10 times less medals** than have been given out.
+   - This means the total medals they have (39) is **1/10th** of the total medals given out.
+
+4. **Find the Total Medals Given Out:**
+   - Let \( x \) be the total number of medals given out.
+   - According to the problem: 
+     \[
+     \frac{x}{10} = 39
+     \]
+   - Solving for \( x \):
+     \[
+     x = 39 \times 10 = 390
+     \]
+
+**Final Answer:**
+\[
+\boxed{390}
+\]

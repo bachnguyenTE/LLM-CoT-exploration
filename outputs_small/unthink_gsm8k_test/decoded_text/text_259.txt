@@ -1,0 +1,58 @@
+<｜User｜>
+Q: Andrea has 8 more apples than Jamal and half as many bananas as Jamal. Jamal has 4 more bananas than apples. How many fruits are there if Andrea has 52 apples?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Define Variables:**
+   - Let \( A \) = number of apples Jamal has.
+   - Let \( B \) = number of bananas Jamal has.
+
+2. **Given Information:**
+   - Andrea has 8 more apples than Jamal: \( A_{\text{Andrea}} = A + 8 \).
+   - Andrea has half as many bananas as Jamal: \( B_{\text{Andrea}} = \frac{1}{2}B \).
+   - Jamal has 4 more bananas than apples: \( B = A + 4 \).
+   - Andrea has 52 apples: \( A_{\text{Andrea}} = 52 \).
+
+3. **Find Jamal's Apples:**
+   - Since \( A_{\text{Andrea}} = A + 8 \) and \( A_{\text{Andrea}} = 52 \):
+     \[
+     52 = A + 8 \implies A = 52 - 8 = 44
+     \]
+   - So, Jamal has 44 apples.
+
+4. **Find Jamal's Bananas:**
+   - From \( B = A + 4 \):
+     \[
+     B = 44 + 4 = 48
+     \]
+   - So, Jamal has 48 bananas.
+
+5. **Find Andrea's Bananas:**
+   - From \( B_{\text{Andrea}} = \frac{1}{2}B \):
+     \[
+     B_{\text{Andrea}} = \frac{1}{2} \times 48 = 24
+     \]
+   - So, Andrea has 24 bananas.
+
+6. **Calculate Total Fruits:**
+   - **Andrea's Fruits:**
+     \[
+     \text{Apples} + \text{Bananas} = 52 + 24 = 76
+     \]
+   - **Jamal's Fruits:**
+     \[
+     \text{Apples} + \text{Bananas} = 44 + 48 = 52
+     \]
+   - **Total Fruits:**
+     \[
+     76 + 52 = 128
+     \]
+
+**Final Answer:**
+\[
+\boxed{128}
+\]

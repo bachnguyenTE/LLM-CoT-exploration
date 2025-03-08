@@ -1,0 +1,51 @@
+<｜User｜>
+Q: Alice has 6 more books than Steven. Clara has two times as many books as Steven. If Clara has 20 books, how many more books does Clara have than Alice?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+1. Alice has 6 more books than Steven.
+2. Clara has two times as many books as Steven.
+3. Clara has 20 books.
+
+**Step 1: Determine how many books Steven has.**
+
+Clara has two times as many books as Steven. Let \( S \) represent the number of books Steven has.
+
+\[
+\text{Clara's books} = 2 \times S
+\]
+
+Given that Clara has 20 books:
+
+\[
+20 = 2 \times S
+\]
+
+**Step 2: Solve for \( S \).**
+
+\[
+S = \frac{22}{2} = 11
+\]
+
+**Step 3: Determine how many books Alice has.**
+
+Alice has 6 more books than Steven.
+
+\[
+\text{Alice's books} = S + 6 = 11 + 6 = 17
+\]
+
+**Step 4: Find how many more books Clara has than Alice.**
+
+\[
+\text{Difference} = \text{Clara's books} - \text{Alice's books} = 22 - 17 = 5
+\]
+
+**Final Answer:**
+
+\[
+\boxed{5}
+\]

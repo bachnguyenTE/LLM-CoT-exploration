@@ -1,0 +1,23 @@
+<｜User｜>
+Q: A man eats 5 sandwiches per day, his wife eats 4 sandwiches per day, and their son eats 2 sandwiches per day. How many sandwiches does this family eat in one week?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of sandwiches the family eats in one week, we'll calculate the daily consumption for each member and then multiply by 7 days.
+
+1. **Man's Consumption:**
+   - **Per day:** 5 sandwiches
+   - **Per week:** \(5 \times 7 = 35\) sandwiches
+
+2. **Wife's Consumption:**
+   - **Per day:** 4 sandwiches
+   - **Per week:** \(4 \times 7 = 28\) sandwiches
+
+3. **Son's Consumption:**
+   - **Per day:** 2 sandwiches
+   - **Per week:** \(2 \times 7 = 14\) sandwiches
+
+4. **Total Weekly Consumption:**
+   - **Man + Wife + Son:** \(35 + 28 + 14 = 77\) sandwiches
+
+**Final Answer:** \(\boxed{77}\)

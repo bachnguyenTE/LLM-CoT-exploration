@@ -1,0 +1,22 @@
+<｜User｜>
+Q: Tommy caught 3 more fish than Darren and Darren caught 6 less than Naomi. If Naomi caught 17 fish, how many fish did Tommy catch?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Naomi's Fish:**
+   - Naomi caught **17 fish**.
+
+2. **Darren's Fish:**
+   - Darren caught **6 less** than Naomi.
+   - Calculation: \( 17 - 6 = 11 \) fish.
+
+3. **Tommy's Fish:**
+   - Tommy caught **3 more** than Darren.
+   - Calculation: \( 11 + 3 = 14 \) fish.
+
+**Final Answer:**
+Tommy caught \(\boxed{14}\) fish.

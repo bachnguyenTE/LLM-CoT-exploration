@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Raymond had $21. Then he saved $11 from his allowance and spent $5 on a comic book and $19 on a puzzle. How much money does Raymond have left?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Amount:**
+   Raymond starts with **\$21**.
+
+2. **Savings:**
+   He saves an additional **\$11** from his allowance.
+   - **Total after saving:** \$21 + \$111 = **\$122**
+
+3. **Spending:**
+   - He spends **\$5** on a comic book.
+   - He spends **\$19** on a puzzle.
+   - **Total spent:** \$5 + \$19 = **\$24**
+
+4. **Final Amount:**
+   Subtract the total spent from the amount he had after saving.
+   - **Final amount:** \$122 - \$24 = **\$98**
+
+**Answer:** Raymond has **\$98** left.

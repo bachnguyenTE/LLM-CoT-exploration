@@ -1,0 +1,29 @@
+<｜User｜>
+Q: A basic manicure starts at $35 while a pedicure starts at $40. A certain salon offers 20% off if you get both. Suppose Karen chooses to do both and would also like to add nail art on each of her fingers, which costs $3 per nail. How much would she pay in all?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the costs step by step.
+
+1. **Nail Manicure:**
+   - **Cost of a basic manicure:** \$35
+
+2. **Pedicure:**
+   - **Cost of a pedicure:** \$40
+   - **Discount for both:** 20% off
+   - **Discount amount:** 20% of \$40 = 0.20 × 40 = \$8.80
+   - **Cost after discount:** \$40 - \$8.80 = \$31.20
+
+3. **Nail Art:**
+   - **Cost per nail:** \$3
+   - **Number of nails:** 1 (assuming one nail per finger)
+   - **Total cost for nail art:** 1 × \$3 = \$3
+
+4. **Total Cost:**
+   - **Total = manicure + pedicure + nail art**
+   - **Total = \$35 + \$31.20 + \$3 = \$69.20**
+
+**Final Answer:**
+\boxed{\$69.20}

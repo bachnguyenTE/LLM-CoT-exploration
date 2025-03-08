@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Jonathan has 2/3 as many measuring spoons as measuring cups. If he has two dozen cups and gifts Pedro 6 measuring spoons for his birthday, calculate the total number of utensils Jonathan has remaining.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Define Variables:**
+   - Let \( C \) represent the number of cups.
+   - Let \( M \) represent the number of measuring spoons.
+
+2. **Given Information:**
+   - Jonathan has **two dozen cups**. Since one dozen equals 12, two dozen equals \( 2 \times 12 = 24 \) cups.
+     \[
+     C = 24
+     \]
+   - Jonathan has **2/3 as many measuring spoons as measuring cups**. This translates to:
+     \[
+     M = \frac{2}{3}C
+     \]
+   - He gifts Pedro **6 measuring spoons**.
+
+3. **Calculate the Number of Measuring Spoons:**
+   \[
+   M = \frac{2}{3} \times 24 = 16
+   \]
+   So, Jonathan initially has **16 measuring cups** and **16 measuring spoons**.
+
+4. **After Gifting:**
+   - Measuring cups remaining:
+     \[
+     16 - 6 = 10
+     \]
+   - Measuring spoons remaining:
+     \[
+     16 - 6 = 10
+     \]
+
+5. **Total Number of Utensils Remaining:**
+   \[
+   \text{Total Utensils} = \text{Measuring Cups} + \text{Measuring Spoons} = 10 + 10 = 20
+   \]
+
+**Final Answer:**
+\[
+\boxed{20}
+\]

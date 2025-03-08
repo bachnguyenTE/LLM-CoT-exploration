@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Martha has been collecting shells since she turned 5 years old, every month she collects one shell. By her 10th birthday, how many shells will Martha have collected?
+A:<｜Assistant｜><think>
+First, determine how many years have passed from when Martha turned 5 to when she turned 10.
+
+Next, calculate the total number of months between these two ages by multiplying the number of years by 12.
+
+Finally, multiply the total number of months by the number of shells Martha collects each month to find the total number of shells collected by her 10th birthday.
+</think>
+
+**Solution:**
+
+Martha collects **1 shell** every month starting from when she turned **5 years old**.
+
+1. **Calculate the number of years between when she turned 5 and 10:**
+   
+   \[
+   10 - 5 = 5 \text{ years}
+   \]
+
+2. **Convert years to months:**
+   
+   \[
+   5 \text{ years} \times 12 \text{ months/year} = 60 \text{ months}
+   \]
+
+3. **Calculate the total number of shells collected:**
+   
+   \[
+   60 \text{ months} \times 1 \text{ shell/month} = 60 \text{ shells}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{60}
+\]

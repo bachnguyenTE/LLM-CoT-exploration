@@ -1,0 +1,38 @@
+<｜User｜>
+Q: The local firefighters are doing a “fill the boot” fundraiser. Their goal is to raise $6300. After the first 3 hours, they have raised $2100.  For how many hours do they have to fundraise in total to reach their goal, assuming an equal amount raised in every hour?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We need to determine the total number of hours required for the firefighters to raise \$6,300, given that they have already raised \$2,100 in the first 3 hours and plan to raise an equal amount each hour.
+
+1. **Calculate the remaining amount to be raised:**
+   
+   \[
+   \text{Remaining Amount} = \$6,300 - \$2,100 = \$4,200
+   \]
+
+2. **Determine the amount raised per hour:**
+   
+   \[
+   \text{Amount per Hour} = \frac{\$2,100}{3 \text{ hours}} = \$700 \text{ per hour}
+   \]
+
+3. **Calculate the number of additional hours needed:**
+   
+   \[
+   \text{Additional Hours} = \frac{\$4,200}{\$700 \text{ per hour}} = 6 \text{ hours}
+   \]
+
+4. **Find the total number of hours required:**
+   
+   \[
+   \text{Total Hours} = 3 \text{ hours} + 6 \text{ hours} = 9 \text{ hours}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{9}
+\]

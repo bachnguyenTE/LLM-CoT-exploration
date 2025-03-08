@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Sitti and Juris bought 34 and 22 oranges, respectively. If both of them decide to share them equally with their 6 other friends, how many oranges will everyone get?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Oranges:**
+   - Sitti has 34 oranges.
+   - Juris has 22 oranges.
+   - **Total Oranges = 34 + 22 = 56 oranges.**
+
+2. **Total Friends:**
+   - Both Sitti and Juris decide to share the oranges equally with their 6 other friends.
+   - **Total Friends = 6**
+
+3. **Oranges per Person:**
+   - **Oranges per Person = Total Oranges ÷ Total Friends**
+   - **Oranges per Person = 56 ÷ 6 ≈ 9.333...**
+
+4. **Expressing the Result:**
+   - Since you can't have a fraction of an orange in this context, we can express the answer as a mixed number or a decimal.
+   - **9 and 1/3 oranges per person** or **approximately 9.33 oranges per person.**
+
+**Final Answer:**
+\[
+\boxed{9 \frac{1}{3}}
+\]

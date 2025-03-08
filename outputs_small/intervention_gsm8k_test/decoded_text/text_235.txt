@@ -1,0 +1,42 @@
+<｜User｜>
+Q: John orders some pizzas to share with his friends.  There are 20 friends in total, and John wants to make sure each can have 4 slices.  Pizzas are only sold sliced into 8 portions.  How many Pizzas does John need to order?
+A:<｜Assistant｜><think>
+Okay, so John is ordering pizzas to share with his 20 friends, and he wants each friend to have 4 slices. The pizzas are sold in slices, each pizza being cut into 8 portions. Hmm, I need to figure out how many pizzas John needs to order to have enough slices for everyone.
+
+First, let me break down the problem. There are 20 friends, and each friend gets 4 slices. So, the total number of slices needed is 20 multiplied by 4. Let me write that down:
+
+Total slices needed = Number of friends × Slices per friend
+Total slices needed = 20 × 4
+
+Calculating that, 20 times 4 is 80. So, John needs 80 slices in total.
+
+Now, each pizza is sliced into 8 portions. So, each pizza gives 8 slices. To find out how many pizzas he needs, I should divide the total number of slices by the number of slices per pizza.
+
+Number of pizzas needed = Total slices needed ÷ Slices per pizza
+Number of pizzas needed = 80 ÷ 8
+
+Let me compute that. 80 divided by 8. Hmm, 8 times 10 is 80, so 80 divided by 8 is 10. So, 80 divided by 8 is 10. So, John needs 10 pizzas.
+
+Wait, that seems right. Let me double-check. If each pizza is 8 slices, and he needs 80 slices, then 80 divided by 8 is 10. So, yes, 10 pizzas. That makes sense.
+
+But, that seems right. Let me think again. 10 pizzas × 8 slices per pizza is 80 slices. So, 80 slices divided by 4 slices per friend is 20 friends. That matches the given number of friends. So, 10 pizzas is the correct number.
+
+I don't think I made a mistake here. So, the answer should be 10 pizzas.
+
+**Final Answer**
+John needs to order \boxed{10} pizzas.
+</think>
+
+John has 20 friends and wants each friend to have 4 slices of pizza. The pizzas are sold in slices, each pizza being cut into 8 portions. 
+
+First, calculate the total number of slices needed:
+\[
+\text{Total slices needed} = 20 \text{ friends} \times 4 \text{ slices per friend} = 80 \text{ slices}
+\]
+
+Next, determine how many pizzas are needed by dividing the total number of slices by the number of slices per pizza:
+\[
+\text{Number of pizzas needed} = \frac{80 \text{ slices}}{8 \text{ slices per pizza}} = 10 \text{ pizzas}
+\]
+
+Thus, John needs to order \boxed{10} pizzas.

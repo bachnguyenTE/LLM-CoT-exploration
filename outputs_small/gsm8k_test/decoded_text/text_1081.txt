@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Frankie and Binkie went bowling together.  Frankie's score was 15 better more than twice as high as Binkie's. If Binkie bowled a score of 90, what was Frankie's score?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Frankie and Binkie bowling scores. Let me try to figure it out step by step. 
+
+First, the problem says that Frankie's score was 15 better more than twice as high as Binkie's. Hmm, that wording is a bit tricky. Let me break it down. It mentions "15 better more than twice as high as Binkie's." Wait, "better" might mean higher, right? So, maybe it's saying that Frankie's score is 15 points higher than twice Binkie's score. But I need to make sure I'm interpreting this correctly.
+
+Let me write down what I know. Binkie's score is 90. So, Binkie = 90. Frankie's score is what we need to find. Let's denote Frankie's score as F and Binkie's as B. So, B = 90.
+
+Now, the problem says Frankie's score was 15 better more than twice as high as Binkie's. Hmm, maybe I should parse this sentence again. "15 better more than twice as high as Binkie's." So, "twice as high as Binkie's" would be 2 * B. Then, "15 better" would mean adding 15 to that. So, putting it together, F = 2 * B + 15.
+
+Wait, let me make sure. If it's 15 better than twice as high as Binkie's, that would be 2B + 15. So, substituting B = 90, F = 2*90 +15. Let me compute that.
+
+2*90 is 180, and 180 +15 is 195. So, F = 195. That seems straightforward.
+
+But let me double-check the wording to make sure I didn't misinterpret it. It says "15 better more than twice as high as Binkie's." So, "15 better" could also mean 15 more than something. So, "twice as high as Binkie's" is 2B, and then "15 better" is adding 15. So, yes, F = 2B +15.
+
+Alternatively, if it were "15 better than twice as high as Binkie's," that would be 2B +15. But the way it's phrased is "15 better more than twice as high as Binkie's," which sounds like 15 more than twice as high as Binkie's. So, yeah, 2B +15.
+
+So, substituting B =90, F = 2*90 +15 = 180 +15 = 195. So, Frankie's score is 195.
+
+Wait, let me think again. Sometimes, in word problems, the phrasing can be tricky. Let me try another approach. Let's parse the sentence: "Frankie's score was 15 better more than twice as high as Binkie's." So, "15 better" is an adjective modifying "more than." So, "15 better" is 15 more than something. So, "15 better more than twice as high as Binkie's" is 15 more than twice as high as Binkie's. So, that would be 2B +15.
+
+Alternatively, if it were "15 better than twice as high as Binkie's," it would be 2B +15. But since it's "15 better more than," it's 15 more than twice as high as Binkie's, so 2B +15.
+
+So, yeah, I think that's correct. So, F = 2*90 +15 = 195.
+
+Wait, just to make sure, let me think about another way. If Binkie's score is 90, twice that is 180. Then, 15 better than that would be 180 +15 =195. So, that's the same result.
+
+Alternatively, if I think of it as "twice as high as Binkie's" is 180, and then "15 better" is 195. So, that's consistent.
+
+I think that's solid. So, the answer is 195.
+
+**Final Answer**
+Frankie's score was \boxed{195}.
+</think>
+
+Binkie's score is given as 90. Frankie's score is 15 better more than twice as high as Binkie's score. This can be interpreted as twice Binkie's score plus 15. 
+

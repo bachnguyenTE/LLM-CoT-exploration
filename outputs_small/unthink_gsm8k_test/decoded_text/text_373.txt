@@ -1,0 +1,37 @@
+<｜User｜>
+Q: A company bought $400000 worth of equipment from a retailer business, but pieces of equipment worth 40% of the total number were faulty. If they returned the faulty pieces of equipment to the seller, calculate the total amount of money spent on functioning pieces of equipment.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Equipment Purchased:**
+   \[
+   \text{Total} = \$40,0000
+   \]
+   (Note: The amount is written as \$40,000 to represent 400000.)
+
+2. **Faulty Equipment:**
+   \[
+   \text{Faulty} = 40\% \text{ of Total} = 0.40 \times 40,000
+   \]
+   \[
+   \text{Faulty} = 0.40 \times 400,000 = 164,000
+   \]
+
+3. **Functional Equipment:**
+   \[
+   \text{Functional} = \text{Total} - \text{Faulty} = 400,000 - 164,000 = 236,000
+   \]
+
+4. **Total Amount Spent on Restoring Functional Equipment:**
+   \[
+   \text{Total Spent} = \text{Functional} = \$236,000
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$236,\!000}
+\]

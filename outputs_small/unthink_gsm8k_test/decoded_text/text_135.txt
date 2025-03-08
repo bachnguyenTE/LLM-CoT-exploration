@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Brian's friend Bobby has 5 fewer than 3 times as many video games as Brian does.  If Brian has 20 video games but lost 5 right before the comparison was made, how many does Bobby have?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- Brian has **20 video games**.
+- Brian lost **5 video games** before the comparison was made.
+- Bobby has **5 fewer than 3 times** as many video games as Brian does.
+
+**Step 1: Determine the number of video games Brian has after losing 5.**
+
+\[
+\text{Brian's games after losing 5} = 20 - 5 = 15
+\]
+
+**Step 2: Calculate how many video games Bobby has.**
+
+Bobby has **5 fewer** than 3 times Brian's current number of video games.
+
+\[
+\text{Bobby's games} = 3 \times \text{Brian's games} - 5 = 3 \times 15 - 5 = 45 - 5 = 40
+\]
+
+**Final Answer:**
+\[
+\boxed{40}
+\]

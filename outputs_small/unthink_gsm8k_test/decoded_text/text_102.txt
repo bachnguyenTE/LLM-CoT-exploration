@@ -1,0 +1,24 @@
+<｜User｜>
+Q: John likes to have a glass of water with breakfast, lunch and dinner.  Finally, he has one before he goes to bed as well.  John does this every weekday, but on the weekends he likes to relax and have a soda with dinner instead.  How many glasses of water does John drink in a week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down John's water consumption throughout the week.
+
+1. **Weekdays (Monday to Friday):**
+   - John drinks 1 glass of water for breakfast, lunch, and dinner.
+   - Total per day: **1 glass**
+
+2. **Weekend (Saturday and Sunday):**
+   - On Saturday: John drinks 1 glass of water for breakfast and lunch.
+   - On Sunday: Instead of water, he drinks a soda for dinner.
+   - Total per day: **1 glass of water**
+
+3. **Total for the Week:**
+   - **5 weekdays:** 5 × 1 = **5 glasses**
+   - **2 weekend days:** 2 ×1 = **2 glasses**
+   - **Total:** 5 + 2 = **7 glasses**
+
+**Final Answer:** \(\boxed{7}\)

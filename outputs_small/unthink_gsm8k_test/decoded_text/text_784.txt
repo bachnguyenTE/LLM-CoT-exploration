@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Andy's car fuel efficiency is 10 MPG (miles per gallon). If the current price for regular gas is $3/gallon, how much money is Andy's car consuming per week if he only uses his car to go to work from Monday to Friday and the one-way distance between his home and office is 5 miles?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the one-way distance:**
+   - One-way distance = 5 miles.
+
+2. **Calculate the round trip distance:**
+   - Round trip = 2 × 5 miles = 10 miles.
+
+3. **Calculate the total miles driven in a week:**
+   - He works Monday to Friday, which is 5 days.
+   - Total miles = 10 miles/day × 5 days = 50 miles.
+
+4. **Determine the fuel efficiency:**
+   - Fuel efficiency = 10 miles per gallon (MPG).
+
+5. **Calculate the total gallons of gas used:**
+   - Gallons used = Total miles / Fuel efficiency = 50 miles / 10 MPG = 5 gallons.
+
+6. **Calculate the total cost of gas:**
+   - Cost per gallon = \$3.
+   - Total cost = 5 gallons × \$3/gallon = \$15.
+
+**Final Answer:**
+\boxed{\$15}

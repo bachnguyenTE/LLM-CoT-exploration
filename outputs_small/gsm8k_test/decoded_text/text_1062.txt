@@ -1,0 +1,48 @@
+<｜User｜>
+Q: Hannah slips on a banana peel and breaks her arm. The doctor charges her $200 for the cast, $300/hour for a 30-minute visit, $4/pill for 30 painkillers, and $6/hour for a mandatory minimum of 2 hours of parking. How much does the doctor's visit cost total?
+A:<｜Assistant｜><think>
+First, I need to identify all the costs associated with the doctor's visit.
+
+The doctor charges $200 for the cast.
+
+Next, there's a 30-minute visit with a rate of $300 per hour. Since 30 minutes is half an hour, the cost for this visit is $165.
+
+Then, the doctor charges $4 per painkiller for 30 pills. Multiplying the cost per pill by the number of pills gives a total of $120.
+
+Additionally, there's a mandatory parking fee of $6 per hour for a minimum of 2 hours. This results in a parking cost of $12.
+
+Finally, I'll add up all these costs to find the total cost of the doctor's visit.
+</think>
+
+To determine the total cost of the doctor's visit, let's break down each expense step by step:
+
+1. **Cost of the Cast:**
+   \[
+   \$200
+   \]
+
+2. **Cost of the 30-Minute Visit:**
+   - **Rate:** \$300 per hour
+   - **Time:** 30 minutes = 0.5 hours
+   \[
+   0.5 \text{ hours} \times \$300/\text{hour} = \$165
+   \]
+
+3. **Cost of Painkillers:**
+   - **Price per Painkiller:** \$4
+   - **Number of Painkillers:** 30
+   \[
+   30 \text{ painkillers} \times \$4/\text{painkiller} = \$120
+   \]
+
+4. **Cost of Parking:**
+   - **Rate:** \$6 per hour
+   - **Time:** 2 hours (mandatory minimum)
+   \[
+   2 \text{ hours} \times \$6/\text{hour} = \$12
+   \]
+
+5. **Total Cost of the Doctor's Visit:**
+   \[
+   \$200 \ (\text{cast}) + \$165 \ (\text{visit}) + \$120 \ (\text{painkillers}) + \$12 \ (\text{parking}) = \boxed{\$499}
+   \]

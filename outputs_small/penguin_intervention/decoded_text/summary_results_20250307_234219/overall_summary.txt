@@ -1,0 +1,24 @@
+OVERALL SUMMARY
+===============
+
+Data directory: outputs_small/penguin_intervention/decoded_text/
+Analysis date: 2025-03-07 23:42:19
+
+Total files found: 1200
+Files processed: 875
+Files excluded (incomplete chain-of-thought): 325
+
+Results for processed files:
+Correct answers (NO): 297 (33.94% of processed)
+Incorrect answers (YES): 578 (66.06% of processed)
+Unknown classifications: 0 (0.00% of processed)
+
+Results by Temperature:
+=====================
+
+Temperature 0.6:
+  Total files: 875
+  Correct answers (NO): 297 (33.94%)
+  Incorrect answers (YES): 578 (66.06%)
+  Unknown: 0 (0.00%)
+

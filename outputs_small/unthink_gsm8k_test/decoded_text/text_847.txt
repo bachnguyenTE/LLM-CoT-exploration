@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Brenda invested $300 into a scheme that accumulates simple interest at the rate of three-quarters of the original amount per year. How much in total will she have after 3 years?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much Brenda will have in total after 3 years, we'll use the formula for simple interest:
+
+\[
+\text{Total Amount} = \text{Principal} + (\text{Principal} \times \text{Rate} \times \text{Time})
+\]
+
+1. **Principal (P):** \$300
+2. **Rate (R):** Three-quarters of the original amount per year.
+   \[
+   R = \frac{3}{4} \times 100 = 75\%
+   \]
+3. **Time (T):** 3 years
+
+Now, plug the values into the formula:
+
+\[
+\text{Total Amount} = 300 + (300 \times 0.75 \times 3)
+\]
+
+Calculate the interest:
+
+\[
+300 \times 0.75 = 225
+\]
+\[
+225 \times 3 = 675
+\]
+
+Add the interest to the principal:
+
+\[
+300 + 675 = 975
+\]
+
+**Final Answer:** Brenda will have **\$975** in total after 3 years.

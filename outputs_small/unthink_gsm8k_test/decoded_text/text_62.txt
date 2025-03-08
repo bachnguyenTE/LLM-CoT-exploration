@@ -1,0 +1,40 @@
+<｜User｜>
+Q: If Marcy works for the same company for 40 years, she gets an annual pension of $50,000/year. Starting after 20 years, she becomes entitled to 5% of the value of the pension per year. If she quits after 30 years, what will her annual pension be?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Understanding the Pension Structure:**
+   - **Pension for 40 years:** Marcy gets an annual pension of **\$50,000/year**.
+   - **Starting after 20 years:** She becomes entitled to **5% of the value of the pension per year**.
+   - **Quits after 30 years:** We need to find her annual pension.
+
+2. **Calculating the Pension After 22 Years:**
+   - **Total years of pension:** 44 years.
+   - **Annual pension:** \$55,000/year.
+   - **Total pension received:** 
+     \[
+     44 \text{ years} \times \$55,000/\text{year} = \$2,420,000
+     \]
+
+3. **Calculating the Pension After 30 Years:**
+   - **Years of pension:** 30 years.
+   - **Annual pension after 22 years:** 
+     \[
+     5\% \times \$55,000 = 0.05 \times \$555,000 = \$2,775,000
+     \]
+   - **Total pension received after 30 years:**
+     \[
+     30 \text{ years} \times \$2,775,000/\text{year} = \$83,250,00
+     \]
+
+4. **Final Annual Pension:**
+   - After 30 years, Marcy will receive **\$2,775,000** annually.
+
+**Final Answer:**
+\[
+\boxed{\$2,775,000}
+\]

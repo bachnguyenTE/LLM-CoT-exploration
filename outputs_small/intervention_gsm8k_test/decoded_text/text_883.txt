@@ -1,0 +1,63 @@
+<｜User｜>
+Q: Elaina is holding the final concert in her tour. To celebrate her final concert, she makes the concert twice as long as her usual concerts. At the end of the concert, she also performs a 15-minute encore. If the runtime of this final concert is 65 minutes then how long, in minutes, do her usual concerts run for?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Elaina's concert. Let me try to figure it out step by step. 
+
+First, the problem says Elaina is holding the final concert in her tour. She makes this concert twice as long as her usual concerts. Hmm, okay. So if I let the usual concert time be some variable, maybe 'x' minutes, then the final concert would be 2x minutes long. That makes sense because it's twice as long.
+
+Then, at the end of the concert, she also performs a 15-minute encore. So that adds an extra 15 minutes to the total runtime. Got it. So the total runtime of the final concert is the usual concert time plus twice that time plus the encore. Wait, that seems right. Let me write that down.
+
+Let me define:
+- Let x = the usual concert time in minutes.
+- Then, the final concert is 2x minutes long.
+- Plus, there's a 15-minute encore.
+
+So the total runtime is 2x + 15 minutes. And the problem says that the total runtime of this final concert is 65 minutes. So I can set up an equation:
+
+2x + 15 = 65
+
+Now, I need to solve for x. Let me subtract 15 from both sides to get rid of that constant term on the left.
+
+2x +15 -15 =65 -15
+2x =5
+
+Wait, that seems right. 65 minus 15 is 50? Wait, that seems right. 65 minus 15 is 50. So 2x =50.
+
+Wait, that seems right. So then, to find x, I need to divide both sides by 2.
+
+2x /2 =50 /2
+x =25
+
+So, x is 25 minutes. That means her usual concert runs for 25 minutes.
+
+Let me double-check that. If her usual concert is 25 minutes, then the final concert is twice that, so 50 minutes. Then, adding the 15-minute encore, that's 50 +15 =65 minutes. Which matches the given total runtime. So that seems correct.
+
+Wait, that seems right. So, yeah, 25 minutes is the usual concert time.
+
+But, that seems right. Let me think again. If the usual concert is 25 minutes, then the final concert is 50 minutes, and then adding 15 minutes, that's 65 minutes. Yeah, that adds up. So, I think that's correct.
+
+So, the answer is 25 minutes.
+
+**Final Answer**
+The usual concert runs for \boxed{25} minutes.
+</think>
+
+Let \( x \) be the usual concert time in minutes. The final concert is twice as long as her usual concerts, so it is \( 2x \) minutes long. Additionally, there is a 15-minute encore. The total runtime of the final concert is given as 65 minutes. We can set up the equation:
+
+\[
+2x + 15 = 65
+\]
+
+Subtract 15 from both sides:
+
+\[
+2x = 50
+\]
+
+Divide both sides by 2:
+
+\[
+x = 25
+\]
+
+Thus, the usual concert runs for \(\boxed{25}\) minutes.

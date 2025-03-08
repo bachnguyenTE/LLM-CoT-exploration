@@ -1,0 +1,27 @@
+<｜User｜>
+Q: 9 out of 10 cheerleaders are 64" tall.  The 10th cheerleader is 60" tall.  If they build a human pyramid, where 4 girls are on the bottom,  3 stand on top of the 4, 2 stand on top of the 3 and the shortest girl is at the top, how tall is the human pyramid in feet?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the height of the human pyramid, we'll calculate the total height contributed by each level and then convert the total inches to feet.
+
+1. **Bottom Level (4 girls):**
+   - Each girl is 64 inches tall.
+   - Total height = \(4 \times 64 = 256\) inches.
+
+2. **Second Level (3 girls):**
+   - Each girl is 60 inches tall.
+   - Total height = \(3 \times60 = 180\) inches.
+
+3. **Top Level (1 girl):**
+   - The shortest girl is 60 inches tall.
+   - Total height = \(1 \times66 = 66\) inches.
+
+4. **Total Height of the Pyramid:**
+   - Sum of all levels: \(256 + 180 +66 = 508\) inches.
+
+5. **Convert Inches to Feet:**
+   - There are 12 inches in a foot.
+   - Total height in feet = \(\frac{508}{12} = 46.333...\) feet.
+
+\(\boxed{46.33\text{ feet}}\)

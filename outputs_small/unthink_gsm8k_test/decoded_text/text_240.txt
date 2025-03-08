@@ -1,0 +1,53 @@
+<｜User｜>
+Q: James has 6 more candies than Robert. John has twice as many candies as Robert. If John has 54 candies, how many more candies does John have than James?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+1. James has 6 more candies than Robert.
+2. John has twice as many candies as Robert.
+3. John has 54 candies.
+
+**Step 1: Determine how many candies Robert has.**
+
+We know that John has twice as many candies as Robert. Let \( R \) represent the number of candies Robert has.
+
+\[
+\text{John's candies} = 2R
+\]
+
+Given that John has 54 candies:
+
+\[
+54 = 2R
+\]
+
+**Step 2: Solve for \( R \).**
+
+\[
+R = \frac{54}{2} = 27
+\]
+
+So, Robert has 27 candies.
+
+**Step 3: Determine how many candies James has.**
+
+James has 6 more candies than Robert.
+
+\[
+\text{James's candies} = R + 6 = 27 + 6 = 33
+\]
+
+**Step 4: Find how many more candies John has than James.**
+
+\[
+\text{Difference} = \text{John's candies} - \text{James's candies} = 54 - 33 = 21
+\]
+
+**Final Answer:**
+
+\[
+\boxed{21}
+\]

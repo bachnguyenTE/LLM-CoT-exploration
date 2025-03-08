@@ -1,0 +1,44 @@
+<｜User｜>
+Q: Fireman Frank has 200 shoes. If he gets 5 pairs of shoes on Monday and gains 15 new pairs on Wednesday and 30 pairs on Friday, how many shoes will he have on Sunday if he gets rid of 180 shoes on Saturday?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Fireman Frank and his shoes. Let me try to figure it out step by step. 
+
+First, the problem says Fireman Frank has 200 shoes. Hmm, wait, that seems right. 200 is 200 shoes. But, that seems right. Let me check: 200 is 200, so yeah, he starts with 200 shoes. 
+
+Then, it says he gets 5 pairs of shoes on Monday. Okay, so Monday is the first day, and he gains 5 pairs. Since each pair is 2 shoes, that would be 5 times 2, which is 10 shoes. So, adding that to his current count. 
+
+Wait, that seems right. So, 200 shoes plus 10 shoes is 211 shoes. 
+
+Then, on Wednesday, he gains 15 new pairs. Again, each pair is 2 shoes, so 15 times 2 is 10 shoes. So, adding that to his current count. 
+
+So, 211 plus 10 is 221 shoes. 
+
+Then, on Friday, he gains 30 pairs. Hmm, 30 pairs. So, 30 times 2 is 60 shoes. So, adding that to his current count. 
+
+221 plus 60 is 281 shoes. 
+
+Wait, that seems right. 221 plus 60 is 287? Wait, that seems right. 221 + 60 is 281? Wait, that seems right. 221 + 60 is 281? Wait, that seems right. 221 + 60 is 287? Wait, that seems right. Wait, that seems right. 221 + 60 is 281? Wait, that seems right. Wait, that seems right. 221 + 60 is 281? Wait, that seems right. Wait, that seems right. 221 + 60 is 281? Wait, that seems right. Wait, that seems right. 221 + 60 is 281. Yeah, that's correct. So, 281 shoes.
+
+Then, on Saturday, he gets rid of 180 shoes. So, he takes away 180 shoes. So, subtracting 180 from his current count. 
+
+So, 281 minus 180 is 101 shoes. 
+
+So, on Sunday, he has 101 shoes left. 
+
+Wait, that seems right. Let me go through it again to make sure I didn't make a mistake.
+
+He starts with 200 shoes.
+
+Monday: +5 pairs = +10 shoes. Total: 210.
+
+Wednesday: +15 pairs = +30 shoes. Total: 240.
+
+Friday: +30 pairs = +60 shoes. Total: 300.
+
+Wait, that seems right. 200 +10 is 210, plus 30 is 240, plus 60 is 300. Wait, that seems right. Wait, that seems right. 200 +10 is 210, plus 30 is 240, plus 60 is 300. Wait, that seems right. So, 300 shoes.
+
+Wait, that seems right. So, on Friday, he gains 30 pairs, which is 60 shoes, so 240 +60 is 300. 
+
+Then, on Saturday, he gets rid of 180 shoes. So, 300 minus 180 is 150 shoes. 
+
+Wait, that seems right. 300 minus 180 is 150? Wait, that seems right. 300 minus 180 is 220, then minus 60 is 160? Wait, that seems right. Wait, that seems right. 300 minus 180 is 150. Wait, that seems right. 300 minus 180 is 150? Wait, that seems right. 300 minus 180 is 150. Wait, that seems right. 300 minus 180 is 150? Wait, that seems right. 300 minus 180 is 120, plus 50 is 150. Yeah, that's correct. So, 150 shoes

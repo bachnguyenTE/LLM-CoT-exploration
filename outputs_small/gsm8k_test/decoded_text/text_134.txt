@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Tom gets 4 car washes a month.  If each car wash costs $15 how much does he pay in a year?
+A:<｜Assistant｜><think>
+First, determine how many car washes Tom gets in a year. Since he gets 4 car washes per month, multiply 4 by 12 to get 48 car washes in a year.
+
+Next, calculate the total cost by multiplying the number of car washes by the cost per wash. Multiply 48 by $15 to find the total amount Tom pays in a year.
+</think>
+
+**Solution:**
+
+1. **Determine the number of car washes in a year:**
+   
+   Tom gets **4 car washes** per month.
+   
+   \[
+   \text{Total car washes per year} = 4 \, \text{car washes/month} \times 12 \,000 \, \text{months/year} = 48 \, \text{car washes/year}
+   \]
+
+2. **Calculate the total cost for the car washes:**
+   
+   Each car wash costs **\$15**.
+   
+   \[
+   \text{Total cost} = 48 \, \text{car washes/year} \times \$15/\text{car wash} = \$240
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$240}
+\]

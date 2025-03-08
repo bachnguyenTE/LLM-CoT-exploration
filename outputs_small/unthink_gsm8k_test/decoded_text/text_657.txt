@@ -1,0 +1,31 @@
+<｜User｜>
+Q: James buys a plane.  The plane cost $150,000.  He pays $5000 a month to rent a hanger to keep it in.  He also spends twice as much as that on fuel per month.  How much did it cost him to get and maintain the plane for the first year?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the total cost of getting and maintaining the plane for the first year, we'll break down the expenses month by month and then sum them up for the entire year.
+
+1. **Initial Cost of the Plane:**
+   - **Cost of the plane:** \$150,000
+
+2. **Monthly Rent:**
+   - James pays \$5,000 per month to rent the hanger.
+   - **Monthly Rent:** \$5,000
+
+3. **Monthly Fuel Cost:**
+   - The fuel cost is twice the rent.
+   - **Monthly Fuel Cost:** 2 × \$5,000 = \$10,000
+
+4. **Total Monthly Maintenance Cost:**
+   - **Total Monthly Cost:** \$5,000 + \$10,000 = \$15,500
+
+5. **Total Cost for the First Year:**
+   - There are 12 months in a year.
+   - **Total Cost:** 12 × \$15,500 = \$66,600
+
+**Final Answer:**
+\[
+\boxed{\$66,\!600}
+\]

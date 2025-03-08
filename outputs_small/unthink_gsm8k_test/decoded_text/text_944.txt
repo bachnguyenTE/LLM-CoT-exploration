@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Jen is planning to sell her root crops. She has 6 yams which can be sold at $1.5 each, 10 sweet potatoes that cost $2 each, and 4 carrots which cost $1.25 each. If she sells everything, how much will she earn?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much Jen will earn from selling her root crops, we'll calculate the total earnings from each type of crop separately and then sum them up.
+
+1. **Yams:**
+   - **Number of yams:** 6
+   - **Price per yam:** \$1.50
+   - **Total earnings from yams:** \( 6 \times \$1.50 = \$9.00 \)
+
+2. **Sweet Potatoes:**
+   - **Number of sweet potatoes:** 10
+   - **Price per sweet potato:** \$2.00
+   - **Total earnings from sweet potatoes:** \( 10 \times \$2.00 = \$20.00 \)
+
+3. **Carrots:**
+   - **Number of carrots:** 4
+   - **Price per carrot:** \$1.250
+   - **Total earnings from carrots:** \( 4 \times \$1.250 = \$5.00 \)
+
+4. **Total Earnings:**
+   - **Total from yams:** \$9.00
+   - **Total from sweet potatoes:** \$20.00
+   - **Total from carrots:** \$5.00
+   - **Summing up:** \( \$9.00 + \$20.00 + \$5.00 = \$34.60 \)
+
+**Final Answer:**
+\[
+\boxed{\$34.60}
+\]

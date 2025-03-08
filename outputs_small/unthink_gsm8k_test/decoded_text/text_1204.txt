@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Twenty tourists discovered 700 shells in a strip mall parking lot. They had divided into three groups, Alphas, The finders, and Gogetters to find as many shells as possible. If team Alphas found 40% of the shells, and team The finders found 60% of the remaining shells, how many shells did team Gogetters find?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many shells the **Gogetters** found, let's break down the problem step by step.
+
+1. **Total Shells Found:**  
+   There are **700 shells** in total.
+
+2. **Team Alphas:**  
+   They found **40%** of the shells.  
+   \[
+   40\% \text{ of } 700 = 0.4 \times 700 = 280 \text{ shells}
+   \]
+
+3. **Remaining Shells After Alphas:**  
+   Subtract the shells found by the Alphas from the total.  
+   \[
+   700 - 280 = 420 \text{ shells}
+   \]
+
+4. **Team The Finders:**  
+   They found **60%** of the remaining shells.  
+   \[
+   60\% \text{ of } 420 = 0.6 \times 420 = 253.2 \text{ shells}
+   \]
+   Since we can't have a fraction of a shell, we'll consider this as **253 shells**.
+
+5. **Shells Left for Team Gogetters:**  
+   Subtract the shells found by the The Finders from the remaining shells.  
+   \[
+   420 - 253 = 167 \text{ shells}
+   \]
+
+**Final Answer:**  
+\[
+\boxed{167}
+\]

@@ -1,0 +1,64 @@
+<｜User｜>
+Q: Carolyn works for a delivery service company that hires on a contract basis. In May, they hired 40 employees, paying each employee $15 per hour for a 40-hour workweek. In June, 1/4 of the employees' contracts expired. Calculate the total amount of money the company paid to the employees in the two months.
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total amount of money Carolyn's delivery service company paid to its employees in May and June, we'll break down the problem step by step.
+
+### **Step 1: Calculate the Total Hours Worked by Each Employee in May**
+
+- **Number of employees hired in May:** 40
+- **Hours per week:** 40
+- **Wage per hour:** \$15
+
+\[
+\text{Total hours per employee in May} = 40 \text{ hours/week} \times 1 \text{ week} = 40 \text{ hours}
+\]
+
+\[
+\text{Total pay per employee in May} = 40 \text{ hours} \times \$15/\text{hour} = \$200
+\]
+
+\[
+\text{Total pay for all employees in May} = 40 \text{ employees} \times \$200/\text{employee} = \$8,000
+\]
+
+### **Step 2: Determine the Number of Employees Exired in June**
+
+- **1/4 of the contracts expired in June.**
+
+\[
+\text{Number of employees expired} = \frac{1}{4} \times 40 = 10 \text{ employees}
+\]
+
+### **Step 3: Calculate the Total Hours Worked by the Exired Employees in June**
+
+\[
+\text{Total hours per expired employee in June} = 40 \text{ hours/week}
+\]
+
+\[
+\text{Total pay per expired employee in June} = 40 \text{ hours} \times \$15/\text{hour} = \$600
+\]
+
+\[
+\text{Total pay for expired employees in June} = 10 \text{ employees} \times \$600/\text{employee} = \$6,600
+\]
+
+### **Step 4: Calculate the Total Payment for Both Months**
+
+\[
+\text{Total payment for May} = \$8,000
+\]
+
+\[
+\text{Total payment for June} = \$6,600
+\]
+
+\[
+\text{Total payment for both months} = \$8,000 + \$6,600 = \$14,600
+\]
+
+\[
+\boxed{\$14,\!600}
+\]

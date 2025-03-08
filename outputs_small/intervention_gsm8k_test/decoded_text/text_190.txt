@@ -1,0 +1,31 @@
+<｜User｜>
+Q: John collects peaches for 3 hours.  He can collect 2 peaches a minute.  How many peaches does he collect?
+A:<｜Assistant｜><think>
+First, I need to determine how many minutes John spends collecting peaches. Since he collects for 3 hours and there are 60 minutes in an hour, I multiply 3 by 60 to get the total number of minutes.
+
+Next, I calculate the total number of peaches collected by multiplying the number of minutes by the rate of peaches per minute, which is 2 peaches per minute.
+
+Finally, I multiply 180 by 2 to find the total number of peaches John collects.
+</think>
+
+**Solution:**
+
+John collects peaches at a rate of 2 peaches per minute for 3 hours.
+
+1. **Convert hours to minutes:**
+   
+   \[
+   3 \text{ hours} \times 60 \text{ minutes/hour} = 180 \text{ minutes}
+   \]
+
+2. **Calculate the total number of peaches collected:**
+   
+   \[
+   180 \text{ minutes} \times 2 \text{ peaches/minute} = 360 \text{ peaches}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{360}
+\]

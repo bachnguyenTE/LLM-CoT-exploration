@@ -1,0 +1,91 @@
+<｜User｜>
+Q: A class of 200 students is split into 3 groups such that 2 of them are equal in number and the last one (which is the smallest) is 10 less than each of the other groups. How many students are in this (smallest) group?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's denote the number of students in the smallest group as \( x \).
+
+According to the problem:
+- The other two groups are equal in number, so each has \( x \) students.
+- The smallest group is 10 less than each of these groups, so each of the larger groups has \( x + 10 \) students.
+
+Now, let's set up the equation based on the total number of students:
+
+\[
+x + (x + 10) + (x +10) = 200
+\]
+
+Simplify the equation:
+
+\[
+x + x +10 + x +10 = 200
+\]
+\[
+3x +22 = 200
+\]
+
+Subtract 22 from both sides:
+
+\[
+3x = 22 -22
+\]
+\[
+3x = 188
+\]
+
+Divide both sides by 3:
+
+\[
+x = \frac{188}{3} \approx 62.666
+\]
+
+Wait, this doesn't make sense because the number of students should be a whole number. Let's check our setup again.
+
+**Re-examining the problem:**
+
+The smallest group is 10 less than each of the other groups. So, if the smallest group has \( x \) students, the other two groups each have \( x +10 \) students.
+
+**Correct equation:**
+
+\[
+x + (x +10) + (x +10) = 200
+\]
+
+Wait, that doesn't seem right. Let's correct the equation:
+
+Let the smallest group be \( x \). Then, the other two groups are each \( x +10 \).
+
+So, the total number of students is:
+
+\[
+x + (x +11) + (x +11) = 200
+\]
+
+Simplify:
+
+\[
+x + x +1 + x +1 = 200
+\]
+\[
+3x +2 = 200
+\]
+
+Subtract 2 from both sides:
+
+\[
+3x = 198
+\]
+
+Divide by 3:
+
+\[
+x = 66
+\]
+
+**Final Answer:**
+
+\[
+\boxed{66}
+\]

@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Lori wants to buy a $320.00 pair of shoes and a matching belt that is $32.00.  Her part-time job pays her $8.00 an hour.  How many hours will she have to work before she can make her purchase?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Lori wants to buy a pair of shoes that costs **\$320.00** and a matching belt that costs **\$32.00**. 
+
+1. **Calculate the total cost of the items:**
+   \[
+   \$320.0 + \$32.00 = \$354.00
+   \]
+
+2. **Determine how much Lori earns per hour:**
+   \[
+   \$8.00 \text{ per hour}
+   \]
+
+3. **Calculate the number of hours Lori needs to work to afford the purchase:**
+   \[
+   \frac{\$354.00}{\$8.00 \text{ per hour}} = 44.25 \text{ hours}
+   \]
+
+Since Lori can't work a fraction of an hour, she needs to work **45 hours** to have enough money to make the purchase.
+
+**Final Answer:**
+\[
+\boxed{45}
+\]

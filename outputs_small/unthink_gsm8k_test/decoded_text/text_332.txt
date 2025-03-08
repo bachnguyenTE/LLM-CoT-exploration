@@ -1,0 +1,25 @@
+<｜User｜>
+Q: There are 220 castles in Scotland.  40 percent of them are ruins, and half of the ruined castles are unmanned.  How many unmanned ruined castles are there in Scotland?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the number of unmanned ruined castles in Scotland, let's break down the information step by step.
+
+1. **Total Castles in Scotland:**  
+   There are **220 castles** in Scotland.
+
+2. **Percentage of Ruin Castles:**  
+   **40%** of the castles are ruins.  
+   \[
+   \text{Number of Ruin Castles} = 40\% \times 220 = 0.4 \times 220 = 96
+   \]
+   So, there are **96** ruins.
+
+3. **Half of the Ruin Castles are Unmanned:**  
+   It's mentioned that **half of the ruined castles** are unmanned.  
+   \[
+   \text{Number of Unmanned Ruin Castles} = \frac{1}{2} \times 96 = 48
+   \]
+   
+**Final Answer:**  
+There are **48 unmanned ruined castles** in Scotland.

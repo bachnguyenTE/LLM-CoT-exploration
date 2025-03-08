@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Becky bought 20 apples for 45 cents each and received a $1 discount. Kelly bought 20 apples for 50 cents each and received a 10 percent discount. How much more did Kelly pay than Becky?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here where Becky and Kelly both bought apples, but they got different discounts and prices. I need to figure out how much more Kelly paid than Becky. Hmm, let me break this down step by step.
+
+First, let's look at Becky's purchase. She bought 20 apples, each costing 45 cents. So, I think I need to calculate the total cost for Becky before any discounts. That should be 20 apples multiplied by 45 cents each. Let me write that out:
+
+20 apples * $0.45/apple
+
+Hmm, 20 times 45 is... wait, 20 times 45. Let me compute that. 20 times 45 is 100, and 2 times 45 is 90, so adding those together, 100 + 90 is 200. So, 20 apples at 45 cents each would be $2.20. Wait, is that right? 20 times 45 is 220? Wait, no, 20 is 20, 20 times 45. Maybe I should do it another way. 45 times 20. 45 times 2 is 90, and 45 times 20 is 900? Wait, no, that doesn't make sense. Maybe I should just do 45 * 20.
+
+45 * 20 is 900, and 45 * 20 is 900, so 900 + 900 is 1800? Wait, that can't be right because 45 * 20 is 900. Wait, no, 45 * 20 is 900. So, 20 apples at 45 cents each is 900 cents, which is $9.00. Wait, that makes more sense. So, 20 apples at 45 cents is 90 cents, so 20 apples would be 900 cents, which is $9.00. Okay, so that's correct.
+
+But wait, the problem says Becky received a $1 discount. So, does that mean she got $1 off her total? So, her total before discount was $9.00, and then she got a $1 discount. So, her total cost would be 9.00 - 1.00 = $8.00. So, Becky paid $8.000 for the apples.
+
+Now, let's move on to Kelly. She bought 20 apples for 50 cents each. So, similar to Becky, let's compute her total before any discounts. 20 apples * $0.50/apple.
+
+20 * 50 is 1000 cents, which is $10.00. So, her total before discount is $10.00. But she received a 10% discount. So, I need to calculate 10% of $10.00 and subtract that from her total.
+
+10% of 10 is 1.00, so her total after discount is 10.00 - 1.00 = $9.00. So, Kelly paid $9.00 for the apples.
+
+Now, the question is asking how much more Kelly paid than Becky. So, I need to subtract Becky's total from Kelly's total.
+
+Kelly paid $9.00, Becky paid $8.00. So, 9.00 - 8.00 = $1.00.
+
+Therefore, Kelly paid $1.000 more than Becky.
+
+Wait, let me double-check my calculations to make sure I didn't make a mistake.
+
+Becky: 20 apples at 45 cents each. 20 * 45. Let me compute 20 * 45. 20 * 40 is 880, and 20 * 5 is 110, so 880 + 110 is 990 cents, which is $9.90. Wait, hold on, that's different from what I thought earlier. Wait, 22 * 45 is 990 cents, which is $9.90. So, that's $9.90 before discount. Then, she got a $1 discount, so 9.90 - 1.00 = 8.90, which is $8.90.
+
+Wait, so earlier I thought it was $9.00, but actually, 22 * 45

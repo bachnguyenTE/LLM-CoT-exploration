@@ -1,0 +1,54 @@
+<｜User｜>
+Q: If one person can paint half a house in 5 days, how many hours would it take for 5 people to paint a whole house?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many hours it would take for 5 people to paint a whole house, let's break down the problem step by step.
+
+### **Step 1: Understand the Given Information**
+
+- **1 person can paint half a house in 5 days.**
+  
+  This means:
+  
+  - **1 person paints 1/2 of a house in 5 days.**
+  
+- **We need to find out how long it takes for 5 people to paint **1 whole house**.**
+
+### **Step 2: Calculate the Rate of One Person**
+
+First, let's find out how much of the house one person can paint in one day.
+
+- **1 person paints 1/2 of a house in 5 days.**
+  
+  So, the rate for one person is:
+  
+  \[
+  \text{Rate per person} = \frac{1/2 \text{ house}}{5 \text{ days}} = \frac{1}{10} \text{ house per day}
+  \]
+  
+  This means one person paints **1/10 of a house per day**.
+
+### **Step 3: Calculate the Rate for 5 People**
+
+Now, let's find out how much of the house 5 people can paint in one day.
+
+- **5 people paint 5 × (1/10) = 5/10 = 1 house per day.**
+  
+  So, 5 people can paint **1 whole house in 1 day**.
+
+### **Step 4: Convert Days to Hours**
+
+Since the question asks for the time in hours, we need to convert days to hours.
+
+- **1 day = 24 hours.**
+  
+  Therefore, 1 day = 24 hours.
+
+### **Step 5: Final Answer**
+
+Since 5 people can paint a whole house in **1 day**, which is **24 hours**, the final answer is:
+
+\[
+\boxed{24 \text{ hours}}
+\]

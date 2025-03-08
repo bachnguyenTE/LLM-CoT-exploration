@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Donny can only drink water if it's at least 40 degrees. He has two mugs of water. One mug is 33 degrees. The other is an unknown temperature. If he pours 4 ounces of water from the 33-degree mug into his water bottle and one ounce from the other bottle, he is now able to drink the water.  At least how many degrees is the second bottle?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the minimum temperature of the second mug, let's analyze the situation step by step.
+
+1. **Given Information:**
+   - **Mug 1:** 33 degrees
+   - **Mug 2:** Unknown temperature (let's denote it as \( T \))
+   - **Total Water in the System:** 4 ounces
+   - **Mug 1 contributes 4 ounces to the water bottle**
+   - **Mug 2 contributes 1 ounce to the water bottle**
+   - **Mug 1 is safe to drink from (≥40 degrees)**
+   - **Mug 2 must be safe to drink from (≥40 degrees)**
+
+2. **Constraints:**
+   - **Mug 1:** 33 degrees < 40 degrees ⇒ Safe to drink from
+   - **Mug 2:** \( T \geq 40 \) degrees
+
+3. **Conclusion:**
+   - The second mug must be at least 40 degrees to ensure Donny can safely drink the water.
+
+\[
+\boxed{40}
+\]

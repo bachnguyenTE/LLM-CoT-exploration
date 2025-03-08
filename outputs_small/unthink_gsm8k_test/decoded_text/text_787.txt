@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Samwell owns an appliances store. For this week, one-fourth of their sales are smart TVs, one-eighth are analog TVs, and the rest are OLED TVs. If they were able to sell a total of 40 TVs, how many OLED TVs were they able to sell?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Total TVs sold: 40
+- Fraction of smart TVs: \( \frac{1}{4} \)
+- Fraction of analog TVs: \( \frac{1}{8} \)
+- The rest are OLED TVs.
+
+**Step 1: Calculate the number of smart TVs sold.**
+\[
+\text{Smart TVs} = \frac{1}{4} \times 40 = 10
+\]
+
+**Step 2: Calculate the number of analog TVs sold.**
+\[
+\text{Analog TVs} = \frac{1}{8} \times 40 = 5
+\]
+
+**Step 3: Calculate the total number of smart and analog TVs sold.**
+\[
+\text{Total Smart and Analog TVs} = 10 + 5 = 15
+\]
+
+**Step 4: Calculate the number of OLED TVs sold.**
+\[
+\text{OLED TVs} = \text{Total TVs} - \text{Total Smart and Analog TVs} = 40 - 15 = 25
+\]
+
+**Final Answer:**
+\[
+\boxed{25}
+\]

@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Alain's mom bought 5 packs of red pens and also bought twice the amount of black pens than the red. If each pack has 5 pens, how many pens does Alain have?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Number of Red Pens:**
+   - Alain's mom bought **5 packs** of red pens.
+   - Each pack contains **5 pens**.
+   - **Total red pens** = Number of packs × Pens per pack
+   - **Total red pens** = \( 5 \text{ packs} \times 5 \text{ pens/pack} = 25 \text{ pens} \)
+
+2. **Number of Black Pens:**
+   - Alain's mom bought **twice the amount** of black pens compared to red pens.
+   - **Total black pens** = \( 2 \times \text{Total red pens} \)
+   - **Total black pens** = \( 2 \times 25 \text{ pens} = 50 \text{ pens} \)
+
+3. **Total Number of Pens:**
+   - **Total pens** = **Total red pens** + **Total black pens**
+   - **Total pens** = \( 25 \text{ pens} + 50 \text{ pens} = 75 \text{ pens} \)
+
+**Final Answer:**
+\[
+\boxed{75}
+\]

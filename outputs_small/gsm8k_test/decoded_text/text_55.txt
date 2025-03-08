@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Jean has 30 lollipops. Jean eats 2 of the lollipops. With the remaining lollipops, Jean wants to package 2 lollipops in one bag. How many bags can Jean fill?
+A:<｜Assistant｜><think>
+First, Jean starts with 30 lollipops.
+
+He eats 2 of them, so the remaining lollipops are 30 minus 2, which equals 28.
+
+Jean wants to package 2 lollipops in each bag. To find out how many bags he can fill, we divide the remaining lollipops by the number of lollipops per bag: 28 divided by 2 equals 14.
+
+Therefore, Jean can fill 14 bags with the remaining lollipops.
+</think>
+
+**Solution:**
+
+1. **Initial Number of Lollipops:**
+   Jean starts with **30 lollipops**.
+
+2. **Lollipops Eaten:**
+   Jean eats **2 lollipops**.
+   
+   \[
+   30 \text{ lollipops} - 2 \text{ lollipops} = 28 \text{ lollipops remaining}
+   \]
+
+3. **Number of Lollipops per Bag:**
+   Jean wants to package **2 lollipops** in each bag.
+
+4. **Calculating the Number of Bags:**
+   To find out how many bags Jean can fill, divide the remaining lollipops by the number of lollipops per bag.
+
+   \[
+   \frac{28 \text{ lollipops}}{2 \text{ lollipops per bag}} = 14 \text{ bags}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{14}
+\]

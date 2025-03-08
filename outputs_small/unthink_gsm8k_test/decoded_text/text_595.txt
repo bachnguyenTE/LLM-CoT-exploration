@@ -1,0 +1,48 @@
+<｜User｜>
+Q: Jerry is twice as old as he was 5 years ago. How old will Jerry be in 3 years?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+Jerry is twice as old as he was 5 years ago. How old will Jerry be in 3 years?
+
+**Solution:**
+
+1. **Define the Variables:**
+   - Let \( J \) represent Jerry's current age.
+
+2. **Set Up the Equation:**
+   - According to the problem, Jerry is twice as old as he was 5 years ago.
+   - Five years ago, Jerry's age was \( J - 5 \).
+   - Therefore, the equation is:
+     \[
+     J = 2 \times (J - 5)
+     \]
+
+3. **Solve for \( J \):**
+   \[
+   J = 2(J - 5)
+   \]
+   \[
+   J = 2J - 10
+   \]
+   \[
+   J - 2J = -10
+   \]
+   \[
+   -J = -10
+   \]
+   \[
+   J = 10
+   \]
+
+4. **Determine Jerry's Age in 3 Years:**
+   - Current age: 10 years
+   - In 3 years: \( 10 + 3 = 13 \) years
+
+**Final Answer:**
+\[
+\boxed{13}
+\]

@@ -1,0 +1,44 @@
+<｜User｜>
+Q: The glee club ordered 20 pizzas and ate 70% of them. The football team ordered twice as many pizzas and ate 80% of them. How many pizzas are left?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about the glee club and the football team ordering pizzas. Let me try to figure it out step by step. 
+
+First, the glee club ordered 20 pizzas and ate 70% of them. Hmm, okay, so I need to find out how many pizzas they ate and then subtract that from the total to find out how many are left. Then, the football team ordered twice as many pizzas as the glee club, so that would be 2 times 20, right? Let me write that down.
+
+Glee club: 20 pizzas, ate 70%. So, pizzas eaten by glee club = 70% of 20. To calculate that, I can convert 70% to a decimal, which is 0.7, and multiply it by 20. So, 0.7 * 20. Let me do that multiplication. 0.7 times 20. Hmm, 0.7 times 20 is... 14, because 0.7 times 20 is like 0.7*20 = 14. pizzas eaten by glee club. So, pizzas left after glee club is 20 - 14, which is 8 pizzas left.
+
+Now, the football team ordered twice as many pizzas as the glee club. The glee club ordered 20, so the football team ordered 2*20, which is 40 pizzas. Got that. So, football team ordered 40 pizzas.
+
+Next, the football team ate 80% of them. So, pizzas eaten by football team = 80% of 40. Again, converting 80% to decimal is 0.8, so 0.8 * 40. Let me calculate that. 0.8 times 40. Hmm, 0.8*40 is 32, because 0.8*40 is like 0.8*40 = 32. So, pizzas eaten by football team is 32.
+
+Therefore, pizzas left after football team is 40 -32, which is 8 pizzas left. Wait, so both the glee club and the football team have 8 pizzas left? That seems interesting. Let me double-check my calculations to make sure I didn't make a mistake.
+
+Starting with the glee club: 20 pizzas, ate 70%. 70% of 20 is 14, so 20 -14 is 8. That seems right. Football team: 40 pizzas, ate 80%. 80% of 40 is 32, so 40 -32 is 8. Yeah, that's correct. So, both ended up with 8 pizzas left. So, the total pizzas left would be 8 +8, which is 16 pizzas. Wait, hold on, the question is asking how many pizzas are left, not the total. So, maybe I misread it. Let me check.
+
+The question says: "How many pizzas are left?" So, it's not asking for the total left, but how many pizzas are left in total. So, if the glee club has 8 left and the football team has 8 left, then the total pizzas left would be 8 +8, which is 16. So, the answer is 16 pizzas left.
+
+Wait, but let me make sure. Did I interpret the question correctly? It says, "How many pizzas are left?" So, it's the total number of pizzas remaining after both groups have eaten their share. So, yes, 8 from glee club and 8 from football team, so 16 in total. So, the answer is 16.
+
+But just to make sure, let me go through the steps again.
+
+Glee club: 20 pizzas, ate 70%, so 0.7*20=14, so 20-14=8 left.
+
+Football team: 40 pizzas, ate 80%, so 0.8*40=32, so 40-32=8 left.
+
+Total left: 8+8=16.
+
+Yes, that seems correct. So, the answer is 16 pizzas left.
+
+**Final Answer**
+The number of pizzas left is \boxed{16}.
+</think>
+
+The glee club ordered 20 pizzas and ate 70% of them. To find out how many pizzas they ate, we calculate:
+
+\[ 0.70 \times 20 = 14 \]
+
+So, the number of pizzas left after the glee club ate is:
+
+\[ 20 - 14 = 8 \]
+
+The football

@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Bubbles collects stuffed animals. She has three stuffed puppies, five stuffed koalas, two stuffed zebras and four stuffed frogs. If she wants to buy enough stuffed goats, such that the percentage of stuffed goats is 30% of all of her stuffed animals, how many stuffed goats should she buy?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many stuffed goats Bubbles should buy so that they make up 30% of her total stuffed animals, follow these steps:
+
+1. **Calculate the total number of stuffed animals Bubbles currently has:**
+   
+   \[
+   \text{Total stuffed animals} = 3 \text{ (puppies)} + 5 \text{ (koalas)} + 2 \text{ (zebras)} + 4 \text{ (frogs)} = 14 \text{ stuffed animals}
+   \]
+
+2. **Determine the number of stuffed goats needed to make them 30% of the total:**
+   
+   Let \( G \) be the number of stuffed goats.
+   
+   \[
+   0.30 \times (14 + G) = G
+   \]
+   
+   \[
+   4.2 + 0.30G = G
+   \]
+   
+   \[
+   4.2 = G - 0.30G
+   \]
+   
+   \[
+   4.2 = 0.60G
+   \]
+   
+   \[
+   G = \frac{4.2}{0.60} = 7
+   \]
+   
+3. **Final Answer:**
+   
+   Bubbles should buy \(\boxed{7}\) stuffed goats.

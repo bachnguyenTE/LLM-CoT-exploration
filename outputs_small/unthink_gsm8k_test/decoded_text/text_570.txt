@@ -1,0 +1,51 @@
+<｜User｜>
+Q: Peter has $70 and wishes to spend an equal amount each day for one week. From Sunday through Wednesday, he spent his money on wooden action figures which cost $5 each. For the rest of the week, he will buy plastic action figures which cost $2 each. How many total action figures will he have by the end of the week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down Peter's weekly spending step by step.
+
+1. **Total Money Peter Has:**
+   \[
+   \$70
+   \]
+
+2. **Number of Days in a Week:**
+   \[
+   7 \text{ days}
+   \]
+
+3. **Number of Days Peter Spent Money on Wooden Action Figures:**
+   - **Sunday through Wednesday:** That's 4 days.
+
+4. **Amount Spent Each Wooden Action Figure:**
+   \[
+   \$5 \text{ each}
+   \]
+
+5. **Total Amount Spent on Wooden Action Figures:**
+   \[
+   4 \text{ days} \times \$5/\text{figure} = \$20
+   \]
+
+6. **Remaining Amount for Plastic Action Figures:**
+   \[
+   \$70 - \$20 = \$50
+   \]
+
+7. **Number of Plastic Action Figures He Can Buy:**
+   \[
+   \frac{\$50}{\$2/\text{figure}} = 25 \text{ figures}
+   \]
+
+8. **Total Number of Action Figures:**
+   \[
+   4 \text{ wooden} + 25 \text{ plastic} = 29 \text{ figures}
+   \]
+
+**Final Answer:**
+\[
+\boxed{29}
+\]

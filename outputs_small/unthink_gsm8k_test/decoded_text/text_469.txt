@@ -1,0 +1,20 @@
+<｜User｜>
+Q: Mary has 6 jars of sprinkles in her pantry. Each jar of sprinkles can decorate 8 cupcakes. Mary wants to bake enough cupcakes to use up all of her sprinkles. If each pan holds 12 cupcakes, how many pans worth of cupcakes should she bake?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Mary has 6 jars of sprinkles, and each jar can decorate 8 cupcakes. To find out how many cupcakes she can decorate in total, multiply the number of jars by the number of cupcakes per jar:
+
+\[
+6 \text{ jars} \times 8 \text{ cupcakes/jar} = 48 \text{ cupcakes}
+\]
+
+Mary wants to bake enough cupcakes to use up all her sprinkles. Each pan holds 12 cupcakes. To determine how many pans she needs, divide the total number of cupcakes by the number of cupcakes per pan:
+
+\[
+\frac{48 \text{ cupcakes}}{12 \text{ cupcakes/pan}} = 4 \text{ pans}
+\]
+
+**Answer:** Mary should bake \(\boxed{4}\) pans worth of cupcakes.

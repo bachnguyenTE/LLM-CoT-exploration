@@ -1,0 +1,43 @@
+<｜User｜>
+Q: A certain company is in the business of selling fresh fruit. One crate of such fruit consists of 5 bananas, 12 apples, and 7 oranges. The price for such a crate depends on the price of its individual fruits. One apple costs $0.5 and one banana costs twice as much. Oranges are the most expensive and cost three times as much as a banana per piece. What would be the price for such a crate of fruit?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total price of a crate of fresh fruit, we'll calculate the cost of each type of fruit and then sum them up.
+
+**Given:**
+- **Banana:** \$2.00 each
+- **Apple:** \$0.50 each
+- **Orange:** \$6.00 each (since it's three times the cost of a banana)
+
+**Composition of the crate:**
+- **Bananas:** 5 pieces
+- **Apples:** 12 pieces
+- **Oranges:** 7 pieces
+
+**Calculations:**
+
+1. **Cost of Bananas:**
+   \[
+   5 \text{ bananas} \times \$2.00/\text{banana} = \$10.00
+   \]
+
+2. **Cost of Apples:**
+   \[
+   12 \text{ apples} \times \$0.50/\text{apple} = \$6.00
+   \]
+
+3. **Cost of Oranges:**
+   \[
+   7 \text{ oranges} \times \$6.00/\text{orange} = \$42.00
+   \]
+
+4. **Total Cost of the Crate:**
+   \[
+   \$10.00 + \$6.00 + \$42.00 = \$58.00
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$58.00}
+\]

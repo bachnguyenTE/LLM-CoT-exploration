@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Sue lives in a fun neighborhood.  One weekend, the neighbors decided to play a prank on Sue.  On Friday morning, the neighbors placed 18 pink plastic flamingos out on Sue's front yard.  On Saturday morning, the neighbors took back one third of the flamingos, painted them white, and put these newly painted white flamingos back out on Sue's front yard.  Then, on Sunday morning, they added another 18 pink plastic flamingos to the collection. At noon on Sunday, how many more pink plastic flamingos were out than white plastic flamingos?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many more pink plastic flamingos there are than white ones at noon on Sunday.
+
+1. **Initial Setup on Friday Morning:**
+   - **Pink Flamingos:** 18
+
+2. **Saturday Morning:**
+   - **Flamingos Taken Back:** One-third of the pink flamingos.
+   - **Calculation:** \( \frac{1}{3} \times 18 = 6 \) pink flamingos.
+   - **Flamingos Painted White:** 6 white flamingos.
+   - **Flamingos Placed Back:** 6 white flamingos.
+
+3. **Sunday Morning:**
+   - **Added Pink Flamingos:** 18 pink flamingos.
+   - **Total Pink Flamingos:** \( 18 - 6 + 18 = 24 \) pink flamingos.
+   - **Total White Flamingos:** 6 white flamingos.
+
+4. **At Noon on Sunday:**
+   - **Pink Flamingos:** 24
+   - **White Flamingos:** 6
+
+5. **Difference:**
+   - **More Pink Flamingos:** \( 24 - 6 = 18 \)
+
+**Final Answer:**
+\[
+\boxed{18}
+\]

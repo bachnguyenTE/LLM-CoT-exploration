@@ -1,0 +1,53 @@
+<｜User｜>
+Q: Tom bought a CD for $4, and a headphone set. In total, he paid $48. How many more CDs would Tom have been able to buy if he had decided not to buy the headphone set?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Understanding the Given Information:**
+   - Tom bought a CD for \$4.
+   - He also bought a headphone set.
+   - In total, he paid \$48.
+
+2. **Defining Variables:**
+   - Let \( C \) be the cost of one CD.
+   - Let \( H \) be the cost of one headphone set.
+
+3. **Setting Up the Equation:**
+   - According to the problem, the total amount Tom paid is the sum of the cost of one CD and one headphone set.
+   \[
+   C + H = 48
+   \]
+   - We know that the cost of one CD is \$4.
+   \[
+   C = 4
+   \]
+
+4. **Substituting the Value of \( C \) into the Equation:**
+   \[
+   4 + H = 48
+   \]
+   - Solving for \( H \):
+   \[
+   H = 48 - 4 = 44
+   \]
+   - So, the cost of one headphone set is \$44.
+
+5. **Determining How Many More CDs Tom Could Buy Without the Headphone Set:**
+   - If Tom decides not to buy the headphone set, he will only spend the amount he spent on the CD.
+   - Total amount he would have spent on CDs: \$48.
+   - Number of CDs he can buy with \$48:
+   \[
+   \text{Number of CDs} = \frac{48}{C} = \frac{48}{4} = 12
+   \]
+
+6. **Conclusion:**
+   - Without the headphone set, Tom could buy 12 CDs.
+   - Therefore, he would have been able to buy **12 more CDs**.
+
+\[
+\boxed{12}
+\]

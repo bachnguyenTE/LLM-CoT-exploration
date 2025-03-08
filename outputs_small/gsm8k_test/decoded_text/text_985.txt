@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Edgar eats 18 pretzels a day. If his brother eats 1/2 as many, how many does his brother eat in a week?
+A:<｜Assistant｜><think>
+First, I need to determine how many pretzels Edgar's brother eats in a day. Since the brother eats half as many as Edgar, I'll calculate half of 18.
+
+Next, I'll find out how many days are in a week to calculate the total number of pretzels the brother eats in a week.
+
+Finally, I'll multiply the daily consumption by the number of days in a week to get the total number of pretzels the brother eats in a week.
+</think>
+
+**Solution:**
+
+Edgar eats **18** pretzels every day.
+
+**Step 1:** Calculate how many pretzels Edgar's brother eats in a day.
+
+\[
+\text{Brother's daily consumption} = \frac{1}{2} \times 18 = 9 \text{ pretzels}
+\]
+
+**Step 2:** Determine the number of days in a week.
+
+\[
+\text{Days in a week} = 7
+\]
+
+**Step 3:** Calculate the total number of pretzels the brother eats in a week.
+
+\[
+\text{Total weekly consumption} = 9 \times 7 = 63 \text{ pretzels}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{63}
+\]

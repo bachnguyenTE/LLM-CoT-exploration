@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Archie buys beef jerky that comes 30 sticks to a bag and costs $18.00 per bag.  If Archie buys 1 bag while they're $3.00 off a bag, how much will each stick of jerky cost in cents?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the number of sticks per bag:**
+   - Archie buys **30 sticks** to a bag.
+
+2. **Calculate the cost per bag:**
+   - Each bag costs **\$18.00**.
+
+3. **Adjust for the discount:**
+   - The bag is **\$3.00** off, so the new price per bag is:
+     \[
+     \$18.00 - \$3.00 = \$15.00
+     \]
+
+4. **Find the cost per stick:**
+   - There are **30 sticks** in a bag, so:
+     \[
+     \frac{\$15.00}{30 \text{ sticks}} = \$0.166666\ldots \text{ per stick}
+     \]
+   - Convert to cents:
+     \[
+     \$0.166666\ldots = 16.66666\ldots \text{ cents}
+     \]
+   - Rounding to the nearest cent:
+     \[
+     16.67 \text{ cents per stick}
+     \]
+
+**Final Answer:**
+\[
+\boxed{16.67}
+\]

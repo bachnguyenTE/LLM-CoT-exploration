@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Ian has a board that is 40 feet long. He decides to make a cut so he can have two pieces. The longer piece is 4 times longer than the shorter piece. How long is the longer piece?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's denote the length of the shorter piece as \( x \) feet. According to the problem, the longer piece is 4 times longer than the shorter piece, so its length is \( 4x \) feet.
+
+Since the total length of the board is 40 feet, we can set up the following equation:
+
+\[
+x + 4x = 40
+\]
+
+Combining like terms:
+
+\[
+5x = 40
+\]
+
+Solving for \( x \):
+
+\[
+x = \frac{40}{5} = 8 \text{ feet}
+\]
+
+Therefore, the length of the shorter piece is 8 feet, and the longer piece is:
+
+\[
+4x = 4 \times 8 = 32 \text{ feet}
+\]
+
+**Answer:** The longer piece is \(\boxed{32}\) feet long.

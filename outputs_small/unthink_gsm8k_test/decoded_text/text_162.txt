@@ -1,0 +1,80 @@
+<｜User｜>
+Q: If a bag of marbles costs $20 and the price increases by 20% of the original price every two months, how much would a bag of marbles cost after 36 months?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We start with a bag of marbles costing \$20. The price increases by **20% of the original price** every two months. We need to find the cost after **36 months**.
+
+1. **Determine the number of price increases:**
+   - **36 months ÷ 2 months per increase** = **18 increases**.
+
+2. **Calculate the price after each increase:**
+   - **First increase:** 
+     \[
+     \$20 + (20\% \times \$20) = \$20 + \$4.40 = \$24.40
+     \]
+   - **Second increase:**
+     \[
+     \$24.40 + (20\% \times \$24.40) = \$24.40 + \$5.80 = \$30.20
+     \]
+   - **Third increase:**
+     \[
+     \$33.20 + (20\% \times \$33.20) = \$33.20 + \$6.64 = \$39.84
+     \]
+   - **Fourth increase:**
+     \[
+     \$39.84 + (20\% \times \$39.84) = \$39.84 + \$7.97 = \$47.81
+     \]
+   - **Fifth increase:**
+     \[
+     \$47.81 + (20\% \times \$47.81) = \$47.81 + \$9.56 = \$57.37
+     \]
+   - **Sixth increase:**
+     \[
+     \$5.37 + (20\% \times \$57.37) = \$57.37 + \$11.80 = \$59.17
+     \]
+   - **Seventh increase:**
+     \[
+     \$1.17 + (20\% \times \$59.17) = \$59.17 + \$1.18 = \$60.35
+     \]
+   - **Eighth increase:**
+     \[
+     \$6.35 + (20\% \times \$60.35) = \$60.35 + \$12.01 = \$62.36
+     \]
+   - **Ninth increase:**
+     \[
+     \$2.36 + (20\% \times \$62.36) = \$62.36 + \$1.250 = \$63.56
+     \]
+   - **Tenth increase:**
+     \[
+     \$3.56 + (20\% \times \$63.56) = \$63.56 + \$1.27 = \$64.83
+     \]
+   - **Eleventh increase:**
+     \[
+     \$4.83 + (20\% \times \$64.83) = \$64.83 + \$1.297 = \$66.13
+     \]
+   - **Twelfth increase:**
+     \[
+     \$6.13 + (20\% \times \$66.13) = \$66.13 + \$1.32 = \$67.45
+     \]
+   - **Thirteenth increase:**
+     \[
+     \$7.45 + (20\% \times \$67.45) = \$67.45 + \$1.49 = \$68.94
+     \]
+   - **Fourteenth increase:**
+     \[
+     \$8.94 + (20\% \times \$68.94) = \$68.94 + \$14.15 = \$83.09
+     \]
+   - **Fifteenth increase:**
+     \[
+     \$13.09 + (20\% \times \$83.09) = \$83.09 + \$16.62 = \$99.71
+     \]
+   - **Sixteenth increase:**
+     \[
+     \$9.71 + (20\% \times \$99.71) = \$99.71 + \$21.94 = \$121.65
+     \]
+   - **Seventeenth increase:**
+     \[
+     \$1.65 + (20\% \times \$121.65

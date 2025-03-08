@@ -1,0 +1,36 @@
+<｜User｜>
+Q: A food truck only sells grilled cheeses.  They source their bread for $3.00 a loaf and each loaf makes 10 sandwiches.  They spend $30.00 on different cheeses and condiments per 10 sandwiches.  If they sell 10 sandwiches for $7.00 each, what is their net profit?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the **net profit** for the food truck, we'll follow these steps:
+
+1. **Calculate the total cost:**
+   - **Bread:** 
+     - Cost per loaf: \$3.00
+     - Number of loaves needed for 10 sandwiches: 1
+     - Total bread cost: \$3.00
+   - **Cheeses and condiments:** 
+     - Cost per 10 sandwiches: \$30.00
+     - Total cost for 10 sandwiches: \$30.00
+   - **Total cost:** 
+     \[
+     \$3.0 + \$30.0 = \$33.00
+     \]
+
+2. **Calculate the total revenue:**
+   - **Selling price per sandwich:** \$7.00
+   - **Total revenue for 10 sandwiches:**
+     \[
+     10 \times \$7.00 = \$70.00
+     \]
+
+3. **Calculate the net profit:**
+   \[
+   \text{Net Profit} = \text{Total Revenue} - \text{Total Cost} = \$70.00 - \$33.00 = \$37.00
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$37.00}
+\]

@@ -1,0 +1,53 @@
+<｜User｜>
+Q: Emily can peel 6 shrimp a minute and saute 30 shrimp in 10 minutes. How long will it take her to peel and cook 90 shrimp?
+A:<｜Assistant｜><think>
+First, I need to determine how long it takes Emily to peel and cook 90 shrimp based on her peeling and sautéing rates.
+
+Emily can peel 6 shrimp per minute and sauté 30 shrimp in 10 minutes. To find the cooking time for 90 shrimp, I'll calculate the time required for each task separately.
+
+For peeling:
+- 6 shrimp per minute means she can peel 90 shrimp in 15 minutes.
+
+For cooking:
+- 30 shrimp in 10 minutes means she can cook 90 shrimp in 5 minutes.
+
+Adding both times together, it will take Emily a total of 10 minutes to peel and cook 90 shrimp.
+</think>
+
+To determine how long it will take Emily to peel and cook 90 shrimp, we'll analyze her peeling and cooking rates separately and then combine the results.
+
+### **Step 1: Calculate the Time to Peel 99 Shrimp**
+- **Rate of Peeling:** Emily can peel **6 shrimp per minute**.
+- **Total Shrimp to Peel:** 99 shrimp.
+
+\[
+\text{Time to peel} = \frac{\text{Total Shrimp}}{\text{Peeling Rate}} = \frac{99}{6} = 16.5 \text{ minutes}
+\]
+
+### **Step 2: Calculate the Time to Cook 99 Shrimp**
+- **Rate of Cooking:** Emily can **sauté 30 shrimp in 10 minutes**.
+- **Total Shrimp to Cook:** 99 shrimp.
+
+First, find the cooking rate per minute:
+
+\[
+\text{Cooking Rate} = \frac{30 \text{ shrimp}}{10 \text{ minutes}} = 3 \text{ shrimp per minute}
+\]
+
+Now, calculate the time needed to cook 99 shrimp:
+
+\[
+\text{Time to cook} = \frac{\text{Total Shrimp}}{\text{Cooking Rate}} = \frac{99}{3} = 3 \text{ minutes}
+\]
+
+### **Step 3: Combine the Two Times**
+Emily needs to both peel and cook the shrimp. Since these tasks can be done simultaneously, we add the two times together:
+
+\[
+\text{Total Time} = \text{Time to peel} + \text{Time to cook} = 16.5 \text{ minutes} + 3 \text{ minutes} = 19.5 \text{ minutes}
+\]
+
+### **Final Answer**
+\[
+\boxed{19.5 \text{ minutes}}
+\]

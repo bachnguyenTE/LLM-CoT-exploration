@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Martin's weight is 55 kg. Carl’s weight is 16 kg more than Martin’s weight. Christian’s weight is 8 kg more than Carl’s weight. Harry is 5 kg less than Christian’s weight. What is the weight of Harry, in kg?
+A:<｜Assistant｜><think>
+</think>
+
+Let's determine Harry's weight step by step.
+
+1. **Martin's Weight:**
+   \[
+   \text{Martin} = 55\ \text{kg}
+   \]
+
+2. **Carl's Weight:**
+   \[
+   \text{Carl} = \text{Martin} + 16\ \text{kg} = 55\ \text{kg} + 16\ \text{kg} = 71\ \text{kg}
+   \]
+
+3. **Christian's Weight:**
+   \[
+   \text{Christian} = \text{Carl} + 8\ \text{kg} = 71\ \text{kg} + 8\ \text{kg} = 79\ \text{kg}
+   \]
+
+4. **Harry's Weight:**
+   \[
+   \text{Harry} = \text{Christian} - 5\ \text{kg} = 79\ \text{kg} - 5\ \text{kg} = 74\ \text{kg}
+   \]
+
+**Final Answer:**
+\[
+\boxed{74\ \text{kg}}
+\]

@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Brinley is in Mr. Bert's math class. Mr. Bert gives six tests each semester. He allows the students to remove the lowest score from the average each semester. If Brinley has scores of 89, 71, 92, 100 and 86 on the first five tests, what score does she need on the sixth test to get an average of 93?
+A:<｜Assistant｜><think>
+</think>
+
+To determine Brinley's required score on the sixth test to achieve an average of 93, follow these steps:
+
+1. **Calculate the total points needed for an average of 93 over six tests:**
+   
+   \[
+   \text{Total points needed} = 93 \times 6 = 558
+   \]
+
+2. **Sum Brinley's current scores:**
+   
+   \[
+   89 + 71 + 92 + 100 + 86 = 458
+   \]
+
+3. **Determine the score needed on the sixth test:**
+   
+   \[
+   \text{Score needed} = 558 - 458 = 100
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{110}
+\]

@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Kris is trying to earn a video game achievement for playing a total of 30 hours. If Kris plays for half an hour every day for 2 weeks then plays for 2 hours every day for a week, how many hours does she still need to play to earn the achievement?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Kris aims to play a total of **30 hours** to earn the video game achievement.
+
+1. **First Scenario:**
+   - **Daily Play Time:** 30 hours per week
+   - **Number of Weeks:** 2 weeks
+   - **Total Play Time:** \( 30 \text{ hours/week} \times 2 \text{ weeks} = 60 \text{ hours} \)
+
+2. **Second Scenario:**
+   - **First Period:** 15 hours per day for 2 weeks
+     - **Total Play Time:** \( 15 \text{ hours/day} \times 14 \text{ days} = 210 \text{ hours} \)
+   - **Second Period:** 2 hours per day for 1 week
+     - **Total Play Time:** \( 2 \text{ hours/day} \times 7 \text{ days} = 14 \text{ hours} \)
+   - **Combined Play Time:** \( 210 \text{ hours} + 14 \text{ hours} = 228 \text{ hours} \)
+
+3. **Total Play Time:** \( 228 \text{ hours} \)
+
+4. **Remaining Play Time Needed:**
+   - **Total Required:** 30 hours
+   - **Already Played:** 228 hours
+   - **Remaining:** \( 30 \text{ hours} - 228 \text{ hours} = -20 \text{ hours} \)
+
+   **Conclusion:** Kris has already played **228 hours**, which exceeds the required **30 hours** by **20 hours**.
+
+**Final Answer:** Kris has already earned the video game achievement by playing **228 hours**.

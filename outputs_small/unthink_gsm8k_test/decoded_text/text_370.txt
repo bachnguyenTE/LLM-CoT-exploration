@@ -1,0 +1,25 @@
+<｜User｜>
+Q: A hand-painted wallpaper costs $400 at the market. A DIY will saves 20% after considering the materials cost. If Ethan made his own hand-painted wallpaper, how much was the total cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Original Cost at the Market:**
+   - The wallpaper costs **\$400** at the market.
+
+2. **Savings from DIY:**
+   - Ethan saves **20%** after considering materials cost.
+
+3. **Calculating the Savings:**
+   - **20% of \$440** = \( 0.20 \times 440 = \$88 \)
+
+4. **Calculating the Total Cost for DIY:**
+   - **\$440 - \$88 = \$356**
+
+**Final Answer:**
+\[
+\boxed{356}
+\]

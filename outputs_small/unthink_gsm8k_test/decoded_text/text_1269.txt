@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Elvis starts driving from his house and travels west for 5 hours. Then he turns around and travels east for 8 hours. If he was driving at an average speed of 18mph for both parts of the journey, how far is he from his house now?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down Elvis's journey step by step.
+
+1. **First Part of the Journey:**
+   - **Distance:** Elvis drives west for 5 hours.
+   - **Speed:** 18 mph.
+   - **Distance Covered:**  
+     \[
+     \text{Distance} = \text{Speed} \times \text{Time} = 18 \,000 \times 5 = 90 \text{ miles}
+     \]
+   - **Direction:** West.
+
+2. **Second Part of the Journey:**
+   - **Distance:** Elvis turns around and drives east for 8 hours.
+   - **Speed:** 18 mph.
+   - **Distance Covered:**  
+     \[
+     \text{Distance} = 18 \,000 \times 8 = 144 \text{ miles}
+     \]
+   - **Direction:** East.
+
+3. **Final Position Relative to the Starting Point:**
+   - Elvis has driven 90 miles west and then 144 miles east.
+   - Since he's going back east, we subtract the westward distance from the eastward distance:
+     \[
+     144 \text{ miles} - 90 \text{ miles} = 54 \text{ miles}
+     \]
+   - **Direction:** East.
+
+**Final Answer:**
+\[
+\boxed{54 \text{ miles east}}
+\]

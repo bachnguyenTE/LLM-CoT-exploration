@@ -1,0 +1,65 @@
+<｜User｜>
+Q: A plague infects ten people. Every day, each infected person infects six others. How many people are infected after three days?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here: A plague infects ten people. Every day, each infected person infects six others. How many people are infected after three days? Hmm, let me try to figure this out step by step.
+
+First, let me make sure I understand the problem correctly. There are initially 10 infected people. Each day, every one of these infected people infects six more people. So, every day, the number of new infections is six times the current number of infected people. But, that seems right. So, it's not just a simple multiplication; it's exponential growth because each infected person is infecting six others, which in turn each infect six more, and so on.
+
+Wait, that seems right. So, it's a geometric progression where each day the number of infected people multiplies by seven each day because each person infects six more, so the total becomes seven times the previous day's number. Let me think about that.
+
+So, starting with 10 infected people on day zero. Then, on day one, each of those 10 infects six others, so that's 10 * 6 = 60 new infections. So, total infected on day one would be 10 + 60 = 70. Wait, that seems right. So, 10 *7 =70.
+
+Wait, that seems right. So, each day, the number of infected people is multiplied by seven. So, on day two, it would be 70 *7 = 490. Wait, that seems right. Let me check that.
+
+Wait, that seems right. So, on day one: 10 *7 =70. Day two: 70 *7=490. Day three: 490 *7=3430. So, after three days, the number of infected people would be 3430.
+
+Wait, that seems right. Let me make sure I'm not making a mistake here. So, each day, the number of infected people is multiplied by seven because each person infects six others, so the total becomes seven times the previous day's number.
+
+So, starting with 10 on day zero.
+
+Day one: 10 *7 =70.
+
+Day two:70 *7=490.
+
+Wait, that seems right. Wait, that seems right. So, 10, 70, 490, 3430. So, after three days, it's 3430.
+
+Wait, that seems right. So, the answer is 3430.
+
+Wait, that seems right. Let me think again. So, each day, the number of infected people is multiplied by seven because each of the current infected people infects six more, so the total becomes seven times the previous day's number.
+
+So, the formula is: infected people on day n is 10 *7^n.
+
+So, on day three, it's 10 *7^3.
+
+7^3 is 343, so 10 *343 is 3430.
+
+So, that seems correct.
+
+Wait, that seems right. So, the answer is 3430.
+
+Wait, that seems right. So, I think that's the correct answer.
+
+Wait, that seems right. So, the number of infected people after three days is 3430.
+
+Wait, that seems right. So, yeah, I think that's correct.
+
+Wait, that seems right. So, yeah, I think that's the answer.
+
+**Final Answer**
+The number of people infected after three days is \boxed{3430}.
+</think>
+
+The problem involves a plague that infects ten people, with each infected person infecting six others each day. We need to determine the number of people infected after three days.
+
+1. On day zero, there are 10 infected people.
+2. Each day, the number of infected people is multiplied by 7 (since each infected person infects six others, leading to a total of seven times the previous day's number).
+
+The formula to calculate the number of infected people after \( n \) days is:
+\[ \text{Infected people} = 10 \times 7^n \]
+
+For three days:
+\[ \text{Infected people} = 10 \times 7^3 \]
+\[ 7^3 = 343 \]
+\[ 10 \times 343 = 3430 \]
+
+Thus, the number of people infected after three days is \boxed{3430}.

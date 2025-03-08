@@ -1,0 +1,62 @@
+<｜User｜>
+Q: Matt wants cookies for a snack, but his dad wants him to eat healthily. He tells Matt he can have half as many cookies as the number of carrot sticks he eats, plus two extra for cleaning his room. If Matt wants to eat five cookies in total, how many carrot sticks does he have to eat?
+A:<｜Assistant｜><think>
+Okay, so Matt wants cookies for a snack, but his dad wants him to eat healthily. He says he can have half as many cookies as the number of carrot sticks he eats, plus two extra for cleaning his room. Matt wants to eat five cookies in total. I need to figure out how many carrot sticks Matt has to eat.
+
+Let me break this down. Let's denote the number of carrot sticks Matt eats as, say, 'c'. Then, according to his dad, the number of cookies he can have is half of that, which is (1/2)c, plus two extra cookies for cleaning. So, the total number of cookies Matt can have is (1/2)c + 2.
+
+But Matt wants to eat five cookies in total. So, that means the number of cookies he can have is equal to five. So, I can set up the equation:
+
+(1/2)c + 2 = 5
+
+Now, I need to solve for 'c'. Let me subtract 2 from both sides to get rid of that constant term on the left.
+
+(1/2)c + 2 - 2 = 5 - 2
+
+Simplifying that, I get:
+
+(1/2)c = 3
+
+Now, to solve for 'c', I can multiply both sides by 2 to get rid of the fraction.
+
+2*(1/2)c = 2*3
+
+Which simplifies to:
+
+c = 6
+
+So, Matt has to eat six carrot sticks to have five cookies in total.
+
+Wait, let me double-check that. If he eats six carrot sticks, half of that is three cookies, plus two extra for cleaning, that's five cookies. Yeah, that adds up. So, six carrot sticks is the correct answer.
+
+I think that makes sense. So, the answer is six carrot sticks.
+
+**Final Answer**
+Matt has to eat \boxed{6} carrot sticks.
+</think>
+
+Let \( c \) be the number of carrot sticks Matt eats. According to his dad, the number of cookies he can have is half of the number of carrot sticks plus two extra cookies. This can be expressed as:
+
+\[
+\frac{1}{2}c + 2
+\]
+
+Since Matt wants to eat five cookies in total, we set up the equation:
+
+\[
+\frac{1}{2}c + 2 = 5
+\]
+
+Subtract 2 from both sides:
+
+\[
+\frac{1}{2}c = 3
+\]
+
+Multiply both sides by 2:
+
+\[
+c = 6
+\]
+
+Thus, Matt has to eat \boxed{6} carrot sticks.

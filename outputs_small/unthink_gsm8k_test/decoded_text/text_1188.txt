@@ -1,0 +1,104 @@
+<｜User｜>
+Q: Digimon had its 20th anniversary.  When it came out John was twice as old as Jim.  If John is 28 now how old is Jim?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Understanding the Problem:**
+   - John and Jim are two people.
+   - On the 20nd anniversary of Digimon, John was twice as old as Jim.
+   - Currently, John is 28 years old.
+   - We need to find Jim's current age.
+
+2. **Setting Up the Variables:**
+   - Let \( J \) represent John's current age.
+   - Let \( M \) represent Jim's current age.
+
+3. **Given Information:**
+   - John is 28 years old now: \( J = 28 \).
+   - John was twice as old as Jim at the 22nd anniversary. This implies that at the time of the 22nd anniversary, John's age was twice Jim's age.
+
+4. **Calculating the Age Difference:**
+   - The difference in their ages is constant and does not change over time.
+   - Let’s denote the age difference as \( D \).
+   - So, \( D = J - M \).
+
+5. **Applying the Age Difference:**
+   - At the 22nd anniversary, John's age was \( J - D \).
+   - At that time, John was twice as old as Jim: \( J - D = 2M \).
+
+6. **Substituting the Known Values:**
+   - We know \( J = 28 \), so:
+     \[
+     28 - D = 2M
+     \]
+   - But we also know that \( D = J - M = 28 - M \).
+
+7. **Substituting \( D \) in the Equation:**
+   - Substitute \( D = 28 - M \) into \( 28 - D = 2M \):
+     \[
+     28 - (28 - M) = 2M
+     \]
+   - Simplify:
+     \[
+     28 - 28 + M = 2M \\
+     M = 2M
+     \]
+   - Wait, this leads to \( M = 0 \), which doesn't make sense. Let's check our approach.
+
+8. **Re-examining the Approach:**
+   - The mistake lies in the interpretation of the age difference.
+   - At the 22nd anniversary, John was twice as old as Jim. So, the age difference remains the same.
+   - Let’s denote the age difference as \( D \).
+   - So, \( D = J - M \).
+   - At the 22nd anniversary, John's age was \( J - D \), and Jim's age was \( M - D \).
+   - Given that \( J - D = 2(M - D) \).
+
+9. **Setting Up the Correct Equation:**
+   \[
+   J - D = 2(M - D)
+   \]
+   - Substitute \( D = J - M \):
+     \[
+     J - (J - M) = 2(M - (J - M))
+     \]
+   - Simplify:
+     \[
+     J - J + M = 2(M - J + M) \\
+     M = 2(2M - J) \\
+     M = 4M - 2J \\
+     \]
+   - Rearranging:
+     \[
+     M - 4M = -2J \\
+     -3M = -2J \\
+     3M = 2J \\
+     M = \frac{2}{3}J
+     \]
+
+10. **Solving for Jim's Age:**
+    - We know \( J = 28 \):
+      \[
+      M = \frac{2}{3} \times 28 = \frac{16}{3} = 5\frac{1}{3}
+      \]
+    - However, ages are typically whole numbers, so this suggests a miscalculation.
+
+11. **Re-evaluating the Age Difference Approach:**
+    - Let’s consider that the age difference remains constant.
+    - Let’s denote the age difference as \( D \).
+    - So, \( D = J - M \).
+    - At the 22nd anniversary, John's age was \( J - D \), and Jim's age was \( M - D \).
+    - Given that \( J - D = 2(M - D) \).
+    - Substitute \( D = J - M \):
+      \[
+      J - (J - M) = 2(M - (J - M)) \\
+      M = 2(2M - J) \\
+      M = 4M - 2J \\
+      \]
+    - Rearranging:
+      \[
+      M - 4M = -2J \\
+      -3M = -2

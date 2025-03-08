@@ -1,0 +1,33 @@
+<｜User｜>
+Q: There are 9 Fast and the Furious movies, Deepa has seen each one in the theatre three times. She has spent $216 seeing these movies. What is the average price she paid per ticket?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the average price Deepa paid per ticket, we can follow these steps:
+
+1. **Total Number of Tickets Purchased:**
+   
+   - There are **9** Fast and Furious movies.
+   - Deepa has seen each movie **3 times**.
+   
+   \[
+   \text{Total Tickets} = 9 \text{ movies} \times 3 \text{ times} = 27 \text{ tickets}
+   \]
+
+2. **Total Amount Spent:**
+   
+   - Deepa spent a total of **\$216**.
+
+3. **Average Price per Ticket:**
+   
+   To find the average price per ticket, divide the total amount spent by the total number of tickets.
+
+   \[
+   \text{Average Price per Ticket} = \frac{\$216}{27 \text{ tickets}} = \$8 \text{ per ticket}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{\$8}
+\]

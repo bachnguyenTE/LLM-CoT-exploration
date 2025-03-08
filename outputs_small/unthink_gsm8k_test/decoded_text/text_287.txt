@@ -1,0 +1,40 @@
+<｜User｜>
+Q: A 76-star flag has three rows of 8 stars, two rows of 6 stars and the rest are 5-star rows. How many rows of 5 stars are there altogether on the flag?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the number of 5-star rows on the flag, let's break down the information provided:
+
+1. **Total Stars on the Flag:** 76 stars.
+2. **Structure of the Flag:**
+   - **First Row:** 8 stars.
+   - **Second Row:** 6 stars.
+   - **Third Row:** 5 stars.
+   - **Fourth Row:** 5 stars.
+   - **Fifth Row:** 5 stars.
+
+3. **Calculating the Total Stars:**
+   - **First Row:** 8 stars.
+   - **Second Row:** 6 stars.
+   - **Third Row:** 5 stars.
+   - **Fourth Row:** 5 stars.
+   - **Fifth Row:** 5 stars.
+
+   Adding these together:
+   \[
+   8 + 6 + 5 + 5 + 5 = 29 \text{ stars}
+   \]
+
+4. **Comparing with the Total Stars:**
+   - The flag has a total of 76 stars.
+   - However, the calculated total stars from the rows add up to 29 stars, which is significantly higher than 76.
+
+5. **Identifying the Discrepancy:**
+   - There seems to be a mismatch in the numbers provided. The flag described has only 29 stars, but the question mentions a 76-star flag.
+
+6. **Conclusion:**
+   - Based on the given information, there are **5 rows of 5 stars** on the flag.
+
+\[
+\boxed{5}
+\]

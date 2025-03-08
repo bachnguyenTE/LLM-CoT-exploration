@@ -1,0 +1,58 @@
+<｜User｜>
+Q: Dijana and Anis live near a lake, and every weekend they go out rowing into the lake. On a Sunday morning, both went out rowing, and Dijana rowed for 50 miles the whole day. Anis rowed 1/5 times more miles than Dijana. Calculate the total distance the two of them rowed on that day.
+A:<｜Assistant｜><think>
+Okay, so I have this problem here where Dijana and Anis live near a lake and every weekend they go out rowing into the lake. On a Sunday morning, both went out rowing. Dijana rowed for the whole day and covered 50 miles. Anis rowed 1/5 times more miles than Dijana. I need to calculate the total distance the two of them rowed on that day. Hmm, let me think about how to approach this.
+
+First, let me parse the problem again to make sure I understand it correctly. Dijana rowed 50 miles on Sunday morning. Anis rowed 1/5 times more than Dijana. So, Anis's rowing distance is Dijana's distance plus 1/5 of Dijana's distance. That makes sense because "times more" usually means an increase by that fraction.
+
+So, if Dijana rowed 50 miles, then Anis rowed 50 miles plus 1/5 of 50 miles. Let me write that down:
+
+Anis's distance = Dijana's distance + (1/5) * Dijana's distance
+
+Which is:
+
+Anis's distance = 50 + (1/5)*50
+
+Let me compute that. First, 1/5 of 50 is... 50 divided by 5 is 10. So, 1/5 of 50 is 10. So, Anis rowed 50 + 10 = 60 miles.
+
+Wait, that seems right. So, Anis rowed 60 miles. Let me double-check that. If Dijana did 50, and Anis did 1/5 more, then 1/5 of 50 is 10, so 50 +10 is 60. Yeah, that seems correct.
+
+So, now, to find the total distance they both rowed, I need to add Dijana's distance and Anis's distance together.
+
+Total distance = Dijana's distance + Anis's distance
+
+Which is:
+
+Total distance = 50 + 60
+
+So, 50 + 60 is 110.
+
+Therefore, the total distance they rowed together is 110 miles.
+
+Wait, that seems right. Let me just make sure I didn't make any mistakes in my calculations. So, Dijana: 50 miles. Anis: 50 + (1/5)*50 = 50 +10=60. Total:50+60=110. Yeah, that seems correct.
+
+Alternatively, another way to think about it is that if Anis rowed 1/5 times more, that means Anis's distance is 6/5 of Dijana's distance. Because 1 + 1/5 is 6/5. So, Anis's distance is 6/5 * Dijana's distance.
+
+So, Anis's distance = (6/5)*50 = (6*50)/5 = 300/5 =60. So, same result.
+
+Therefore, total distance is 50 +60=110.
+
+So, I think that's correct. I don't see any mistakes in my reasoning.
+
+**Final Answer**
+The total distance the two of them rowed on that day is \boxed{110} miles.
+</think>
+
+Dijana rowed 50 miles on Sunday morning. Anis rowed 1/5 times more miles than Dijana. To find Anis's distance, we calculate:
+
+\[
+\text{Anis's distance} = 50 + \left(\frac{1}{5} \times 50\right) = 50 + 10 = 60 \text{ miles}
+\]
+
+Adding the distances rowed by both Dijana and Anis gives the total distance:
+
+\[
+\text{Total distance} = 50 + 60 = 110 \text{ miles}
+\]
+
+Thus, the total distance the two of them rowed on that day is \boxed{110} miles.

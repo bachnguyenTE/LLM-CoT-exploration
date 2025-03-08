@@ -1,0 +1,18 @@
+<｜User｜>
+Q: Hallie had dance practice for 1 hour on Tuesdays and 2 hours on Thursdays.  On Saturdays, she had dance practice that lasted twice as long as Tuesday's night class.  How many hours a week did she have dance practice?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many hours Hallie had dance practice in a week, let's break down her schedule:
+
+1. **Tuesday:** 1 hour of dance practice.
+2. **Thursday:** 2 hours of dance practice.
+3. **Saturday:** Twice as long as Tuesday's practice, which is \(2 \times 1 = 2\) hours.
+
+Now, add up all the hours:
+
+\[
+1 \text{ (Tuesday)} + 2 \text{ (Thursday)} + 2 \text{ (Saturday)} = 5 \text{ hours}
+\]
+
+**Final Answer:** \(\boxed{5}\) hours a week.

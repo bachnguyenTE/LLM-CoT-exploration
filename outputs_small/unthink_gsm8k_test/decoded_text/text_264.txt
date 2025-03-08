@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Carmen has $100, Samantha has $25 more than Carmen, and Daisy has $50 more than Samantha. How much do all three girls have combined?
+A:<｜Assistant｜><think>
+</think>
+
+Let's determine how much money all three girls have combined step by step.
+
+1. **Carmen's Amount:**
+   - Carmen has \$100.
+
+2. **Samantha's Amount:**
+   - Samantha has \$25 more than Carmen.
+   - Calculation: \$100 + \$25 = \$125.
+
+3. **Daisy's Amount:**
+   - Daisy has \$50 more than Samantha.
+   - Calculation: \$125 + \$50 = \$175.
+
+4. **Total Amount Combined:**
+   - Add the amounts of all three girls.
+   - Calculation: \$100 (Carmen) + \$125 (Samantha) + \$175 (Daisy) = \$400.
+
+**Final Answer:** \boxed{400}

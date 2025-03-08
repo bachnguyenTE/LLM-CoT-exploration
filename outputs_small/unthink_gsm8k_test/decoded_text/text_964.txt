@@ -1,0 +1,31 @@
+<｜User｜>
+Q: John just started watching a new show.  Each episode is 20 minutes long, and there are half as many episodes in total as there are minutes per episode.  How many minutes will John spend watching the show if he watches every episode?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the number of episodes:**
+   - Each episode is **20 minutes long**.
+   - The total number of episodes is **half as many as the total minutes per episode**.
+
+   Let \( E \) represent the number of episodes.
+
+   According to the problem:
+   \[
+   E = \frac{1}{2} \times 20 = 10
+   \]
+   So, there are **10 episodes** in total.
+
+2. **Calculate the total watching time:**
+   - If John watches every episode, the total time spent will be:
+   \[
+   \text{Total Time} = \text{Number of Episodes} \times \text{Duration per Episode} = 10 \times 20 = 200 \text{ minutes}
+   \]
+
+**Final Answer:**
+\[
+\boxed{200}
+\]

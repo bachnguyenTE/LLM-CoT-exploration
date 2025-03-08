@@ -1,0 +1,27 @@
+<｜User｜>
+Q: 90 single use contacts come in 1 box and will last Pete 45 days.  Each box is $100.00 and currently 10% off.  If he buys 2 boxes of contact, how much will each pair of contacts cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total number of contacts in 2 boxes:**
+   - Each box contains 90 contacts.
+   - 2 boxes = \( 90 \times 2 = 180 \) contacts.
+
+2. **Calculate the total cost for 2 boxes:**
+   - Each box costs \$100.00.
+   - 2 boxes = \( 1000.00 \times 2 = 200.00 \) dollars.
+
+3. **Find the cost per pair of contacts:**
+   - Total cost = \$200.00
+   - Number of pairs = 180
+   - Cost per pair = \( \frac{200.00}{180} = 1.1111 \) dollars.
+
+4. **Round to the nearest cent:**
+   - Cost per pair ≈ \$1.111
+
+**Final Answer:**
+\[
+\boxed{1.11}
+\]

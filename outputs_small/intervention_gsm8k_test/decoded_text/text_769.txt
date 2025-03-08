@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Tanya is teaching at school. She earns $15 for every hour and an additional $5 per day if she teaches more than 3 classes. On Monday she teaches 4 classes for 5 hours, and on Wednesday 2 classes for 2 hours. How much did Tanya earn for these two days of teaching?
+A:<｜Assistant｜><think>
+First, calculate Tanya's earnings from Monday. She earns $15 per hour and $5 per day for teaching more than 3 classes. On Monday, she taught for 5 hours, which qualifies her for the additional $5. So, her earnings from Monday are (5 hours × $15) + $5 = $75 + $5 = $80.
+
+Next, calculate her earnings from Wednesday. She taught for 2 hours, which does not qualify her for the additional $5. Therefore, her earnings from Wednesday are 2 hours × $15 = $30.
+
+Finally, add the earnings from both days to find the total amount Tanya earned: $80 (Monday) + $30 (Wednesday) = $110.
+</think>
+
+**Solution:**
+
+To determine how much Tanya earned over the two days, we'll break down her earnings from Monday and Wednesday separately and then sum them up.
+
+1. **Monday:**
+   - **Hourly Earnings:** Tanya earns \$15 per hour.
+   - **Classes and Additional Pay:** She taught 4 classes, which qualifies her for an additional \$5 per day.
+   - **Total Hours Worked:** 5 hours.
+   - **Calculation:**
+     \[
+     \text{Monday Earnings} = (\text{Hours Worked} \times \$15) + \$5 = (5 \times 15) + 5 = \$75 + \$5 = \$80
+     \]
+
+2. **Wednesday:**
+   - **Hourly Earnings:** She taught 2 hours, which does not qualify her for the additional \$5.
+   - **Calculation:**
+     \[
+     \text{Wednesday Earnings} = \text{Hours Worked} \times \$15 = 2 \times 15 = \$30
+     \]
+
+3. **Total Earnings:**
+   \[
+   \text{Total Earnings} = \text{Monday Earnings} + \text{Wednesday Earnings} = \$80 + \$30 = \boxed{\$1110}
+   \]
+
+**Final Answer:**
+\boxed{\$1110}

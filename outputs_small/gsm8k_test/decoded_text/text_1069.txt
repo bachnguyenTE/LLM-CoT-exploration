@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Mr Hezekiah had 20 trucks from his store supplying fertiliser to different farmers in his hometown dispatched for delivery on a particular day. Each truck was carrying 20 tons of fertiliser packed in bags. Two hours after the trucks had departed for delivery, Mr Hezekiah got the news that a quarter of the number of lorries dispatched for delivery had mechanical failures on the road and could not deliver the fertilisers to the farmers. Calculate the total number of tons of fertiliser that reached the farmers that day?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Mr. Hezekiah and his trucks delivering fertilizer. Let me try to break it down step by step. Sometimes these word problems can be a bit tricky, but if I take it slowly, I think I can figure it out.
+
+First, let me read the problem again to make sure I understand all the details.
+
+"Mr. Hezekiah had 20 trucks from his store supplying fertiliser to different farmers in his hometown dispatched for delivery on a particular day. Each truck was carrying 20 tons of fertiliser packed in bags. Two hours after the trucks had departed for delivery, Mr. Hezekiah got the news that a quarter of the number of lorries dispatched for delivery had mechanical failures on the road and could not deliver the fertilisers to the farmers. Calculate the total number of tons of fertiliser that reached the farmers that day?"
+
+Alright, so let's parse this out.
+
+1. He has 20 trucks.
+2. Each truck carries 20 tons of fertilizer.
+3. Two hours later, a quarter of of the number of trucks (I think that's a typo, it should be a quarter of the number of lorries, but since all the trucks are lorries, it's the same) had mechanical failures.
+4. We need to find the total tons of fertilizer that reached the farmers that day.
+
+So, first, let's figure out how much fertilizer was supposed to be delivered initially. Since he had 20 trucks, each carrying 20 tons, the total would be 20 * 20 tons. Let me compute that.
+
+20 tons per truck * 20 trucks = 400 tons. So, without any mechanical failures, he would have delivered 400 tons.
+
+But then, two hours later, some trucks had mechanical failures. Specifically, a quarter of the number of lorries (which is the same as the number of trucks) had failures. So, a quarter of 20 trucks failed.
+
+Let me compute that. A quarter of 20 is 20 / 4 = 5 trucks. So, 5 trucks couldn't deliver the fertilizer.
+
+Therefore, the number of trucks that successfully delivered the fertilizer is 20 - 5 = 15 trucks.
+
+Each of these 15 failed trucks couldn't deliver any fertilizer, so they contributed 0 tons. The 15 successful trucks delivered 20 tons each.
+
+So, the total tons delivered would be 15 trucks * 20 tons per truck.
+
+Let me compute that: 15 * 20 = 300 tons.
+
+Wait, hold on. Let me make sure I didn't make a mistake here. So, 20 trucks, each with 20 tons, so 400 tons total. Then, 5 failed, so 15 delivered. 15*20=300. So, 300 tons delivered.
+
+But wait, the problem says "a quarter of the number of lorries dispatched for delivery had mechanical failures." So, 20 lorries, a quarter is 5, so 5 failed. So, 15 delivered. So, 15*20=300 tons.
+
+But hold on, is the question asking for the total that reached the farmers that day? So, the initial 400 tons minus the 5 failed ones? But no, because the failed ones didn't deliver anything, so the total that reached is the 15 successful ones, which is 300 tons.
+
+Wait, but let me think again. Is the question asking for the total that reached, or the total that were delivered? Because sometimes, in these problems, it's easy to get confused.
+
+But the problem says, "Calculate the total number of tons of fertiliser that reached the farmers that day?" So, that would be the amount delivered, which is 15 trucks * 20 tons = 300 tons.
+
+Wait, but 15*20 is 300, right? 15*20 is 300. So, 300 tons.
+
+But hold on, let me make sure I didn't misinterpret the question. It says, "a quarter of the number of lorries dispatched for delivery had mechanical failures." So, 20 lorries, a quarter is 5, so 5 failed. So, 15 delivered. So, 15*20=300 tons.
+
+But wait, is the question asking for the total that reached, or the total that were delivered? Because sometimes, in some problems, the total that reached is the total that were delivered, but in this case, the failed ones didn't reach, so the total that reached is 300 tons.
+
+Wait, but 15 trucks delivered 300 tons, so 

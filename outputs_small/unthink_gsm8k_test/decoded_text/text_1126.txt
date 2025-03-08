@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Alfie, the albatross, flies 400 kilometers every day.  If the circumference of the earth is 40,000 kilometers, how many days will it take Alfie to fly a distance equal to half of the way around the earth?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how many days it will take Alfie to fly half the distance around the Earth, follow these steps:
+
+1. **Understand the given information:**
+   - **Alfie's daily flight distance:** 400 kilometers.
+   - **Circumference of the Earth:** 40,000 kilometers.
+
+2. **Calculate half the circumference of the Earth:**
+   \[
+   \text{Half of Earth's circumference} = \frac{40,\!000}{2} = 20,\!000 \text{ kilometers}
+   \]
+
+3. **Determine the number of days required to fly 20,000 kilometers at 400 kilometers per day:**
+   \[
+   \text{Number of days} = \frac{20,\!000}{400} = 50 \text{ days}
+   \]
+
+**Final Answer:**
+\[
+\boxed{50}
+\]

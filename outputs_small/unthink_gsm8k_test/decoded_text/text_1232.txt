@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Eve had 20 pieces of pomelos. After giving her friend some pomelos, Eve is left with 1/4 of the pomelos she originally had. How many pomelos did Eve give away?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+Eve had 20 pieces of pomelos. After giving her friend some pomelos, Eve is left with \( \frac{1}{4} \) of the pomelos she originally had. How many pomelos did Eve give away?
+
+**Solution:**
+
+1. **Determine the number of pomelos Eve is left with:**
+   
+   Eve originally had 20 pieces of pomelos.
+   
+   She is left with \( \frac{1}{4} \) of these pomelos.
+   
+   \[
+   \text{Pomelos left} = \frac{1}{4} \times 20 = 5
+   \]
+
+2. **Calculate the number of pomelos Eve gave away:**
+   
+   Eve started with 20 pomelos and is left with 5.
+   
+   \[
+   \text{Pomelos given away} = 20 - 5 = 15
+   \]
+
+**Final Answer:**
+Eve gave away \(\boxed{15}\) pomelos.

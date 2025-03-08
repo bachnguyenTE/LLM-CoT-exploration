@@ -1,0 +1,44 @@
+<｜User｜>
+Q: Mr. Robles buys 315 bananas, which is enough to feed his three monkeys for a week. One monkey eats 10 bananas each day. The second monkey eats 4 more bananas than the first monkey and the third monkey eats the rest of the bananas for the day.  How many bananas does the third monkey eat each day?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- **Total bananas bought by Mr. Robles:** 315 bananas
+- **Number of monkeys:** 3
+- **Feeding period:** 1 week (7 days)
+- **Eating rates:**
+  - **First monkey:** 10 bananas per day
+  - **Second monkey:** 4 more bananas than the first monkey
+  - **Third monkey:** Eats the remaining bananas for the day
+
+**Step 1: Calculate the total bananas consumed by the first two monkeys each day.**
+
+- **First monkey:** 10 bananas/day
+- **Second monkey:** 10 + 4 = 14 bananas/day
+
+Total for the first two monkeys:
+\[ 10 \text{ bananas/day} + 14 \text{ bananas/day} = 24 \text{ bananas/day} \]
+
+**Step 2: Determine the number of bananas left for the third monkey each day.**
+
+Total bananas bought:
+\[ 315 \text{ bananas} \]
+
+Bananas consumed by the first two monkeys:
+\[ 24 \text{ bananas/day} \]
+
+Bananas left for the third monkey:
+\[ 315 - 24 = 291 \text{ bananas/day} \]
+
+**Step 3: Calculate the number of bananas the third monkey eats each day.**
+
+Since the third monkey eats the remaining bananas for the day:
+\[ 291 \text{ bananas/day} \]
+
+**Final Answer:**
+\[
+\boxed{291}
+\]

@@ -1,0 +1,31 @@
+<｜User｜>
+Q: A bumper car rink has 12 red cars. They have 2 fewer green cars than they have red cars. They have 3 times the number of blue cars as they have green cars. The rink also has yellow cars.  If the rink has 75 cars in total how many yellow cars do they have?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the number of yellow cars at the bumper car rink.
+
+1. **Red Cars:**
+   - There are **12 red cars**.
+
+2. **Green Cars:**
+   - They have **2 fewer green cars** than red cars.
+   - **Green cars = Red cars - 2 = 12 - 2 = 10 cars.**
+
+3. **Blue Cars:**
+   - They have **3 times the number of blue cars** as green cars.
+   - **Blue cars = 3 × Green cars = 3 × 10 = 30 cars.**
+
+4. **Total Non-Yellow Cars:**
+   - **Red + Green + Blue = 12 + 10 + 30 = 52 cars.**
+
+5. **Total Cars in the Rink:**
+   - The rink has **75 cars** in total.
+
+6. **Yellow Cars:**
+   - **Yellow cars = Total cars - Non-yellow cars = 75 - 52 = 23 cars.**
+
+**Final Answer:**
+\[
+\boxed{23}
+\]

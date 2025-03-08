@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Kelly has 5 quarters and 2 dimes. If she buys a can of pop for 55 cents, how many cents will she have left?
+A:<｜Assistant｜><think>
+First, I need to determine the total amount of money Kelly has. She has 5 quarters and 2 dimes. Each quarter is worth 25 cents, so 5 quarters amount to 5 multiplied by 25, which is 125 cents. Each dime is worth 10 cents, so 2 dimes amount to 2 multiplied by 10, which is 20 cents. Adding these together, Kelly has a total of 125 + 20 = 145 cents.
+
+Next, she spends 55 cents on a can of pop. To find out how much money she has left, I subtract the cost of the pop from her total amount. So, 145 cents minus 55 cents equals 130 cents.
+
+Therefore, Kelly will have 130 cents left after her purchase.
+</think>
+
+**Solution:**
+
+1. **Calculate the total amount of money Kelly has:**
+   
+   - **Quarters:** Kelly has 5 quarters.
+     \[
+     5 \text{ quarters} \times \$0.25 = 5 \times 25 = 125 \text{ cents}
+     \]
+   
+   - **Dimes:** Kelly has 2 dimes.
+     \[
+     2 \text{ dimes} \times \$0.10 = 2 \times 10 = 20 \text{ cents}
+     \]
+   
+   - **Total money:**
+     \[
+     125 \text{ cents} + 20 \text{ cents} = 145 \text{ cents}
+     \]
+
+2. **Subtract the cost of the can of pop:**
+   
+   - **Cost of the can of pop:** 55 cents
+   \[
+   145 \text{ cents} - 55 \text{ cents} = 90 \text{ cents}
+   \]
+
+**Final Answer:**
+\[
+\boxed{90}
+\]

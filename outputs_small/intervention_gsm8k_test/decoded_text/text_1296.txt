@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Ellen and her sister, Lani, went to the mall to buy presents for their mom. Ellen bought a pair of leggings for $100 and a photo frame for $5. Lani bought a pair of sunglasses at $30 and two bathrobes at $100 each. How much did they spend in all?
+A:<｜Assistant｜><think>
+First, I need to determine how much Ellen spent. She bought leggings for $100 and a photo frame for $5, so her total expenditure is $100 plus $5, which equals $105.
+
+Next, I'll calculate how much Lani spent. She purchased sunglasses for $30 and two bathrobes at $100 each. The total for the bathrobes is 2 multiplied by $100, which equals $200. Adding the cost of the sunglasses, Lani's total expenditure is $200 plus $30, totaling $230.
+
+Finally, to find the combined amount spent by both Ellen and Lani, I'll add their individual totals together: $105 plus $230 equals $335.
+</think>
+
+**Solution:**
+
+Let's break down the expenses step by step.
+
+1. **Ellen's Purchases:**
+   - **Leggings:** \$100
+   - **Photo Frame:** \$5
+   - **Total for Ellen:** \$100 + \$5 = **\$105**
+
+2. **Lani's Purchases:**
+   - **Sunglasses:** \$30
+   - **Two Bathrobes:** 2 × \$100 = **\$200**
+   - **Total for Lani:** \$200 + \$30 = **\$230**
+
+3. **Combined Total:**
+   - **Ellen's Total:** \$105
+   - **Lani's Total:** \$230
+   - **Total Spent Together:** \$105 + \$230 = **\$335**
+
+**Final Answer:**
+\boxed{335}

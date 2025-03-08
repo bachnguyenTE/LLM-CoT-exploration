@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Three of the women at the cocktail party are wearing 4 inch heels and three are wearing 2 inch heels. What is the average height of heels at this party?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the average height of the heels worn by the women at the cocktail party, follow these steps:
+
+1. **Identify the number of women and their respective heel heights:**
+   - **Women wearing 4-inch heels:** 3 women
+   - **Women wearing 2-inch heels:** 3 women
+
+2. **Calculate the total number of women:**
+   \[
+   3 \text{ women (4-inch)} + 3 \text{ women (2-inch)} = 6 \text{ women}
+   \]
+
+3. **Calculate the total height of all heels:**
+   \[
+   (3 \times 4 \text{ inches}) + (3 \times 2 \text{ inches}) = 12 \text{ inches} + 6 \text{ inches} = 18 \text{ inches}
+   \]
+
+4. **Determine the average height of the heels:**
+   \[
+   \text{Average} = \frac{\text{Total height of heels}}{\text{Total number of women}} = \frac{18 \text{ inches}}{6} = 3 \text{ inches}
+   \]
+
+**Final Answer:**
+\[
+\boxed{3 \text{ inches}}
+\]

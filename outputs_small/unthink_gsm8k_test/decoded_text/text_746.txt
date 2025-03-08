@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Jake's family wants to compare the cost of the two different amusement parks. The first amusement park has a $26 fee for each adult and a $12 fee for each child; while the second amusement park has a $14 fee for each adult and $10 for each child. If there are 2 adults and 2 children in their family, how much will they be able to save if they choose the second amusement park over the first?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much Jake's family will save by choosing the second amusement park over the first, we'll calculate the total cost for both parks and then find the difference.
+
+**First Amusement Park:**
+- **Adult Fee:** \$26
+- **Child Fee:** \$12
+- **Family Size:** 2 adults, 2 children
+
+\[
+\text{Total Cost} = (2 \times \$26) + (2 \times \$12) = \$52 + \$24 = \$76
+\]
+
+**Second Amusement Park:**
+- **Adult Fee:** \$14
+- **Child Fee:** \$10
+- **Family Size:** 2 adults, 2 children
+
+\[
+\text{Total Cost} = (2 \times \$14) + (2 \times \$10) = \$28 + \$2 = \$30
+\]
+
+**Savings:**
+
+\[
+\text{Savings} = \text{First Park Cost} - \text{Second Park Cost} = \$76 - \$30 = \$46
+\]
+
+\[
+\boxed{\$46}
+\]

@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Steve loves playing video games.  His parents get him a console along with 5 games for his birthday.  He saves up enough money to buy 1 game per month for a year, and then the following year he starts buying 2 games a month.  For the third year he buys 4 games a month as he has a new part-time job that makes him more money.  He also gets 5 games for Christmas every year.  How many games does Steve have after 3 years?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down Steve's gaming habits over the three years step by step.
+
+1. **First Year:**
+   - **Games Purchased:** 1 game/month × 12 months = **12 games**
+   - **Total Games After Year 1:** 12 games
+
+2. **Second Year:**
+   - **Games Purchased:** 2 games/month × 12 months = **24 games**
+   - **Total Games After Year 2:** 12 (from Year 1) + 24 = **36 games**
+
+3. **Third Year:**
+   - **Games Purchased:** 4 games/month × 12 months = **48 games**
+   - **Total Games After Year 3:** 36 (from Year 1 and 2) + 48 = **84 games**
+
+4. **Additional Games from Christmas:**
+   - **Each Year:** 5 games
+   - **Total Christmas Games Over 3 Years:** 5 × 3 = **15 games**
+
+5. **Total Games After 3 Years:**
+   - **Sum of Purchased Games and Christmas Games:** 84 + 15 = **99 games**
+
+**Final Answer:**
+\boxed{99}

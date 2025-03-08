@@ -1,0 +1,24 @@
+<｜User｜>
+Q: There were 50 cats on a rock. Four boats came and carried away 5 cats each, and later, 3/5 of the remaining cats ran after a mouse they'd seen. How many cats were left on the rock?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Initial Number of Cats:**
+- **Total cats on the rock:** 50
+
+**First Boat:**
+- **Number of cats carried by each boat:** 5
+- **Total cats carried by four boats:** \(4 \times 5 = 20\)
+- **Remaining cats on the rock:** \(50 - 20 = 30\)
+
+**Second Part:**
+- **Fraction of remaining cats that ran after a mouse:** \(\frac{3}{5}\)
+- **Number of cats that ran after a mouse:** \(\frac{3}{5} \times 30 = 18\)
+- **Number of cats remaining on the rock:** \(30 - 18 = 12\)
+
+**Final Answer:**
+\[
+\boxed{12}
+\]

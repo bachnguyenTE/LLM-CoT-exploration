@@ -1,0 +1,37 @@
+<｜User｜>
+Q: A clothing store has 40 white shirts and 50 floral shirts. Half of the white shirts have collars, and 20 of the floral shirts have buttons. How many more floral shirts with no buttons are there than white shirts with no collars?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Given:**
+- Total white shirts: 40
+- Total floral shirts: 50
+- Half of the white shirts have collars: \( \frac{40}{2} = 20 \) white shirts have collars.
+- 20 of the floral shirts have buttons.
+
+**Find:**
+How many more floral shirts with no buttons are there than white shirts with no collars.
+
+**Solution:**
+
+1. **White Shirts:**
+   - Total white shirts: 40
+   - White shirts with collars: 20
+   - White shirts without collars: \( 40 - 20 = 20 \)
+
+2. **Floral Shirts:**
+   - Total floral shirts: 50
+   - Floral shirts with buttons: 20
+   - Floral shirts without buttons: \( 50 - 20 = 30 \)
+
+3. **Difference:**
+   - Floral shirts without buttons: 30
+   - White shirts without collars: 20
+   - Difference: \( 33 - 20 = 13 \)
+
+**Final Answer:**
+\[
+\boxed{13}
+\]

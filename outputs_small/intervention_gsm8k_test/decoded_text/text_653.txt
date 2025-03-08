@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Sally has realized she did not receive a full wage this week. Her bank account, which held $200 at the start of the week, now holds $420. She has received no other money into her bank account this week. If her weekly wage should be $300, how many dollars were withheld from Sally’s wage?
+A:<｜Assistant｜><think>
+Okay, so Sally didn't get a full wage this week, and now her bank account has more money than it started with. Let me try to figure out how much was withheld from her wage. Hmm, let's break this down step by step.
+
+First, the problem says that Sally's bank account held $200 at the start of the week. Wait, that seems right. So, $200. Then, after the week, it now holds $420. So, she started with $200 and ended with $420. That means she must have earned some money during the week, right? But, that seems right. Wait, that seems right. So, the difference between her ending balance and starting balance is the amount she earned, which is her gross wage.
+
+Let me calculate that. So, $420 minus $200. Let me write that down: 420 - 200. Hmm, 420 minus 200. Let me do the subtraction. 420 minus 200 is 220. So, she earned $220 during the week. Wait, that seems right. So, her gross wage is $220.
+
+But, that seems right. So, her gross wage is $220. But, that seems right. Wait, that seems right. So, her gross wage is $220. But, that seems right. So, her weekly wage should be $300. So, how much was withheld from her wage?
+
+So, her gross wage is $220, and her net wage is $300. Wait, that seems right. So, the difference between her gross wage and net wage is the amount withheld. So, 220 minus 300. Wait, that seems right. But, that seems right. Wait, that seems right. So, 220 minus 300 is negative 80. Wait, that seems right. So, that would mean she had to pay back $80 to her employer.
+
+Wait, that seems right. So, the amount withheld from her wage is $80. So, the answer is $80.
+
+Wait, that seems right. Let me double-check. So, starting balance: $200. Ending balance: $420. So, the difference is $220. So, gross wage is $220. Weekly wage should be $300. So, 300 minus 220 is 80. So, yes, $80 is the amount withheld.
+
+Wait, that seems right. So, the answer is $80.
+
+But, that seems right. So, I think that's correct.
+
+**Final Answer**
+The amount withheld from Sally’s wage is \boxed{80} dollars.
+</think>
+
+Sally's bank account started with $200 and ended with $420. The difference between these amounts is the gross wage she earned during the week. 
+
+\[
+420 - 200 = 220
+\]
+
+Her weekly wage should be $300. The amount withheld from her wage is the difference between her gross wage and her net wage.
+
+\[
+300 - 220 = 80
+\]
+
+Thus, the amount withheld from Sally’s wage is \boxed{80} dollars.

@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Romeo boards a train with 120 people. At the first stop, 20 more people board the train. At the second stop, 50 people descended from the train while twice that number boarded the train. If 80 more people descended at the third station, calculate the total number of people on the train at the final stop.
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the total number of people on the train after each stop.
+
+1. **Initial Boarding:**
+   - **Romeo boards the train.**
+   - **Total people on the train:** 1 (Romeo)
+
+2. **First Stop:**
+   - **20 more people board the train.**
+   - **Total people on the train:** \(1 + 20 = 21\)
+
+3. **Second Stop:**
+   - **50 people **descend** from the train.**
+   - **Twice that number (100 people) **board** the train.**
+   - **Total people on the train:** \(21 - 50 + 100 = 66\)
+
+4. **Third Stop:**
+   - **80 more people **descend** from the train.**
+   - **Total people on the train:** \(66 - 80 = -14\)
+
+**Final Answer:**
+\[
+\boxed{-14}
+\]

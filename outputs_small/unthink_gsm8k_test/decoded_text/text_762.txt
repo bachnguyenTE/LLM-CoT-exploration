@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Jayden had $70 from selling pictures he took as a hobby.  His sister Ava gave him half of her $90 allowance to help him buy a new camera that costs $200. How much more does Jayden need to buy the camera?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Jayden's Initial Amount:**
+   Jayden received \$70 from selling pictures he took as a hobby.
+
+2. **Ava's Contribution:**
+   - Ava gave Jayden half of her \$90 allowance.
+   - Half of \$90 is \(\frac{90}{2} = \$45\).
+
+3. **Total Amount Jayden Has:**
+   - Initial amount: \$70
+   - Contribution from Ava: \$45
+   - **Total:** \$70 + \$45 = \$120
+
+4. **Cost of the Camera:**
+   - The camera costs \$200.
+
+5. **Amount Jayden Still Needs:**
+   - Total amount Jayden has: \$120
+   - Amount needed: \$200 - \$120 = \$98
+
+**Final Answer:**
+\[
+\boxed{98}
+\]

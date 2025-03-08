@@ -1,0 +1,41 @@
+<｜User｜>
+Q: A trader buys some bags of wheat from a farmer at a rate of $20 per bag. If it costs $2 to transport each bag from the farm to the warehouse, and the trader made a total profit of $400 after selling all the bags at a rate of $30 each, how many bags did he sell?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many bags the trader sold.
+
+1. **Cost Price per Bag:**
+   - The trader buys each bag of wheat for \$20.
+
+2. **Transportation Cost:**
+   - It costs an additional \$2 to transport each bag from the farm to the warehouse.
+   - **Total Cost per Bag:** 
+     \[
+     \$20 \text{ (buying)} + \$2 \text{ (transportation)} = \$40 \text{ per bag}
+     \]
+
+3. **Selling Price per Bag:**
+   - The trader sells each bag for \$30.
+
+4. **Profit per Bag:**
+   - **Profit per Bag:** 
+     \[
+     \$30 \text{ (selling price)} - \$40 \text{ (total cost)} = -\$10
+     \]
+     (This indicates a loss of \$1 per bag.)
+
+5. **Total Profit:**
+   - The trader made a total profit of \$400 after selling all the bags.
+
+6. **Calculating the Number of Bags Sold:**
+   - Since the trader incurred a loss of \$1 per bag, the total loss can be used to determine the number of bags sold.
+   - **Number of Bags Sold:** 
+     \[
+     \frac{\text{Total Loss}}{\text{Loss per Bag}} = \frac{\$400}{\$1} = 400 \text{ bags}
+     \]
+
+**Final Answer:**
+\[
+\boxed{400}
+\]

@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Christina is planning a birthday party and needs .75 gift bags per invited guest, because 1/4 of attendees don't show up. She invited 16 friends. Gift bags are $2 each. How much will she spend?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the number of attendees:**
+   - Christina invited **16 friends**.
+   - **1/4** of the attendees don't show up, so:
+     \[
+     \text{Number of attendees} = 16 - \left(\frac{1}{4} \times 16\right) = 16 - 4 = 12
+     \]
+
+2. **Calculate the number of gift bags needed:**
+   - Christina needs **0.75** gift bags per invited guest.
+   - Total gift bags needed:
+     \[
+     12 \times 0.75 = 9
+     \]
+
+3. **Calculate the total cost for gift bags:**
+   - Each gift bag costs **\$2**.
+   - Total cost:
+     \[
+     9 \times \$2 = \$18
+     \]
+
+**Final Answer:**
+\[
+\boxed{\$18}
+\]

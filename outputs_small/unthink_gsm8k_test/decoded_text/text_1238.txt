@@ -1,0 +1,35 @@
+<｜User｜>
+Q: Bud makes homemade macaroni and cheese once a week.  The pasta costs $1.00 a box, and he spends $3.00 on cheddar cheese and twice that amount for the gruyere cheese.  How much money does Bud spend on making macaroni and cheese in one year?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down Bud's expenses for making macaroni and cheese in a year.
+
+1. **Pasta Cost:**
+   - Bud buys 1 box of pasta per week.
+   - **Cost per box:** \$1.00
+   - **Weekly pasta cost:** \$1.00
+   - **Annual pasta cost:** 52 weeks × \$1.00 = **\$52.00**
+
+2. **Cheddar Cheese Cost:**
+   - Bud spends **\$3.00** on cheddar cheese.
+   - **Cheddar cost:** \$3.00
+   - **Annual cheddar cost:** \$3.00 (since he buys it once a week)
+
+3. **Gruyere Cheese Cost:**
+   - Bud spends **twice the amount** on gruyere cheese compared to cheddar.
+   - **Gruyere cost:** 2 × \$3.00 = **\$6.00**
+   - **Annual gruyere cost:** \$6.00
+
+4. **Total Annual Cost:**
+   - **Pasta:** \$52.00
+   - **Cheddar:** \$3.00
+   - **Gruyere:** \$6.00
+   - **Total:** \$52.00 + \$3.00 + \$6.00 = **\$61.50**
+
+**Final Answer:**
+\[
+\boxed{61.50}
+\]

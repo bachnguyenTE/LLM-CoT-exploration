@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Royce takes 40 minutes more than double Rob to shingle a house. If Rob takes 2 hours, how many minutes does Royce take?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Rob takes **2 hours** to shingle a house.
+- Royce takes **40 minutes more than double** the time Rob takes.
+
+**Step 1: Convert Rob's time to minutes.**
+- Rob takes **2 hours**.
+- Since 1 hour = 60 minutes, Rob takes \(2 \times 60 = 120\) minutes.
+
+**Step 2: Calculate double the time Rob takes.**
+- Double of 120 minutes = \(2 \times 120 = 240\) minutes.
+
+**Step 3: Add 40 minutes to double the time.**
+- Royce's time = \(240 + 40 = 284\) minutes.
+
+**Final Answer:**
+\[
+\boxed{284}
+\]

@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Ashley's pizza delivery costs $15. What is the total amount that Ashley should give the delivery man if she wants to give a tip that is equal to 1/5 of the amount she ordered?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the total amount Ashley should give the delivery man, we need to calculate the tip and add it to the original cost of the pizza.
+
+1. **Calculate the Tip:**
+   \[
+   \text{Tip} = \frac{1}{5} \times \$15 = \$3
+   \]
+
+2. **Add the Tip to the Original Cost:**
+   \[
+   \text{Total Amount} = \$15 + \$3 = \$18
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$18}
+\]

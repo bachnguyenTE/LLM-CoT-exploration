@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Paul needs 63 cupcakes for a birthday party happening on Saturday. He already has 8 chocolate cupcakes and 40 toffee cupcakes. How many more cupcakes should Paul buy?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Paul needs a total of **63 cupcakes** for his birthday party. He already has:
+
+- **8 chocolate cupcakes**
+- **40 toffee cupcakes**
+
+To find out how many more cupcakes Paul needs to buy, follow these steps:
+
+1. **Calculate the total number of cupcakes Paul already has:**
+   
+   \[
+   8 \text{ (chocolate)} + 40 \text{ (toffee)} = 52 \text{ cupcakes}
+   \]
+
+2. **Subtract the number of cupcakes Paul already has from the total needed:**
+   
+   \[
+   63 \text{ (total needed)} - 52 \text{ (already has)} = 11 \text{ cupcakes}
+   \]
+
+**Final Answer:**
+
+Paul needs to buy **11 more cupcakes**.
+
+\[
+\boxed{11}
+\]

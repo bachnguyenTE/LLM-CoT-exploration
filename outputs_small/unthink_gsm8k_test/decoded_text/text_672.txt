@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Christina records her mood every day on a calendar. Over the past thirty days of moods, she had twelve good days and eight bad days and the rest were neutral. Her first eight days were good, her second eight days were bad, and her third eight days were neutral. If the next three days were good, neutral, and good, how many good days were left in the month?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many good days Christina had left in the month, let's break down the information step by step.
+
+1. **Total Days in the Month:** 30 days.
+
+2. **Initial Information:**
+   - **Good Days:** 12
+   - **Bad Days:** 8
+   - **Neutral Days:** 30 - 12 - 8 = 10
+
+3. **First Eight Days:** Good days.
+   - **Good Days Used:** 8
+   - **Remaining Good Days:** 12 - 8 = 4
+
+4. **Next Eight Days:** Bad days.
+   - **Bad Days Used:** 8
+   - **Remaining Bad Days:** 8 - 8 = 0
+
+5. **Next Eight Days:** Neutral days.
+   - **Neutral Days Used:** 8
+   - **Remaining Neutral Days:** 10 - 8 = 2
+
+6. **Next Three Days:** Good, Neutral, Good.
+   - **Good Days Used:** 2
+   - **Remaining Good Days:** 4 - 2 = 2
+
+**Final Answer:** \(\boxed{2}\)

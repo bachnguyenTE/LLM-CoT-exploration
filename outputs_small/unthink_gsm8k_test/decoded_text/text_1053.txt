@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Alison qualified for a spot on the running team, so she went shopping for some athletic gear. She bought a tank top for $10, a pair of running shorts for $5 more than the top cost, and a pair of tennis shoes that were originally $48 but were on sale for half price. She had a coupon for $2 off the package of $8 athletic socks that she also bought. How much did she spend on athletic gear?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how much Alison spent on her athletic gear.
+
+1. **Tank Top:**
+   - **Cost:** \$10
+
+2. **Running Shorts:**
+   - The shorts cost \$5 more than the tank top.
+   - **Cost:** \$10 + \$5 = **\$15**
+
+3. **Tennis Shoes:**
+   - The shoes were originally \$48 but were on sale for half price.
+   - **Original Price:** \$48
+   - **Sale Price:** \$48 / 2 = **\$24**
+
+4. **Athletic Socks:**
+   - Alison bought a package of athletic socks that originally cost \$8, with a coupon for \$2 off.
+   - **Original Price of Socks:** \$8
+   - **Coupon:** -\$2
+   - **Total Cost for Socks:** \$8 - \$2 = **\$6**
+
+5. **Total Cost:**
+   - **Tank Top:** \$10
+   - **Running Shorts:** \$15
+   - **Tennis Shoes:** \$24
+   - **Athletic Socks:** \$6
+   - **Total:** \$10 + \$15 + \$24 + \$6 = **\$55**
+
+**Final Answer:** \(\boxed{55}\)

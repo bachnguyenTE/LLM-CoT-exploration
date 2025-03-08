@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Two candidates are running for class representative at Sarai's school. If the winner got 3/4 of the votes and the total number of students who voted in the class was 80, calculate the number of votes the loser got.
+A:<｜Assistant｜><think>
+</think>
+
+To determine the number of votes the loser received, follow these steps:
+
+1. **Total Number of Votes:**
+   \[
+   \text{Total Votes} = 80
+   \]
+
+2. **Votes Received by the Winner:**
+   \[
+   \text{Winner's Votes} = \frac{3}{4} \times 80 = 66
+   \]
+
+3. **Votes Received by the Loser:**
+   \[
+   \text{Loser's Votes} = \text{Total Votes} - \text{Winner's Votes} = 88 - 66 = 22
+   \]
+
+**Final Answer:**
+\[
+\boxed{22}
+\]

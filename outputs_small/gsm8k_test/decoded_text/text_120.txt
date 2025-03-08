@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Miguel uses 2 pads of paper a week for his drawing. If there are 30 sheets of paper on a pad of paper, how many sheets of paper does he use every month?
+A:<｜Assistant｜><think>
+First, I need to determine how many sheets of paper Miguel uses in a week. He uses 2 pads of paper each week, and each pad contains 30 sheets. So, I'll multiply 2 by 30 to find the weekly usage.
+
+Next, to find out how many sheets he uses in a month, I'll multiply the weekly usage by the number of weeks in a month. Typically, there are 4 weeks in a month, so I'll multiply the weekly sheets by 4.
+
+Finally, I'll calculate the total monthly usage by performing the multiplication.
+</think>
+
+**Solution:**
+
+Miguel uses **2 pads** of paper per week. Each pad contains **30 sheets** of paper.
+
+1. **Calculate weekly usage:**
+   \[
+   2 \text{ pads/week} \times 30 \text{ sheets/pad} = 60 \text{ sheets/week}
+   \]
+
+2. **Calculate monthly usage:**
+   \[
+   60 \text{ sheets/week} \times 4 \text{ weeks/month} = 240 \text{ sheets/month}
+   \]
+
+**Final Answer:**
+\[
+\boxed{240}
+\]

@@ -1,0 +1,50 @@
+<｜User｜>
+Q: Twenty dozen cups cost $1200 less than the total cost of half a dozen plates sold at $6000 each. Calculate the total cost of buying each cup.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Understanding the Problem:**
+   - We need to find the total cost of buying each cup.
+   - The problem states: "Twenty dozen cups cost \$1200 less than the total cost of half a dozen plates sold at \$6000 each."
+
+2. **Defining Variables:**
+   - Let \( C \) be the cost of one cup.
+   - Let \( P \) be the cost of one plate.
+
+3. **Calculating the Total Cost of Plates:**
+   - Half a dozen plates = 6 plates.
+   - Cost per plate = \$6000.
+   - Total cost for 6 plates = \( 6 \times 6000 = 36000 \) dollars.
+
+4. **Calculating the Total Cost of Cups:**
+   - Twenty dozen cups = 240 cups.
+   - Total cost for 240 cups = \( 240 \times C \).
+
+5. **Setting Up the Equation:**
+   - According to the problem:
+     \[
+     \text{Total cost of cups} = \text{Total cost of plates} - 1200
+     \]
+     \[
+     240C = 36000 - 1200
+     \]
+     \[
+     240C = 34800
+     \]
+
+6. **Solving for \( C \):**
+   \[
+   C = \frac{34800}{240} = 144.5
+   \]
+
+7. **Conclusion:**
+   - The total cost of buying each cup is **\$144.50**.
+
+**Final Answer:**
+\[
+\boxed{144.50}
+\]

@@ -1,0 +1,48 @@
+<｜User｜>
+Q: Nick had twice as many candies as George. Then George ate 5 candies. Now George has 3 candies left. How many candies does Nick have?
+A:<｜Assistant｜><think>
+First, let's determine how many candies George had initially. Since George ate 5 candies and now has 3 left, George originally had 8 candies.
+
+Next, since Nick had twice as many candies as George, we can calculate Nick's candies by multiplying George's initial amount by 2. Therefore, Nick had 16 candies.
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Nick had twice as many candies as George.
+- George ate 5 candies, and now he has 3 candies left.
+
+**Let’s denote:**
+- \( G \) = number of candies George had initially.
+- \( N \) = number of candies Nick had initially.
+
+**Step 1: Determine George's initial candies.**
+
+George ate 5 candies and has 3 left:
+\[
+G - 5 = 3
+\]
+\[
+G = 3 + 5
+\]
+\[
+G = 8
+\]
+
+**Step 2: Determine Nick's initial candies.**
+
+Nick had twice as many candies as George:
+\[
+N = 2 \times G
+\]
+\[
+N = 2 \times 8
+\]
+\[
+N = 16
+\]
+
+**Final Answer:**
+\[
+\boxed{16}
+\]

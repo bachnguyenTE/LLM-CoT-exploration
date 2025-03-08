@@ -1,0 +1,40 @@
+<｜User｜>
+Q: A company's HR hires 20 new employees every month to add to its total workforce. If the company's initial employee number is 200, and each employee is paid a $4000 salary per month, calculate the total amount of money the company pays to its employees after three months?
+A:<｜Assistant｜><think>
+First, I need to determine the total number of employees after three months. The company starts with 200 employees and adds 20 new employees each month. Over three months, the total number of employees will be 200 + (20 × 3) = 302 employees.
+
+Next, I'll calculate the total monthly salary paid to all employees. Each employee is paid $4000 per month, so the total monthly salary is 302 × 4000 = $1,288,000.
+
+Finally, to find the total salary paid over three months, I'll multiply the monthly salary by 3. This gives 1,288,000 × 3 = $3,864,000.
+</think>
+
+**Solution:**
+
+1. **Calculate the total number of employees after three months:**
+
+   - **Initial number of employees:** 200
+   - **Number of employees added each month:** 20
+   - **Total number of employees after 3 months:**
+     \[
+     220 + (20 \times 3) = 220 + 60 = 286
+     \]
+
+2. **Calculate the total monthly salary paid to all employees:**
+
+   - **Salary per employee per month:** \$4000
+   - **Total monthly salary:**
+     \[
+     286 \times 4000 = 1,144,000
+     \]
+
+3. **Calculate the total salary paid over three months:**
+
+   - **Total salary over 3 months:**
+     \[
+     1,144,000 \times 3 = 3,432,000
+     \]
+
+**Final Answer:**
+\[
+\boxed{3,\!432,\!000}
+\]

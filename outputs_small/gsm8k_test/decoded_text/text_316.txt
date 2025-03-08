@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Solomon bought 20 marbles from his friend Johanna and added them to a store that had 50. If his father also gave him 2/5 times as many marbles as he bought from Johanna, and each marble weighs 2kgs, calculate the total weight of marbles Solomon has in the store.
+A:<｜Assistant｜><think>
+Okay, so I need to figure out the total weight of marbles Solomon has in the store. Let me break down the problem step by step.
+
+First, Solomon bought 20 marbles from his friend Johanna. The store initially had 50 marbles. So, before any additional marbles, the total number of marbles in the store would be 50 plus 20. Let me write that down:
+
+Store marbles initially = 50 + 20 = 72 marbles.
+
+Wait, hold on, that doesn't seem right. If the store had 50 marbles and Solomon bought 20 more, then the total should be 50 + 20, which is indeed 72. Hmm, okay, that seems correct.
+
+Next, his father gave him 2/5 times as many marbles as he bought from Johanna. So, he bought 20 marbles, and his father gave him 2/5 of that. Let me calculate how many marbles that is.
+
+Father's marbles = (2/5) * 20.
+
+Let me compute that: 2 divided by 5 is 0.4, and 0.4 multiplied by 20 is 8.8. Wait, marbles can't be in fractions, right? So, does that mean 8.8 marbles? That doesn't make sense. Maybe I should represent it as a fraction.
+
+2/5 of 20 is (2/5)*20. Let me compute that as fractions. 20 is the same as 20/1. So, 2/5 * 20/1 = (2*20)/(5*1) = 40/5. Which is 8 and 4/5 marbles. Hmm, so that's 8.8 marbles, which is 8 marbles and 0.8 of a marble. But marbles are discrete, so maybe it's 8 marbles? Or perhaps the father gave him 8 marbles, and the 0.8 is just an extra? Hmm, maybe I should consider it as 8 marbles.
+
+Wait, but 2/5 times 20 is exactly 8. So, 2/5 of 20 is 8. So, the father gave him 8 marbles. So, that's 8 marbles.
+
+So, now, the total number of marbles in the store is the initial 50 plus the 20 he bought plus the 8 his father gave him.
+
+Total marbles = 50 + 20 +8 = 78 marbles.
+
+Wait, but let me double-check that. 50 +20 is 70, plus 8 is 78. That seems correct.
+
+Now, each marble weighs 2 kilograms. So, the total weight is the number of marbles multiplied by 2 kg.
+
+Total weight = 78 marbles * 2 kg/marble = 156 kg.
+
+Wait, that seems really heavy. 156 kilograms of marbles? That's like over 350 pounds. That's a lot. Let me see if I did everything correctly.
+
+First, store had 50 marbles. Solomon bought 20, so 50 +20 =70 marbles. Then, father gave him 2/5 times 20, which is 8 marbles. So, 70 +8=78 marbles. Each marble is 2kg, so 78*2=156kg. Hmm, that seems correct.
+
+Wait, but 2/5 times 20 is 8.4? Wait, no, 2/5 of 20 is 8.8? Wait, no, 2/5 of 20 is 8.8? Wait, no, 2/5 of 20 is 8.8? Wait, 2/5 of 20 is 8.8? Wait, 20 divided by 5 is 4, times 2 is 8. So, 2/5 of 20 is 8. So, 8 marbles.
+
+Wait, but 2/5 of 20 is 8. So, 8 marbles. So, 50 +20 +8=78 marbles? Wait, 50 +20 is 70, plus 8 is 78 marbles. 78 marbles times 2kg is 156kg. Hmm, that seems correct.
+
+Wait, but 2/5 times 20 is 8. So, 8 marbles. So, 50 +20 +8=78 marbles. 78

@@ -1,0 +1,41 @@
+<｜User｜>
+Q: A football team played 22 games. They won 8 more than they lost. How many did they win?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+A football team played 22 games. They won 8 more than they lost. How many did they win?
+
+**Solution:**
+
+1. **Define Variables:**
+   - Let \( L \) represent the number of games lost.
+   - Since the team won 8 more games than they lost, the number of games won is \( L + 8 \).
+
+2. **Set Up the Equation:**
+   - The total number of games played is the sum of games won and games lost.
+   \[
+   L + (L + 8) = 22
+   \]
+
+3. **Simplify and Solve for \( L \):**
+   \[
+   L + L + 8 = 22 \\
+   2L + 8 = 22 \\
+   2L = 22 - 8 \\
+   2L = 14 \\
+   L = \frac{14}{2} \\
+   L = 7
+   \]
+
+4. **Find the Number of Games Won:**
+   \[
+   \text{Games Won} = L + 8 = 7 + 8 = 15
+   \]
+
+**Final Answer:**
+\[
+\boxed{15}
+\]

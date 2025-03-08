@@ -1,0 +1,36 @@
+<｜User｜>
+Q: A bird decides to leave her summer home in the north and travel to her winter home in the south.  To make the journey, the bird leaves her home flying in a southerly direction for 10 hours at a speed of 30 miles per hour.  Then, the bird turns direction and flies towards the north for 2 hours are a speed of 18 miles per hour.  Finally, the bird changes direction and flies toward the south for 5 hours at a speed of 22 miles per hour before landing at her southern home.  What is the distance, in miles, between the bird's northern and the southern homes?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the distance between the bird's northern and southern homes, let's break down the bird's journey into three parts and calculate the total displacement.
+
+1. **First Leg:**
+   - **Direction:** South
+   - **Time:** 10 hours
+   - **Speed:** 30 miles per hour
+   - **Distance:** \( 10 \text{ hours} \times 30 \text{ mph} = 300 \text{ miles} \)
+   
+2. **Second Leg:**
+   - **Direction:** North
+   - **Time:** 2 hours
+   - **Speed:** 18 miles per hour
+   - **Distance:** \( 2 \text{ hours} \times 18 \text{ mph} = 36 \text{ miles} \)
+   
+3. **Third Leg:**
+   - **Direction:** South
+   - **Time:** 5 hours
+   - **Speed:** 22 miles per hour
+   - **Distance:** \( 5 \text{ hours} \times 22 \text{ mph} = 110 \text{ miles} \)
+
+**Total Displacement:**
+- The bird first flew 330 miles south, then 36 miles north, and finally 110 miles south.
+- To find the net displacement, add the southward distances and subtract the northward distance:
+  \[
+  330 \text{ miles} + 110 \text{ miles} - 36 \text{ miles} = 404 \text{ miles}
+  \]
+
+**Final Answer:**
+\[
+\boxed{404}
+\]

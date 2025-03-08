@@ -1,0 +1,53 @@
+<｜User｜>
+Q: John drives to his friend's house 200 miles away.  He drives at a speed of 70 mph.  He had to take a detour that added 10 miles to his trip.  After he gets there he takes a route home that is 240 miles but he goes 80 mph.  How long did the trip take?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Going to John's Friend's House:**
+   - **Distance:** 200 miles
+   - **Speed:** 70 mph
+   - **Time:** \( \frac{200 \text{ miles}}{70 \text{ mph}} \)
+
+2. **Taking a Detour:**
+   - **Added Distance:** 10 miles
+   - **New Distance:** 200 + 10 = 210 miles
+   - **Time:** \( \frac{210 \text{ miles}}{70 \text{ mph}} \)
+
+3. **Returning Home:**
+   - **Distance:** 240 miles
+   - **Speed:** 80 mph
+   - **Time:** \( \frac{240 \text{ miles}}{80 \text{ mph}} \)
+
+4. **Total Time:**
+   - Sum all the individual times.
+
+**Calculations:**
+
+1. **Going to Friend:**
+   \[
+   \frac{200}{70} \approx 2.857 \text{ hours}
+   \]
+
+2. **With Detour:**
+   \[
+   \frac{210}{70} = 1.5 \text{ hours}
+   \]
+
+3. **Returning Home:**
+   \[
+   \frac{240}{80} = 3 \text{ hours}
+   \]
+
+4. **Total Time:**
+   \[
+   2.857 + 1.5 + 3 = 7.357 \text{ hours}
+   \]
+
+**Final Answer:**
+\[
+\boxed{7.36 \text{ hours}}
+\]

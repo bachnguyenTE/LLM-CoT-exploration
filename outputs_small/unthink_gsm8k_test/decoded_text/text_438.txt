@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Antoine's french onion soup recipe calls for 2 pounds of onions. He likes to double that amount. His soup serves 6 people. The onions are currently on sale for $2.00 a pound. He also needs 2 boxes of beef stock, that are also on sale for $2.00 a box.  What is the cost per serving? (Round to the nearest integer.)
+A:<｜Assistant｜><think>
+</think>
+
+To determine the cost per serving of Antoine's french onion soup, let's break down the problem step by step.
+
+### **1. Calculate the Total Amount of Onions Needed**
+- **Original recipe:** 2 pounds of onions.
+- ** doubled:** \( 2 \times 2 = 4 \) pounds of onions.
+
+### **2. Calculate the Total Cost of Onions**
+- **Onions on sale:** \$2.00 per pound.
+- **Total cost for onions:** \( 4 \times \$2.00 = \$8.00 \).
+
+### **3. Calculate the Total Cost of Beef Stock**
+- **Beef stock needed:** 2 boxes.
+- **Beef stock on sale:** \$2.00 per box.
+- **Total cost for beef stock:** \( 2 \times \$2.00 = \$4.00 \).
+
+### **4. Calculate the Total Cost of Ingredients**
+- **Total cost:** \( \$8.00 + \$4.00 = \$12.00 \).
+
+### **5. Calculate the Number of servings**
+- **Number of servings:** 6 people.
+
+### **6. Calculate the Cost per Serving**
+- **Cost per serving:** \( \frac{\$12.00}{6} = \$2.00 \).
+
+### **Final Answer**
+\[
+\boxed{2}
+\]

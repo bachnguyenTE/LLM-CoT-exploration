@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Tim decides to cancel his cable subscription and get streaming services.  He gets Netflix for $10 a month.  Hulu and Disney Plus normally cost $10 a month each but he saves 20% for bundling.  How much money does he save by cancelling his $60 cable package?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Cable Subscription Cost:**
+   - Tim has a cable subscription that costs \$60 per month.
+
+2. **Subscription Services:**
+   - Netflix: \$10/month
+   - Hulu: \$10/month
+   - Disney Plus: \$10/month
+
+3. **Total Cost Without Bundling:**
+   - Netflix + Hulu + Disney Plus = \$10 + \$10 + \$10 = **\$30/month**
+
+4. **Savings by Bundling:**
+   - ** Netflix + Hulu:** \$10 + \$10 = **\$10/month**
+   - **Disney Plus:** \$10/month
+   - **Total Savings:** \$10 + \$10 = **\$20/month**
+
+5. **Total Savings Over a Month:**
+   - **Savings:** \$20
+
+6. **Total Savings Over a Year:**
+   - **Savings:** \$20/month × 12 months = **\$240**
+
+**Final Answer:**
+\boxed{240}

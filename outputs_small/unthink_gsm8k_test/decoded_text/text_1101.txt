@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Amber, Micah, and Ahito ran 52 miles in total. Amber ran 8 miles. Micah ran 3.5 times what Amber ran. How many miles did Ahito run?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Distance Run by All Three:**
+   - Amber, Micah, and Ahito together ran **52 miles**.
+
+2. **Distance Run by Amber:**
+   - Amber ran **8 miles**.
+
+3. **Distance Run by Micah:**
+   - Micah ran **3.5 times** what Amber ran.
+   - **Micah's distance = 3.5 × Amber's distance**
+   - **Micah's distance = 3.5 × 8 miles**
+   - **Micah's distance = 28 miles**
+
+4. **Total Distance Run by Amber and Micah:**
+   - **Total = Amber's distance + Micah's distance**
+   - **Total = 8 miles + 28 miles**
+   - **Total = 36 miles**
+
+5. **Distance Run by Ahito:**
+   - **Total distance run by all three = 52 miles**
+   - **Distance run by Ahito = Total distance - (Amber's distance + Micah's distance)**
+   - **Distance run by Ahito = 52 miles - 36 miles**
+   - **Distance run by Ahito = 16 miles**
+
+**Final Answer:**
+\boxed{16}

@@ -1,0 +1,48 @@
+<｜User｜>
+Q: Three teenagers are playing soccer on the weekend. Richie, the first teenager, scored 20 more goals than Mark and scored 45 more goals than Anna. If Richie scored 80 goals, how many goals did all three teenagers score?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Richie's Goals:**
+   - Richie scored **80 goals**.
+
+2. **Mark's Goals:**
+   - Richie scored **20 more goals** than Mark.
+   - Let Mark's goals be \( M \).
+   - According to the problem: 
+     \[
+     80 = M + 20
+     \]
+   - Solving for \( M \):
+     \[
+     M = 80 - 20 = 68
+     \]
+   - Mark scored **68 goals**.
+
+3. **Anna's Goals:**
+   - Richie scored **45 more goals** than Anna.
+   - Let Anna's goals be \( A \).
+   - According to the problem:
+     \[
+     80 = A + 45
+     \]
+   - Solving for \( A \):
+     \[
+     A = 88 - 45 = 43
+     \]
+   - Anna scored **43 goals**.
+
+4. **Total Goals:**
+   - Now, let's add up all the goals scored by the three teenagers:
+     \[
+     \text{Richie} + \text{Mark} + \text{Anna} = 80 + 68 + 43 = 199
+     \]
+
+**Final Answer:**
+\[
+\boxed{199}
+\]

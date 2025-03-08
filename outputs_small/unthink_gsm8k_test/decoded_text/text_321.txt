@@ -1,0 +1,28 @@
+<｜User｜>
+Q: A magazine costs half as much as a book. The book costs $4. A pen costs $1 less than a magazine. How much is the pen?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+1. **Cost of the Book:**
+   - The book costs **\$4**.
+
+2. **Cost of the Magazine:**
+   - The magazine costs **half** as much as the book.
+   - Calculation: 
+     \[
+     \text{Cost of Magazine} = \frac{1}{2} \times \text{Cost of Book} = \frac{1}{2} \times 4 = \$2
+     \]
+
+3. **Cost of the Pen:**
+   - The pen costs **\$1** less than the magazine.
+   - Calculation:
+     \[
+     \text{Cost of Pen} = \text{Cost of Magazine} - \$1 = 2 - 1 = \$1
+     \]
+
+**Final Answer:**
+\[
+\boxed{\$1}
+\]

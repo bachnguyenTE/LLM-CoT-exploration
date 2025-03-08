@@ -1,0 +1,50 @@
+<｜User｜>
+Q: Peter has 4 boxes with the same number of chocolate bars in each, while Martha has 7 boxes with the same number of chocolate bars in each. If Peter and Martha have totals of 64 and 56 chocolate bars respectively, how many more chocolate bars does Peter have in each box than Martha?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Peter and Martha and their chocolate bars. Let me try to figure it out step by step. 
+
+First, the problem says Peter has 4 boxes, and each box has the same number of chocolate bars. Similarly, Martha has 7 boxes, each with the same number of chocolate bars. The totals they have are 64 for Peter and 56 for Martha. The question is asking how many more chocolate bars Peter has in each box compared to Martha.
+
+Hmm, okay. So, let me break this down. I think I need to find out how many chocolate bars are in each of Peter's boxes and how many are in each of Martha's boxes, and then find the difference between those two numbers.
+
+Let me denote the number of chocolate bars in each of Peter's boxes as P and in each of Martha's boxes as M. So, Peter has 4 boxes, each with P bars, so his total is 4P. Similarly, Martha has 7 boxes, each with M bars, so her total is 7M.
+
+According to the problem, Peter's total is 64, so 4P = 64. Martha's total is 56, so 7M =56. I need to solve for P and M.
+
+Let me start with Peter. If 4P =64, then to find P, I can divide both sides by 4. So, P =64 /4. Let me calculate that. 64 divided by 4 is 16. So, Peter has 16 chocolate bars in each box.
+
+Now, moving on to Martha. Her total is 56, and she has 7 boxes. So, 7M =56. To find M, I need to divide both sides by 7. So, M =56 /7. Wait, that seems right. 56 divided by 7 is... let me do the division. 7 goes into 56 seven times, which is 49, with a remainder of 7. So, 56 /7 is 8 with a remainder of 2, which is 8 and 2/7. So, M is 8 and 2/7.
+
+Wait, that seems right. So, each of Martha's boxes has 8 and 2/7 chocolate bars. But, that seems right. So, now, Peter has 16 chocolate bars per box, and Martha has 8 and 2/7 per box.
+
+So, the question is asking how many more chocolate bars does Peter have in each box than Martha. So, I need to subtract M from P.
+
+So, 16 - 8 and 2/7. Let me compute that. 16 is the same as 15 and 7/7. So, 15 and 7/7 minus 8 and 2/7. Subtracting the whole numbers: 15 -8 is 7. Subtracting the fractions: 7/7 -2/7 is 5/7. So, the result is 7 and 5/7.
+
+So, Peter has 7 and 5/7 more chocolate bars in each box than Martha.
+
+Wait, that seems right. Let me double-check my calculations.
+
+First, Peter: 4 boxes, 64 total. 64 divided by 4 is indeed 16. So, P=16.
+
+Martha: 7 boxes, 56 total. 56 divided by 7 is 8.2857... which is 8 and 2/7. So, M=8 and 2/7.
+
+Difference: 16 -8 and 2/7. 16 is 15 and 7/7. 15 and 7/7 minus 8 and 2/7 is 7 and 5/7. So, yes, that's correct.
+
+Wait, that seems right. So, Peter has 7 and 5/7 more chocolate bars per box than Martha.
+
+But, that seems right. Let me think if there's another way to approach this problem.
+
+Alternatively, maybe I can set up equations and solve them algebraically.
+
+Let me denote P as the number of chocolate bars in each of Peter's boxes, and M as the number in each of Martha's boxes.
+
+Given that Peter has 4 boxes, so total is 4P =64, so P=16.
+
+Martha has 7 boxes, so 7M=56, so M=56/7.
+
+Difference is P - M =16 -56/7.
+
+Convert 16 to 7ths: 16=112/7.
+
+So, 112/7 -5/7=107/7=107/

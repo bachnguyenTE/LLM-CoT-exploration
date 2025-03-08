@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Elise has been selling her Dad's collection of 250 books for three years. Each book sells at 20$, and she sold twice as many books in the first year as she has sold in the current year. There are currently 50 unsold books, and her sales number this year is 45. What's the total amount of money she earned in the second year?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Elise selling her Dad's collection of 250 books. She's been selling them for three years now. Each book sells for $20, and she sold twice as many books in the first year as she has sold in the current year. There are currently 50 unsold books, and her sales number this year is 45. The question is asking for the total amount of money she earned in the second year.
+
+Hmm, let me try to break this down step by step. First, let's figure out how many books she sold each year. The problem says she sold twice as many in the first year as she has sold in the current year. So, if I let the number of books sold this year be, say, x, then the first year would be 2x.
+
+But, that seems right. So, if she sold x this year, then the first year she sold 2x. Now, the problem also mentions that there are currently 50 unsold books, and her sales number this year is 45. Wait, that seems right. So, if she sold 45 books this year, then the first year she sold 2 times that, which is 90 books.
+
+So, let me write that down:
+
+- This year: 45 books sold.
+- First year: 2 * 45 = 90 books sold.
+
+So, in total, over the three years, she sold 45 + 90 + something. Wait, that seems right. But, that seems right. Wait, that seems right. So, the total number of books she has is 250. So, if she has 50 unsold books now, that means she has sold 250 - 50 = 200 books in total.
+
+Wait, that seems right. So, 200 books sold in total over three years. So, if she sold 45 this year, and 90 the first year, then the second year must be 200 - 45 -90 = 65 books sold in the second year.
+
+Wait, that seems right. So, 45 + 90 + 65 = 200. So, that adds up. So, in the second year, she sold 65 books.
+
+But, that seems right. So, each book is sold for $20, so the total amount earned in the second year would be 65 * 20.
+
+Let me compute that. 65 * 20. 60*20 is 1200, and 5*20 is 100, so 1200 + 100 is 1300. So, $1300.
+
+Wait, that seems right. So, the total amount earned in the second year is $1300.
+
+But, that seems right. Let me double-check.
+
+So, total books sold: 45 (this year) + 90 (first year) + 65 (second year) = 200. 250 total books, 50 unsold, so that's correct.
+
+Each book is $20, so 200 * 20 is 4000. So, total earnings over three years are $4000.
+
+But, that seems right. So, if I break it down, first year: 90 *20 = 1890, second year: 65*20=1300, third year:45*20=900. So, 1890 + 1300 is 3190, plus 900 is 4000. So, that adds up.
+
+So, the second year's earnings are 1300.
+
+Wait, that seems right. So, the answer is $1300.
+
+Wait, that seems right. So, I think that's the answer.
+
+But, that seems right. So, I think I did it correctly.
+
+**Final Answer**
+The total amount of money Elise earned in the second year is \boxed{1300}.
+</think>
+
+Elise has been selling her Dad's collection of 250 books for three years. Each book sells for $20. She sold twice as many books in the first year as she sold in the current year. There are currently 50 unsold books, and her sales number this year is 45.
+
+To find the total amount of money she earned in the second year, we start by determining the number of books sold each year. Let \( x \) be the number of books sold this year. Then, the number of books sold in the

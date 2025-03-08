@@ -1,0 +1,20 @@
+<｜User｜>
+Q: After tracking his workout routine for 8 weeks, Josh discovered that he had spent 4 hours working out every week except on some occasions. At one point, he spent 5 hours each for two consecutive weeks. Another time, he spent 6 hours in one week. What is the total number of hours he has spent working out across the 8 weeks?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total number of hours Josh spent working out over the 8 weeks, let's break down the information provided:
+
+1. **Average Hours per Week:** Josh spent **4 hours** working out every week except on two occasions.
+   
+2. **Exceptional Weeks:**
+   - **Week 1:** 5 hours
+   - **Week 2:** 6 hours
+
+3. **Total Hours Calculation:**
+   
+   - **Average:** 4 hours/week × 8 weeks = **32 hours**
+   - **Exceptional Hours:** 5 + 6 = **11 hours**
+   - **Total Hours:** 32 - 11 = **21 hours**
+
+**Final Answer:** \(\boxed{21}\)

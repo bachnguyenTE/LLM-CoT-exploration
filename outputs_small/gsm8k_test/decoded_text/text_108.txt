@@ -1,0 +1,71 @@
+<｜User｜>
+Q: Henry is making cookies for a local baking competition. He wants to make twice as many as he did last year. When he finishes baking, he realizes he actually baked 15 more cookies than he meant to. He drops 5 of his cookies as he is putting them out to cool, and now has a total of 110 cookies. How many cookies did Henry bake last year?
+A:<｜Assistant｜><think>
+Okay, so I need to figure out how many cookies Henry baked last year. Let me try to break this down step by step. 
+
+First, let me read the problem again to make sure I understand all the details. 
+
+Henry is making cookies for a local baking competition. He wants to make twice as many as he did last year. But when he finishes baking, he realizes he actually baked 15 more cookies than he intended. Then, he drops 5 cookies as he's putting them out to cool, and now he has a total of 110 cookies. The question is, how many cookies did Henry bake last year?
+
+Hmm, okay. So, let's try to translate this into mathematical terms. 
+
+Let me denote the number of cookies Henry intended to bake last year as \( x \). 
+
+He wanted to make twice as many as last year, so that would be \( 2x \). But then, he realized he actually baked 15 more cookies than he intended. So, that means he baked \( 2x + 15 \) cookies in total. 
+
+Wait, hold on. Let me make sure I got that right. He intended to make twice as many as last year, which is \( 2x \). But he actually baked 15 more than that, so it's \( 2x +15 \). 
+
+Then, he drops 5 cookies, so he subtracts 5 from the total he baked. So, the total number of cookies he has now is \( (2x +15) -5 \). 
+
+Simplify that: \( 2x +15 -5 = 2x +10 \). So, he has \( 2x +10 \) cookies left. 
+
+And according to the problem, he now has 110 cookies. So, \( 2x +10 = 110 \). 
+
+Wait, let me check that again. If he baked \( 2x +15 \) cookies, and then dropped 5, so \( (2x +15) -5 = 2x +10 \). So, yes, that's correct. 
+
+So, the equation is \( 2x +10 = 110 \). 
+
+Now, let's solve for \( x \). 
+
+Subtract 10 from both sides: \( 2x = 110 -10 = 100 \). 
+
+Then, divide both sides by 2: \( x = 100 /2 = 50 \). 
+
+So, \( x = 50 \). 
+
+Therefore, Henry baked 50 cookies last year. 
+
+Wait, let me verify this because sometimes when setting up equations, it's easy to make a mistake. 
+
+So, last year, he made 50 cookies. He wanted to make twice as many, which is 100. But he actually made 15 more than that, so 100 +15 = 115 cookies. 
+
+Then, he dropped 5, so 115 -5 = 110. 
+
+Yes, that matches the problem statement. So, 50 is the correct answer. 
+
+I think that makes sense. So, Henry baked 50 cookies last year.
+
+**Final Answer**
+The number of cookies Henry baked last year is \boxed{50}.
+</think>
+
+Let \( x \) be the number of cookies Henry intended to bake last year. He wanted to make twice as many as last year, which is \( 2x \). However, he actually baked 15 more cookies than he intended, so he baked \( 2x + 15 \) cookies. 
+
+He then dropped 5 cookies, so the total number of cookies he has now is \( (2x + 15) - 5 = 2x + 10 \). According to the problem, he now has 110 cookies. Therefore, we set up the equation:
+
+\[
+2x + 10 = 110
+\]
+
+Solving for \( x \):
+
+1. Subtract 10 from both sides:
+   \[
+   2x = 100
+   \]
+2. Divide both sides by 2:
+   \[
+   x = 50
+   \]
+
+Thus, the number of cookies Henry baked last year is \(\boxed{50}\).

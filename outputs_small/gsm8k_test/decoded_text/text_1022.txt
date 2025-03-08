@@ -1,0 +1,84 @@
+<｜User｜>
+Q: Teresa sells large stuffed animals for three times the price of small stuffed animals. Today, she sold twice as many small stuffed animals as large ones and earned $120 from the sales. Each small stuffed animal costs $4. How many small stuffed animals did she sell?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Teresa selling stuffed animals. Let me try to figure it out step by step. First, let me read the problem again to make sure I understand all the details.
+
+Teresa sells large stuffed animals for three times the price of small ones. Today, she sold twice as many small stuffed animals as large ones and earned a total of $120 from the sales. Each small stuffed animal costs $4. The question is asking how many small stuffed animals she sold.
+
+Alright, let's break this down. There are two types of stuffed animals: large and small. The price of a large one is three times the price of a small one. So, if I let the price of a small stuffed animal be, say, S dollars, then the price of a large one would be 3S dollars.
+
+Today, she sold twice as many small stuffed animals as large ones. So, if the number of large ones sold is L, then the number of small ones sold is 2L. That makes sense because it says twice as many small as large.
+
+She earned a total of $120 from all the sales. Each small stuffed animal costs $4. So, the total revenue from small stuffed animals is 2L times $4, which is 8L dollars. Similarly, the revenue from large stuffed animals would be L times 3S, which is 3SL dollars.
+
+So, the total revenue is the sum of the revenue from small and large stuffed animals. That gives us the equation:
+
+8L + 3SL = 120
+
+But wait, I also know that each small stuffed animal costs $4. So, the price of a small stuffed animal is $4, which means S = 4. That's helpful because now I can substitute S with 4 in the equation.
+
+So, replacing S with 4, the equation becomes:
+
+8L + 3*4*L = 120
+
+Let me compute 3*4 first. That's 12. So, the equation simplifies to:
+
+8L + 12L = 120
+
+Now, combining like terms, 8L + 12L is 20L. So, 20L = 120.
+
+To find L, I can divide both sides by 20:
+
+L = 120 / 20
+L = 6
+
+So, she sold 6 large stuffed animals. But the question is asking how many small stuffed animals she sold. Since she sold twice as many small as large, that would be 2L.
+
+So, 2*6 = 12.
+
+Wait, hold on, that seems low. Let me double-check my calculations.
+
+Starting again, let me define variables:
+
+Let S = price of small stuffed animal
+Let L = number of large stuffed animals sold
+Then, the number of small stuffed animals sold is 2L.
+
+Total revenue from small stuffed animals is 2L * S
+Total revenue from large stuffed animals is L * 3S
+
+Total revenue is 2L*S + L*3S = 120
+
+Given that S = 4, so substituting:
+
+2L*4 + L*3*4 = 120
+8L + 12L = 120
+20L = 120
+L = 6
+
+So, L is 6, which means small stuffed animals sold are 2*6 = 12.
+
+Wait, 12 small stuffed animals? That seems low, but let me think. If she sold 6 large ones, each costing 3*4=12 dollars, so 6*12=72 dollars. And 12 small ones, each costing 4 dollars, so 12*4=48 dollars. 72+48=120, which matches the total. So, that seems correct.
+
+But 12 small stuffed animals is a lot. Maybe I made a mistake in interpreting the problem.
+
+Wait, let me read the problem again: "Today, she sold twice as many small stuffed animals as large ones and earned $120 from the sales. Each small stuffed animal costs $4."
+
+So, the key points are:
+
+1. Large stuffed animals are sold for 3 times the price of small ones.
+2. She sold twice as many small as large.
+3. Total revenue is $120.
+4. Each small stuffed animal costs $4.
+
+So, if each small is $4, then the number of small stuffed animals sold is 2L, as I had before.
+
+But let me think about the total revenue.
+
+Total revenue is 2L*price_small + L*price_large.
+
+Price_large is 3*price_small.
+
+So, substituting, we have:
+
+2L*S + L*(3S) = 12

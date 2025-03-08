@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Patrick has three glue sticks that are partially used. One has 1/6 left, the second has 2/3 left and the third one has 1/2 left. If a glue stick is 12 millimeters long originally, what is the total length of the glue sticks that are not used?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+We need to determine the total length of the unused glue sticks. Each glue stick is originally 12 millimeters long. The unused portions of each glue stick are given as fractions of the original length.
+
+1. **First Glue Stick:**
+   - **Used:** \( \frac{1}{6} \) of the original length.
+   - **Unused:** \( 1 - \frac{1}{6} = \frac{5}{6} \) of the original length.
+   - **Length of unused:** \( 12 \times \frac{5}{6} = 10 \times \frac{5}{6} = 10 \) millimeters.
+
+2. **Second Glue Stick:**
+   - **Used:** \( \frac{2}{3} \) of the original length.
+   - **Unused:** \( 1 - \frac{2}{3} = \frac{1}{3} \) of the original length.
+   - **Length of unused:** \( 12 \times \frac{1}{3} = 4 \) millimeters.
+
+3. **Third Glue Stick:**
+   - **Used:** \( \frac{1}{2} \) of the original length.
+   - **Unused:** \(1 - \frac{1}{2} = \frac{1}{2} \) of the original length.
+   - **Length of unused:** \( 12 \times \frac{1}{2} = 6 \) millimeters.
+
+4. **Total Unused Length:**
+   - Sum the unused lengths of all three glue sticks:
+   \[
+   10 \, \text{mm} + 4 \, \text{mm} + 6 \, \text{mm} = 20 \, \text{mm}
+   \]
+
+**Final Answer:**
+\[
+\boxed{20 \text{ millimeters}}
+\]

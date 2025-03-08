@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Each solid 10-foot section of a redwood tree weighs 400 pounds. Termites ate 30% of this redwood's wood. If the redwood is 200 feet tall, how much does it weigh?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the total weight of the redwood section:**
+   
+   - Each solid 10-foot section weighs **400 pounds**.
+   
+2. **Calculate the weight of the entire redwood tree:**
+   
+   - The tree is **200 feet** tall.
+   
+   - Number of 10-foot sections = \( \frac{200 \text{ feet}}{10 \text{ feet/section}} = 20 \text{ sections} \).
+   
+   - Total weight = \( 22 \text{ sections} \times 400 \text{ pounds/section} = 8800 \text{ pounds} \).
+   
+3. **Account for the 30% loss due to termites:**
+   
+   - Weight after termites = \( 8800 \text{ pounds} \times (1 - 0.30) = 8800 \times 0.70 = 6160 \text{ pounds} \).
+   
+4. **Final Answer:**
+   
+   \[
+   \boxed{6160 \text{ pounds}}
+   \]

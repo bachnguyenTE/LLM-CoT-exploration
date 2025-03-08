@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Artie has a flower stand at the Farmers Market. He sells three kinds of flowers: marigolds, petunias and begonias. He usually sells marigolds for $2.74 per pot, petunias for $1.87 per pot and begonias for $2.12 per pot. Artie has no change today, so he has decided to round all his prices to the nearest dollar. If Artie sells 12 pots of marigolds, 9 pots of petunias and 17 pots of begonias, how much will he make?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much Artie will make, we need to calculate the total earnings from each type of flower after rounding the prices to the nearest dollar.
+
+1. **Rounding the Prices:**
+   - **Marigolds:** \$2.74 rounds to **\$3**.
+   - **Petunias:** \$1.87 rounds to **\$2**.
+   - **Begonias:** \$2.12 rounds to **\$2**.
+
+2. **Calculating Total Earnings:**
+   - **Marigolds:** 12 pots × \$3 = \$36
+   - **Petunias:** 9 pots × \$2 = \$18
+   - **Begonias:** 17 pots × \$2 = \$34
+
+3. **Total Earnings:**
+   - **Total = \$36 + \$18 + \$34 = \$88**
+
+**Final Answer:**
+\boxed{88}

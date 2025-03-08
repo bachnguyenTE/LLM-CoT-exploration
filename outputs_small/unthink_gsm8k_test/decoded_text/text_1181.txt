@@ -1,0 +1,61 @@
+<｜User｜>
+Q: Wendy is five times as old as Colin will be seven years from now. In 25 years, Colin will be a third as old as Wendy is now. How old is Colin now?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Let:**
+- \( C \) = Colin's current age
+- \( W \) = Wendy's current age
+
+**Given:**
+1. Wendy is five times as old as Colin will be seven years from now.
+   \[
+   W = 5 \times (C + 7)
+   \]
+2. In 25 years, Colin will be a third as old as Wendy is now.
+   \[
+   C + 25 = \frac{1}{3}W
+   \]
+
+**Step 1:** Substitute the expression for \( W \) from the first equation into the second equation.
+
+\[
+C + 25 = \frac{1}{3}(5 \times (C + 7))
+\]
+
+**Step 2:** Simplify the equation.
+
+\[
+C + 25 = \frac{5}{3}(C + 7)
+\]
+
+**Step 3:** Multiply both sides by 3 to eliminate the fraction.
+
+\[
+3(C + 25) = 5(C + 7)
+\]
+
+\[
+3C + 75 = 5C + 35
+\]
+
+**Step 4:** Rearrange the equation to solve for \( C \).
+
+\[
+75 - 35 = 5C - 3C
+\]
+
+\[
+40 = 2C
+\]
+
+\[
+C = 20
+\]
+
+**Final Answer:**
+\[
+\boxed{20}
+\]

@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Travis had 61 apps on his tablet. He deleted 9 apps he didn't use anymore and downloaded 18 more. How many apps are on his tablet now?
+A:<｜Assistant｜><think>
+First, Travis starts with 61 apps on his tablet.
+
+He deletes 9 apps that he no longer uses, so we subtract 9 from 61, which gives 52 apps remaining.
+
+Then, he downloads 18 new apps, so we add 18 to the current number of apps, resulting in 70 apps on his tablet.
+</think>
+
+**Solution:**
+
+Travis initially has **61 apps** on his tablet.
+
+1. **Deleting Apps:**
+   - Travis deletes **9 apps** that he no longer uses.
+   - **Apples left after deletion:**  
+     \( 61 - 9 = 52 \) apps.
+
+2. **Downloading New Apps:**
+   - Travis downloads **18 new apps**.
+   - **Total apps after downloading:**  
+     \( 52 + 18 = 70 \) apps.
+
+**Final Answer:**
+\[
+\boxed{70}
+\]

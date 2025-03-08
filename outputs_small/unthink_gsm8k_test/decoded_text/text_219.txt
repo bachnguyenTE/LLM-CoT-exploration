@@ -1,0 +1,36 @@
+<｜User｜>
+Q: Four students scored a total of 251 points in a board game. Naomi scored 68 of the points. Yuri scored 10 more than half as many points as Naomi and Brianna scored 17 points more than Naomi. How many points did Jojo score?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many points Jojo scored.
+
+1. **Total Points Scored by All Students:**
+   \[
+   \text{Total} = 251 \text{ points}
+   \]
+
+2. **Naomi's Score:**
+   \[
+   \text{Naomi} = 68 \text{ points}
+   \]
+
+3. **Yuri's Score:**
+   \[
+   \text{Yuri} = \frac{1}{2} \times \text{Naomi} + 10 = \frac{1}{2} \times 68 + 10 = 34 + 10 = 44 \text{ points}
+   \]
+
+4. **Brianna's Score:**
+   \[
+   \text{Brianna} = \text{Naomi} + 17 = 68 + 17 = 85 \text{ points}
+   \]
+
+5. **Calculate Jojo's Score:**
+   \[
+   \text{Jojo} = \text{Total} - (\text{Naomi} + \text{Yuri} + \text{Brianna}) = 251 - (68 + 44 + 85) = 251 - 197 = 54 \text{ points}
+   \]
+
+**Final Answer:**
+\[
+\boxed{54}
+\]

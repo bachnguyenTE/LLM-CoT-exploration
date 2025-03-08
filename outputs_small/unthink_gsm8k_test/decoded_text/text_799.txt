@@ -1,0 +1,28 @@
+<｜User｜>
+Q: A loaf of bread at the bakery costs $2. Bagels cost $1 each. How much more do 3 loaves of bread cost than 2 bagels?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much more 3 loaves of bread cost than 2 bagels, follow these steps:
+
+1. **Calculate the cost of 3 loaves of bread:**
+   \[
+   3 \text{ loaves} \times \$2/\text{loaf} = \$6
+   \]
+
+2. **Calculate the cost of 2 bagels:**
+   \[
+   2 \text{ bagels} \times \$1/\text{bagel} = \$2
+   \]
+
+3. **Find the difference in cost:**
+   \[
+   \$6 - \$2 = \$4
+   \]
+
+**Final Answer:**
+\[
+\boxed{4}
+\]

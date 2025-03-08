@@ -1,0 +1,70 @@
+<｜User｜>
+Q: Ava and Emma want to know who is better at the new video game Ava got for her birthday. They are each going to play one level and whoever has the highest score wins. They receive 10 points for every enemy they jump on, 5 points for each berry they collect, and 30 points for every second left on the timer when they finish the level. If Ava jumps on 8 more enemies than Emma and collects 3 more berries, but finishes the level 4 seconds slower, what is the difference between their two scores?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the difference between Ava's and Emma's scores.
+
+**Given:**
+- **Points System:**
+  - 10 points for each enemy jumped on.
+  - 5 points for each berry collected.
+  - 30 points for each second left on the timer.
+- **Ava's Performance:**
+  - Jumps on **8 more enemies** than Emma.
+  - Collects **3 more berries** than Emma.
+- **Emma's Performance:**
+  - Jumps on **x enemies**.
+  - Collects **y berries**.
+  - Finishes the level **4 seconds slower**.
+
+**Let’s define variables:**
+- Let \( x \) be the number of enemies Emma jumps on.
+- Let \( y \) be the number of berries Emma collects.
+
+**Ava's Scores:**
+- **Enemies jumped on:** \( x + 8 \)
+- **Berries collected:** \( y + 3 \)
+- **Seconds left on timer:** 4 (since she finishes 4 seconds slower)
+
+**Emma's Scores:**
+- **Enemies jumped on:** \( x \)
+- **Berries collected:** \( y \)
+- **Seconds left on timer:** 0 (since she finishes faster)
+
+**Calculating Scores:**
+
+1. **Ava's Total Score:**
+   \[
+   \text{Ava's Score} = (10 \times (x + 8)) + (5 \times (y + 3)) + (30 \times 4)
+   \]
+   \[
+   = 10x + 80 + 5y + 15 + 120
+   \]
+   \[
+   = 10x + 5y + 215
+   \]
+
+2. **Emma's Total Score:**
+   \[
+   \text{Emma's Score} = (10 \times x) + (5 \times y) + (30 \times 0)
+   \]
+   \[
+   = 10x + 5y
+   \]
+
+3. **Difference in Scores:**
+   \[
+   \text{Difference} = \text{Ava's Score} - \text{Emma's Score}
+   \]
+   \[
+   = (10x + 5y + 215) - (10x + 5y)
+   \]
+   \[
+   = 215
+   \]
+
+**Final Answer:**
+\[
+\boxed{215}
+\]

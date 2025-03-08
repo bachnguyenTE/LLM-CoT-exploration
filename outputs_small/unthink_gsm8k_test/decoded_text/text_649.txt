@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Fishio posted her selfie on Instagram. She received 2000 likes on the photo after 1 week. Three weeks later, the number of likes was 70 times as many as the initial number of likes. If she received 20000 more new likes recently, how many Instagram likes are there?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Initial Number of Likes:**
+   - Let \( L \) be the initial number of Instagram likes.
+
+2. **After 1 Week:**
+   - Fishio received 2000 likes.
+   - So, after 1 week, the total likes = \( L + 2000 = 2000 \).
+
+3. **Three Weeks Later:**
+   - The number of likes was 70 times the initial number.
+   - So, after 3 weeks, the total likes = \( 70L \).
+
+4. **Recent Update:**
+   - Fishio received 20000 more new likes recently.
+   - This implies that the total likes after 3 weeks are \( 70L = L + 22000 \).
+
+5. **Solving for \( L \):**
+   \[
+   70L = L + 22000 \\
+   70L - L = 22000 \\
+   69L = 22000 \\
+   L = \frac{22000}{69} \\
+   L = 319.145 \text{ (approximately)}
+   \]
+   
+   However, since the number of likes should be a whole number, we can round it to the nearest whole number:
+   \[
+   L \approx 319
+   \]
+
+6. **Final Total Likes:**
+   - After 3 weeks, the total likes = \( 70L = 70 \times 319 = 22330 \).
+
+**Answer:** \(\boxed{22330}\)

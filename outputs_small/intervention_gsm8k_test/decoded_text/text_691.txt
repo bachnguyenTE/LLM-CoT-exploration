@@ -1,0 +1,120 @@
+<｜User｜>
+Q: John brings his dog to the vet. His dog needs 2 vaccines, which are $20 each, and a heartworm check. The heartworm check is 60% of his total bill. If he brought $125 with him, how much does he leave with?
+A:<｜Assistant｜><think>
+First, calculate the total cost of the two vaccines. Each vaccine costs $20, so 2 vaccines cost 2 multiplied by $20, which equals $40.
+
+Next, determine the cost of the heartworm check. It is given that the heartworm check is 60% of the total bill. Therefore, 60% of $40 is calculated by multiplying $40 by 06, which equals $2.40.
+
+Add the cost of the vaccines and the heartworm check to find the total bill: $40 plus $2.40 equals $42.40.
+
+Subtract the total bill from the amount John brought with him: $125 minus $42.40 equals $82.60.
+
+Therefore, John will have $82.60 left after paying for the vet visit.
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step to determine how much money John has left after visiting the vet.
+
+1. **Calculate the cost of the two vaccines:**
+   
+   Each vaccine costs \$20, and John brings his dog to the vet with two vaccines.
+   
+   \[
+   \text{Cost of vaccines} = 2 \times \$20 = \$40
+   \]
+
+2. **Determine the cost of the heartworm check:**
+   
+   The heartworm check is 60% of John's total bill. Let's denote the total bill as \( T \).
+   
+   \[
+   \text{Heartworm check} = 0.60 \times T
+   \]
+   
+   However, we need to find the total bill first before calculating the heartworm check. The total bill \( T \) is the sum of the cost of the vaccines and the heartworm check.
+   
+   \[
+   T = \$40 + 0.60 \times T
+   \]
+   
+   To solve for \( T \), subtract \( 0.60 \times T \) from both sides:
+   
+   \[
+   T - 0.60T = \$40
+   \]
+   
+   \[
+   0.40T = \$40
+   \]
+   
+   \[
+   T = \frac{\$40}{0.40} = \$100
+   \]
+   
+   So, the total bill is \$100.
+
+3. **Calculate the amount John has left:**
+   
+   John brought \$125 with him. Subtract the total bill from this amount.
+   
+   \[
+   \text{Amount left} = \$125 - \$100 = \$25
+   \]
+   
+   **Wait, that seems right. Let me double-check the calculations.**
+
+   Actually, let's correct the mistake in step 2. The heartworm check is 60% of the total bill, which includes both the vaccines and the heartworm check. So, the correct equation should be:
+
+   \[
+   \text{Heartworm check} = 0.60 \times (\text{Cost of vaccines} + \text{Heartworm check})
+   \]
+   
+   Let \( T \) be the total bill:
+   
+   \[
+   0.60T = 0.60 \times T
+   \]
+   
+   This approach isn't helpful. Let's try a different method.
+
+   Let’s denote:
+   
+   - \( V \) = cost of vaccines = \$40
+   - \( H \) = cost of heartworm check
+   
+   Given that \( H = 0.60T \) and \( T = V + H \)
+   
+   Substitute \( H \) into the equation for \( T \):
+   
+   \[
+   T = 40 + 0.60T
+   \]
+   
+   Subtract \( 0.60T \) from both sides:
+   
+   \[
+   T - 0.60T = 40
+   \]
+   
+   \[
+   0.40T = 40
+   \]
+   
+   \[
+   T = \frac{40}{0.40} = 100
+   \]
+   
+   So, the total bill is \$100.
+
+   Now, calculate the amount left:
+   
+   \[
+   \text{Amount left} = 125 - 100 = 25
+   \]
+   
+   **Final Answer:**
+   
+   \[
+   \boxed{25}
+   \]

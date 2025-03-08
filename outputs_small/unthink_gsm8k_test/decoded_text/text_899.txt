@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Susan made 100 cookies for Christmas and was going to equally divide them between her 6 nephews. Before Susan could package them, her husband snuck 4 cookies for himself. How many cookies will each of Susan’s nephews get?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Susan made **100 cookies** and wanted to **equally divide them** among her **6 nephews**. However, her husband **snuck in 4 cookies** for himself before she could package them. We need to determine how many cookies each nephew will get.
+
+1. **Total Cookies Initially:**
+   \[
+   100 \text{ cookies}
+   \]
+
+2. **Cookies Snuck by Husband:**
+   \[
+   4 \text{ cookies}
+   \]
+
+3. **Cookies Left for Susan:**
+   \[
+   100 - 4 = 96 \text{ cookies}
+   \]
+
+4. **Cookies Each Nephew Gets:**
+   \[
+   \frac{96}{6} = 16 \text{ cookies per nephew}
+   \]
+
+**Final Answer:**
+\[
+\boxed{16}
+\]

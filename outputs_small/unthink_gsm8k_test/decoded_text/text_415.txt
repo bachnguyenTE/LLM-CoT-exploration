@@ -1,0 +1,41 @@
+<｜User｜>
+Q: While Joanne is gathering apples from her family’s orchard, her sister comes outside to help her. Joanne gathers 30 apples from the tallest trees, half this amount from the shortest trees, and more apples from the average trees. Compared with Joanne, her sister gathers twice as many apples from the tallest trees and 3 times as many apples from the shortest trees. She doesn't take any from the average trees. If the sisters have gathered a combined total of 500 apples, how many apples did Joanne gather from the average trees?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many apples Joanne gathered from the average trees.
+
+1. **Define Variables:**
+   - Let \( A \) be the number of apples Joanne gathered from the average trees.
+
+2. **Analyze Joanne's Collection:**
+   - **Tallest Trees:** Joanne gathered **30 apples** from the tallest trees.
+   - **Shortest Trees:** Joanne gathered half this amount from the shortest trees, which is \( \frac{30}{2} = 15 \) apples.
+   - **Average Trees:** Joanne gathered \( A \) apples from the average trees.
+
+3. **Sister's Collection:**
+   - **Tallest Trees:** The sister gathered twice as many apples as Joanne from the tallest trees, which is \( 2 \times 30 = 60 \) apples.
+   - **Shortest Trees:** The sister gathered three times as many apples as Joanne from the shortest trees, which is \( 3 \times 15 = 45 \) apples.
+   - **Average Trees:** The sister did not collect any apples from the average trees.
+
+4. **Total Apples Gathered:**
+   - Combined total apples = Joanne's apples + Sister's apples
+   \[
+   30 \ (\text{tallest}) + 15 \ (\text{shortest}) + A \ (\text{average}) + 60 \ (\text{tallest}) + 45 \ (\text{shortest}) + 0 \ (\text{average}) = 500
+   \]
+   \[
+   30 + 15 + A + 60 + 45 + 0 = 500
+   \]
+   \[
+   150 + A = 500
+   \]
+   \[
+   A = 500 - 150 = 350
+   \]
+
+5. **Conclusion:**
+   Joanne gathered **350 apples** from the average trees.
+
+\[
+\boxed{350}
+\]

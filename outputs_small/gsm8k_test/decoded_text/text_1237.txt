@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Last Friday, 13 of the 82 teachers at Rydell Elementary School were sick. There were 9 substitute teachers called in to help. How many teachers were at school that day?
+A:<｜Assistant｜><think>
+First, I need to determine the number of teachers present at Rydell Elementary School last Friday. There were 13 teachers absent, and the total number of teachers at the school was 82.
+
+Next, I should add the number of absent teachers to the total number of teachers to find out how many were at school that day. This will give me the total number of teachers present, including the substitute teachers who were called in.
+
+Finally, I'll add the 13 absent teachers to the 82 total teachers to find the total number of teachers at school that day.
+</think>
+
+To determine the total number of teachers at Rydell Elementary School that day, follow these steps:
+
+1. **Identify the number of teachers absent:**
+   - Absent teachers = 13
+
+2. **Identify the total number of teachers at the school:**
+   - Total teachers = 82
+
+3. **Calculate the total number of teachers at school that day:**
+   - Total teachers at school = Absent teachers + Total teachers
+   - Total teachers at school = 13 + 82
+
+4. **Perform the addition:**
+   - Total teachers at school = 95
+
+**Final Answer:**
+\[
+\boxed{95}
+\]

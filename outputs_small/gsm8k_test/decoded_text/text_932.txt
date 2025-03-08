@@ -1,0 +1,40 @@
+<｜User｜>
+Q: Maria invited 4 of her friends over for a water balloon fight in the backyard. At the start of the game, Maria gave each of her friends 2 water balloons. She had one water balloon for herself.  Then her mom came out and gave each person 3 more balloons.  How many total balloons did the girls have?
+A:<｜Assistant｜><think>
+First, Maria invited 4 friends and gave each of them 2 water balloons. That means Maria initially gave out 4 times 2, which is 8 balloons.
+
+Maria also had 1 water balloon for herself, so the total number of balloons she had at the start is 8 plus 1, which equals 9 balloons.
+
+Then, her mom gave each person, including Maria, an additional 3 water balloons. Since there are 5 people in total (4 friends plus Maria), the mom gave out 5 times 3, which is 15 balloons.
+
+Finally, to find the total number of balloons the girls had, we add the initial 9 balloons to the additional 15 balloons given by her mom, resulting in a total of 24 balloons.
+</think>
+
+Let's break down the problem step by step to find the total number of water balloons the girls had.
+
+1. **Initial Distribution:**
+   - **Maria's Friends:** She invited 4 friends and gave each of them 2 water balloons.
+     \[
+     4 \text{ friends} \times 2 \text{ balloons per friend} = 8 \text{ balloons}
+     \]
+   - **Maria's Balloons:** She had 1 water balloon for herself.
+     \[
+     8 \text{ balloons} + 1 \text{ balloon} = 9 \text{ balloons}
+     \]
+
+2. **Mom's Additional Distribution:**
+   - Her mom gave each person (including Maria) an additional 3 water balloons.
+     \[
+     5 \text{ people} \times 3 \text{ balloons per person} = 15 \text{ balloons}
+     \]
+
+3. **Total Balloons:**
+   - Add the initial balloons to the additional balloons given by her mom.
+     \[
+     9 \text{ balloons} + 15 \text{ balloons} = 24 \text{ balloons}
+     \]
+
+**Final Answer:**
+\[
+\boxed{24}
+\]

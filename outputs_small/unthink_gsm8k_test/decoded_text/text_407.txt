@@ -1,0 +1,47 @@
+<｜User｜>
+Q: Elliott is trying to walk 10,000 steps a day. He finished half of his steps on his walks to and from school and did another 1,000 steps going for a short walk with his friend. He also went for a short jog around the block and realized that after he had finished his jog, he only had 2,000 steps left to take. How many steps did Elliott take during his jog?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many steps Elliott took during his jog.
+
+1. **Total Steps Elliott aims to walk in a day:**  
+   Elliott wants to walk **10,000** steps.
+
+2. **Steps completed on walks to and from school:**  
+   He finished half of his steps on his walks to and from school.  
+   \[
+   \text{Steps to school and back} = \frac{10,\!000}{2} = 5,\!000 \text{ steps}
+   \]
+
+3. **Additional steps during the short walk with his friend:**  
+   He did another **1,\!000** steps.  
+   \[
+   \text{Steps for short walk} = 1,\!000 \text{ steps}
+   \]
+
+4. **Steps taken during the short jog:**  
+   Let's denote the steps during the jog as \( x \).
+
+5. **Total steps completed so far:**  
+   \[
+   \text{Total completed} = 5,\!000 + 1,\!000 + x = 6,\!000 + x
+   \]
+
+6. **Steps remaining after the jog:**  
+   After finishing his jog, he had **2,\!000** steps left.  
+   \[
+   \text{Steps remaining} = 10,\!000 - (6,\!000 + x) = 4,\!000 - x
+   \]
+   According to the problem, this equals **2,\!000** steps:
+   \[
+   4,\!000 - x = 2,\!000
+   \]
+
+7. **Solving for \( x \):**  
+   \[
+   x = 4,\!000 - 2,\!000 = 2,\!000
+   \]
+
+**Final Answer:**  
+Elliott took **2,\!000** steps during his jog.

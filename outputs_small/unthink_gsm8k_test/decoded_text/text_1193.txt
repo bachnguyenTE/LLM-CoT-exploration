@@ -1,0 +1,38 @@
+<｜User｜>
+Q: Jason was told he could earn $3.00 for doing his laundry,  $1.50 for cleaning his room, $0.75 for taking the trash to the curb each week and $0.50 for emptying the dishwasher.  In a two week period, Jason emptied the dishwasher 6 times, did his laundry once, took the trash out twice and cleaned his room once.  How much money did Jason earn?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine how much Jason earned over the two-week period, we'll calculate his earnings from each task and then sum them up.
+
+1. **Laundry:**
+   - Jason was told he could earn **\$3.00** for doing his laundry each week.
+   - Over **2 weeks**, he did laundry **1 time**.
+   - **Earnings from laundry:** \( 1 \times \$3.00 = \$3.00 \)
+
+2. **Cleaning His Room:**
+   - He was told he could earn **\$1.50** for cleaning his room each week.
+   - Over **2 weeks**, he cleaned his room **1 time**.
+   - **Earnings from cleaning his room:** \( 1 \times \$1.50 = \$1.50 \)
+
+3. **Taking the Trash to the Curb:**
+   - He was told he could earn **\$0.75** for taking the trash to the curb each week.
+   - Over **2 weeks**, he took the trash out **2 times**.
+   - **Earnings from taking trash:** \( 2 \times \$0.75 = \$1.50 \)
+
+4. **Emptying the Dishwasher:**
+   - He was told he could earn **\$0.50** for emptying the dishwasher each week.
+   - Over **2 weeks**, he emptied the dishwasher **6 times**.
+   - **Earnings from emptying the dishwasher:** \( 6 \times \$0.50 = \$3.00 \)
+
+**Total Earnings:**
+\[
+\$3.00 \ (\text{Laundry}) + \$1.50 \ (\text{Cleaning}) + \$1.50 \ (\text{Taking Trash}) + \$3.00 \ (\text{Dishwasher}) = \$9.00
+\]
+
+**Final Answer:**
+\[
+\boxed{\$9.00}
+\]

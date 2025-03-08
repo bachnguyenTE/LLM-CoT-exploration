@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Janet buys a brooch for her daughter.  She pays $500 for the material to make it and then another $800 for the jeweler to construct it.  After that, she pays 10% of that to get it insured.  How much did she pay?
+A:<｜Assistant｜><think>
+Okay, so Janet bought a brooch for her daughter. Let me try to figure out how much she paid in total. Hmm, the problem says she paid $500 for the material to make it. Then, she spent another $800 on the jeweler to construct it. After that, she had to pay 10% for insurance. I need to add all these amounts together to find the total cost.
+
+First, let me write down each cost separately to make it clear. The material cost is $500, and the jeweler's cost is $800. Then, the insurance is 10% of the total of those two. Wait, is the 10% on the material and jeweler combined, or is it on each separately? The problem says she pays 10% to get it insured. So I think it's 10% of the total cost of the material and the jeweler. So I should add $500 and $800 first, then take 10% of that sum to get the insurance cost.
+
+Let me calculate the total material and jeweler cost first. $500 plus $800. Hmm, 500 plus 800. Let me add them step by step. 500 plus 800 is 1300. Wait, no, that can't be right because 500 plus 800 is 1300? Wait, 500 is 500, 800 is 800. So 500 plus 800 is 1300. Yeah, that's correct. So the total cost before insurance is $1300.
+
+Now, she pays 10% of that to get it insured. So I need to calculate 10% of $1300. To find 10%, I can multiply 1300 by 0.10. Let me do that. 1300 times 0.1 is 130. So 10% of 1300 is 130. So the insurance cost is $130.
+
+Now, to find the total amount Janet paid, I need to add the material cost, the jeweler's cost, and the insurance cost together. So that's $500 plus $800 plus $130. Let me add them step by step. 500 plus 800 is 1300, and then adding 130 gives me 1430. So the total amount she paid is $1430.
+
+Wait, let me double-check my calculations to make sure I didn't make a mistake. So, material is $500, jeweler is $800. Adding those together: 500 + 800 is 1300. Then, 10% of 1300 is 130. So 1300 + 130 is 1430. Yeah, that seems right.
+
+Alternatively, I can think of it as 10% of 1300 is 130, so total cost is 1300 + 130 = 1430. So, $1430 in total.
+
+I don't think I made any mistakes here. The steps seem straightforward: add the two costs, calculate 10% of the sum, and then add that to the total. So, yeah, the final amount is $1430.
+
+**Final Answer**
+The total amount Janet paid is \boxed{1430}.
+</think>
+
+Janet bought a brooch for her daughter, which involved several costs. The material cost was $500, the jeweler's cost was $800, and she paid 10% insurance on the total of these two costs.
+
+First, we calculate the total cost of the material and the jeweler:
+\[
+500 + 800 = 1300
+\]
+
+Next, we calculate 10% of this total cost for insurance:
+\[
+0.10 \times 1300 = 130
+\]
+
+Finally, we add the insurance cost to the total cost of the material and the jeweler to find the total amount Janet paid:
+\[
+1300 + 130 = 1430
+\]
+
+Thus, the total amount Janet paid is \boxed{1430}.

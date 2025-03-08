@@ -1,0 +1,23 @@
+<｜User｜>
+Q: Jean has 30 lollipops. Jean eats 2 of the lollipops. With the remaining lollipops, Jean wants to package 2 lollipops in one bag. How many bags can Jean fill?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Jean starts with **30 lollipops**.
+
+1. **Eats 2 lollipops:**
+   \[
+   30 - 2 = 28 \text{ lollipops remaining}
+   \]
+
+2. **Packages 2 lollipops per bag:**
+   \[
+   \frac{28}{2} = 14 \text{ bags}
+   \]
+
+**Final Answer:**
+\[
+\boxed{14}
+\]

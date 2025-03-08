@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Jane counts two zebras with 17 stripes each, a zebra with 36 stripes, and another zebra with half that many stripes. How many stripes do the zebras have on average?
+A:<｜Assistant｜><think>
+</think>
+
+To find the average number of stripes on the zebras, follow these steps:
+
+1. **Count the Zebras:**
+   - **First Zebra:** 17 stripes
+   - **Second Zebra:** 17 stripes
+   - **Third Zebra:** 36 stripes (since it has half the stripes of the 36 stripes zebra)
+   - **Fourth Zebra:** 18 stripes (since it has half the stripes of the 36 stripes zebra)
+
+2. **Calculate the Total Number of Stripes:**
+   \[
+   17 + 17 + 36 + 18 = 88 \text{ stripes}
+   \]
+
+3. **Determine the Number of Zebras:**
+   \[
+   4 \text{ zebras}
+   \]
+
+4. **Find the Average:**
+   \[
+   \text{Average} = \frac{\text{Total Stripes}}{\text{Number of Zebras}} = \frac{88}{4} = 22 \text{ stripes per zebra}
+   \]
+
+**Final Answer:**
+\[
+\boxed{22}
+\]

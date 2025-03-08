@@ -1,0 +1,41 @@
+<｜User｜>
+Q: At a spa, Iris spent $400 to do her hair, 1/4 as much to do a manicure, and 3/4 as much money as a manicure to do a pedicure. How much money did she spend at the spa?
+A:<｜Assistant｜><think>
+First, I need to determine how much Iris spent on do a manicure. The problem states that she spent $400 on her hair, which is 1/4 of the cost of the manicure. To find the total cost of the manicure, I can multiply $400 by 4.
+
+Next, I'll calculate the cost of the pedicure. The problem indicates that the pedicure cost is 3/4 of the manicure cost. I'll multiply the manicure cost by 3/4 to find the pedicure cost.
+
+Finally, I'll add up the costs of the hair, manicure, and pedicure to determine the total amount Iris spent at the spa.
+</think>
+
+Let's determine how much Iris spent at the spa step by step.
+
+1. **Cost of Hair:**
+   - Iris spent \$400 on her hair.
+
+2. **Cost of Manicure:**
+   - The cost of the manicure is **1/4** of the cost of the hair.
+   \[
+   \text{Manicure Cost} = \frac{1}{4} \times \$400 = \$100.25
+   \]
+
+3. **Cost of Pediure:**
+   - The cost of the pediure is **3/4** of the cost of the manicure.
+   \[
+   \text{Pediure Cost} = \frac{3}{4} \times \$100.25 = \$75.1875
+   \]
+   - To make it easier, we'll round this to two decimal places:
+   \[
+   \text{Pediure Cost} \approx \$75.19
+   \]
+
+4. **Total Amount Spent:**
+   - Now, add up the costs of hair, manicure, and pediure.
+   \[
+   \text{Total Cost} = \$400 + \$100.25 + \$75.19 = \$575.44
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$575.44}
+\]

@@ -1,0 +1,37 @@
+<｜User｜>
+Q: Duncan's age eight years ago was two times Adam's age four years ago. If Duncan's age is 60 now, how old will Adam be in 8 years?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Define the Variables:**
+   - Let \( D \) represent Duncan's current age.
+   - Let \( A \) represent Adam's current age.
+
+2. **Given Information:**
+   - Duncan's age eight years ago was two times Adam's age four years ago.
+   - Currently, Duncan is 60 years old.
+
+3. **Translate the Information into Equations:**
+   - Eight years ago, Duncan's age was \( D - 8 \).
+   - Four years ago, Adam's age was \( A - 4 \).
+   - According to the problem: \( D - 8 = 2 \times (A - 4) \).
+
+4. **Substitute the Known Value of Duncan's Age:**
+   - \( 60 - 8 = 2 \times (A - 4) \)
+   - \( 58 = 2 \times (A - 4) \)
+
+5. **Solve for Adam's Current Age:**
+   - Divide both sides by 2: \( 29 = A - 4 \)
+   - Add 4 to both sides: \( A = 33 \)
+
+6. **Determine Adam's Age in 8 Years:**
+   - Adam's age in 8 years will be \( 33 + 8 = 41 \) years.
+
+**Final Answer:**
+\[
+\boxed{41}
+\]

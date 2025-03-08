@@ -1,0 +1,33 @@
+<｜User｜>
+Q: A house and a lot cost $120,000. If the house cost three times as much as the lot, how much did the house cost?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+A house and a lot cost \$120,000. If the house cost three times as much as the lot, how much did the house cost?
+
+**Solution:**
+
+1. **Define Variables:**
+   - Let \( L \) be the cost of the lot.
+   - The cost of the house is three times the cost of the lot, so the house costs \( 3L \).
+
+2. **Set Up the Equation:**
+   - The total cost of the house and the lot is \$120,000.
+   - Therefore, \( L + 3L = 120,000 \).
+
+3. **Combine Like Terms:**
+   - \( 4L = 120,000 \).
+
+4. **Solve for \( L \):**
+   - \( L = \frac{120,000}{4} \).
+   - \( L = 30,000 \).
+
+5. **Find the Cost of the House:**
+   - The house costs \( 3L \).
+   - \( 3 \times 30,000 = 90,000 \).
+
+**Final Answer:**
+The house cost \(\boxed{90,\!000}\).

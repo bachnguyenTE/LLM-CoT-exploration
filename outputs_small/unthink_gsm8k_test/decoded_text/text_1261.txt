@@ -1,0 +1,44 @@
+<｜User｜>
+Q: Alicia's clothes have to be sent to the dry cleaners weekly.  Her weekly drop-off includes 5 blouses, 2 pants and 1 skirt.  If they charge her $5.00 per blouse, $6.00 per skirt and $8.00 per pair of pants, how much does she spend on dry-cleaning in 5 weeks?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how much Alicia spends on dry-cleaning in 5 weeks, we'll break down the costs for each type of clothing and then sum them up.
+
+**Step 1: Calculate the weekly cost for each type of clothing.**
+
+- **Blouses:**  
+  Alicia has 5 blouses per week, and each costs \$5.00.  
+  \[
+  5 \text{ blouses} \times \$5.00/\text{ blouse} = \$25.00
+  \]
+
+- **Pants:**  
+  Alicia has 1 pair of pants per week, and each costs \$8.00.  
+  \[
+  1 \text{ skirt} \times \$8.00/\text{ skirt} = \$8.00
+  \]
+
+- **Skirts:**  
+  Alicia has 2 pants per week, but there's no mention of skirts being charged. So, skirts cost \$0.00 per week.  
+  \[
+  2 \text{ pants} \times \$0.00/\text{pair} = \$0.00
+  \]
+
+**Step 2: Calculate the total weekly cost.**
+
+\[
+\$25.00 + \$8.00 + \$0.00 = \$33.00 \text{ per week}
+\]
+
+**Step 3: Calculate the total cost for 5 weeks.**
+
+\[
+5 \text{ weeks} \times \$33.00/\text{week} = \$165.00
+\]
+
+**Final Answer:**
+
+\[
+\boxed{\$165.0}
+\]

@@ -1,0 +1,49 @@
+<｜User｜>
+Q: Shannon makes herself iced coffee by brewing hot coffee and adding ice cubes. Each ice cube cools the coffee by 13 degrees but makes the coffee 12 milliliters weaker. Any added liquid also weakens the coffee. How many milliliters weaker is Shannon’s iced coffee when it is cooled by 65 degrees and she adds 15 milliliters of cream?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many milliliters weaker Shannon's iced coffee is after cooling by 65 degrees and adding 15 milliliters of cream, let's break down the problem step by step.
+
+### Given:
+1. **Cooling Effect:**
+   - Each ice cube cools the coffee by **13 degrees**.
+   - Adding 12 milliliters of cream weakens the coffee.
+
+2. **Added Cream:**
+   - Shannon adds **15 milliliters** of cream.
+
+3. **Cooling by 65 Degrees:**
+   - The coffee is cooled by **65 degrees**.
+
+### Calculation:
+
+1. **Determine the Number of Ice Cubes:**
+   - Each ice cube cools the coffee by 13 degrees.
+   - Total cooling effect = 65 degrees.
+   - Number of ice cubes = Total cooling effect / Cooling per cube
+   \[
+   \text{Number of ice cubes} = \frac{65}{13} = 5
+   \]
+
+2. **Calculate the Total Weakening from Ice Cubes:**
+   - Each ice cube weakens the coffee by 12 milliliters.
+   - Total weakening from ice cubes = Number of ice cubes × Weakening per cube
+   \[
+   \text{Total weakening from ice cubes} = 5 \times 12 = 60 \text{ milliliters}
+   \]
+
+3. **Calculate the Weakening from Cream:**
+   - Adding 15 milliliters of cream weakens the coffee.
+   \[
+   \text{Weakening from cream} = 15 \text{ milliliters}
+   \]
+
+4. **Total Weakening:**
+   - Total weakening = Weakening from ice cubes + Weakening from cream
+   \[
+   \text{Total weakening} = 66 + 15 = 81 \text{ milliliters}
+   \]
+
+### Final Answer:
+Shannon’s iced coffee is **81 milliliters weaker** after cooling by 65 degrees and adding 15 milliliters of cream.

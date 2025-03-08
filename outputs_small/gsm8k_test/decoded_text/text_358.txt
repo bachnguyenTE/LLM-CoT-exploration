@@ -1,0 +1,39 @@
+<｜User｜>
+Q: Marisa gets $5 as pocket money every day from her parents. She buys 4 lollipops worth 25 cents each every day and saves the change in her piggy bank. How much money does she put in her piggy bank if she saves for 5 days?
+A:<｜Assistant｜><think>
+First, I need to determine how much Marisa spends on lollipops each day. She buys 4 lollipops that cost 25 cents each, so the total cost per day is 4 multiplied by 00.25 dollars.
+
+Next, I'll calculate the daily savings by subtracting the total cost of the lollipops from her daily pocket money of 5 dollars.
+
+After finding the daily savings, I'll multiply this amount by 5 to find out how much she saves over 5 days.
+</think>
+
+**Solution:**
+
+1. **Calculate the daily cost of lollipops:**
+   
+   Marisa buys 4 lollipops each day, and each lollipop costs 25 cents.
+   
+   \[
+   \text{Daily cost} = 4 \times 0.25\,\text{dollars} = 1\,\text{dollar}
+   \]
+
+2. **Determine the daily savings:**
+   
+   Marisa saves the change from her pocket money.
+   
+   \[
+   \text{Daily savings} = 5\,\text{dollars} - 1\,\text{dollar} = 4\,\text{dollars}
+   \]
+
+3. **Calculate the total savings over 5 days:**
+   
+   \[
+   \text{Total savings} = 4\,\text{dollars/day} \times 5\,\text{days} = 20\,\text{dollars}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{20\,\text{dollars}}
+\]

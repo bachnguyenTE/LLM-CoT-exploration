@@ -1,0 +1,51 @@
+<｜User｜>
+Q: Errol bought a computer, 2 monitors, and a printer for $2,400. He paid $400 less for the printer than the computer. If the computer cost $1,100, how much did one monitor cost, in dollars?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the cost of one monitor.
+
+**Given:**
+- Total cost of items: \$2,400
+- Number of items: 1 computer, 2 monitors, 1 printer
+- Errol paid \$400 less for the printer than the computer
+- Cost of the computer: \$1,100
+
+**Step 1: Determine the cost of the printer.**
+
+Since the printer cost \$400 less than the computer:
+\[
+\text{Cost of printer} = \text{Cost of computer} - \$440
+\]
+\[
+\text{Cost of printer} = \$1,100 - \$440 = \$660
+\]
+
+**Step 2: Calculate the total cost of the computer and printer.**
+
+\[
+\text{Total cost of computer and printer} = \$1,100 + \$664 = \$1,764
+\]
+
+**Step 3: Find the total cost of the two monitors.**
+
+\[
+\text{Total cost of two monitors} = \text{Total cost of all items} - \text{Total cost of computer and printer}
+\]
+\[
+\text{Total cost of two monitors} = \$2,400 - \$1,764 = \$636
+\]
+
+**Step 4: Determine the cost of one monitor.**
+
+\[
+\text{Cost of one monitor} = \frac{\text{Total cost of two monitors}}{2}
+\]
+\[
+\text{Cost of one monitor} = \frac{\$636}{2} = \$318
+\]
+
+**Final Answer:**
+\[
+\boxed{\$318}
+\]

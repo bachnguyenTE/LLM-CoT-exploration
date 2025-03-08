@@ -1,0 +1,86 @@
+<｜User｜>
+Q: Jean is two years older than Mark.  Two years ago Mark was 5 years older than half Jan's age.  If Jan is 30 how old is Jean?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here: Jean is two years older than Mark. Two years ago, Mark was five years older than half of Jan's age. If Jan is 30, how old is Jean? Hmm, let me try to figure this out step by step.
+
+First, let me parse the information given. There are three people involved: Jean, Mark, and Jan. The relationships between their ages are given in two parts. The first part is straightforward: Jean is two years older than Mark. So, if I can figure out Mark's age, I can easily find Jean's age by adding two.
+
+The second part is a bit more complicated: two years ago, Mark was five years older than half of Jan's age. So, I need to consider their ages two years ago and relate that to Jan's current age.
+
+Wait, hold on. The problem says Jan is 30, not 33. Let me check that. It says, "If Jan is 30 how old is Jean?" So, Jan is 30 years old. That seems a bit odd, but maybe it's a typo. I'll proceed with that.
+
+So, Jan is 30 years old. Let me write down the given information:
+
+1. Jean is two years older than Mark. So, if Mark is M years old, then Jean is M + 2 years old.
+
+2. Two years ago, Mark was five years older than half of Jan's age. So, two years ago, Mark's age was (M - 2). Jan's age two years ago would be 30 - 2 = 30 - 2 = 30? Wait, hold on. If Jan is 30 now, then two years ago she was 30. So, Jan's age two years ago is 30.
+
+So, two years ago, Mark was five years older than half of Jan's age. So, Mark's age two years ago was 5 years older than half of Jan's age two years ago.
+
+Wait, let me write that as an equation. Let me denote:
+
+Mark's age two years ago: M - 2
+
+Half of Jan's age two years ago: (30)/2 = 15
+
+So, Mark's age two years ago was 5 years older than 15. So, M - 2 = 15 + 5 = 20.
+
+So, M - 2 =20, so M =22.
+
+Wait, so Mark is 22 years old now. Then, Jean is two years older than Mark, so Jean is 22 +2=24.
+
+Wait, so Jean is 24 years old? That seems a bit young, but maybe it's correct.
+
+Let me double-check my steps.
+
+First, Jan is 30 now. Two years ago, she was 28. Wait, hold on, 30 -2=28. Wait, I think I made a mistake earlier.
+
+Wait, hold on, if Jan is 30 now, then two years ago she was 28, not 30. So, I think I messed up earlier.
+
+So, let me correct that.
+
+So, Jan is 30 now. Two years ago, she was 28.
+
+So, two years ago, Mark was five years older than half of Jan's age at that time.
+
+So, half of Jan's age two years ago is 28/2=14.
+
+So, Mark's age two years ago was 14 +5=19.
+
+So, Mark's age two years ago was 9, so Mark is now 9 +2=11.
+
+Wait, that can't be right. If Mark is 11 now, then Jean is 13. But that seems too young.
+
+Wait, hold on, I think I messed up the calculation.
+
+Wait, let me go step by step.
+
+Given:
+
+1. Jean is two years older than Mark: J = M + 2.
+
+2. Two years ago, Mark was five years older than half of Jan's age.
+
+So, two years ago:
+
+Mark's age: M - 2
+
+Jan's age two years ago: 30 - 2 = 28
+
+So, half of Jan's age two years ago: 28
+
+So, Mark's age two years ago was 5 years older than 8, so Mark's age two years ago was 13.
+
+Therefore, Mark's current age is 13 +2=15.
+
+Therefore, Jean is 15 +2=17.
+
+Wait, so Jean is 17 now.
+
+Wait, let me check again.
+
+Jan is 30 now. Two years ago, she was 28.
+
+Half of Jan's age two years ago is 28/2=14.
+
+Mark was five years

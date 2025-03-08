@@ -1,0 +1,59 @@
+<｜User｜>
+Q: Ariadne has a shop selling hats of two different colors, red and green. Her sales from red hats were $400 in a particular month, half the total amount she earned from selling green hats. Calculate the total amount she made in two months if in the second month her sales were 3/4 of the total sales of the first month.
+A:<｜Assistant｜><think>
+Okay, so I have this problem about Ariadne's shop selling red and green hats. Let me try to figure it out step by step. 
+
+First, the problem says that in the first month, her sales from red hats were $400. It also mentions that this amount was half the total from green hats. Hmm, so if red hats made $400, then green hats must have made double that, right? Let me write that down.
+
+Red hats: $400  
+Green hats: ?
+
+Since red hats are half of green hats, that means green hats are twice as much as red hats. So, green hats = 2 * red hats = 2 * 400 = $800.
+
+Wait, that seems right. So in the first month, she made $400 on red hats and $800 on green hats. Let me check: 400 is half of 800, yes, because 800 divided by 2 is 400. Okay, that makes sense.
+
+Now, the problem asks for the total amount she made in two months. It also mentions that in the second month, her sales were 3/4 of the total sales of the first month. Hmm, so I need to calculate the total for the second month based on the first month's total.
+
+First, let me find the total sales for the first month. That would be red hats plus green hats. So, 400 + 800. Let me add those: 400 + 800 is 1200. So, first month total is $1200.
+
+Now, in the second month, her sales were 3/4 of that total. So, I need to calculate 3/4 of 1200. Let me do that. 1200 divided by 4 is 300, and 300 multiplied by 3 is 900. So, the second month's total is $900.
+
+Wait, that seems right. Let me double-check: 3/4 of 1200. 1200 divided by 4 is 300, so 300 times 3 is 900. Yep, that's correct.
+
+So, now, to find the total amount she made in two months, I need to add the first month's total and the second month's total. That would be 1200 + 900. Let me add those: 1200 + 900 is 2100. So, the total amount she made in two months is $2100.
+
+Wait, that seems right. Let me recap to make sure I didn't miss anything. First month: red 400, green 800, total 1200. Second month: 3/4 of 1200 is 900. Total over two months: 1200 + 900 = 2100. Yeah, that all adds up.
+
+I don't think I made any mistakes here. The key was understanding that the second month's sales were a portion of the first month's total, not the total of both months. So, I had to calculate the first month's total, then find 3/4 of that, and then add both totals together.
+
+So, yeah, the final answer should be $2100.
+
+**Final Answer**
+The total amount Ariadne made in two months is \boxed{2100}.
+</think>
+
+First, we know that in the first month, the sales from red hats were $400, which was half of the total sales from green hats. Therefore, the sales from green hats were:
+
+\[
+\text{Green hats} = 2 \times 400 = 800
+\]
+
+The total sales for the first month are the sum of red and green hat sales:
+
+\[
+\text{Total for first month} = 400 + 800 = 1200
+\]
+
+In the second month, the sales were \(\frac{3}{4}\) of the total sales of the first month. Therefore, the sales for the second month are:
+
+\[
+\text{Second month sales} = \frac{3}{4} \times 1200 = 900
+\]
+
+The total amount Ariadne made in two months is the sum of the first month's total and the second month's total:
+
+\[
+\text{Total for two months} = 1200 + 900 = 2100
+\]
+
+Thus, the total amount Ariadne made in two months is \(\boxed{2100

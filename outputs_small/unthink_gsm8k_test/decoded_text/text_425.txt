@@ -1,0 +1,31 @@
+<｜User｜>
+Q: Lillian's garden doesn't have any bird feeders in it so she wants to add some. She builds 3 and buys 3 others. Each bird feeder seems to attract 20 birds throughout the day until Lillian notices that the birds seem to prefer the feeders she made herself which attract 10 more birds each than the store-bought ones. How many birds can Lillian expect to see in her garden each day if the same amount keep coming to her bird feeders?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many birds Lillian can expect to see in her garden each day.
+
+1. **Initial Setup:**
+   - Lillian buys **3 bird feeders** from the store.
+   - She then builds **3 more bird feeders** herself.
+   - So, in total, she has **6 bird feeders**.
+
+2. **Bird Attraction:**
+   - Each store-bought bird feeder attracts **20 birds** throughout the day.
+   - The feeders she made herself attract **10 more birds** than the store-bought ones.
+
+3. **Calculating Birds from Store-Bought Feeder:**
+   - Each store-bought feeder attracts **20 birds**.
+   - Total birds from store-bought feeders = **20 birds/feeder × 3 feeders = 60 birds**.
+
+4. **Calculating Birds from Made-Up Feeder:**
+   - Each made-up feeder attracts **20 + 10 = 30 birds**.
+   - Total birds from made-up feeders = **33 birds/feeder × 3 feeders = 99 birds**.
+
+5. **Total Birds in the Garden:**
+   - **60 birds (store-bought) + 99 birds (made-up) = 159 birds**.
+
+**Final Answer:**
+\[
+\boxed{159}
+\]

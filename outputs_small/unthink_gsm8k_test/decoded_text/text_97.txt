@@ -1,0 +1,33 @@
+<｜User｜>
+Q: When Freda cooks canned tomatoes into sauce, they lose half their volume. Each 16 ounce can of tomatoes that she uses contains three tomatoes. Freda’s last batch of tomato sauce made 32 ounces of sauce. How many tomatoes did Freda use?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the volume of tomatoes used:**
+   
+   - Total sauce produced: 32 ounces.
+   - Canned tomatoes lose half their volume when cooked.
+   - Therefore, the volume of tomatoes used is twice the volume of the sauce.
+   
+   \[
+   \text{Tomatoes used} = 2 \times 32\,000 \text{ ounces} = 64,000 \text{ ounces}
+   \]
+
+2. **Calculate the number of tomatoes used:**
+   
+   - Each 16-ounce can contains 3 tomatoes.
+   - Number of tomatoes = Total tomatoes used / Tomatoes per can.
+   
+   \[
+   \text{Number of tomatoes} = \frac{64,000}{3} \approx 21,333
+   \]
+
+3. **Final Answer:**
+   
+   Freda used approximately **21,333 tomatoes**.
+
+\[
+\boxed{21,\!333}
+\]

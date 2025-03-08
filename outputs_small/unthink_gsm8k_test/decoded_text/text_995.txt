@@ -1,0 +1,44 @@
+<｜User｜>
+Q: Adam bought himself some new trousers for $30. His mother gave him $6 for this purpose, and his father gave him twice as much. How much money did Adam have to contribute from his savings?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Adam's Purchase:**
+   - Adam bought himself new trousers for **\$30**.
+
+2. **Father's Contribution:**
+   - His father gave him **twice as much** as his mother.
+   - Let’s denote the amount given by his mother as \( x \).
+   - Therefore, the father gave him \( 2x \).
+
+3. **Total Amount Received:**
+   - The total amount Adam received from his parents is:
+     \[
+     30 + x + 2x = 30 + 3x
+     \]
+   - However, the problem doesn't specify how much his mother gave him individually, only that he received **\$6** from his mother.
+
+4. **Substituting the Value:**
+   - Since his mother gave him **\$6**, we have:
+     \[
+     x = 6
+     \]
+   - Therefore, the father gave him:
+     \[
+     2x = 2 \times 6 = 12
+     \]
+
+5. **Total Contribution:**
+   - Adding up all the contributions:
+     \[
+     30 \, (\text{trouses}) + 6 \, (\text{mother}) + 12 \, \text{fathers} = 54
+     \]
+
+**Final Answer:**
+\[
+\boxed{54}
+\]

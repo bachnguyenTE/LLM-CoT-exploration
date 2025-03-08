@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Parker chews 4 pieces of gum a day.  A pack of gum has 15 pieces of chewing gum per pack.  How many packs of gum will he need to last him 30 days?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Parker chews 4 pieces of gum every day. To find out how many packs he needs for 30 days, follow these steps:
+
+1. **Calculate the total number of gum pieces Parker will chew in 30 days:**
+   
+   \[
+   \text{Total pieces} = 4 \, \text{pieces/day} \times 30 \, \text{days} = 120 \, \text{pieces}
+   \]
+
+2. **Determine how many packs are needed:**
+   
+   Each pack contains 15 pieces of gum. So, divide the total pieces by the number of pieces per pack:
+   
+   \[
+   \text{Number of packs} = \frac{120 \, \text{pieces}}{15 \, \text{pieces/pack}} = 8.666...
+   \]
+
+3. **Since Parker can't buy a fraction of a pack, round up to the next whole number:**
+   
+   \[
+   \text{Packs needed} = 9
+   \]
+
+**Final Answer:**
+
+Parker will need \(\boxed{9}\) packs of gum to last him 30 days.

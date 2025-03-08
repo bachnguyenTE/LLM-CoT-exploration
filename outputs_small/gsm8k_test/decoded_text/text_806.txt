@@ -1,0 +1,52 @@
+<｜User｜>
+Q: Janet is collecting the results of Herbert Hoover Elementary School's annual standardized test. 340 out of 500 third-graders passed, along with 40 out of 100 fourth graders. The 400 fifth graders had a pass rate that was twice the fourth grades' pass rate. What is the school's overall pass rate?
+A:<｜Assistant｜><think>
+First, I need to determine the number of students who passed in each grade category.
+
+For the third-graders, 340 out of 500 passed.
+
+For the fourth-graders, 40 out of 100 passed.
+
+For the fifth-graders, the pass rate was twice that of the fourth-graders. Since 40 out of 100 passed, the pass rate for fourth-graders is 44%. Therefore, the pass rate for fifth-graders is 88%.
+
+Next, I'll calculate the number of fifth-graders who passed by applying the pass rate to the total number of fifth-graders.
+
+Finally, I'll sum the number of students who passed across all three grades and divide by the total number of students to find the overall pass rate.
+</think>
+
+To determine the school's overall pass rate, let's break down the information step by step.
+
+### 1. Calculate the number of students who passed in each grade:
+
+- **Third-Graders:**
+  - Total students: 500
+  - Pass rate: \( \frac{340}{500} = 0.68 \) or 68%
+  - Number of students who passed: \( 500 \times 0.68 = 340 \)
+
+- **Fourth-Graders:**
+  - Total students: 100
+  - Pass rate: \( \frac{40}{100} = 0.4 \) or 40%
+  - Number of students who passed: \( 100 \times 0.4 = 40 \)
+
+- **Fifth-Graders:**
+  - Pass rate: Twice that of fourth-graders.
+  - Pass rate for fourth-graders: 40%
+  - Pass rate for fifth-graders: \( 2 \times 40\% = 80\% \)
+  - Total students: 400
+  - Number of students who passed: \( 400 \times 0.80 = 320 \)
+
+### 2. Calculate the total number of students who passed:
+
+\[
+\text{Total passed} = 340 \ (\text{third-graders}) + 40 \ (\text{fourth-graders}) + 320 \ (\text{fifth-graders}) = 700
+\]
+
+### 3. Calculate the overall pass rate:
+
+\[
+\text{Overall pass rate} = \frac{\text{Total passed}}{\text{Total students}} = \frac{700}{400 + 500 + 100} = \frac{700}{1000} = 0.7 \text{ or } 70\%
+\]
+
+\[
+\boxed{70\%}
+\]

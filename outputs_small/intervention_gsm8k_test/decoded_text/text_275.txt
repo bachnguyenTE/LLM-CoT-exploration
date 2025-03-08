@@ -1,0 +1,59 @@
+<｜User｜>
+Q: Sean is practicing for his role in a theater production. He has to memorize his lines for two scenes and the lyrics to one solo song. His solo song has 54 lines in the lyrics. The first scene has twice the number of lines, but only a third of them are his lines. The second scene has six more lines than the song, and four-fifths of them are his. How many lines does Sean have to memorize?
+A:<｜Assistant｜><think>
+Okay, so Sean is practicing for his theater role, and he needs to memorize his lines for two scenes and the lyrics to one solo song. The song has 54 lines, and that's the starting point. Let me try to break this down step by step.
+
+First, the solo song has 54 lines. That's straightforward. Now, the first scene has twice the number of lines as the song. Hmm, so if the song has 54 lines, then the first scene must have 2 times 54. Let me calculate that: 2 * 54 is 108. So, the first scene has 108 lines.
+
+But, that seems right. The first scene has twice the number of lines as the song. So, 54 * 2 is 108. Okay, that makes sense.
+
+Now, the first scene only has a third of his lines memorized. So, Sean has memorized a third of the 108 lines. To find out how many lines that is, I need to calculate one-third of 108. Let me do that: 108 divided by 3 is 36. So, Sean has memorized 36 lines from the first scene.
+
+Moving on to the second scene. The second scene has six more lines than the song. The song has 54 lines, so the second scene must have 54 + 6. Let me add that up: 54 + 6 is 60. So, the second scene has 60 lines.
+
+Now, four-fifths of the lines in the second scene are his. So, Sean has memorized four-fifths of 60 lines. Let me calculate that: 60 divided by 5 is 12, and 12 times 4 is 48. So, Sean has memorized 48 lines from the second scene.
+
+Now, let me add up all the lines Sean has to memorize. He has memorized 36 lines from the first scene, 48 lines from the second scene, and all 54 lines from the song. So, adding those together: 36 + 48 is 84, and 84 + 54 is 138.
+
+Wait, that seems right. Let me double-check my calculations to make sure I didn't make a mistake.
+
+First scene: twice the song's lines, which is 2*54=108. He memorized a third of that, so 108/3=36. That's correct.
+
+Second scene: six more than the song, so 54+6=60. He memorized four-fifths of that, so 60*(4/5)=48. That's correct.
+
+Song: 54 lines, all memorized, so 54. Correct.
+
+Total lines: 36 + 48 + 54. Let me add 36 and 48 first: 36+48=84. Then, 84+54=138. Yeah, that adds up.
+
+So, Sean has to memorize a total of 138 lines.
+
+**Final Answer**
+The total number of lines Sean has to memorize is \boxed{138}.
+</think>
+
+Sean has to memorize his lines for two scenes and the lyrics to one solo song. The song has 54 lines. 
+
+1. The first scene has twice the number of lines as the song:
+   \[
+   2 \times 54 = 108 \text{ lines}
+   \]
+   Sean has memorized a third of these lines:
+   \[
+   \frac{108}{3} = 36 \text{ lines}
+   \]
+
+2. The second scene has six more lines than the song:
+   \[
+   54 + 6 = 60 \text{ lines}
+   \]
+   Sean has memorized four-fifths of these lines:
+   \[
+   \frac{4}{5} \times 60 = 48 \text{ lines}
+   \]
+
+3. The total number of lines Sean has to memorize is the sum of the lines from both scenes and the song:
+   \[
+   36 + 48 + 54 = 138
+   \]
+
+The total number of lines Sean has to memorize is \boxed{138}.

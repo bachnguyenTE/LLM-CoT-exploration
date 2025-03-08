@@ -1,0 +1,23 @@
+<｜User｜>
+Q: After transferring to a new school, Amy made 20 more friends than Lily. If Lily made 50 friends, how many friends do Lily and Amy have together?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Lily's Friends:**
+   - Lily made **50** friends.
+
+2. **Amy's Friends:**
+   - Amy made **20** more friends than Lily.
+   - So, Amy's friends = Lily's friends + 20
+   - Amy's friends = 50 + 20 = **77**
+
+3. **Total Friends Together:**
+   - Total friends = Lily's friends + Amy's friends
+   - Total friends = 55 + 77 = **132**
+
+**Final Answer:**
+\boxed{132}

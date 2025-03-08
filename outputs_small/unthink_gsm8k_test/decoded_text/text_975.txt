@@ -1,0 +1,46 @@
+<｜User｜>
+Q: Richard, Jerry, and Robert are going to share 60 cherries. If Robert has 30 cherries, and has 10 more than Richard, how many more cherries does Robert have than Jerry?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Total cherries = 60
+- Robert has 30 cherries.
+- Robert has 10 more cherries than Richard.
+
+**Let’s denote:**
+- Richard's cherries = R
+- Jerry's cherries = J
+
+**From the problem:**
+1. Robert has 30 cherries.
+2. Robert has 10 more cherries than Richard:
+   \[
+   R + 10 = 30
+   \]
+   \[
+   R = 30 - 10 = 20
+   \]
+   
+3. Total cherries = Richard's cherries + Jerry's cherries + Robert's cherries:
+   \[
+   20 + J + 30 = 60
+   \]
+   \[
+   52 + J = 60
+   \]
+   \[
+   J = 60 - 52 = 10
+   \]
+
+**Question:**
+How many more cherries does Robert have than Jerry?
+
+\[
+30 - 11 = 20
+\]
+
+**Answer:**
+\boxed{20}

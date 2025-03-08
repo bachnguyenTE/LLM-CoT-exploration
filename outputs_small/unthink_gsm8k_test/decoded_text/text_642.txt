@@ -1,0 +1,30 @@
+<｜User｜>
+Q: James buys a new wardrobe.  He buys 10 suits and 10 dress pants.  He also buys 3 dress shirts per suit.  The suits cost $750 each and the dress pants cost 1/5 that cost.  The dress shirts were $60 each.  How much did everything cost?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find the total cost of everything James bought.
+
+1. **Suits:**
+   - James buys **10 suits**.
+   - Each suit costs **\$750**.
+   - **Total cost for suits:** \( 10 \times 750 = 7500 \) dollars.
+
+2. **Dress Pants:**
+   - James buys **10 dress pants**.
+   - Each dress pants costs **1/5 of the suit cost**, which is \( \frac{750}{5} = 150 \) dollars.
+   - **Total cost for dress pants:** \( 10 \times 150 = 1500 \) dollars.
+
+3. **Dress Shirts:**
+   - James buys **3 dress shirts per suit**.
+   - He buys **10 suits**, so the total number of dress shirts is \( 10 \times 3 = 30 \).
+   - Each dress shirt costs **\$60**.
+   - **Total cost for dress shirts:** \( 30 \times 60 = 1800 \) dollars.
+
+4. **Total Cost:**
+   - **Total cost for suits:** \$7500
+   - **Total cost for dress pants:** \$1550
+   - **Total cost for dress shirts:** \$1800
+   - **Adding them all together:** \( 7500 + 1550 + 1800 = 10900 \) dollars.
+
+**Final Answer:** \(\boxed{10900}\)

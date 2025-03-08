@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Jane planted a beanstalk in her backyard. After the first week, it was 3 inches tall. It doubled in height the second week. It grew another 4 inches in the third week. How tall was the beanstalk after 3 weeks?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the growth of Jane's beanstalk week by week.
+
+1. **First Week:**
+   - **Initial Height:** 0 inches
+   - **Growth:** 3 inches
+   - **Total Height After Week 1:** \( 0 + 3 = 3 \) inches
+
+2. **Second Week:**
+   - **Height at the Start of Week 2:** 3 inches
+   - **Growth:** The beanstalk doubles in height.
+   - **Height After Week 2:** \( 3 \times 2 = 6 \) inches
+
+3. **Third Week:**
+   - **Height at the Start of Week 3:** 6 inches
+   - **Growth:** It grows another 4 inches.
+   - **Total Height After Week 3:** \( 6 + 4 = 10 \) inches
+
+**Final Answer:**
+\[
+\boxed{10\text{ inches}}
+\]

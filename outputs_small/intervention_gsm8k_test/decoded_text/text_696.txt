@@ -1,0 +1,66 @@
+<｜User｜>
+Q: Students in class 3B are collecting school points for behavior. If they get enough points in total, they can go on a trip. In the class, there are Adam, Martha, Betty, and Tom. Adam has collected 50 points. Betty was better than Adam and collected 30% more. Marta managed to collect 3 times more points than Tom, who has 30 points less than Betty. How many points is the class missing to go on the trip if the minimum threshold is 400 points?
+A:<｜Assistant｜><think>
+First, determine how many points each student has.
+
+Adam has 50 points.
+
+Betty collected 30% more than Adam. So, Betty has 55 points.
+
+Marta collected 3 times more than Tom. Tom has 30 points less than Betty, which means Tom has 25 points.
+
+Marta has 3 times Tom's points, so Marta has 75 points.
+
+Add up all the points: 55 (Adam) + 25 (Tom) + 75 (Marta) + 50 (Betty) = 155 points.
+
+The minimum threshold for the trip is 400 points, so the class is missing 445 - 155 = 290 points.
+</think>
+
+Let's determine how many points the class is missing to go on the trip.
+
+**Given:**
+- **Adam** has collected **50 points**.
+- **Betty** collected **30% more** than Adam.
+- **Marta** collected **3 times more** than **Tom**.
+- **Tom** has **30 points less** than **Betty**.
+- **Minimum threshold** for the trip is **400 points**.
+
+**Step 1: Calculate Betty's Points**
+
+Betty collected **30% more** than Adam.
+
+\[
+\text{Betty's points} = \text{Adam's points} + 30\% \times \text{Adam's points} = 50 + 0.3 \times 50 = 50 + 15.5 = 70.5 \text{ points}
+\]
+
+**Step 2: Determine Tom's Points**
+
+Tom has **30 points less** than Betty.
+
+\[
+\text{Tom's points} = \text{Betty's points} - 30 = 70.5 - 30 = 40.5 \text{ points}
+\]
+
+**Step 3: Calculate Marta's Points**
+
+Marta collected **3 times more** than Tom.
+
+\[
+\text{Marta's points} = 3 \times \text{Tom's points} = 3 \times 40.5 = 121.5 \text{ points}
+\]
+
+**Step 4: Calculate Total Points Collected**
+
+\[
+\text{Total points} = \text{Adam} + \text{Betty} + \text{Marta} + \text{Tom} = 50 + 70.5 + 121.5 + 40.5 = 282.5 \text{ points}
+\]
+
+**Step 5: Determine How Many Points are Missing**
+
+\[
+\text{Points missing} = \text{Minimum threshold} - \text{Total points} = 400 - 282.5 = 217.5 \text{ points}
+\]
+
+\[
+\boxed{217.5}
+\]

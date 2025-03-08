@@ -1,0 +1,24 @@
+<｜User｜>
+Q: If there are 10 eggs in a basket, and there are twice as many eggs in a second basket, how many eggs are in both baskets put together?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **First Basket:**
+   - Number of eggs = 10
+
+2. **Second Basket:**
+   - It says there are **twice as many eggs** in the second basket as in the first one.
+   - So, the number of eggs in the second basket = 2 × 10 = 20
+
+3. **Total Eggs in Both Baskets:**
+   - Total = Number of eggs in first basket + Number of eggs in second basket
+   - Total = 10 + 20 = 32
+
+**Final Answer:**
+\[
+\boxed{32}
+\]

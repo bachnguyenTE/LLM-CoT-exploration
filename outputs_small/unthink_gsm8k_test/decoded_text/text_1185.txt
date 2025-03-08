@@ -1,0 +1,45 @@
+<｜User｜>
+Q: The cheese pizza is cut into 12 slices and the pepperoni pizza is cut into 8 slices.  If Kate’s 6 friends each eat 6 cheese pizza slices and 4 pepperoni pizza slices, how many pizza pies does she need to buy?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many pizza pies Kate needs to buy, let's break down the problem step by step.
+
+**Given:**
+- **Cheese Pizza:** Cut into 12 slices.
+- **Pepperoni Pizza:** Cut into 8 slices.
+- **Kate's Friends:** 6 friends.
+- **Cheese Pizza Consumption:** Each friend eats 6 slices.
+- **Pepperoni Pizza Consumption:** Each friend eats 4 slices.
+
+**Step 1: Calculate Total Cheese Pizza Slices Needed**
+\[
+\text{Total Cheese Slices} = 6 \text{ friends} \times 6 \text{ slices per friend} = 36 \text{ slices}
+\]
+
+**Step 2: Calculate Total Pepperoni Pizza Slices Needed**
+\[
+\text{Total Pepperoni Slices} = 6 \text{ friends} \times 4 \text{ slices per friend} = 24 \text{ slices}
+\]
+
+**Step 3: Determine How Many Pizzas Are Needed for Each Type**
+
+- **Cheese Pizza:**
+  \[
+  \frac{36 \text{ slices}}{12 \text{ slices per pizza}} = 3 \text{ pizzas}
+  \]
+  
+- **Pepperoni Pizza:**
+  \[
+  \frac{24 \text{ slices}}{8 \text{ slices per pizza}} = 3 \text{ pizzas}
+  \]
+
+**Step 4: Sum the Total Pizzas Needed**
+\[
+3 \text{ (Cheese)} + 3 \text{ (Pepperoni)} = 6 \text{ pizzas}
+\]
+
+**Final Answer:**
+\[
+\boxed{6}
+\]

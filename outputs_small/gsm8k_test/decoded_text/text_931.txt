@@ -1,0 +1,74 @@
+<｜User｜>
+Q: The combined age of Peter, Paul and Jean is 100 years old. Find the age of Peter knowing that Paul is 10 years older than John and that Peter’s age is equal to the sum of Paul and John's age.
+A:<｜Assistant｜><think>
+Okay, so I have this problem here where the combined age of Peter, Paul, and Jean is 100 years old. I need to find Peter's age. Hmm, let me see. The problem also gives me two pieces of information: Paul is 10 years older than John, and Peter’s age is equal to the sum of Paul and John's age. Wait, hold on, it says Paul is 10 years older than John. Is that a typo? Because 10 is a bit odd. Maybe it's supposed to be 10 years older than Jean? Or maybe it's a different person. Hmm, the problem says "Jean," so maybe it's a typo. Let me check the original problem again.
+
+"Combined age of Peter, Paul and Jean is 100 years old. Find the age of Peter knowing that Paul is 10 years older than John and that Peter’s age is equal to the sum of Paul and John's age."
+
+Wait, so it says Paul is 10 years older than John, but then it also says Peter’s age is equal to the sum of Paul and John's age. So, if I let P be Peter's age, J be John's age, and Paul's age be Paul, then according to the problem, Paul = Peter + John. But also, Paul is 10 years older than John. So, Paul = John + 10. So, substituting that into the first equation, we get:
+
+Peter = (John + 10) + John
+
+Which simplifies to Peter = 2*John +10.
+
+But we also know that the combined age of Peter, Paul, and Jean is 100. So, that would be Peter + Paul + Jean = 100.
+
+But wait, I have Peter in terms of John, and Paul in terms of John. So, let me write that down.
+
+Let me denote:
+
+P = Peter's age
+
+J = John's age
+
+Paul = Paul's age
+
+Given:
+
+1. Paul = Peter + John
+
+2. Paul = John + 10
+
+3. P + Paul + J = 100
+
+Wait, hold on, the problem says "Paul is 10 years older than John," so that would be Paul = John +10. So, substituting that into equation 1, we get:
+
+John +10 = Peter + John
+
+Subtracting John from both sides, we get 10 = Peter. So, Peter is 10 years old.
+
+Wait, that seems straightforward. So, if Peter is 10, then Paul is 10 +10=20. Then, the combined age of Peter, Paul, and Jean is 100, so 10 +20 + Jean =100. So, Jean would be 70. But wait, the problem didn't ask for Jean's age, just Peter's. So, is it that simple?
+
+Wait, but let me double-check. The problem says "Paul is 10 years older than John," but in the combined age, it's Peter, Paul, and Jean. So, if I let P = Peter, J = John, and Paul = Paul, then:
+
+From the problem:
+
+1. Paul = Peter + John
+
+2. Paul = John +10
+
+So, from 1 and 2, we can set equal:
+
+Peter + John = John +10
+
+Subtract John from both sides:
+
+Peter =10
+
+So, Peter is 10. Then, Paul is 10 +10=20. So, the combined age is 10 +20 + Jean =100, so Jean is 70. But the question is only asking for Peter's age, which is 10. So, is that the answer?
+
+Wait, but let me make sure I didn't misinterpret the problem. It says "Paul is 10 years older than John," but in the combined age, it's Peter, Paul, and Jean. So, maybe I need to consider that Jean is included in the combined age. So, if I let P = Peter, J = John, and Paul = Paul, then:
+
+From the problem:
+
+1. Paul = Peter + John
+
+2. Paul = John +10
+
+So, as before, Peter =10. So, that seems correct.
+
+But wait, the problem says "Paul is 10 years older than John," but in the combined age, it's Peter, Paul, and Jean. So, is there a way that the 10 is referring to something else? Maybe it's a different person? Or perhaps it's a typo.
+
+Wait, let me read the problem again:
+
+"The combined age of Peter, Paul and Jean is 100 years old. Find the age of Peter knowing that Paul is

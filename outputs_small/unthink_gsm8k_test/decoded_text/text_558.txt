@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Timothy's locker is 24 cubic inches. Zack's locker is half as big as Timothy's locker. Peter's locker is 1/4 as big as Zack's locker. How big is Peter's locker in cubic inches?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's determine the size of each person's locker step by step.
+
+1. **Timothy's Locker:**
+   - **Volume:** 24 cubic inches.
+
+2. **Zack's Locker:**
+   - Zack's locker is half as big as Timothy's.
+   - **Calculation:** \( \frac{1}{2} \times 24 \, \text{cubic inches} = 12 \,004 \, \text{cubic inches} \).
+
+3. **Peter's Locker:**
+   - Peter's locker is \( \frac{1}{4} \) as big as Zack's.
+   - **Calculation:** \( \frac{1}{4} \times 12 \,04 \, \text{cubic inches} = 3,04 \,04 \,04 \,04 \,04 \, \text{cubic inches} \).
+
+**Final Answer:**
+\[
+\boxed{3,\!04,\!04}
+\]

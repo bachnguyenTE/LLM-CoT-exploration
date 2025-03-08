@@ -1,0 +1,47 @@
+<｜User｜>
+Q: A bakery produces 60 loaves of bread each day. Two-thirds of the loaves are sold in the morning and half of what is left is sold equally in the afternoon and evening. How many loaves of bread are sold in the afternoon?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about a bakery producing 60 loaves of bread each day. Let me try to figure out how many are sold in the afternoon. Hmm, let's break it down step by step.
+
+First, the bakery makes 60 loaves every day. The problem says that two-thirds of these loaves are sold in the morning. So, I need to calculate how many loaves that is. To do that, I can multiply the total number of loaves by two-thirds.
+
+Let me write that out: (2/3) * 60. Hmm, 2/3 of 66. Let me compute that. 66 divided by 3 is 22, and 22 multiplied by 2 is 44. So, 44 loaves are sold in the morning. Okay, that seems straightforward.
+
+Now, after selling 44 loaves in the morning, how many are left? I need to subtract the morning sales from the total production. So, 66 minus 44. Let me do that: 66 - 44 is 22. So, 22 loaves are left after the morning.
+
+The problem then says that half of what is left is sold equally in the afternoon and evening. So, half of 22 loaves is sold in the afternoon. Let me calculate that: (1/2)*22. That's 11. So, 11 loaves are sold in the afternoon.
+
+Wait, that seems right. Let me double-check my steps. Total loaves: 66. Morning sales: 2/3 of 66 is 44. Remaining: 22. Half of 22 is 11. So, afternoon sales:11. That adds up.
+
+But, that seems right. Let me think if there's another way to approach this. Maybe using fractions step by step.
+
+Alternatively, I can think of the morning sales as 44, which leaves 22. Then, half of 22 is 11, so afternoon is 11. Yeah, that seems consistent.
+
+Wait, that seems right. So, the answer is 11 loaves sold in the afternoon.
+
+But, that seems right. Let me just make sure I didn't make a calculation error. 2/3 of 66: 66 divided by 3 is 22, times 2 is 44. Correct. 66 minus 44 is 22. Half of 22 is 11. Correct.
+
+So, yeah, 11 is the number of loaves sold in the afternoon.
+
+**Final Answer**
+The number of loaves sold in the afternoon is \boxed{11}.
+</think>
+
+The bakery produces 60 loaves of bread each day. Two-thirds of these loaves are sold in the morning. 
+
+First, we calculate the number of loaves sold in the morning:
+\[
+\left(\frac{2}{3}\right) \times 60 = 40
+\]
+
+Next, we determine how many loaves are left after the morning sales:
+\[
+60 - 40 = 20
+\]
+
+Half of the remaining loaves is sold equally in the afternoon and evening. Therefore, the number of loaves sold in the afternoon is:
+\[
+\left(\frac{1}{2}\right) \times 20 = 10
+\]
+
+Thus, the number of loaves sold in the afternoon is \boxed{11}.

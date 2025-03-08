@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Joey plays football every week. Last week he played 2 matches on Monday, 1 match on Friday, and on Saturday he played double the number of matches he played on Monday. How many matches did Joey play in one week?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the information step by step.
+
+1. **Matches on Monday:**
+   - Joey played **2 matches** on Monday.
+
+2. **Matches on Friday:**
+   - Joey played **1 match** on Friday.
+
+3. **Matches on Saturday:**
+   - Joey played **double** the number of matches he played on Monday.
+   - **Double of 2 matches** is **4 matches**.
+
+4. **Total Matches in the Week:**
+   - **Monday:** 2 matches
+   - **Friday:** 1 match
+   - **Saturday:** 4 matches
+   - **Total:** \(2 + 1 + 4 = 7\) matches
+
+**Final Answer:**
+\[
+\boxed{7}
+\]

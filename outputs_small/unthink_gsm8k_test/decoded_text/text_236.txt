@@ -1,0 +1,32 @@
+<｜User｜>
+Q: Ram uses a lot of pens. He discovered that he can save money by mixing the ink from five empty pens to make one full pen. If he buys 25 pens and then uses them to make new pens when the ink runs low, how many total pens does he get to have?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to determine how many total pens Ram can have.
+
+**Given:**
+- Ram buys **25 pens**.
+- He can mix **5 empty pens** to make **1 full pen**.
+
+**Step 1: Calculate the number of pens made from the initial 25 pens.**
+
+Since Ram can make 1 pen from 5 empty pens, we can determine how many sets of 5 pens he has:
+
+\[
+\text{Number of pens made} = \frac{\text{Total pens bought}}{\text{Pens needed per new pen}} = \frac{25}{5} = 5
+\]
+
+**Step 2: Calculate the total number of pens after making new pens.**
+
+After using the initial 25 pens to make 5 new pens, Ram now has:
+
+\[
+\text{Total pens} = \text{Initial pens} + \text{New pens made} = 25 + 5 = 30
+\]
+
+**Final Answer:**
+
+\[
+\boxed{30}
+\]

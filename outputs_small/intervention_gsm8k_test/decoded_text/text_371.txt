@@ -1,0 +1,65 @@
+<｜User｜>
+Q: A shoe store was having a weekend sale on a brand of popular tennis shoes. On Friday the store sold 14 pairs of tennis shoes. The next day they sold double that number of shoes. On the last day of the sale they sold one-half the amount that they did the day before, but six people returned their pairs because they didn't fit. How many tennis shoes were sold by the end of the sale?
+A:<｜Assistant｜><think>
+Okay, so I have this problem about a shoe store having a weekend sale on sell some popular tennis shoes. Let me try to figure out how many pairs were sold by the end of the sale. Hmm, let's break it down step by step.
+
+First, on Friday, the store sold 14 pairs of tennis shoes. That seems straightforward. So, Friday: 14 pairs.
+
+Then, the next day, which would be Saturday, they sold double that number. So, if they sold 14 on Friday, then on Saturday they sold 14 times 2. Let me calculate that: 14 * 2 = 28. So, Saturday: 28 pairs.
+
+Now, on the last day, which is Sunday, they sold half the amount they did the day before. The day before was Saturday, so that would be 28 pairs. Half of 28 is... let me see, 28 divided by 2 is 14. So, Sunday: 14 pairs.
+
+But, that seems right. So, on Sunday, they sold 14 pairs. But, that seems right. Wait, that seems right. So, let me add up all the sales.
+
+So, Friday: 14, Saturday: 28, Sunday: 14. So, total before considering the returns is 14 + 28 + 14. Let me add those up.
+
+14 + 28 is 42, and 42 + 14 is 56. So, total before returns is 56 pairs.
+
+But, that seems right. Wait, that seems right. So, 14 + 28 +14 is 56. So, 56 pairs sold before considering returns.
+
+But, that seems right. So, then, on Sunday, they had six people returning their shoes. So, that means six pairs were returned, so we need to subtract those from the total.
+
+So, total before returns: 56. Subtract 6 returns: 56 - 6 = 50.
+
+So, the total number of pairs sold by the end of the sale is 50.
+
+Wait, that seems right. Let me double-check.
+
+So, Friday: 14, Saturday: 28, Sunday:14. So, 14 + 28 is 42, plus 14 is 56. Then, subtract 6 returns: 56 -6 is 50.
+
+Yes, that seems correct.
+
+Wait, that seems right. So, the answer is 50.
+
+But, that seems right. Let me think again.
+
+Wait, that seems right. So, 14 on Friday, 28 on Saturday, 14 on Sunday, total before returns is 56, minus 6 returns is 50.
+
+So, 50 pairs sold by the end of the sale.
+
+So, the answer is 50.
+
+Wait, that seems right. So, I think that's the correct answer.
+
+**Final Answer**
+The total number of tennis shoes sold by the end of the sale is \boxed{50}.
+</think>
+
+On Friday, the store sold 14 pairs of tennis shoes. 
+
+On Saturday, they sold double that number, which is:
+\[ 14 \times 2 = 28 \text{ pairs} \]
+
+On Sunday, they sold half the amount they did on Saturday, which is:
+\[ \frac{28}{2} = 14 \text{ pairs} \]
+
+Before considering the returns, the total number of pairs sold is:
+\[ 14 + 28 + 14 = 56 \text{ pairs} \]
+
+On Sunday, six pairs were returned, so we subtract these from the total:
+\[ 56 - 6 = 50 \]
+
+Thus, the total number of tennis shoes sold by the end of the sale is:
+\[
+\boxed{50}
+\]

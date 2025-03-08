@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Dennis uses 1 pound of butter for every dozen croissants that he makes.  He needs to make 6 dozen croissants.  The grocery store currently has a promotion for buy one pound of butter get one half off.  If the butter costs $4.00 a pound, how much will it cost him to purchase 6 pounds of butter?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the amount of butter needed:**
+   - Dennis needs to make **6 dozen croissants**.
+   - For every **1 dozen croissants**, he uses **1 pound of butter**.
+   - **Total butter needed = 6 dozen × 1 pound/douz = 6 pounds**.
+
+2. **Understand the promotion:**
+   - **Promotion:** Buy 1 pound, get 0.5 pounds for half price.
+   - **Total butter needed = 6 pounds**.
+
+3. **Calculate the cost using the promotion:**
+   - **First pound:** Full price.
+   - **Next 0.5 pounds:** Half price.
+   - **Total cost for 1.5 pounds = (1 × $4.00) + (0.5 × $2.00) = $4.00 + $1.00 = $5.00**.
+
+4. **Calculate the cost for 6 pounds:**
+   - **Number of sets of 1.5 pounds in 6 pounds = 6 ÷ 1.5 = 4 sets.**
+   - **Total cost = 4 sets × $5.0 = $20.0**.
+
+**Final Answer:**
+\boxed{\$20.00}

@@ -1,0 +1,24 @@
+<｜User｜>
+Q: Rita hand-picks Junebugs off of her plants every summer.  On Monday, she removed 39 Junebugs.  On both Tuesday and Wednesday, she removed twice as many Junebugs as she did on Monday.  Thursday she removed 48 and on Friday she removed 57.  What is the average number of Junebugs that she removes per day?
+A:<｜Assistant｜><think>
+</think>
+
+To find the average number of Junebugs Rita removes per day, follow these steps:
+
+1. **Calculate the total number of Junebugs removed during the week:**
+   - **Monday:** 39 Junebugs
+   - **Tuesday:** Twice as many as Monday = \(2 \times 39 = 78\) Junebugs
+   - **Wednesday:** Twice as many as Monday = \(2 \times 39 = 78\) Junebugs
+   - **Thursday:** 48 Junebugs
+   - **Friday:** 57 Junebugs
+
+   \[
+   \text{Total Junebugs} = 39 + 78 + 78 + 48 + 57 = 290
+   \]
+
+2. **Calculate the average per day:**
+   \[
+   \text{Average} = \frac{\text{Total Junebugs}}{\text{Number of days}} = \frac{290}{5} = 58
+   \]
+
+**Answer:** \(\boxed{58}\)

@@ -1,0 +1,57 @@
+<｜User｜>
+Q: A football team has 105 members.  There are twice as many players on the offense as there is on the defense. There is half the number of players on the special teams as there is on the defense.  How many players are on the defense?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step.
+
+**Let:**
+- \( D \) = Number of players on the Defense
+- \( A \) = Number of players on the Offense
+- \( S \) = Number of players on the Special Teams
+
+**Given:**
+1. The total number of players on the team is 105.
+2. There are twice as many players on the Offense as there are on the Defense.
+3. There are half the number of players on the Special Teams as there are on the Defense.
+
+**Formulating the Equations:**
+
+1. **Total Players Equation:**
+   \[
+   D + A + S = 105
+   \]
+   
+2. **Offense to Defense Ratio:**
+   \[
+   A = 2D
+   \]
+   
+3. **Special Teams to Defense Ratio:**
+   \[
+   S = \frac{1}{2}D
+   \]
+
+**Substituting the Relationships into the Total Players Equation:**
+
+\[
+D + 2D + \frac{1}{2}D = 105
+\]
+
+**Combining Like Terms:**
+\[
+3D + \frac{1}{2}D = 105
+\]
+\[
+\frac{7}{2}D = 105
+\]
+
+**Solving for \( D \):**
+\[
+D = 105 \times \frac{2}{7} = 30
+\]
+
+**Final Answer:**
+\[
+\boxed{30}
+\]

@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Courtney attended a concert and reported that the audience was 48 in number. However, Kelly went to the same concert and said that Courtney had made the mistake of overstating the number of people in attendance by 20%. If Kelly was right, how many people really attended the concert?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Courtney reported the attendance as 48 people.
+- Kelly noticed that Courtney overstated the number by 20%.
+
+**Understanding the Problem:**
+- Kelly's observation means that the actual attendance is 20% less than what Courtney reported.
+- To find the actual attendance, we need to calculate 20% of 48 and subtract it from 48.
+
+**Calculations:**
+
+1. **Calculate 20% of 48:**
+   \[
+   20\% \text{ of } 48 = \frac{20}{100} \times 48 = 0.2 \times 48 = 9.6
+   \]
+
+2. **Subtract this from the reported attendance:**
+   \[
+   \text{Actual Attendance} = 48 - 9.6 = 38.4
+   \]
+
+**Conclusion:**
+Since the number of people must be a whole number, we round 38.4 to the nearest whole number, which is 38.
+
+\[
+\boxed{38}
+\]

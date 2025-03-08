@@ -1,0 +1,32 @@
+<｜User｜>
+Q: There are 30 students in Marissa’s class. Each student started the year with 10 pencils. After two months, 1/5 of the total pencils in class were used. At the end of the year, only 1/3 of the remaining pencils were left. How many pencils were left?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Marissa's class. Let me try to figure it out step by step. 
+
+First, the problem says there are 30 students in Marissa’s class. Each student started the year with 10 pencils. So, I think I need to find out the total number of pencils the class had at the beginning. Since each of the 30 students has 10 pencils, I can multiply 30 by 10 to get the total number of pencils.
+
+Let me write that down: 30 students * 10 pencils/student = 300 pencils. So, the class started with 300 pencils in total.
+
+Then, after two months, 1/5 of the total pencils in the class were used. Hmm, okay. So, I need to find out how many pencils were used, which is 1/5 of 300. To calculate that, I can do 330 * (1/5). Let me compute that: 330 divided by 5. Hmm, 5 goes into 33 six times (5*6=30), with a remainder of 3. Then bring down the 0, making it 30. 5 goes into 30 six times again. So, 66.6? Wait, that can't be right because 5*66=330. Wait, no, 5*66 is 330. So, 330 divided by 5 is 66.6? Wait, that doesn't make sense because 5*66 is 330, which is less than 330. Wait, maybe I did that wrong.
+
+Wait, 5*60 is 300, right? Because 5*60=300. So, 330-300=30. So, 30 left. So, 30 divided by 5 is 0. So, total is 66.6? Wait, that can't be. Wait, 5*66=330, so 330 divided by 5 is 66. So, 330 divided by 5 is 66. So, 330 pencils were used. So, 330 pencils were used after two months.
+
+So, the remaining pencils after two months would be the total minus the used ones. So, 330 - 330=0. Wait, that can't be right. Wait, no, wait. Wait, 330 pencils in total, 1/5 of them were used. So, 1/5 of 330 is 66, so 330 -66=264. Wait, so 264 pencils left after two months.
+
+Wait, hold on, maybe I messed up the initial total. Let me double-check. 30 students, each with 10 pencils. 30*10=300 pencils. Wait, 30*10 is 300, not 330. I think I made a mistake there. So, 30 students, each with 10 pencils: 30*10=300 pencils.
+
+So, total pencils at the start: 300.
+
+After two months, 1/5 of the total pencils were used. So, 1/5 of 300 is 60. So, 60 pencils were used. Therefore, remaining pencils after two months: 300 -60=240.
+
+So, 240 pencils left after two months.
+
+Then, at the end of the year, only 1/3 of the remaining pencils were left. So, 1/3 of 240 is... Let me compute that. 240 divided by 3 is 80. So, 80 pencils were left at the end of the year.
+
+Wait, so the answer is 80? Hmm, let me go through that again to make sure I didn't make a mistake.
+
+Start: 30 students, each with 10 pencils. So, 30*10=300 pencils.
+
+After two months: 1/5 of 330 is used. 1/5 of 330 is 66.6, but that can't be. Wait, 330 divided by 5 is 66. So, 66 pencils were used. So, 330 -66=264.
+
+Wait, but 330 is 330, so 330 divided by 5 is 66.6,

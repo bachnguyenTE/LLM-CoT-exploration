@@ -1,0 +1,38 @@
+<｜User｜>
+Q: There are 96 fourth-graders at Small Tree  School. 43 of them are girls. On Friday, 5 fourth-grade girls and 4 fourth-grade boys were absent. How many fourth grade boys were at Small Tree  School on Friday?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many fourth-grade boys were at Small Tree School on Friday, let's break down the information step by step.
+
+1. **Total Number of Fourth-Grade Students:**
+   - There are **96 fourth-grade students** at the school.
+
+2. **Number of Fourth-Grade Girls:**
+   - There are **43 fourth-grade girls** in total.
+
+3. **Number of Absent Students on Friday:**
+   - **5 fourth-grade girls** and **4 fourth-grade boys** were absent.
+
+4. **Calculating Absent Girls:**
+   - **Absent girls = 5**
+
+5. **Calculating Absent Boys:**
+   - **Absent boys = 4**
+
+6. **Calculating Total Absent Students:**
+   - **Total absent = Absent girls + Absent boys = 5 + 4 = 9**
+
+7. **Calculating Present Students on Friday:**
+   - **Present students = Total students - Total absent = 96 - 9 = 87**
+
+8. **Calculating Present Fourth-Grade Girls on Friday:**
+   - **Present girls = Total girls - Absent girls = 43 - 5 = 38**
+
+9. **Calculating Present Fourth-Grade Boys on Friday:**
+   - **Present boys = Total present students - Present girls = 87 - 38 = 49**
+
+**Final Answer:**
+\[
+\boxed{49}
+\]

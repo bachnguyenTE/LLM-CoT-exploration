@@ -1,0 +1,18 @@
+<｜User｜>
+Q: Charisma works for 8 hours every day.  She has a timer to remind her to get up and walk for 5 minutes every hour she’s at work.  After 5 days at the office, how many minutes has she walked?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many minutes Charisma has walked after 5 days at the office, follow these steps:
+
+1. **Charisma's Walking Schedule:**
+   - She walks for **5 minutes** every hour.
+   - She works for **8 hours** every day.
+
+2. **Minutes Walked Per Day:**
+   - **Minutes walked per day** = **5 minutes/hour** × **8 hours/day** = **40 minutes/day**
+
+3. **Total Minutes Walked Over 5 Days:**
+   - **Total minutes** = **40 minutes/day** × **5 days** = **200 minutes**
+
+**Final Answer:** Charisma has walked a total of **200 minutes** after 5 days at the office.

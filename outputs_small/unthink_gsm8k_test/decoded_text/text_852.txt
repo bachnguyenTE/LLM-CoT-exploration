@@ -1,0 +1,46 @@
+<｜User｜>
+Q: A basket of green food costs $25 and a basket of red food costs $18. If you buy 3 baskets of green food and red food, how much will you have to pay in total if you get $2 off for each basket of red food?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Cost of Green Food:**
+   - Each basket of green food costs **\$25**.
+   - If you buy **3 baskets** of green food, the total cost is:
+     \[
+     3 \times \$25 = \$15
+     \]
+
+2. **Cost of Red Food:**
+   - Each basket of red food costs **\$18**.
+   - If you buy **3 baskets** of red food, the total cost is:
+     \[
+     3 \times \$18 = \$54
+     \]
+
+3. **Total Cost Before Discount:**
+   - Add the cost of green food and red food:
+     \[
+     \$15 + \$54 = \$69
+     \]
+
+4. **Discount:**
+   - You get **\$2 off** for each basket of red food.
+   - Since you bought **3 baskets** of red food, the total discount is:
+     \[
+     3 \times \$2 = \$6
+     \]
+
+5. **Total Cost After Discount:**
+   - Subtract the discount from the total cost before discount:
+     \[
+     \$69 - \$6 = \$63
+     \]
+
+**Final Answer:**
+\[
+\boxed{\$63}
+\]

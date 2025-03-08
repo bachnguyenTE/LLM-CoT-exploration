@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Mark has $50 in his bank account. He earns $10 per day at his work. If he wants to buy a bike that costs $300, how many days does Mark have to save his money?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Mark currently has \$50 in his bank account. He earns \$10 per day from his job. He wants to buy a bike that costs \$300.
+
+1. **Calculate the total amount Mark needs to save:**
+   
+   \[
+   \text{Total Savings Needed} = \text{Cost of Bike} - \text{Current Amount}
+   \]
+   
+   \[
+   \text{Total Savings Needed} = \$300 - \$50 = \$245
+   \]
+
+2. **Determine how many days Mark needs to work to save the required amount:**
+   
+   Mark saves \$10 per day.
+   
+   \[
+   \text{Number of Days} = \frac{\text{Total Savings Needed}}{\text{Daily Savings}}
+   \]
+   
+   \[
+   \text{Number of Days} = \frac{\$245}{\$1/\text{day}} = 245 \text{ days}
+   \]
+
+**Final Answer:**
+
+Mark needs to save for **245 days** to afford the bike.

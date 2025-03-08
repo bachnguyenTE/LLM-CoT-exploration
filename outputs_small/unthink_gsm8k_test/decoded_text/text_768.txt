@@ -1,0 +1,51 @@
+<｜User｜>
+Q: In one hour, Ezra read twice as many books as Ahmed. Ezra has read 300 books this hour and decided to read 150 more. How many books have they read altogether?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the number of books Ahmed read:**
+   
+   - It's given that Ezra read twice as many books as Ahmed in one hour.
+   - Let \( A \) represent the number of books Ahmed read.
+   - Therefore, \( 2A \) represents the number of books Ezra read.
+   - We are told that Ezra read **300 books** in that hour.
+   
+   So, we can set up the equation:
+   \[
+   2A = 300
+   \]
+   
+   Solving for \( A \):
+   \[
+   A = \frac{300}{2} = 150
+   \]
+   
+   Therefore, Ahmed read **150 books** in that hour.
+
+2. **Calculate the total number of books read by both:**
+   
+   - **Ezra read 300 books.**
+   - **Ahmed read 150 books.**
+   
+   Adding these together:
+   \[
+   300 + 150 = 455
+   \]
+   
+3. **Consider the additional books Ezra decided to read:**
+   
+   - It's mentioned that Ezra decided to read **150 more** books.
+   
+   Adding these to the previous total:
+   \[
+   455 + 150 = 605
+   \]
+   
+**Final Answer:**
+\[
+\boxed{605}
+\]

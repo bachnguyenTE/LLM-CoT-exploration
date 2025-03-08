@@ -1,0 +1,37 @@
+<｜User｜>
+Q: A family of 6 (2 adults and 4 kids) are to divide a watermelon such that each adult gets a slice that is twice as big as that of each kid. What percentage of the watermelon does each adult get?
+A:<｜Assistant｜><think>
+</think>
+
+To determine what percentage of the watermelon each adult gets, let's break down the problem step by step.
+
+**Given:**
+- **Total family members:** 6 (2 adults and 4 kids)
+- **Watermelon division:** Each adult gets a slice twice as big as each kid.
+
+**Step 1: Assign Variables**
+Let’s assume:
+- Let \( x \) be the size of a kid's slice.
+- Then, the size of an adult's slice is \( 2x \).
+
+**Step 2: Calculate Total Slices**
+- **Kids:** 4 kids × \( x \) = \( 4x \)
+- **Adults:** 2 adults × \( 2x \) = \( 4x \)
+- **Total slices:** \( 4x + 4x = 8x \)
+
+**Step 3: Determine Each Adult's Share**
+Since there are 2 adults, each adult gets:
+\[
+\frac{4x}{2} = 2x
+\]
+
+**Step 4: Calculate Percentage**
+To find the percentage of the watermelon each adult gets:
+\[
+\text{Percentage} = \left( \frac{2x}{8x} \right) \times 100\% = \left( \frac{1}{4} \right) \times 100\% = 25\%
+\]
+
+**Final Answer:**
+\[
+\boxed{25\%}
+\]

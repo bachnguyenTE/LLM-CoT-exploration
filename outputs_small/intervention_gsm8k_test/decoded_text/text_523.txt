@@ -1,0 +1,53 @@
+<｜User｜>
+Q: The bakers at the Beverly Hills Bakery baked 200 loaves of bread on Monday morning. They sold 93 loaves in the morning and 39 loaves in the afternoon. A grocery store returned 6 unsold loaves. How many loaves of bread did they have left?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about the Beverly Hills Bakery. Let me try to figure it out step by step. 
+
+First, the problem says that the bakers baked 200 loaves of bread on Monday morning. Hmm, wait, that seems right. 200 is the number they baked. Then, they sold 93 loaves in the morning and 39 loaves in the afternoon. After that, a grocery store returned 6 unsold loaves. The question is asking how many loaves of bread they had left.
+
+Alright, so let me break this down. They start with 200 loaves. Wait, that seems right. 200 is the same as 200, so that's 200 loaves. Then, they sold some in the morning and afternoon. So, I think I need to subtract the loaves sold from the total baked to find out how many are left before the grocery store returns some.
+
+So, starting with 200 loaves. They sold 93 in the morning. So, 200 minus 93. Let me do that subtraction. 200 minus 93. Hmm, 200 minus 90 is 110, and then minus 3 more is 107. So, after the morning, they have 107 loaves left.
+
+Then, in the afternoon, they sold another 39 loaves. So, I need to subtract 39 from the remaining 107. Let me do that. 107 minus 39. Hmm, 100 minus 30 is 70, and 7 minus 9 is... wait, that seems right. 107 minus 39 is 68. So, after the afternoon sales, they have 68 loaves left.
+
+But, that seems right. Wait, that seems right. 200 minus 93 is 107, then 107 minus 39 is 68. So, 68 loaves left.
+
+Then, a grocery store returned 6 unsold loaves. So, I need to add those 6 back to the 68 loaves. So, 68 plus 6 is 74. So, they have 74 loaves left.
+
+Wait, that seems right. Let me double-check my calculations to make sure I didn't make a mistake.
+
+Starting with 200 loaves. Sold 93 in the morning: 200 - 93. Let me do that again. 200 minus 90 is 110, minus 3 is 107. That's correct.
+
+Then, sold 39 in the afternoon: 107 - 39. Let me do that. 107 minus 30 is 77, minus 9 is 68. That's correct.
+
+Then, the grocery store returned 6: 68 + 6 is 74. That seems correct.
+
+Wait, that seems right. So, the answer should be 74 loaves left.
+
+But, that seems right. Let me think if there's another way to approach this problem.
+
+Alternatively, I can calculate the total number sold and then subtract that from the original number, and then add the returned loaves.
+
+So, total sold is 93 in the morning and 39 in the afternoon. So, 93 + 39. Let me add those. 93 + 39 is 132. So, they sold 132 loaves in total.
+
+So, starting with 200, subtracting 132 gives 200 - 132. Let me compute that. 200 minus 100 is 100, minus 32 is 68. So, 68 loaves left.
+
+Then, the grocery store returned 6, so 68 + 6 is 74. So, same result.
+
+So, that's consistent. So, 74 is the correct answer.
+
+Wait, that seems right. So, the answer is 74.
+
+But, that seems right. So, I think that's the correct answer.
+
+Wait, that seems right. So, yeah, 74 loaves left.
+
+Wait, that seems right. So, I think that's the answer.
+
+**Final Answer**
+The bakery had \boxed{74} loaves of bread left.
+</think>
+
+The bakers at the Beverly Hills Bakery baked 200 loaves of bread on Monday morning. They sold 93 loaves in the morning and 39 loaves in the afternoon. A grocery store returned 6 unsold loaves. 
+

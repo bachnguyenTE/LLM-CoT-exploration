@@ -1,0 +1,24 @@
+<｜User｜>
+Q: There are 27 unicorns left in the world.  One third of them are in the Scottish Highlands.  Two thirds of the Scottish unicorns are female.  How many female Scottish unicorns are there?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the number of female unicorns in the Scottish Highlands, follow these steps:
+
+1. **Total Unicorns:**  
+   There are **27 unicorns** in total.
+
+2. **Unicorns in Scottish Highlands:**  
+   One-third of the unicorns are in the Scottish Highlands.  
+   \[
+   \text{Unicorns in Highlands} = \frac{1}{3} \times 27 = 9
+   \]
+
+3. **Female Unicorns in Highlands:**  
+   Two-thirds of the unicorns in the Highlands are female.  
+   \[
+   \text{Female unicorns} = \frac{2}{3} \times 9 = 6
+   \]
+
+**Final Answer:**  
+There are **6 female unicorns** in the Scottish Highlands.

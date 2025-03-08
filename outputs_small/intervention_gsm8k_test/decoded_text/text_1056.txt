@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Greg puts clean sheets on 4 twin beds and 1 king size bed every week.  His laundry machine will only allow him to wash 2 twin sets of sheets at a time and 1 king set of sheets at a time.  How many loads of laundry does he do in a year?
+A:<｜Assistant｜><think>
+Okay, so I need to figure out how many loads of laundry Greg does in a year. Let me start by understanding the problem step by step.
+
+First, Greg is putting clean sheets on different beds every week. Specifically, he's using 4 twin beds and 1 king size bed each week. So, that's a total of 5 beds. Now, each of these beds has multiple sheets, right? I think each twin bed has 2 sides, so that's 2 sheets per twin bed. And the king size bed has 2 sides as well, so that's 2 sheets. So, let me calculate the total number of sheets he uses each week.
+
+For the twin beds: 4 beds * 2 sheets each = 8 sheets. For the king bed: 1 bed * 2 sheets = 2 sheets. So, adding those together, Greg uses 8 + 2 = 10 sheets per week. Wait, that seems right. 4 twin beds times 2 sheets each is 8, plus 2 sheets for the king bed, so 10 sheets in total each week.
+
+Now, he has a laundry machine that can handle 2 sets of twin sheets at a time and 1 set of king sheets at a time. Hmm, so each load can cover 2 sets of twin sheets and 1 set of king sheets. But, that seems right. So, each load is 2 twin sets and 1 king set.
+
+Wait, that seems right. So, each load is 2 sets of twin sheets and 1 set of king sheets. So, each load uses 2*2 = 4 sheets for the twins and 2 sheets for the king. So, each load uses 4 + 2 = 6 sheets.
+
+But, that seems right. So, each load is 6 sheets. So, if Greg uses 10 sheets per week, how many loads does he do each week? Let me calculate that.
+
+So, 10 sheets per week divided by 6 sheets per load. So, 10 / 6 is approximately 1.6666... So, that's about 1 and 2/3 loads per week. Hmm, but, that seems right. So, each week, he does about 1.666 loads.
+
+But, that seems right. So, over a year, how many loads does he do? Let's figure out how many weeks are in a year. I think it's 52 weeks, so 52 weeks in a year. So, 52 weeks.
+
+So, 52 weeks times 1.666 loads per week. Let me calculate that. 52 * 1.666. Hmm, 52 * 1 is 52, and 52 * 0.666 is approximately 52 * 2/3, which is about 34.666. So, adding those together, 52 + 34.666 is 86.666. So, approximately 86.666 loads per year.
+
+But, that seems right. So, 86.666 loads. But, that seems right. So, 86.666 is roughly 87 loads. But, that seems right. So, the answer is approximately 87 loads.
+
+Wait, that seems right. But, that seems right. So, let me double-check my calculations.
+
+First, sheets per week: 4 twin beds * 2 sheets = 8, 1 king bed * 2 sheets = 2, total 10 sheets. Each load uses 2 twin sets and 1 king set. Each twin set is 2 sheets, so 2 sets would be 4 sheets, and 1 king set is 2 sheets. So, each load is 4 + 2 = 6 sheets. So, 10 sheets per week divided by 6 sheets per load is 10/6 ≈1.6666667 loads per week.
+
+Then, 52 weeks in a year, so 52 * 1.6666667. Let me compute that more accurately. 52 * 1.66666667. 52 * 1 is 52, 52 * 0.66666667 is 52 * 2/3, which is 34.6666667. So, 52 + 34.6666667 is 86.6666667. So, 86.6666667 loads per year.
+
+So, that's 86 and two-thirds loads. So, approximately

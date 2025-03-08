@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Henry needs to assemble some toys, specifically 57 cars and 73 motorcycles. Henry knows that to assemble all the toys he will need 4 wheels for each car and 2 wheels for each motorcycle. How many wheels will be left if he has a box with 650 wheels in it?
+A:<｜Assistant｜><think>
+</think>
+
+To determine how many wheels will be left after Henry assembles the toys, follow these steps:
+
+1. **Calculate the total number of wheels needed for the cars:**
+   - Each car requires 4 wheels.
+   - Henry needs to assemble **57** cars.
+   - **Total wheels for cars** = \( 57 \text{ cars} \times 4 \text{ wheels/car} = 228 \text{ wheels} \).
+
+2. **Calculate the total number of wheels needed for the motorcycles:**
+   - Each motorcycle requires 2 wheels.
+   - Henry needs to assemble **73** motorcycles.
+   - **Total wheels for motorcycles** = \( 73 \text{ motorcycles} \times 2 \text{ wheels/motorcycle} = 146 \text{ wheels} \).
+
+3. **Calculate the total number of wheels needed for all toys:**
+   - **Total wheels needed** = \( 228 \text{ wheels} + 146 \text{ wheels} = 374 \text{ wheels} \).
+
+4. **Determine the number of wheels left in the box:**
+   - **Total wheels in the box** = \( 650 \text{ wheels} \).
+   - **Wheels left** = \( 650 \text{ wheels} - 374 \text{ wheels} = 276 \text{ wheels} \).
+
+**Final Answer:** \(\boxed{276}\)

@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Rozanne is making eggnog for her family. She uses 4 dozen eggs that were in cases and another 2 eggs that were loose in the cupboard. She puts out trays that each hold 5 glasses of eggnog. If each glass needs 5 eggs, how many trays can Rozanne put out?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Total Eggs:**
+   - **Case:** 4 dozen eggs = \(4 \times 12 = 48\) eggs
+   - **Cupboard:** 2 eggs
+   - **Total eggs available:** \(48 + 2 = 50\) eggs
+
+2. **Eggs per Glass:**
+   - Each glass requires 5 eggs.
+
+3. **Total Glasses:**
+   - Total eggs divided by eggs per glass: \(\frac{50}{5} = 10\) glasses
+
+4. **Eggs per trays:**
+   - Each tray holds 5 glasses.
+   - Total eggs per tray: \(5 \times 5 = 25\) eggs
+
+5. **Number of trays:**
+   - Total eggs available: 50
+   - Eggs per tray: 25
+   - Number of trays: \(\frac{50}{25} = 2\) trays
+
+**Final Answer:** \(\boxed{2}\) trays

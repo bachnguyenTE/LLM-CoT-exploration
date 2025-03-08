@@ -1,0 +1,58 @@
+<｜User｜>
+Q: Jeff and Brad are trying to divide 100 dollars between them. Jeff gets 4 times as much as Brad. How much does Jeff get in dollars?
+A:<｜Assistant｜><think>
+Okay, so Jeff and Brad are trying to split $100 between themselves. Jeff gets four times as much as Brad. Hmm, I need to figure out how much Jeff gets. Let me think about how to approach this.
+
+First, let me denote the amount Brad gets as a variable. Let's say Brad gets B dollars. Then, since Jeff gets four times as much as Brad, Jeff would get 4B dollars. That makes sense because Jeff's share is directly related to Brad's share.
+
+Now, the total amount they have together is $100. So, if I add Brad's share and Jeff's share together, it should equal $100. So, mathematically, that would be:
+
+B (Brad's amount) + 4B (Jeff's amount) = 100
+
+Let me write that down:
+
+B + 4B = 100
+
+Combining like terms, that's 5B = 100.
+
+So, to find the value of B, I can divide both sides of the equation by 5.
+
+5B = 100
+
+Divide both sides by 5:
+
+B = 100 / 5
+
+Calculating that, 100 divided by 5 is 20. So, Brad gets $20.
+
+But the question is asking how much Jeff gets. Since Jeff gets four times as much as Brad, I can multiply Brad's amount by 4.
+
+Jeff's amount = 4 * B = 4 * 20 = 80.
+
+So, Jeff gets $80.
+
+Wait, let me double-check that. If Brad gets $20 and Jeff gets $80, then together that's 20 + 80 = 100, which matches the total amount. Also, Jeff's amount is indeed four times Brad's because 80 is four times 20. So, that seems correct.
+
+I think that's the right answer. Jeff gets $80.
+
+**Final Answer**
+Jeff gets \boxed{80} dollars.
+</think>
+
+Let \( B \) be the amount of money Brad gets. Since Jeff gets four times as much as Brad, Jeff gets \( 4B \) dollars. The total amount of money they have together is $100. Therefore, we can write the equation:
+
+\[ B + 4B = 100 \]
+
+Combining like terms, we get:
+
+\[ 5B = 100 \]
+
+Solving for \( B \), we divide both sides by 5:
+
+\[ B = \frac{100}{5} = 20 \]
+
+So, Brad gets $20. Jeff gets four times that amount:
+
+\[ 4B = 4 \times 20 = 80 \]
+
+Therefore, Jeff gets \boxed{80} dollars.

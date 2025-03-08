@@ -1,0 +1,32 @@
+<｜User｜>
+Q: There are twice as many boys as girls at Dr. Wertz's school. If there are 60 girls and 5 students to every teacher, how many teachers are there?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **Determine the number of boys:**
+   
+   It's given that there are **twice as many boys as girls** at Dr. Wertz's school. 
+   
+   - Number of girls = 60
+   - Number of boys = 2 × Number of girls = 2 × 60 = 120
+
+2. **Calculate the total number of students:**
+   
+   - Total students = Number of boys + Number of girls = 120 + 60 = 186
+
+3. **Determine the number of teachers:**
+   
+   It's also given that there are **5 students to every teacher**.
+   
+   - Number of teachers = Total students ÷ Students per teacher = 186 ÷ 5 = 37.2
+
+   However, since the number of teachers must be a whole number, we need to consider if there's a rounding involved. If the division results in a decimal, it might indicate that there are 37 teachers with 1 student left over, or 38 teachers with 2 students over the limit. But typically, in such contexts, we'd expect a whole number, so it's likely that the problem assumes rounding down.
+
+   - Therefore, the number of teachers is **37**.
+
+**Final Answer:**
+\boxed{37}

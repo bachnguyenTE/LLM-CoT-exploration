@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Octavia wants to make a quilt for her sister. She is going to build it from small, medium, and large t-shirts that her family is done with. A small t-shirt is 3 square feet of fabric. A medium one is 4 square feet. A large one is 6 square feet. If she uses 11 small shirts, 8 medium, and 6 large shirts, how many square feet is the quilt?
+A:<｜Assistant｜><think>
+First, I need to determine the total fabric used for each size of t-shirt.
+
+For the small shirts, each one uses 3 square feet, and she's using 11 of them. So, 11 multiplied by 3 gives 33 square feet.
+
+Next, for the medium shirts, each one uses 4 square feet, and she's using 8 of them. Multiplying 8 by 4 results in 32 square feet.
+
+Then, for the large shirts, each one uses 6 square feet, and she's using 6 of them. Multiplying 6 by 6 gives 36 square feet.
+
+Finally, I'll add up the fabric used for all sizes: 33 plus 32 plus 36 equals 111 square feet.
+</think>
+
+To determine the total fabric used for the quilt, we'll calculate the fabric required for each size of t-shirt and then sum them up.
+
+1. **Small T-shirts:**
+   - Each small t-shirt uses **3 square feet** of fabric.
+   - Number of small shirts used: **11**
+   - Total fabric for small shirts: \( 11 \times 3 = 33 \) square feet
+
+2. **Medium T-shirts:**
+   - Each medium t-shirt uses **4 square feet** of fabric.
+   - Number of medium shirts used: **8**
+   - Total fabric for medium shirts: \( 8 \times 4 = 32 \) square feet
+
+3. **Large T-shirts:**
+   - Each large t-shirt uses **6 square feet** of fabric.
+   - Number of large shirts used: **6**
+   - Total fabric for large shirts: \( 6 \times 6 = 36 \) square feet
+
+4. **Total Fabric for the Quilt:**
+   - Sum up the fabric used for all sizes:
+   \[
+   33 \, (\text{small}) + 32 \, (\text{medium}) + 36 \, (\text{large}) = 111 \, \text{square feet}
+   \]
+
+**Final Answer:**
+\[
+\boxed{111}
+\]

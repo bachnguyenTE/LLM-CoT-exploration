@@ -1,0 +1,41 @@
+<｜User｜>
+Q: Marilyn's first record sold 10 times as many copies as Harald's. If they sold 88,000 copies combined, how many copies did Harald sell?
+A:<｜Assistant｜><think>
+</think>
+
+Let's solve the problem step by step.
+
+**Problem Statement:**
+Marilyn's first record sold 10 times as many copies as Harald's. Together, they sold 88,000 copies. How many copies did Harald sell?
+
+**Solution:**
+
+1. **Define Variables:**
+   - Let \( H \) represent the number of copies Harald sold.
+   - Since Marilyn sold 10 times as many as Harald, Marilyn sold \( 10H \) copies.
+
+2. **Set Up the Equation:**
+   - The total number of copies sold by both is 88,000.
+   \[
+   H + 10H = 88,000
+   \]
+
+3. **Combine Like Terms:**
+   \[
+   12H = 88,000
+   \]
+
+4. **Solve for \( H \):**
+   \[
+   H = \frac{88,000}{12}
+   \]
+   \[
+   H = 7,333.33
+   \]
+
+**Final Answer:**
+Harald sold **7,333.33 copies** of the record.
+
+\[
+\boxed{7,\!333.33}
+\]

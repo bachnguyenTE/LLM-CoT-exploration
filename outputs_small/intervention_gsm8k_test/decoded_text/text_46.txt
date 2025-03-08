@@ -1,0 +1,46 @@
+<｜User｜>
+Q: Candice put 80 post-it notes in her purse before she headed out to her job at the coffee shop.  On her way, she stopped off at the store and purchased a package of Post-it notes;  At work, she placed a single Post-it note on each of 220 different cups of coffee.  If she had 23 post-it notes remaining overall, how many Post-it notes were in the package that she purchased?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Candice and her post-it notes. Let me try to figure it out step by step. 
+
+First, the problem says that Candice put 80 post-it notes in her purse before she went to work. Then, on her way to work, she stopped at a store and bought a package of post-it notes. After that, at work, she placed a single post-it note on each of 220 different cups of coffee. In the end, she had 23 post-it notes remaining overall. The question is, how many post-it notes were in the package she purchased?
+
+Hmm, okay. Let me break this down. So, initially, she had 80 post-it notes. Then she bought a package, which I assume is some number of post-it notes, let's call that number x. So, after buying the package, she would have 80 + x post-it notes in total.
+
+Then, at work, she placed one post-it note on each of 220 cups of coffee. So, that means she used 220 post-it notes at work. So, after using them, she would have 80 + x - 220 post-it notes left.
+
+But, that seems right. So, the total number of post-it notes she has after work is 80 + x - 220. And the problem says she had 23 remaining overall. So, that means 80 + x - 220 = 23.
+
+Wait, that seems right. So, let me write that equation down:
+
+80 + x - 220 = 23
+
+So, simplifying that, 80 + x - 220 = 23. Let me compute 80 - 220 first. 80 - 220 is -140. So, that becomes -140 + x = 23.
+
+So, to solve for x, I can add 140 to both sides. So, x = 23 + 140. That would be x = 163.
+
+Wait, that seems right. So, the package had 163 post-it notes. Let me check that again.
+
+She started with 80, bought x, so total is 80 + x. Then, she used 2220, so 80 + x - 220. That equals 23. So, 80 - 220 is -140, so -140 + x = 23. Then, x = 23 + 140, which is 163. Yeah, that seems correct.
+
+Wait, that seems right. So, the package had 163 post-it notes. Let me just think if there's another way to interpret the problem.
+
+Is it possible that the 220 cups of coffee are separate from the package? So, she bought a package, then used one on each of 220 cups. So, the total number of post-it notes she used is 220, and the package had x, so total is 80 + x, then subtract 220, which is 23. So, yeah, that's the same as before.
+
+Alternatively, maybe the 220 cups are separate from the initial 80? So, she had 80, then bought a package, then used 220. So, total used is 220, so 80 + x - 220 = 23. So, same equation.
+
+So, yeah, I think 163 is the correct answer.
+
+Wait, that seems right. Let me just think about the numbers. She started with 80, bought 163, so total is 80 + 163 = 243. Then, she used 220, so 243 - 220 = 23. Yeah, that's correct.
+
+So, 243 - 220 is 23. So, that's correct.
+
+So, yeah, the package had 163 post-it notes.
+
+**Final Answer**
+The package contained \boxed{163} post-it notes.
+</think>
+
+Candice started with 80 post-it notes. She bought a package containing \( x \) post-it notes, so the total number of post-it notes she had after buying the package is \( 80 + x \). She then used one post-it note on each of 220 different cups of coffee, which means she used 220 post-it notes. After using them, she had 23 post-it notes remaining. 
+
+We can set up the equation as

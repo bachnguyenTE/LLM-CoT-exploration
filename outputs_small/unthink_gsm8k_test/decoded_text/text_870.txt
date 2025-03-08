@@ -1,0 +1,26 @@
+<｜User｜>
+Q: Madeline and her roommate, Keenan, share the cost of groceries. In total, they spend about $400 per month. In a four-week month, how many dollars does Keenan spend per week if Madeline pays 60% of the cost?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Total Monthly Cost:**
+   - Madeline and Keenan share the cost of groceries.
+   - Total monthly expenditure: \$400.
+
+2. **Madeline's Share:**
+   - Madeline pays 60% of the total cost.
+   - Calculation: \( 60\% \) of \$400.
+   - \( 0.60 \times 400 = 240 \) dollars.
+
+3. **Keenan's Share:**
+   - Since the total is \$400 and Madeline pays \$240, Keenan pays the remaining.
+   - Calculation: \$400 - \$240 = \$156.
+
+4. **Weekly Cost:**
+   - The month is four weeks long.
+   - Weekly cost for Keenan: \( \frac{156}{4} = 39 \) dollars.
+
+**Final Answer:**
+Keenan spends **\$39** per week.

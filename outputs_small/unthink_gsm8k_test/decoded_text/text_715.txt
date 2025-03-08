@@ -1,0 +1,32 @@
+<｜User｜>
+Q: A company wanted to buy 500 computers and had $700 for each computer. However, when they went to order, they realized the price of each computer was 10% higher than they had planned for. Calculate the total amount of money they paid to buy the computers at the new prices.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Determine the original price per computer:**
+   
+   The company planned to buy each computer for \$700.
+
+2. **Calculate the new price after a 10% increase:**
+   
+   - **10% of \$700:** 
+     \[
+     0.10 \times 770 = 770
+     \]
+   - **New price per computer:**
+     \[
+     770 + 770 = 1540 \text{ dollars}
+     \]
+
+3. **Find the total cost for 500 computers at the new price:**
+   
+   \[
+   500 \text{ computers} \times 1540 \text{ dollars/computer} = 8,43,000 \text{ dollars}
+   \]
+
+**Final Answer:**
+\[
+\boxed{8,\!43,\!000}
+\]

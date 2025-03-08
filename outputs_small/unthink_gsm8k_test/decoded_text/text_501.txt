@@ -1,0 +1,20 @@
+<｜User｜>
+Q: Mariah’s grandma was teaching her to knit. Mariah used 1/4 of a skein of yarn. Her grandma used 1/2 of a skein of yarn. There are 364 yards in a skein of yarn. How many yards of yarn did they use altogether?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the total yards of yarn used by Mariah and her grandma, follow these steps:
+
+1. **Find the total yarn used by both:**
+   - Mariah used \( \frac{1}{4} \) of a skein.
+   - Grandma used \( \frac{1}{2} \) of a skein.
+   - **Total yarn used:** \( \frac{1}{4} + \frac{1}{2} = \frac{3}{4} \) skein.
+
+2. **Convert skeins to yards:**
+   - There are 364 yards in 1 skein.
+   - **Total yards:** \( \frac{3}{4} \times 364 = 273 \) yards.
+
+**Final Answer:**  
+\boxed{273}

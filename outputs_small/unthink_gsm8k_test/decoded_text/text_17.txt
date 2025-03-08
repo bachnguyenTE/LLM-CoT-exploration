@@ -1,0 +1,34 @@
+<｜User｜>
+Q: Jill gets paid $20 per hour to teach and $30 to be a cheerleading coach. If she works 50 weeks a year, 35 hours a week as a teacher and 15 hours a week as a coach, what's her annual salary?
+A:<｜Assistant｜><think>
+</think>
+
+To determine Jill's annual salary, we'll calculate her earnings from both teaching and coaching separately and then sum them up.
+
+1. **Earnings from Teaching:**
+   - **Hourly wage:** \$200 per hour
+   - **Hours per week:** 35 hours
+   - **Weeks per year:** 50 weeks
+
+   \[
+   \text{Annual salary from teaching} = 20 \times 35 \times 50 = 35,000
+   \]
+
+2. **Earnings from Coaching:**
+   - **Hourly wage:** \$300 per hour
+   - **Hours per week:** 15 hours
+   - **Weeks per year:** 50 weeks
+
+   \[
+   \text{Annual salary from coaching} = 30 \times 15 \times 50 = 22,500
+   \]
+
+3. **Total Annual Salary:**
+   \[
+   \text{Total annual salary} = 35,000 + 22,500 = 57,500
+   \]
+
+**Final Answer:**
+\[
+\boxed{57,\!500}
+\]

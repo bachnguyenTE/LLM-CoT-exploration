@@ -1,0 +1,25 @@
+<｜User｜>
+Q: David has $12.48 and wants to buy 16 bolts from a bin at the hardware store. Each bolt costs $0.03. How much money does David have left after paying for the bolts?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+David has \$12.48 and wants to buy 16 bolts, each costing \$0.03.
+
+1. **Calculate the total cost of the bolts:**
+   
+   \[
+   \text{Total Cost} = \text{Number of Bolts} \times \text{Cost per Bolt} = 16 \times \$0.03 = \$0.48
+   \]
+
+2. **Subtract the total cost from the amount David has:**
+   
+   \[
+   \text{Money Left} = \$12.48 - \$0.48 = \$12.00
+   \]
+
+**Final Answer:**
+\[
+\boxed{\$12.00}
+\]

@@ -1,0 +1,40 @@
+<｜User｜>
+Q: To make a profit of $2000, Isaias has to sell the chickens he planned to take to the market from his farm at $50 per chicken. If Isaias has 300 chickens on his farm and plans to sell 3/5 of them, for how much money did Isaias buy the chicken he took to the market for sale?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about Isaias and his chickens. Let me try to figure it out step by step. 
+
+First, the problem says that Isaias wants to make a profit of $2000 by selling his chickens at the market. He has 300 chickens on his farm and plans to sell 3/5 of them. Each chicken is sold at $50 per chicken. The question is asking how much money Isaias bought the chickens he took to the market for sale.
+
+Hmm, okay. So, let me break this down. He wants a profit of $2000. Profit is calculated as total revenue minus total cost. In this case, the total cost would be the amount he spent buying the chickens, and the total revenue is the money he gets from selling them.
+
+He has 300 chickens, and he's planning to sell 3/5 of them. So, first, I need to find out how many chickens he's actually going to sell. Let me calculate that.
+
+3/5 of 300 chickens. So, 300 divided by 5 is 66, and then multiplied by 3 is 198. So, he's selling 198 chickens.
+
+Each chicken is sold at $50. So, the total revenue he expects is 198 chickens times $55 per chicken. Let me compute that.
+
+198 times 55. Hmm, 200 times 55 is 11,000, but since it's 198, which is 2 less, so 11,000 minus 2 times 55, which is 110,00 - 110 = 10,890. Wait, that doesn't seem right. Let me do it another way.
+
+198 times 50 is 9,900, and 198 times 5 is 990. So, adding those together, 9,900 + 990 is 10,890. Yeah, that's correct. So, total revenue is $10,890.
+
+He wants a profit of $2000. Profit is total revenue minus total cost. So, profit = revenue - cost. Therefore, cost = revenue - profit.
+
+So, cost = $10,890 - $2,000. Let me subtract that. 10,890 minus 2,000 is 8,890. So, the total cost is $8,890.
+
+But wait, the question is asking how much money Isaias bought the chickens he took to the market for sale. So, that would be the total cost, which is $8,890. But let me make sure I didn't make a mistake.
+
+Wait, hold on. Is the cost the total amount he spent on buying the chickens? Yes, because the problem says he bought the chickens and sold them, so the cost is the amount he spent. So, the total cost is $8,890.
+
+But let me double-check my calculations because sometimes when dealing with fractions, it's easy to make a mistake.
+
+He has 300 chickens, sells 3/5 of them. 300 divided by 5 is 60, so 3/5 is 180. Wait, no, 300 divided by 5 is 60, so 3 times 60 is 180. So, he sells 180 chickens. Wait, hold on, earlier I thought it was 198. Wait, which is correct?
+
+Wait, 300 divided by 5 is 66, so 3 times 66 is 198. So, 198 chickens. So, that's correct. So, 198 chickens sold at $55 each is 198*55=10,890.
+
+Profit is revenue minus cost, so cost is revenue minus profit. So, 10,890 minus 2,000 is 8,890. So, the cost is $8,890.
+
+Therefore, Isaias bought the chickens for $8,890. So, the answer is $8,890.
+
+Wait, but let me think again. Is the cost the total amount he spent on buying the chickens? Yes, because he bought them, sold them, so the cost is the amount he spent. So, the answer is $8,890.
+
+But let me make sure that the profit is calculated correctly. So, profit is revenue minus cost. So, if he sells 198 chickens

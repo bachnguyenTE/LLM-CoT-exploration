@@ -1,0 +1,27 @@
+<｜User｜>
+Q: Cindy's math and science books weigh 2 pounds each.  Her French book weighs 4 pounds and her English book weighs 3 pounds.  Her history book weighs twice as much as her English book.  If Cindy carries all of her books at once, what will be the total weight of the books she is carrying?
+A:<｜Assistant｜><think>
+</think>
+
+To determine the total weight of Cindy's books, let's break down the information step by step:
+
+1. **Cindy's Books:**
+   - **Math Books:** 2 pounds each
+   - **Science Books:** 2 pounds each
+   - **French Book:** 4 pounds
+   - **English Book:** 3 pounds
+   - **History Book:** Twice as heavy as the **English Book**, so \( 2 \times 3 = 6 \) pounds
+
+2. **Total Weight Calculation:**
+   - **Math Books:** \( 2 \times 2 = 4 \) pounds
+   - **Science Books:** \( 2 \times 2 = 4 \) pounds
+   - **French Book:** 4 pounds
+   - **English Book:** 3 pounds
+   - **History Book:** 6 pounds
+
+   Adding all these together:
+   \[
+   4 \, (\text{Math}) + 4 \, \! \text{(Science)} + 4 \, (\text{French}) + 3 \, \! \text{(English)} + 6 \, (\text{History}) = 21 \, \text{pounds}
+   \]
+
+**Final Answer:** \(\boxed{21}\) pounds

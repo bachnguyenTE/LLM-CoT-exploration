@@ -1,0 +1,51 @@
+<｜User｜>
+Q: John earned 50 dollars an hour and worked 6 hours in the week.  If he spends 50 dollars on gas and wants to deposit 100 dollars in the bank, how many 25 dollar pens can he buy after he buys 5 pencils that cost 10 dollars each?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+1. **Calculate John's total earnings:**
+   \[
+   \text{Earnings} = \text{Hourly wage} \times \text{Hours worked} = 50 \, \text{dollars/hour} \times 6 \, \text{hours} = 300 \, \text{dollars}
+   \]
+
+2. **Determine the total amount spent on gas and deposits:**
+   \[
+   \text{Gas} = 50 \, \text{dollars}
+   \]
+   \[
+   \text{Deposits} = 100 \, \text{dollars}
+   \]
+   \[
+   \text{Total spent} = 50 + 100 = 155 \, \text{dollars}
+   \]
+
+3. **Calculate the remaining money after expenses:**
+   \[
+   \text{Remaining money} = 300 - 155 = 245 \, \text{dollars}
+   \]
+
+4. **Determine the cost of 5 pencils:**
+   \[
+   \text{Cost per pencil} = 10 \, \text{dollars}
+   \]
+   \[
+   \text{Total cost for 5 pencils} = 5 \times 10 = 50 \, \text{dollars}
+   \]
+
+5. **Subtract the cost of pencils from the remaining money:**
+   \[
+   \text{Money left} = 245 - 55 = 190 \, \text{dollars}
+   \]
+
+6. **Calculate how many 25-dollar pens John can buy:**
+   \[
+   \text{Number of pens} = \frac{190}{25} = 7.6
+   \]
+   Since John can't buy a fraction of a pen, he can buy **7 pens**.
+
+**Final Answer:**
+\[
+\boxed{7}
+\]

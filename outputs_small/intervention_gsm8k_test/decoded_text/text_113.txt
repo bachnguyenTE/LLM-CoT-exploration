@@ -1,0 +1,29 @@
+<｜User｜>
+Q: Ryan plants 2 flowers a day in his garden. After 15 days, how many flowers does he have if 5 did not grow?
+A:<｜Assistant｜><think>
+First, determine the total number of flowers Ryan plants over 15 days. Since he plants 2 flowers each day, multiply 2 by 15 to get 30 flowers.
+
+Next, account for the 5 flowers that did not grow. Subtract 5 from the total number of planted flowers to find the number of flowers that successfully grew.
+
+Finally, subtract the 5 non-growing flowers from the 30 that grew to find the final number of flowers in the garden.
+</think>
+
+**Solution:**
+
+Ryan plants **2 flowers** every day for **15 days**. To find the total number of flowers he plants, multiply the number of flowers per day by the number of days:
+
+\[
+2 \text{ flowers/day} \times 15 \text{ days} = 30 \text{ flowers}
+\]
+
+Out of these 30 flowers, **5 did not grow**. To find the number of flowers that actually grew, subtract the 5 non-growing flowers from the total:
+
+\[
+30 \text{ flowers} - 5 \text{ non-growing flowers} = 28 \text{ flowers}
+\]
+
+**Final Answer:**
+
+\[
+\boxed{28}
+\]

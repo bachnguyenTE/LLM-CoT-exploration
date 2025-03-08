@@ -1,0 +1,30 @@
+<｜User｜>
+Q: Mark works at his job for 8 hours a day for 5 days a week.  He used to make $10 an hour but they raised his pay by $2 per hour.  How much does he make a week?
+A:<｜Assistant｜><think>
+First, I need to determine Mark's new hourly wage after the pay raise. His previous wage was $10 per hour, and the raise was $2, so his new wage is $12 per hour.
+
+Next, I'll calculate his daily earnings by multiplying his new hourly wage by the number of hours he works each day. He works 8 hours a day, so his daily earnings are $12 multiplied by 8, which equals $96.
+
+Finally, to find his weekly earnings, I'll multiply his daily earnings by the number of days he works in a week, which is 5 days. Multiplying $96 by 5 gives a total of $480 per week.
+</think>
+
+**Solution:**
+
+1. **Determine Mark's new hourly wage:**
+   
+   - **Previous wage:** \$10 per hour
+   - **Raise:** \$2 per hour
+   - **New hourly wage:** \$10 + \$2 = **\$12 per hour**
+
+2. **Calculate daily earnings:**
+   
+   - **Hours worked per day:** 8 hours
+   - **Daily earnings:** \$12/hour × 8 hours = **\$96 per day**
+
+3. **Calculate weekly earnings:**
+   
+   - **Days worked per week:** 5 days
+   - **Weekly earnings:** \$96/day × 5 days = **\$480 per week**
+
+**Final Answer:**
+\boxed{480}

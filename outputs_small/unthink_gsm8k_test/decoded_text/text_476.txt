@@ -1,0 +1,20 @@
+<｜User｜>
+Q: Sarah went to buy books from the store and spent $300 on the books. If each book was $15 and she gave an equal number of books to her 4 kids, how many books did each child get?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Sarah spent a total of \$300 on books. Each book costs \$15. To find out how many books she bought, we divide the total amount spent by the cost per book:
+
+\[
+\text{Number of books} = \frac{\$300}{\$15} = 20 \text{ books}
+\]
+
+Sarah has 4 kids and she gave an equal number of books to each child. To find out how many books each child received, we divide the total number of books by the number of kids:
+
+\[
+\text{Books per child} = \frac{20 \text{ books}}{4 \text{ kids}} = 5 \text{ books per child}
+\]
+
+**Answer:** Each child received \(\boxed{5}\) books.

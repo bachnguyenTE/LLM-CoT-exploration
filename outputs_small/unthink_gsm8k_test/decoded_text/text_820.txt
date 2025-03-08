@@ -1,0 +1,28 @@
+<｜User｜>
+Q: Sandy walked from Holloway Shores to Sun Valley Shores for 8 hours on a particular day. She also walked half as many hours on the second day as she walked on the first day, to Hollock valley shores. Calculate the total time Sandy took to walk in the two days in minutes.
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Let's break down the problem step by step.
+
+1. **First Day:**
+   - **Total Time Walked:** 8 hours
+   - **Second Day:**
+     - **Time Walked:** Half as many hours as the first day.
+     - **Calculation:** \( \frac{1}{2} \times 8 \) hours = 4 hours
+
+2. **Total Time Walked Over Two Days:**
+   - **First Day:** 8 hours
+   - **Second Day:** 4 hours
+   - **Total:** \( 8 + 4 = 12 \) hours
+
+3. **Convert Hours to Minutes:**
+   - **1 hour = 60 minutes**
+   - **Total Minutes:** \( 12 \times 60 = 720 \) minutes
+
+**Final Answer:**
+\[
+\boxed{720}
+\]

@@ -1,0 +1,62 @@
+<｜User｜>
+Q: A shoe store was having a weekend sale on a brand of popular tennis shoes. On Friday the store sold 14 pairs of tennis shoes. The next day they sold double that number of shoes. On the last day of the sale they sold one-half the amount that they did the day before, but six people returned their pairs because they didn't fit. How many tennis shoes were sold by the end of the sale?
+A:<｜Assistant｜><think>
+Okay, so I have this problem about a shoe store having a weekend sale on sell some popular tennis shoes. Let me try to figure out how many pairs were sold by the end of the sale. Hmm, let's break it down step by step.
+
+First, on Friday, the store sold 14 pairs of tennis shoes. That seems straightforward. So, Friday: 14 pairs.
+
+Then, the next day, which would be Saturday, they sold double that number. So, if they sold 14 on Friday, then on Saturday they sold 14 times 2. Let me calculate that: 14 * 2 = 28. So, Saturday: 28 pairs.
+
+Now, on the last day, which is Sunday, they sold half the amount they did the day before. The day before was Saturday, so that would be 28 pairs. Half of 28 is... let me see, 28 divided by 2 is 14. So, Sunday: 14 pairs.
+
+But wait, hold on. The problem says they sold one-half the amount that they did the day before, but six people returned their pairs because they didn't fit. Hmm, so does that mean they sold 14 pairs on Sunday, but then six were returned? So, does that mean they effectively sold 14 - 6 = 8 pairs on Sunday?
+
+Wait, that might be a point of confusion. Let me read it again: "On the last day of the sale they sold one-half the amount that they did the day before, but six people returned their pairs because they didn't fit." So, the sale on Sunday was half of Saturday's sales, which is 14, but then six returned. So, does that mean they sold 14 - 6 = 8 pairs on Sunday?
+
+Alternatively, maybe the six returned are part of the total sold on Sunday. So, if they sold 14 on Sunday, but six didn't fit, so the number of shoes actually sold is 14 - 6 = 8. So, yeah, that seems to be the case.
+
+So, let me summarize:
+
+- Friday: 14 pairs sold.
+- Saturday: 28 pairs sold.
+- Sunday: 14 pairs sold, but 6 returned, so 8 pairs actually sold.
+
+So, to find the total number of pairs sold by the end of the sale, I need to add up the pairs sold each day.
+
+So, Friday: 14
+
+Saturday: 28
+
+Sunday: 8
+
+Total: 14 + 28 + 8
+
+Let me add them up step by step.
+
+14 + 28 is 42.
+
+Then, 42 + 8 is 50.
+
+Wait, so total pairs sold is 50.
+
+But hold on, let me double-check because sometimes these problems can be tricky.
+
+Wait, on Sunday, they sold half the amount of Saturday, which is 28, but then six returned. So, does that mean that the number of shoes sold on Sunday is 28 - 6 = 14? Or is it that they sold 14, but 6 didn't fit, so the number of shoes actually sold is 14 - 6 = 8?
+
+I think the wording is a bit ambiguous. It says, "they sold one-half the amount that they did the day before, but six people returned their pairs because they didn't fit."
+
+So, the "they did the day before" refers to Saturday, so they sold half of Saturday's sales, which is 14, but then six returned. So, does that mean that the number of shoes sold on Sunday is 14, but six didn't fit, so the number of shoes actually sold is 14 - 6 = 8.
+
+Alternatively, if it's saying that they sold half the amount, which is 14, but then six returned, so the total number sold is 14 - 6 = 8.
+
+So, I think that's the correct interpretation.
+
+So, adding them up: 14 + 28 + 8 = 50.
+
+Wait, 14 + 28 is 42, plus 8 is 50. So, 50 pairs sold.
+
+But let me think again. Maybe the six returned are part of the total sold on Sunday, so the total sold on Sunday is 14, but 6 didn't fit, so the number of shoes actually sold is 14 - 6 = 8.
+
+So, yeah, that seems to be the case.
+
+Alternatively, if the six returned are part of the total, then the total sold is 14, but the number of shoes that were returned is 6, so the number of shoes that were actually sold is 14 - 6 =

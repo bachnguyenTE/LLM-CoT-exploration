@@ -1,0 +1,33 @@
+<｜User｜>
+Q: Jeff owns a catering company.  During a recent event, he sent 8 dozen glasses and 4 dozen plates for the party.  When they were returned, 10 glasses were broken as well as 6 plates.  How many glasses and plates does Jeff have now?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+Jeff owns a catering company and recently hosted a party. During the event, he sent out:
+
+- **8 dozen glasses**
+- **4 dozen plates**
+
+When the party was over, the following items were returned:
+
+- **10 broken glasses**
+- **6 broken plates**
+
+To find out how many glasses and plates Jeff has now, we'll subtract the broken items from the originally sent items.
+
+**For the glasses:**
+\[
+\text{Glasses remaining} = 8 \text{ dozen} - 10 = 8 \times 12 - 10 = 96 - 10 = 86 \text{ glasses}
+\]
+
+**For the plates:**
+\[
+\text{Plates remaining} = 4 \text{ dozen} - 6 = 4 \times 12 - 6 = 48 - 6 = 42 \text{ plates}
+\]
+
+**Final Answer:**
+\[
+\boxed{86 \text{ glasses and } 42 \text{ plates}}
+\]

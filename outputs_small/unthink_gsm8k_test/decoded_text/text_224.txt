@@ -1,0 +1,25 @@
+<｜User｜>
+Q: Carlos and Benji are at the beach. Carlos rents a canoe for $30 an hour and Benji rents a banana boat raft for $18 an hour. If Carlos uses the boat for 3 hours and Benji uses the raft for 5 hours, how much will they pay for their rentals, altogether?
+A:<｜Assistant｜><think>
+</think>
+
+**Solution:**
+
+To determine the total cost of the rentals, we'll calculate the cost for each person separately and then add them together.
+
+1. **Carlos's Canoe:**
+   - **Cost per hour:** \$30
+   - **Hours used:** 3
+   - **Total cost:** \( 30 \times 3 = 90 \) dollars
+
+2. **Benji's Banana Boat Raft:**
+   - **Cost per hour:** \$18
+   - **Hours used:** 5
+   - **Total cost:** \( 18 \times 5 = 90 \) dollars
+
+3. **Total Cost:**
+   - **Carlos's cost:** \$90
+   - **Benji's cost:** \$90
+   - **Total:** \( 90 + 90 = 180 \) dollars
+
+**Final Answer:** \(\boxed{180}\)

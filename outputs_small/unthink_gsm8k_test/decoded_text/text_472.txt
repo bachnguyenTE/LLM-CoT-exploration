@@ -1,0 +1,42 @@
+<｜User｜>
+Q: Matt wants cookies for a snack, but his dad wants him to eat healthily. He tells Matt he can have half as many cookies as the number of carrot sticks he eats, plus two extra for cleaning his room. If Matt wants to eat five cookies in total, how many carrot sticks does he have to eat?
+A:<｜Assistant｜><think>
+</think>
+
+Let's break down the problem step by step to find out how many carrot sticks Matt needs to eat to have a total of 5 cookies.
+
+**Given:**
+- Matt wants to eat **5 cookies** in total.
+- His dad says he can have **half as many cookies as the number of carrot sticks** he eats.
+- Additionally, he gets **2 extra cookies** for cleaning his room.
+
+**Let’s define:**
+- Let \( C \) be the number of carrot sticks Matt eats.
+- The number of cookies from carrot sticks is \( \frac{1}{2}C \).
+- The total cookies Matt eats are the carrot sticks plus the extra 2 cookies.
+
+**Setting up the equation:**
+\[
+\frac{1}{2}C + 2 = 5
+\]
+
+**Solving for \( C \):**
+1. Subtract 2 from both sides:
+   \[
+   \frac{1}{2}C = 5 - 2
+   \]
+   \[
+   \frac{1}{2}C = 3
+   \]
+2. Multiply both sides by 2 to solve for \( C \):
+   \[
+   C = 3 \times 2
+   \]
+   \[
+   C = 6
+   \]
+
+**Final Answer:**
+\[
+\boxed{6}
+\]

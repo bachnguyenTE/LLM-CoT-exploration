@@ -1,0 +1,127 @@
+<｜User｜>
+Q: I am three years younger than my brother, and I am 2 years older than my sister. My mom's age is one less than three times my brother's age. When you add all our ages, you get 87. How old am I?
+A:<｜Assistant｜><think>
+Okay, so I have this problem here about figuring out how old I am. Let me try to break it down step by step. Sometimes these word problems can be a bit tricky, but if I take it slowly, I think I can handle it.
+
+First, let me list out all the information given:
+
+1. I am three years younger than my brother.
+2. I am two years older than my sister.
+3. My mom's age is one less than three times my brother's age.
+4. When we add all our ages together, the total is 87.
+
+And the question is asking how old I am.
+
+Hmm, okay. So, I need to find my age. Let me assign variables to each of my siblings' ages to make this easier. Variables are like placeholders for numbers, so I can work with them algebraically.
+
+Let me start by defining my variables:
+
+- Let me call my age as "M."
+- My brother's age can be called "B."
+- My sister's age can be called "S."
+- My mom's age can be called "Mo."
+
+Now, let's translate the given information into equations.
+
+1. I am three years younger than my brother. So, if I subtract 3 from my brother's age, I get my age. That would be:
+   M = B - 3
+
+2. I am two years older than my sister. So, if I subtract 2 from my sister's age, I get my age. That would be:
+   M = S + 2
+
+3. My mom's age is one less than three times my brother's age. So, if I take three times my brother's age and subtract 1, I get my mom's age. That would be:
+   Mo = 3B - 1
+
+4. The sum of all our ages is 87. So, if I add up my age, my brother's age, my sister's age, and my mom's age, it equals 87. That would be:
+   M + B + S + Mo = 87
+
+Alright, so now I have four equations:
+
+1. M = B - 3
+2. M = S + 2
+3. Mo = 3B - 1
+4. M + B + S + Mo = 87
+
+So, I have four equations with four variables: M, B, S, Mo. That should be solvable.
+
+Let me see how to approach this. Since I have expressions for M and Mo in terms of B, maybe I can substitute those into the other equations.
+
+Starting with equation 4: M + B + S + Mo =87.
+
+I can substitute M and Mo from equations 1 and 3 into equation 4.
+
+So, replacing M with (B - 3) and Mo with (3B -1), equation 4 becomes:
+
+(B - 3) + B + S + (3B -1) =87
+
+Let me simplify that:
+
+First, expand the terms:
+
+B - 3 + B + S + 3B -1 =87
+
+Now, combine like terms:
+
+B + B + 3B is 5B.
+
+-3 -1 is -4.
+
+So, 5B + S -4 =87
+
+Then, add 4 to both sides:
+
+5B + S =87 +4
+
+5B + S =91
+
+So, equation 4 simplifies to 5B + S =91.
+
+Hmm, okay. So, now I have 5B + S =91.
+
+But I also have equation 2: M = S +2. So, maybe I can express S in terms of M, but I don't know M yet.
+
+Wait, maybe I can express S in terms of B as well.
+
+From equation 2: S = M -2.
+
+But from equation 1: M = B -3.
+
+So, substituting M into equation 2:
+
+S = (B -3) -2 = B -5.
+
+So, S = B -5.
+
+Alright, so now I have S in terms of B: S = B -5.
+
+So, going back to equation 4, which is 5B + S =91.
+
+But since S = B -5, substitute that into equation 4:
+
+5B + (B -5) =91
+
+Simplify:
+
+5B + B -5 =91
+
+6B -5 =91
+
+Add 5 to both sides:
+
+6B =91 +5
+
+6B =96
+
+Divide both sides by 6:
+
+B =96 /6
+
+B=13
+
+Wait, so my brother is 13 years old?
+
+Let me check that.
+
+If B=13, then from equation 1: M =13 -3=10.
+
+So, I am 1

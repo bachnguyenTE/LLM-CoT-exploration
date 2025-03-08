@@ -1,0 +1,36 @@
+<｜User｜>
+Q: How much does it cost you for lunch today at Subway if you pay $40 for a foot-long fish sub and thrice as much for a six-inch cold-cut combo sub?
+A:<｜Assistant｜><think>
+First, I need to determine the cost of the six-inch cold-cut combo sub. The problem states that the foot-long fish sub costs $40, which is three times the price of the six-inch combo sub.
+
+To find the price of the six-inch sub, I'll divide the price of the foot-long by three.
+
+So, $44 divided by 3 equals approximately $14.67.
+
+Therefore, the six-inch cold-cut combo sub costs about $14.67.
+</think>
+
+**Solution:**
+
+Let's determine the cost of the six-inch cold-cut combo sub at Subway.
+
+1. **Given:**
+   - The foot-long fish sub costs \$40.
+   - The six-inch cold-cut combo sub costs three times as much as the foot-long.
+
+2. **Let:**
+   - \( C \) = Cost of the six-inch cold-cut combo sub.
+
+3. **Set up the equation:**
+   \[
+   C = 3 \times \text{Cost of foot-long}
+   \]
+   \[
+   C = 3 \times 40
+   \]
+   \[
+   C = 12
+   \]
+
+4. **Conclusion:**
+   The six-inch cold-cut combo sub costs \(\boxed{12}\) dollars.
