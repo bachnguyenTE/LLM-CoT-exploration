@@ -1,0 +1,166 @@
+[
+  {
+    "path": "src/__init__.py",
+    "description": "Python package initialization file"
+  },
+  {
+    "path": "src/README.md",
+    "description": "Project documentation"
+  },
+  {
+    "path": "src/visualization/__init__.py",
+    "description": "Python package initialization file"
+  },
+  {
+    "path": "src/analysis/run_analysis.py",
+    "description": "General analysis script for experimental results"
+  },
+  {
+    "path": "src/analysis/compare_intervention_GSM8K.py",
+    "description": "Analyzes intervention results on GSM8K tasks"
+  },
+  {
+    "path": "src/analysis/__init__.py",
+    "description": "Python package initialization file"
+  },
+  {
+    "path": "src/analysis/compare_answers_GSM8K.py",
+    "description": "Compares different model answers on GSM8K tasks"
+  },
+  {
+    "path": "src/experiments/__init__.py",
+    "description": "Python package initialization file"
+  },
+  {
+    "path": "src/experiments/penguin/unthink_penguin_generator.py",
+    "description": "Generates responses without thinking steps for penguin task"
+  },
+  {
+    "path": "src/experiments/penguin/run_antipenguins.sh",
+    "description": "Shell script"
+  },
+  {
+    "path": "src/experiments/penguin/super_antipenguin_generator.py",
+    "description": "Generates enhanced anti-CoT responses for penguin task"
+  },
+  {
+    "path": "src/experiments/penguin/__init__.py",
+    "description": "Python package initialization file"
+  },
+  {
+    "path": "src/experiments/penguin/run_unthink_penguins.sh",
+    "description": "Shell script"
+  },
+  {
+    "path": "src/experiments/penguin/run_penguins.sh",
+    "description": "Shell script"
+  },
+  {
+    "path": "src/experiments/penguin/run_penguin_analysis.py",
+    "description": "Analyzes results from penguin classification experiments"
+  },
+  {
+    "path": "src/experiments/penguin/parse_penguin_results.py",
+    "description": "Parses model outputs from penguin classification"
+  },
+  {
+    "path": "src/experiments/penguin/run_super_antipenguins.sh",
+    "description": "Shell script"
+  },
+  {
+    "path": "src/experiments/penguin/run_intervention_penguins.sh",
+    "description": "Shell script"
+  },
+  {
+    "path": "src/experiments/penguin/antipenguin_generator.py",
+    "description": "Generates anti-CoT responses for the penguin classification task"
+  },
+  {
+    "path": "src/experiments/penguin/penguin_generator.py",
+    "description": "Generates model responses for the penguin classification task"
+  },
+  {
+    "path": "src/experiments/penguin/intervention_penguin_generator.py",
+    "description": "Generates responses with interventions for penguin task"
+  },
+  {
+    "path": "src/experiments/gsm8k/unthink_GSM8K_generate_from_train.py",
+    "description": "Generates responses without thinking steps from GSM8K training set"
+  },
+  {
+    "path": "src/experiments/gsm8k/run_unthink_GSM8K_train.sh",
+    "description": "Shell script"
+  },
+  {
+    "path": "src/experiments/gsm8k/run_anti_GSM8K_train.sh",
+    "description": "Shell script"
+  },
+  {
+    "path": "src/experiments/gsm8k/run_unthink_GSM8K_test.sh",
+    "description": "Shell script"
+  },
+  {
+    "path": "src/experiments/gsm8k/run_intervention_GSM8K_test.sh",
+    "description": "Shell script"
+  },
+  {
+    "path": "src/experiments/gsm8k/run_GSM8K_train.sh",
+    "description": "Shell script"
+  },
+  {
+    "path": "src/experiments/gsm8k/__init__.py",
+    "description": "Python package initialization file"
+  },
+  {
+    "path": "src/experiments/gsm8k/run_GSM8K_test.sh",
+    "description": "Shell script"
+  },
+  {
+    "path": "src/experiments/gsm8k/intervention_GSM8K_generate_from_test.py",
+    "description": "Generates responses with interventions from GSM8K test set"
+  },
+  {
+    "path": "src/experiments/gsm8k/anti_GSM8K_generate_from_train.py",
+    "description": "Generates anti-CoT responses from GSM8K training set"
+  },
+  {
+    "path": "src/experiments/gsm8k/unthink_GSM8K_generate_from_test.py",
+    "description": "Generates responses without thinking steps from GSM8K test set"
+  },
+  {
+    "path": "src/experiments/gsm8k/GSM8K_generate_from_test.py",
+    "description": "Generates responses from GSM8K test set"
+  },
+  {
+    "path": "src/experiments/gsm8k/GSM8K_generate_from_train.py",
+    "description": "Generates responses from GSM8K training set"
+  },
+  {
+    "path": "src/utils/run_batch_and_verify.py",
+    "description": "Batch processing utilities"
+  },
+  {
+    "path": "src/utils/run_activations.py",
+    "description": "Script for extracting model activations"
+  },
+  {
+    "path": "src/utils/__init__.py",
+    "description": "Python package initialization file"
+  },
+  {
+    "path": "src/utils/use_activations.py",
+    "description": "Script for using extracted activations"
+  },
+  {
+    "path": "src/models/__init__.py",
+    "description": "Python package initialization file"
+  },
+  {
+    "path": "src/scripts/update_paths.py",
+    "description": "Python source code"
+  },
+  {
+    "path": "src/scripts/list_files.py",
+    "description": "Python source code"
+  }
+]
