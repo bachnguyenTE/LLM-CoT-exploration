@@ -69,6 +69,10 @@ The repository includes various analysis tools:
 - `src/analysis/compare_answers_GSM8K.py`: Compares different model answers on GSM8K tasks
 - `src/analysis/compare_intervention_GSM8K.py`: Analyzes intervention results on GSM8K tasks
 
+## Sample Generated Data
+
+Text and token data generated from Deepseek R1 Distill Qwen-1.5B are available in `outputs/small`.
+
 ## How to Run Experiments
 
 ### Setting Up
