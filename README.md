@@ -71,7 +71,7 @@ The repository includes various analysis tools:
 
 ## Sample Generated Data
 
-Text and token data generated from Deepseek R1 Distill Qwen-1.5B are available in `outputs/small`.
+Text and token data generated from Deepseek R1 Distill Qwen-1.5B are available in `outputs_small`.
 
 ## How to Run Experiments
 
